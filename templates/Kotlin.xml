@@ -94,4 +94,10 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="constructor" value="constructor(context: Context): super(context){}&#10;&#10;constructor(context: Context, attributeSet: AttributeSet): super(context, attributeSet){}&#10;&#10;constructor(context: Context, attributeSet: AttributeSet, defStyleAttr: Int): super(context, attributeSet, defStyleAttr){&#10;        &#10;}&#10;&#10;init {&#10;}" description="继承View构造器" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
