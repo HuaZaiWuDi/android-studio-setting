@@ -75,10 +75,33 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="main" value="fun main($ARGS$) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <variable name="ARGS" expression="kotlinMainArguments()" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="maina" value="fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="maino" value="@JvmStatic&#10;fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
   <template name="print" value="println($END$)" description="Prints a string to System.out" toReformat="true" toShortenFQNames="false">
     <context>
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
+  </template>
+  <template name="serr" value="System.err.println($END$)" description="Prints a string to System.err" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="soutv" value="println(&quot;$EXPR_COPY$ = $DOLLAR${$EXPR$}&quot;)" description="Prints a value to System.out" toReformat="true" toShortenFQNames="true">
+    <variable name="DOLLAR" expression="" defaultValue="&quot;$&quot;" alwaysStopAt="false" />
+    <variable name="EXPR" expression="kotlinVariable()" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="soutp" value="println($FORMAT$)" description="Prints function parameter names and values to System.out" toReformat="true" toShortenFQNames="true">
+    <variable name="FORMAT" expression="groovyScript(&quot;'\&quot;' + _1.collect { it + ' = [${' + it + '}]'}.join(', ') + '\&quot;'&quot;, functionParameters())" defaultValue="" alwaysStopAt="false" />
+    <context />
   </template>
   <template name="println" value="println(&quot;$CLASS$.$METHOD$&quot;)" description="Prints current class and function name to System.out" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS" expression="groovyScript(&quot;_1 ?: '&lt;top&gt;'&quot;, kotlinClassName())" defaultValue="" alwaysStopAt="false" />
@@ -86,6 +109,37 @@
     <context>
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
+  </template>
+  <template name="ifn" value="if ($VAR$ == null) {&#10;$END$&#10;}" description="Inserts ''if null'' expression" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="kotlinVariable()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="void" value="fun $NAME$($PARAMS$) {&#10;$END$&#10;}" description="Function returning nothing" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="interface" value="interface $NAME$ {&#10;$END$&#10;}" description="Interface" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="singleton" value="object $NAME$ {&#10;$END$&#10;}" description="Singleton" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="psvm" value="fun main($ARGS$) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <variable name="ARGS" expression="kotlinMainArguments()" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="psvma" value="fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="psvmo" value="@JvmStatic&#10;fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="object" value="object : $SUPERTYPE$ {&#10;$END$&#10;}" description="Anonymous class" toReformat="true" toShortenFQNames="true">
+    <variable name="SUPERTYPE" expression="anonymousSuper()" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="funr" value="fun $NAME$() : $RETURN$ {&#10;$END$&#10;}" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
