@@ -722,6 +722,10 @@
           <option name="url" value="https://github.com/googlesamples/android-testing-templates" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/north2016/Moduler" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\github" />
