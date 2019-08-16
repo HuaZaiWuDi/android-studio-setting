@@ -1,0 +1,5 @@
+<templateSet group="Zen XSL">
+  <template name="for" value="for(int i = 0;i&lt;0;i++){&#10;}" description="&lt;xsl:for-each select=&quot;...&quot;&gt;...&lt;/xsl:for-each&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

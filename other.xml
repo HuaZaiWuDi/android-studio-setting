@@ -1,0 +1,186 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DartCodeInsightSettings">
+    <option name="SHOW_CLOSING_LABELS" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ANDROID_THEME_HISTORY" value="sos" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TOOL_ORDER" value="PROPERTIES,structure" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.structure.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.structure.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.structure.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.RIGHT.UNSCALED.WIDTH" value="258" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TOOL_ORDER" value="PROPERTIES,structure" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.structure.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.WIDTH" value="200" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="251" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.UNSCALED.WIDTH" value="200" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidPlatformName" value="Android API 17 Platform" />
+    <property name="AndroidSupport.sortTestsAlphabetically" value="true" />
+    <property name="BingClientIdStored" value="20180607000173222" />
+    <property name="BingClientSecretStored" value="LiLdhZp0HC5U53Katy63" />
+    <property name="ColorChooser.RecentColors" value="242-242-242-255,,,203-233-207-255,,,209-209-209-255,,,170-102-204-255,,,51-181-229-255,,,255-68-68-255,,,153-204-0-255,,,255-255-255-255,,,255-187-51-255,,,104-181-238-255,,,255-114-0-255,,,195-197-202-255,,,0-0-0-255,,,253-116-180-255,,,237-74-71-255,,,27-48-63-255,,,217-216-225-255,,,132-5-220-255,,,29-136-151-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7633987" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.68393093" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ConstraintLayoutPreferenceAutoConnect" value="true" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="DART_CHECK_SDK_UPDATE_KEY" value="DoNotCheck" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FLUTTER_PROJECT_SWIFT_SUPPORT" value="true" />
+    <property name="FLUTTER_SDK_KNOWN_PATHS" value="D:\Flutter\flutter&#10;D:/Flutter/flutter" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="ser" />
+    <property name="InstalledPluginsSearchHistory" value="proxy&#10;grad&#10;JA&#10;svg" />
+    <property name="JUnit.Splitter.Proportion" value="0.010238908" />
+    <property name="JUnitSupport.hideIgnoredTests" value="false" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="med&#10;run&#10;tran&#10;Comment&#10;build" />
+    <property name="LOG_FILTER_HISTORY" value="智瘦&#10;channel&#10;KotlinTools&#10;TAG&#10;fetchOneDayHeatInfo" />
+    <property name="LOG_FILTER_TAG_HISTORY" value="debug&#10;JSMethodManager&#10;dfuu&#10;dfu&#10;request" />
+    <property name="LayoutEditorPreferenceAutoConnect" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MobileminApi" value="19" />
+    <property name="MoveClassWithTarget.OpenInEditor" value="false" />
+    <property name="NlScreenMode" value="SCREEN_ONLY" />
+    <property name="PLUGIN_FILTER" value="JsonTo&#10;codota&#10;plugins&#10;lombok&#10;exy" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.30294117" />
+    <property name="ResourceChooserGridMode" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.wesmarclothing" />
+    <property name="SAVED_COMPANY_DOMAIN" value="wesmarclothing.com" />
+    <property name="SAVED_PROJECT_CPP_SUPPORT" value="true" />
+    <property name="SearchEveryWhereHistory" value="chua&#10;ch&#10;Error while merging dex archives:&#10;”&#10;《" />
+    <property name="SettingFilterRules" value="START_WITH&lt;&gt;NAL_" />
+    <property name="SettingLanguageEngine" value="Bing" />
+    <property name="SettingsSearchHistory" value="sensitive&#10;proxy" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.6212724" />
+    <property name="SplitFileEditor.Proportion" value="0.58133775" />
+    <property name="TrendingPluginsSearchHistory" value="Dsl&#10;DslListenerBuilder&#10;gradle&#10;SVG&#10;sortBy:featured" />
+    <property name="WearminApi" value="20" />
+    <property name="android-component-compatibility-check" value="1565832075978" />
+    <property name="android.apk.viewer" value="0.6984436" />
+    <property name="android.resource_dialog_splitter" value="0.51670647" />
+    <property name="android.show.prompt.kill.session" value="true" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="build.toolwindow.Build Output.selection.state" value="consoleView" />
+    <property name="build.toolwindow.Build.selection.state" value="consoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="consoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="butterknifezelezny_prefix" value="m" />
+    <property name="butterknifezelezny_viewholder_class_name" value="ViewHolder" />
+    <property name="codota_token" value="iuycdU2ouuNHrevC4X1GjJMb1fTh25VVX0HvehvetMTSbl0gVDkvMas7OY+5bSplSRiYz146v3MjGsINAzB98eYUylK/4TcK" />
+    <property name="colorPickerCategoryProperty" value="MATERIAL_500" />
+    <property name="com.android.tools.idea.rendering.errors.ui.RenderErrorPanel.minimized" value="true" />
+    <property name="com.android.tools.idea.uibuilder.surface.DesignSurface.error.panel.split" value="1.0" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="399" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="entityPackName" value="com.wesmart.magnetictherapy.bean." />
+    <property name="errorCount" value="3" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="D:/Android/workspace/MagneticTherapy/key/MagneticTherapy.jks&#10;D:/Android/work_Jack/xuancililiao/xuancililiao/key/lightness_xuanci/lightness_xuanci.jks&#10;D:/Android/work_Jack/xuancililiao/xuancililiao/key/MagneticTherapy.jks&#10;D:/Android/workspace/ODC&#10;D:/Android/workspace/xuancililiao/MagneticTherapy&#10;D:/Android/work_Jack/xuancililiao/xuancililiao&#10;D:/Android/work_Jack/xuancililiao/sonic-android&#10;D:/Android/workspace/xuancililiao/MagneticTherapy_hangmi&#10;D:/Android/work_Jack/TBraProject&#10;D:/Android/github/RxCache2&#10;D:/Android/github/RxCache&#10;D:/Android/github/T-MVVM&#10;D:/Android/zskj.jks&#10;D:/Android/work_Jack/tbra&#10;D:/Android/github/TbraKotlin&#10;D:/Android/workspace/SmartThermostat/key/lightness_hengwen/lightness_hengwen.jks&#10;D:/Android/github/Android-nRF-Toolbox&#10;D:/Android/work_Jack/SmartThermostat/SmartThermostat/RxBus2&#10;D:/Android/work_Jack/SmartThermostat/SmartThermostat&#10;D:/Android/workspace/SmartThermostat&#10;D:/Android/github/RxTool&#10;D:/Android/github/TodayStepCounter/lib-todaystepcounter&#10;D:/Android/work_Jack/ems/EMS-Kotlin&#10;D:/Android/work_Jack/ems/ems&#10;C:/android/Android Studio/gradle/gradle-5.1.1&#10;D:/Android/work_Jack/ems/ems/svg_1&#10;D:/Android/work_Jack/ems&#10;D:/Android/work_Jack/ems/anmo_video2/anmo_video2/app/build/outputs&#10;D:/Android/work_Jack/ems/anmo_video2/anmo_video2&#10;D:/Android/jack.jks" />
+    <property name="file.gist.reindex.count" value="257316" />
+    <property name="fileTypeChangedCounter" value="23" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="find.popup.splitter" value="0.936" />
+    <property name="generateComments" value="true" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="history_persistence" value="[{&quot;request_time&quot;:1561787722719,&quot;request_body&quot;:&quot;&quot;,&quot;request_headers&quot;:{&quot;groupType&quot;:&quot;days&quot;,&quot;pageSize&quot;:&quot;10&quot;,&quot;pageNum&quot;:&quot;1&quot;,&quot;userId&quot;:&quot;value&quot;},&quot;request_method&quot;:&quot;POST&quot;,&quot;request_url&quot;:&quot;https:///dev.wesmartclothing.com/mix/heat/fetchGroupTypeRecordList&quot;},{&quot;request_time&quot;:1561787654806,&quot;request_body&quot;:&quot;&quot;,&quot;request_headers&quot;:{&quot;groupType&quot;:&quot;days&quot;,&quot;pageSize&quot;:&quot;10&quot;,&quot;pageNum&quot;:&quot;1&quot;,&quot;userId&quot;:&quot;value&quot;},&quot;request_method&quot;:&quot;POST&quot;,&quot;request_url&quot;:&quot;https:///dev.wesmartclothing.com/mix/heat/fetchGroupTypeRecordList&quot;}]" />
+    <property name="inspector.open.Actions" value="true" />
+    <property name="inspector.open.All Attributes" value="true" />
+    <property name="inspector.open.ConstraintLayout" value="true" />
+    <property name="inspector.open.Declared Attributes" value="true" />
+    <property name="inspector.open.Deep Links" value="true" />
+    <property name="inspector.open.Favorite Attributes" value="true" />
+    <property name="inspector.open.Launch Options" value="true" />
+    <property name="inspector.open.textAppearance" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.21-release-Studio3.4-1" />
+    <property name="io.flutter.analytics.clientId" value="cdc7fa8d-6dc3-45b2-8ad7-db60ea88157c" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.openInspectorOnAppLaunch" value="true" />
+    <property name="jsonToKotlin_user_uuid_value_key" value="e82eee94-e7f4-4411-b4a0-9852dd9fd929" />
+    <property name="kotlin.lastUpdateCheck" value="1565925157386" />
+    <property name="last.imported.location" value="E:/Android/ResourceCode/ActivityCommWithFragment-master" />
+    <property name="last.used.gradle.home" value="$APPLICATION_HOME_DIR$/gradle/gradle-5.1.1" />
+    <property name="lastTip" value="11" />
+    <property name="newly.installed.api.level" value="27" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="palette.category.width" value="100" />
+    <property name="plugins.preselection.path" value="D:/Android/第三方框架/Android国际化翻译工具" />
+    <property name="project.jdk.splitter" value="0.30294117" />
+    <property name="properties.mode" value="INSPECTOR" />
+    <property name="reuseEntity" value="false" />
+    <property name="s2v_auto_check_update" value="false" />
+    <property name="s2v_default_dir" value="" />
+    <property name="s2v_default_tint" value="#FF000000" />
+    <property name="s2v_delete_existed_xml" value="false" />
+    <property name="s2v_vector_prefix" value="vector_drawable_" />
+    <property name="selected.color.option.type" value="LOCAL_VARIABLE_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="New File Extensions" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="splitGenerate" value="false" />
+    <property name="studio.activity.count" value="9" />
+    <property name="suffixStr" value="Bean" />
+    <property name="target_json_converter_lib_key" value="FastJson" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="virgoMode" value="true" />
+  </component>
+</application>

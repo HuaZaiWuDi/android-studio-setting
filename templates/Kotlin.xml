@@ -1,0 +1,79 @@
+<templateSet group="Kotlin">
+  <template name="forin" value="for ($VAR$ in $ITERABLE$) {&#10;$END$&#10;}" description="Iterate over elements of iterable (for-in loop)" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="kotlinVariable()" defaultValue="&quot;iterable&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="kotlinSuggestVariableName()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ifnn" value="if ($VAR$ != null) {&#10;$END$&#10;}" description="Inserts ''if not null'' expression" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="kotlinVariable()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="fun0" value="fun $NAME$() : $RETURN$ {&#10;$END$&#10;}" description="无参方法" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="fun1" value="fun $NAME$($PARAM1$ : $PARAM1TYPE$) : $RETURN$ {&#10;$END$&#10;}" description="单参数函数" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM1" expression="" defaultValue="&quot;x&quot;" alwaysStopAt="true" />
+    <variable name="PARAM1TYPE" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <variable name="RETURN" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="fun2" value="fun $NAME$($PARAM1$ : $PARAM1TYPE$, $PARAM2$ : $PARAM2TYPE$) : $RETURN$ {&#10;$END$&#10;}" description="双参函数" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM1" expression="" defaultValue="&quot;x&quot;" alwaysStopAt="true" />
+    <variable name="PARAM1TYPE" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <variable name="PARAM2" expression="" defaultValue="&quot;y&quot;" alwaysStopAt="true" />
+    <variable name="PARAM2TYPE" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <variable name="RETURN" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="clo" value="{$PARAM$ -&gt; $PARAM_COPY$}" description="闭包" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="&quot;x&quot;" alwaysStopAt="true" />
+    <variable name="PARAM_COPY" expression="PARAM" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="obj" value="object : $SUPERTYPE$ {&#10;$END$&#10;}" description="Anonymous class" toReformat="true" toShortenFQNames="true">
+    <variable name="SUPERTYPE" expression="anonymousSuper()" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="func" value="fun $RECEIVER$.$NAME$($PARAMS$) : $RETURN$ {&#10;$END$&#10;}" description="扩展函数" toReformat="true" toShortenFQNames="true">
+    <variable name="RECEIVER" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="&quot;f&quot;" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="gett" value="val $RECEIVER$.$NAME$ : $TYPE$&#10;get() {&#10;$END$&#10;}" description="Extension read-only property" toReformat="true" toShortenFQNames="true">
+    <variable name="RECEIVER" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="&quot;v&quot;" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="getset" value="var $RECEIVER$.$NAME$ : $TYPE$&#10;get() {&#10;$END$&#10;}&#10;set(value) {&#10; &#10;}" description="Extension read-write property" toReformat="true" toShortenFQNames="true">
+    <variable name="RECEIVER" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="&quot;v&quot;" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
