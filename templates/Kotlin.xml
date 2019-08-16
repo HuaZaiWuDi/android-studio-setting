@@ -12,9 +12,8 @@
       <option name="KOTLIN_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="fun0" value="fun $NAME$() : $RETURN$ {&#10;$END$&#10;}" description="无参方法" toReformat="true" toShortenFQNames="true">
+  <template name="fun0" value="fun $NAME$() {&#10;$END$&#10;}" description="无参方法" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="RETURN" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
     <context />
   </template>
   <template name="fun1" value="fun $NAME$($PARAM1$ : $PARAM1TYPE$) : $RETURN$ {&#10;$END$&#10;}" description="单参数函数" toReformat="true" toShortenFQNames="true">
@@ -74,6 +73,25 @@
     <context>
       <option name="KOTLIN_CLASS" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="print" value="println($END$)" description="Prints a string to System.out" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="println" value="println(&quot;$CLASS$.$METHOD$&quot;)" description="Prints current class and function name to System.out" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="groovyScript(&quot;_1 ?: '&lt;top&gt;'&quot;, kotlinClassName())" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="funr" value="fun $NAME$() : $RETURN$ {&#10;$END$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
 </templateSet>

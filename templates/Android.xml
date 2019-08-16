@@ -13,9 +13,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="Head" value="/**&#10;*@date on $DATE$&#10;*@author Jack&#10;*@version $VERSION$&#10;*@describe TODO&#10;*@org 智裳科技&#10;*/" description="类注释" toReformat="false" toShortenFQNames="true">
+  <template name="Head" value="/**&#10;*@date on $DATE$&#10;*@author Jack&#10;*@version $VERSION$&#10;*@describe $NAME$&#10;*@org 智裳科技&#10;*/" description="类注释" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="VERSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
@@ -29,8 +30,8 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="*//" value="/**&#10; * $name$&#10; */" description="注释" toReformat="false" toShortenFQNames="true">
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="/**" value="/**&#10; *  $cursor$&#10; */" description="注释" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>

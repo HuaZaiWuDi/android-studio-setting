@@ -35,7 +35,7 @@
     </context>
   </template>
   <template name="singlei" value="public static $CLASS_NAME$ getInstance(){&#10;    if (instance == null) {&#10;        synchronized ($CLASS_NAME$.class) {&#10;            if (instance == null) {&#10;                instance = new $CLASS_NAME$();&#10;            }&#10;        }&#10;    }&#10;    return instance;&#10;}&#10;private static $CLASS_NAME$ instance;&#10;&#10;private $CLASS_NAME$(){&#10;    //no instance&#10;}&#10;&#10;   " description="单例模式" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
