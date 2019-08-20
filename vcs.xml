@@ -742,6 +742,10 @@
           <option name="url" value="https://github.com/Quatja/Vorolay" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/elevenetc/TextSurface.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\github" />
