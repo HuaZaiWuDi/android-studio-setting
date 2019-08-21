@@ -750,6 +750,10 @@
           <option name="url" value="https://github.com/Yalantis/Horizon" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/andkulikov/Transitions-Everywhere" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\github" />
