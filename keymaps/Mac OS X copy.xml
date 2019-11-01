@@ -87,5 +87,8 @@
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
