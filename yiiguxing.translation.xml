@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auth" />
       <item value="Duplicate" />
       <item value="Blank" />
       <item value="SSL peer shut down incorrectly" />
