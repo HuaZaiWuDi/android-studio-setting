@@ -13,6 +13,12 @@
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta m" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta escape" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta m" />
