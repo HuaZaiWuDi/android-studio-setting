@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="so we zip three observables" />
+      <item value="If any of the sources never produces an item but only terminates (normally or with an error), the * resulting sequence terminates immediately (normally or with all the errors accumulated till that point). * If that input source is also synchronous, other sources after it will not be subscribed to. *" />
+      <item value="Combines two source ObservableSources by emitting an item that aggregates the latest values of each of the * source ObservableSources each time an item is received from either of the source ObservableSources, where this * aggregation is defined by a specified function." />
+      <item value="previous batch of data was sent - we do not care if value emitted from the booleanObservable is TRUE or FALSE. But the value will be TRUE unless the previously sent data batch was the final one" />
       <item value="combine" />
       <item value="Lets assume that we do not know if the DC0 or DC1 will notify first. * It may also happen that Android OS will inform that the batch was transmitted after both DC0 and DC1 notify. *" />
       <item value="For the sake of this example lets assume that we have a Bluetooth Device that is retrieved by: *" />
@@ -15,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
