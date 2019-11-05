@@ -754,8 +754,16 @@
           <option name="url" value="https://github.com/andkulikov/Transitions-Everywhere" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Polidea/RxAndroidBle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Polidea/RxAndroidBle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\github" />
+    <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/D:\Android\github" />
   </component>
 </application>
