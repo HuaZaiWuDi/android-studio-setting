@@ -41,8 +41,13 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
   <action id="Flutter.JumpToSource" />
   <action id="GotoLine" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
