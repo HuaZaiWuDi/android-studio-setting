@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a function that combines one item emitted by each of the source and collection ObservableSources and * returns an item to be emitted by the resulting ObservableSource" />
+      <item value="Returns an Observable that emits the results of a specified function to the pair of values emitted by the * source ObservableSource and a specified collection ObservableSource." />
       <item value="so we zip three observables" />
       <item value="If any of the sources never produces an item but only terminates (normally or with an error), the * resulting sequence terminates immediately (normally or with all the errors accumulated till that point). * If that input source is also synchronous, other sources after it will not be subscribed to. *" />
       <item value="Combines two source ObservableSources by emitting an item that aggregates the latest values of each of the * source ObservableSources each time an item is received from either of the source ObservableSources, where this * aggregation is defined by a specified function." />
@@ -19,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
