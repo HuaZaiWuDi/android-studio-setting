@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TERMINATE" />
       <item value="Set how to log byte array values:" />
       <item value="Retry strategy allows retrying a long write operation. There are two supported scenarios: * - Once the failure happens you may re-emit the failure you've received, applying your own transformations like a delay or any other, * aiming to postpone the retry procedure. * - If that Observable calls {@code onComplete} or {@code onError} then {@code retry} will call * {@code onCompleted} or {@code onError} on the child subscription. The emission will be forwarded as an operation result." />
       <item value="a function that combines one item emitted by each of the source and collection ObservableSources and * returns an item to be emitted by the resulting ObservableSource" />
@@ -23,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
