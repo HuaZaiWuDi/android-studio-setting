@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="release" />
       <item value="listener This should be the listener object that was passed to * {@link #registerService}. It identifies the service that should be unregistered * and notifies of a successful or unsuccessful unregistration via the listener * callbacks. In API versions 20 and above, the listener object may be used for * another service registration once the callback has been called. In API versions &lt;= 19, * there is no entirely reliable way to know when a listener may be re-used, and a new * listener should be created for each service registration request." />
       <item value="* Unregister a service registered through {@link #registerService}. A successful * unregister is notified to the application with a call to" />
       <item value="lateinit property connection has not been initialized" />
@@ -34,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
