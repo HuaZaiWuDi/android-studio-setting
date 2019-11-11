@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Category" />
       <item value="Check to see whether this activity is in the process of finishing, * either because you called {@link #finish} on it or someone else * has requested that it finished. This is often used in * {@link #onPause} to determine whether the activity is simply pausing or * completely finishing." />
       <item value="provided inputKeyingMaterial must be at least of size 1 and not null" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
@@ -39,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
