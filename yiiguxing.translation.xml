@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fails to start scan as BLE scan with the same settings is already started by the app" />
       <item value="Starts to listen the given {@code source} LiveData, {@code onChanged} observer will be called * when {@code source} value was changed." />
       <item value="yellow" />
       <item value="Category" />
@@ -42,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="38" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
