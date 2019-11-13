@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Device discovery is a heavyweight procedure. New connections to * remote Bluetooth devices should not be attempted while discovery is in * progress, and existing connections will experience limited bandwidth * and high latency. Use {@link #cancelDiscovery()} to cancel an ongoing * discovery. Discovery is not managed by the Activity, * but is run as a system service, so an application should always call * {@link BluetoothAdapter#cancelDiscovery()} even if it * did not directly request a discovery, just to be sure. * &lt;p&gt;Device discovery will only find remote devices that are currently * &lt;i&gt;discoverable&lt;/i&gt; (inquiry scan enabled). Many Bluetooth devices are * not discoverable by default, and need to be entered into a special mode. * &lt;p&gt;If Bluetooth state is not {@link #STATE_ON}, this API * will return false. After turning on Bluetooth, * wait for {@link #ACTION_STATE_CHANGED} with {@link #STATE_ON} * to get the updated value." />
+      <item value="The discovery process usually involves an inquiry scan of about 12 * seconds, followed by a page scan of each new device to retrieve its * Bluetooth name. * &lt;p&gt;This is an asynchronous call, it will return immediately. Register * for {@link #ACTION_DISCOVERY_STARTED} and {@link * #ACTION_DISCOVERY_FINISHED} intents to determine exactly when the * discovery starts and completes. Register for {@link * BluetoothDevice#ACTION_FOUND} to be notified as remote Bluetooth devices * are found." />
+      <item value="Start the remote device discovery process." />
       <item value="Fails to start scan as BLE scan with the same settings is already started by the app" />
       <item value="Starts to listen the given {@code source} LiveData, {@code onChanged} observer will be called * when {@code source} value was changed." />
       <item value="yellow" />
@@ -43,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="41" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
