@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view or its parent has been &quot;activated&quot; meaning the user has currently marked it as being of interest. This is an alternative representation of state_checked for when the state should be propagated down the view hierarchy." />
+      <item value="State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view or drawable is in the last position in an ordered set. Actual usage may vary between views. Consult the host view documentation for details." />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="Creates a {@link ViewModelProvider}, which retains ViewModels while a scope of given * {@code fragment} is alive. More detailed explanation is in {@link ViewModel}." />
       <item value="Enqueues the given request at the front of the the init or task queue, depending * on whether the initialization is in progress, or not." />
@@ -49,12 +51,11 @@
       <item value="Duplicate" />
       <item value="Blank" />
       <item value="SSL peer shut down incorrectly" />
-      <item value="Bad escape character 'ygen'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="51" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
