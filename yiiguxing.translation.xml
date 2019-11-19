@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thread is not runnable for too long time, need to remove" />
       <item value="Called each time the task queue gets cleared." />
       <item value="Set the 'operation in progress' flag, so any request made in onDeviceReady() // will not start new nextRequest() call." />
       <item value="after {@link BleManagerCallbacks#onDeviceReady(BluetoothDevice)} has been * called." />
@@ -50,12 +51,11 @@
       <item value="so we zip three observables" />
       <item value="If any of the sources never produces an item but only terminates (normally or with an error), the * resulting sequence terminates immediately (normally or with all the errors accumulated till that point). * If that input source is also synchronous, other sources after it will not be subscribed to. *" />
       <item value="Combines two source ObservableSources by emitting an item that aggregates the latest values of each of the * source ObservableSources each time an item is received from either of the source ObservableSources, where this * aggregation is defined by a specified function." />
-      <item value="previous batch of data was sent - we do not care if value emitted from the booleanObservable is TRUE or FALSE. But the value will be TRUE unless the previously sent data batch was the final one" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="62" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
