@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called each time the task queue gets cleared." />
+      <item value="Set the 'operation in progress' flag, so any request made in onDeviceReady() // will not start new nextRequest() call." />
+      <item value="after {@link BleManagerCallbacks#onDeviceReady(BluetoothDevice)} has been * called." />
+      <item value="This method returns a {@link ConnectRequest} which can be used to set completion * and failure callbacks. The completion callback (done) will be called after the initialization * is complete, after {@link BleManagerCallbacks#onDeviceReady(BluetoothDevice)} has been * called." />
+      <item value="is called in notifyDeviceDisconnected, which may enqueue new requests. // Setting this flag to false would allow to enqueue a new request before the // current one ends processing. The following line should not be uncommented." />
+      <item value="Executes the next request. If the last element from the initialization queue has * been executed the {@link #onDeviceReady()} callback is called." />
+      <item value="Callback indicating the connection parameters were updated. Works on Android 8+." />
+      <item value="This method is called from the main thread when the services has been discovered and * the device is supported (has required service)." />
+      <item value="This method should set up the request queue needed to initialize the profile. * Enabling Service Change indications for bonded devices is handled before executing this * queue. The queue may have requests that are not available, e.g. read an optional * service when it is not supported by the connected device. Such call will trigger * {@link Request#fail(FailCallback)}." />
       <item value="Chain of Causes for CompositeException In Order Received" />
       <item value="State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view or its parent has been &quot;activated&quot; meaning the user has currently marked it as being of interest. This is an alternative representation of state_checked for when the state should be propagated down the view hierarchy." />
       <item value="State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view or drawable is in the last position in an ordered set. Actual usage may vary between views. Consult the host view documentation for details." />
@@ -42,20 +51,11 @@
       <item value="If any of the sources never produces an item but only terminates (normally or with an error), the * resulting sequence terminates immediately (normally or with all the errors accumulated till that point). * If that input source is also synchronous, other sources after it will not be subscribed to. *" />
       <item value="Combines two source ObservableSources by emitting an item that aggregates the latest values of each of the * source ObservableSources each time an item is received from either of the source ObservableSources, where this * aggregation is defined by a specified function." />
       <item value="previous batch of data was sent - we do not care if value emitted from the booleanObservable is TRUE or FALSE. But the value will be TRUE unless the previously sent data batch was the final one" />
-      <item value="combine" />
-      <item value="Lets assume that we do not know if the DC0 or DC1 will notify first. * It may also happen that Android OS will inform that the batch was transmitted after both DC0 and DC1 notify. *" />
-      <item value="For the sake of this example lets assume that we have a Bluetooth Device that is retrieved by: *" />
-      <item value="Setter for a retry strategy in case something goes wrong when writing data. If any {@link BleException} is raised, * a {@link WriteOperationRetryStrategy.LongWriteFailure} object is emitted. * {@link WriteOperationRetryStrategy.LongWriteFailure} contains both the {@link BleException} and the batch number * for which the write request failed. The {@link WriteOperationRetryStrategy.LongWriteFailure} emitted by the * writeOperationRetryStrategy will be used to retry the specified batch number write request." />
-      <item value="the function that acknowledges writing of the batch of bytes. It takes * an {@link Observable} that emits a boolean value each time the byte array batch * has finished to write. {@link Boolean#TRUE} means that there are more items in the buffer, * {@link Boolean#FALSE} otherwise. If you want to delay the next batch use provided observable * and add some custom behavior (delay, waiting for a message from the device, etc.)" />
-      <item value="Setter for a strategy used to mark batch write completed. Only after previous batch has finished, the next (if any left) can be * written. * If this is not specified - the next batch of bytes is written right after the previous one has finished. * * A bytes batch is a part (slice) of the original byte array to write. Imagine a byte array of {0, 1, 2, 3, 4} where the maximum * number of bytes that may be transmitted at once is 2. Then the original byte array will be transmitted in three batches: * {0, 1}, {2, 3}, {4} * * It is expected that the Observable returned from the writeOperationAckStrategy will emit exactly the same events as the source, * however you may delay them at your pace." />
-      <item value="Auth" />
-      <item value="Duplicate" />
-      <item value="Blank" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="61" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
