@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="After successful service discovery the service will initialize all services. * The {@link #onDeviceReady(BluetoothDevice)} method will be called when the initialization * is complete." />
+      <item value="if &lt;code&gt;true&lt;/code&gt; the secondary services were also found * on the device." />
+      <item value="GATT CONN TERMINATE LOCAL HOST" />
       <item value="thread is not runnable for too long time, need to remove" />
       <item value="Called each time the task queue gets cleared." />
       <item value="Set the 'operation in progress' flag, so any request made in onDeviceReady() // will not start new nextRequest() call." />
@@ -48,14 +51,11 @@
       <item value="Retry strategy allows retrying a long write operation. There are two supported scenarios: * - Once the failure happens you may re-emit the failure you've received, applying your own transformations like a delay or any other, * aiming to postpone the retry procedure. * - If that Observable calls {@code onComplete} or {@code onError} then {@code retry} will call * {@code onCompleted} or {@code onError} on the child subscription. The emission will be forwarded as an operation result." />
       <item value="a function that combines one item emitted by each of the source and collection ObservableSources and * returns an item to be emitted by the resulting ObservableSource" />
       <item value="Returns an Observable that emits the results of a specified function to the pair of values emitted by the * source ObservableSource and a specified collection ObservableSource." />
-      <item value="so we zip three observables" />
-      <item value="If any of the sources never produces an item but only terminates (normally or with an error), the * resulting sequence terminates immediately (normally or with all the errors accumulated till that point). * If that input source is also synchronous, other sources after it will not be subscribed to. *" />
-      <item value="Combines two source ObservableSources by emitting an item that aggregates the latest values of each of the * source ObservableSources each time an item is received from either of the source ObservableSources, where this * aggregation is defined by a specified function." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="65" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
