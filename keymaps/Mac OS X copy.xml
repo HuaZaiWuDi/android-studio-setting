@@ -8,6 +8,7 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="CIDR.Debugger.ShowInMemoryView" />
   <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CleanGradleProject">
@@ -19,13 +20,20 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
+  <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
@@ -46,6 +54,7 @@
   </action>
   <action id="Flutter.JumpToSource" />
   <action id="GotoLine" />
+  <action id="Groovy.Shell.Execute" />
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="JumpToLastChange">
@@ -54,6 +63,7 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
+  <action id="KotlinShellExecute" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MinimizeCurrentWindow" />
@@ -87,6 +97,9 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="SendEOF" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="TodoViewGroupByShowModules" />
   <action id="TodoViewGroupByShowPackages" />
@@ -94,6 +107,7 @@
   <action id="Vcs.Log.GoToRef">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="meta alt r" />
