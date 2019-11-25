@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A composable that places its children in a horizontal sequence, assigning children widths * according to their flex weights." />
+      <item value="A composable that places its children in a vertical flow. Unlike [Column] or [FlexColumn], if the * vertical space is too small to put all the children in one column, multiple columns may be used." />
+      <item value="An Effect used to get the value of an ambient at a specific position during composition." />
       <item value="An Effect that positionally memoizes the result of a computation." />
       <item value="None of the following functions can be called with the arguments supplied:" />
       <item value="After successful service discovery the service will initialize all services. * The {@link #onDeviceReady(BluetoothDevice)} method will be called when the initialization * is complete." />
@@ -48,14 +51,11 @@
       <item value="An exception being emitted from an {@link io.reactivex.Observable} returned by the function * {@link com.polidea.rxandroidble2.RxBleDevice#establishConnection(boolean)} or other establishConnection() overloads when this kind * of observable was already subscribed and {@link com.polidea.rxandroidble2.RxBleConnection} is currently being established or active." />
       <item value="A transformer which combines the {@code replay(1)}, {@code publish()}, and {@code refCount()} * operators." />
       <item value="Already connected to device with MAC address BC:E5:9F:48:96:D1" />
-      <item value="TERMINATE" />
-      <item value="Set how to log byte array values:" />
-      <item value="Retry strategy allows retrying a long write operation. There are two supported scenarios: * - Once the failure happens you may re-emit the failure you've received, applying your own transformations like a delay or any other, * aiming to postpone the retry procedure. * - If that Observable calls {@code onComplete} or {@code onError} then {@code retry} will call * {@code onCompleted} or {@code onError} on the child subscription. The emission will be forwarded as an operation result." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
