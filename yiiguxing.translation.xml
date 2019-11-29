@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="confirm" />
       <item value="Bonjour" />
       <item value="If true, delivers the most recent sticky event (posted with * {@link EventBus#postSticky(Object)}) to this subscriber (if event available)." />
       <item value="Posts the given event to the event bus and holds on to the event (because it is sticky). The most recent sticky * event of an event's type is kept in memory for future access by subscribers using {@link Subscribe#sticky()}." />
@@ -50,12 +51,11 @@
       <item value="lateinit property connection has not been initialized" />
       <item value="Error emitted when the connection to a specified device is already established or is being * established. In order to share the connection, share #establishConnection emissions." />
       <item value="PEER" />
-      <item value="To prevent this exception from being emitted one must either:&lt;br&gt; * * always unsubscribe from the above mentioned Observable before subscribing again&lt;br&gt; * * {@link io.reactivex.Observable#share()} or {@link io.reactivex.Observable#publish()} the above mentioned * Observable so it will be subscribed only once" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
