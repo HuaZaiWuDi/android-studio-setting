@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Category" />
       <item value="Bonjour" />
       <item value="Starts a Bonjour service discovery for the provided service type with the given {@link Driver}. * &lt;p&gt; * The stream will immediately end with an {@link IllegalBonjourTypeException} * if the input type does not obey Bonjour type specifications. * If you intend to use this method with arbitrary types that can be provided by user input, * it is highly encouraged to verify this input * using {@link #isBonjourType(String)} &lt;b&gt;before&lt;/b&gt; calling this method!" />
       <item value="confirm" />
@@ -41,7 +42,6 @@
       <item value="Fails to start scan as BLE scan with the same settings is already started by the app" />
       <item value="Starts to listen the given {@code source} LiveData, {@code onChanged} observer will be called * when {@code source} value was changed." />
       <item value="yellow" />
-      <item value="Category" />
       <item value="Check to see whether this activity is in the process of finishing, * either because you called {@link #finish} on it or someone else * has requested that it finished. This is often used in * {@link #onPause} to determine whether the activity is simply pausing or * completely finishing." />
       <item value="provided inputKeyingMaterial must be at least of size 1 and not null" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
