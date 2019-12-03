@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="场景面板" />
       <item value="Negative" />
       <item value="Returns true if the final {@link #onDestroy()} call has been made * on the Activity, so this instance is now dead." />
       <item value="Category" />
@@ -50,12 +51,11 @@
       <item value="destination" />
       <item value="release" />
       <item value="listener This should be the listener object that was passed to * {@link #registerService}. It identifies the service that should be unregistered * and notifies of a successful or unsuccessful unregistration via the listener * callbacks. In API versions 20 and above, the listener object may be used for * another service registration once the callback has been called. In API versions &lt;= 19, * there is no entirely reliable way to know when a listener may be re-used, and a new * listener should be created for each service registration request." />
-      <item value="* Unregister a service registered through {@link #registerService}. A successful * unregister is notified to the application with a call to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
