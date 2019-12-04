@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a Single that emits only the very first item emitted by this Observable or * signals a {@link NoSuchElementException} if this Observable is empty." />
+      <item value="Returns a Single that emits only the very first item emitted by the source ObservableSource, or a default item * if the source ObservableSource completes without emitting any items." />
       <item value="One of the verbs defined by * {@link android.widget.RelativeLayout RelativeLayout}, such as * ALIGN_WITH_PARENT_LEFT." />
       <item value="场景面板" />
       <item value="Negative" />
@@ -49,13 +51,11 @@
       <item value="Check to see whether this activity is in the process of finishing, * either because you called {@link #finish} on it or someone else * has requested that it finished. This is often used in * {@link #onPause} to determine whether the activity is simply pausing or * completely finishing." />
       <item value="provided inputKeyingMaterial must be at least of size 1 and not null" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="destination" />
-      <item value="release" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
