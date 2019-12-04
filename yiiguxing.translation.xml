@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="场景" />
       <item value="关联" />
       <item value=" behind" />
       <item value="Returns a Single that emits only the very first item emitted by this Observable or * signals a {@link NoSuchElementException} if this Observable is empty." />
@@ -50,7 +51,6 @@
       <item value="Fails to start scan as BLE scan with the same settings is already started by the app" />
       <item value="Starts to listen the given {@code source} LiveData, {@code onChanged} observer will be called * when {@code source} value was changed." />
       <item value="yellow" />
-      <item value="Check to see whether this activity is in the process of finishing, * either because you called {@link #finish} on it or someone else * has requested that it finished. This is often used in * {@link #onPause} to determine whether the activity is simply pausing or * completely finishing." />
     </histories>
     <option name="languageScores">
       <map>
