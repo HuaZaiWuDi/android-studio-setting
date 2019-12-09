@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AUTOMATION" />
+      <item value="Automation" />
       <item value="Start the target Fragment and pop itself" />
       <item value="Pop the child fragment." />
       <item value="Git Extender adds an option to Update All local branches tracking a remote for all git roots in the current project Local branches that will be updated are the branches that exist locally and have been configured to track a remote branch. It requires IDE version 2016.3 or higher and Java 8 It tries to fast-forward commits in remote branches to local branches. It can be configured through the settings to attempt a simple merge, if the local branch cannot be merged to the tracked remote using fast-forward only. In this case, if there are conflict errors, the merge will be aborted and an error notification will be shown. The update, then, should be performed manually for the reported branch, in order to resolve the conflicts. Any possible uncommitted changes to the current branch will be stashed After updating a branch, if there were any file changes, they will be displayed in IntelliJ Version Control tab. Currently, the correct list of file changes (updated, created, removed) will be displayed. However, when performing a diff for files in a branch other than the currently checked out, the diff will most probably be incorrect. This plugin is available under Apache License, Version 2.0" />
@@ -49,13 +51,11 @@
       <item value="State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view or its parent has been &quot;activated&quot; meaning the user has currently marked it as being of interest. This is an alternative representation of state_checked for when the state should be propagated down the view hierarchy." />
       <item value="State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view or drawable is in the last position in an ordered set. Actual usage may vary between views. Consult the host view documentation for details." />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
-      <item value="Creates a {@link ViewModelProvider}, which retains ViewModels while a scope of given * {@code fragment} is alive. More detailed explanation is in {@link ViewModel}." />
-      <item value="Enqueues the given request at the front of the the init or task queue, depending * on whether the initialization is in progress, or not." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="VIETNAMESE" value="1" />
