@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AVATAR" />
       <item value="Prop" />
       <item value="AUTOMATION" />
       <item value="Automation" />
@@ -13,7 +14,6 @@
       <item value="internal" />
       <item value="error: failed linking file resources." />
       <item value="abnormal" />
-      <item value="AVATAR" />
       <item value="场景" />
       <item value="关联" />
       <item value=" behind" />
@@ -55,11 +55,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
