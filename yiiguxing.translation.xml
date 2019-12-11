@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets [effect] of the spot of [Target]." />
+      <item value="Sets [OnTargetListener] to notify the state of [Target]." />
+      <item value="Sets an anchor point to start [Target]." />
+      <item value="Sets a pointer to start a [Target]." />
+      <item value="Sets [overlay] to be laid out to describe [Target]." />
       <item value="Registers the given subscriber to receive events. Subscribers must call {@link #unregister(Object)} once they * are no longer interested in receiving events." />
       <item value="Retains only elements of this [MutableList] that match the given [predicate]." />
       <item value="Removes all elements from this [MutableList] that match the given [predicate]." />
@@ -46,16 +51,11 @@
       <item value="GATT CONN TERMINATE LOCAL HOST" />
       <item value="thread is not runnable for too long time, need to remove" />
       <item value="Called each time the task queue gets cleared." />
-      <item value="Set the 'operation in progress' flag, so any request made in onDeviceReady() // will not start new nextRequest() call." />
-      <item value="after {@link BleManagerCallbacks#onDeviceReady(BluetoothDevice)} has been * called." />
-      <item value="This method returns a {@link ConnectRequest} which can be used to set completion * and failure callbacks. The completion callback (done) will be called after the initialization * is complete, after {@link BleManagerCallbacks#onDeviceReady(BluetoothDevice)} has been * called." />
-      <item value="is called in notifyDeviceDisconnected, which may enqueue new requests. // Setting this flag to false would allow to enqueue a new request before the // current one ends processing. The following line should not be uncommented." />
-      <item value="Executes the next request. If the last element from the initialization queue has * been executed the {@link #onDeviceReady()} callback is called." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
