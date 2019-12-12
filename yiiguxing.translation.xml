@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="area" />
       <item value="effect" />
       <item value="Computes the coordinates of this view in its window. The argument * must be an array of two integers. After the method returns, the array * contains the x and y location in that order." />
       <item value="Sets [effect] of the spot of [Target]." />
@@ -50,12 +51,11 @@
       <item value="None of the following functions can be called with the arguments supplied:" />
       <item value="After successful service discovery the service will initialize all services. * The {@link #onDeviceReady(BluetoothDevice)} method will be called when the initialization * is complete." />
       <item value="if &lt;code&gt;true&lt;/code&gt; the secondary services were also found * on the device." />
-      <item value="GATT CONN TERMINATE LOCAL HOST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
