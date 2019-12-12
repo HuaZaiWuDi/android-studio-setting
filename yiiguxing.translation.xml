@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="localizd" />
       <item value="related" />
       <item value="Disable the keyguard from showing. If the keyguard is currently * showing, hide it. The keyguard will be prevented from showing again * until {@link #reenableKeyguard()} is called." />
       <item value="Neither user 10199 nor current process has android.permission.WAKE_LOCK." />
@@ -50,7 +51,6 @@
       <item value="Indicates that the operation failed because it is already active." />
       <item value="* The lookup key for an int that indicates whether network service discovery is enabled * or disabled. Retrieve it with {@link android.content.Intent#getIntExtra(String,int)}." />
       <item value="COMMAND" />
-      <item value="An Effect that positionally memoizes the result of a computation." />
     </histories>
     <option name="languageScores">
       <map>
