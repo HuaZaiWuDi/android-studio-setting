@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="can't find superclass or interface org.glassfish.jersey.internal.spi.AutoDiscoverable" />
       <item value="there were 2 unresolved references to library class members. You probably need to update the library versions." />
       <item value="there were 54 unresolved references to program class members. Your input classes appear to be inconsistent. You may need to recompile the code." />
       <item value="there were 580 unresolved references to classes or interfaces. You may need to add missing library jars or update their versions. If your code works fine without the missing classes, you can suppress the warnings with '-dontwarn' options." />
@@ -50,12 +51,11 @@
       <item value="Category" />
       <item value="Bonjour" />
       <item value="Starts a Bonjour service discovery for the provided service type with the given {@link Driver}. * &lt;p&gt; * The stream will immediately end with an {@link IllegalBonjourTypeException} * if the input type does not obey Bonjour type specifications. * If you intend to use this method with arbitrary types that can be provided by user input, * it is highly encouraged to verify this input * using {@link #isBonjourType(String)} &lt;b&gt;before&lt;/b&gt; calling this method!" />
-      <item value="confirm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="121" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
