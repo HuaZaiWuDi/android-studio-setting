@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Manifest merger failed with multiple errors" />
+      <item value="recover" />
       <item value="Reception" />
       <item value="容器" />
       <item value="can't find superclass or interface org.glassfish.jersey.internal.spi.AutoDiscoverable" />
@@ -49,13 +51,11 @@
       <item value="One of the verbs defined by * {@link android.widget.RelativeLayout RelativeLayout}, such as * ALIGN_WITH_PARENT_LEFT." />
       <item value="场景面板" />
       <item value="Negative" />
-      <item value="Returns true if the final {@link #onDestroy()} call has been made * on the Activity, so this instance is now dead." />
-      <item value="Category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="126" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
