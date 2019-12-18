@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel" />
+      <item value="cencel" />
       <item value="unversioned" />
       <item value="immersion" />
       <item value="The inject fields CAN NOT BE 'private'!!! please check field [path] in class" />
@@ -49,16 +51,15 @@
       <item value="internal" />
       <item value="error: failed linking file resources." />
       <item value="abnormal" />
-      <item value="场景" />
-      <item value="关联" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
+        <entry key="ITALIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
