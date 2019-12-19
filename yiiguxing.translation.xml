@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the radix to be used while parsing {@code s}." />
       <item value="Duplicate resources" />
       <item value="CONFIRM" />
       <item value="cancel" />
@@ -50,12 +51,11 @@
       <item value="Provides a shortcut to open a file or commit in GitHub, Bitbucket, GitLab, Gitea, Gogs or GitBlit using the default browser. A Shortcut is also available to copy links to your clipboard. After installing select your remote host in Settings → Other Settings → GitLink. Make sure you have registered your project's root under the version control settings. Preferences → Version Control (see unregistered roots) To open a file in the default browser select View → Open in (your selected host). Shortcuts are also available on the annotation gutter and VCS log window. Note: When viewing a file, the URL generated references the current commit unless that commit does not exist on the remote repository in which case it references the current branch instead. If the current branch also does not exist on the remote repository the default branch defined in the plugin configuration is used instead." />
       <item value="Plugin that clears commit message from commit window after a successful commit. After installation, plugin will be enabled by default. To toggle it on and off, use VCS (menu) -&gt; Clear message on successful commit" />
       <item value="Extends Git Integration with additional features Status display, auto fetch, inline blame annotation, commit dialog completion, behind notifications and more." />
-      <item value="internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
