@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="安全" />
       <item value="This subject not view config" />
       <item value="the radix to be used while parsing {@code s}." />
       <item value="Duplicate resources" />
@@ -50,12 +51,11 @@
       <item value="Pop the child fragment." />
       <item value="Git Extender adds an option to Update All local branches tracking a remote for all git roots in the current project Local branches that will be updated are the branches that exist locally and have been configured to track a remote branch. It requires IDE version 2016.3 or higher and Java 8 It tries to fast-forward commits in remote branches to local branches. It can be configured through the settings to attempt a simple merge, if the local branch cannot be merged to the tracked remote using fast-forward only. In this case, if there are conflict errors, the merge will be aborted and an error notification will be shown. The update, then, should be performed manually for the reported branch, in order to resolve the conflicts. Any possible uncommitted changes to the current branch will be stashed After updating a branch, if there were any file changes, they will be displayed in IntelliJ Version Control tab. Currently, the correct list of file changes (updated, created, removed) will be displayed. However, when performing a diff for files in a branch other than the currently checked out, the diff will most probably be incorrect. This plugin is available under Apache License, Version 2.0" />
       <item value="Provides a shortcut to open a file or commit in GitHub, Bitbucket, GitLab, Gitea, Gogs or GitBlit using the default browser. A Shortcut is also available to copy links to your clipboard. After installing select your remote host in Settings → Other Settings → GitLink. Make sure you have registered your project's root under the version control settings. Preferences → Version Control (see unregistered roots) To open a file in the default browser select View → Open in (your selected host). Shortcuts are also available on the annotation gutter and VCS log window. Note: When viewing a file, the URL generated references the current commit unless that commit does not exist on the remote repository in which case it references the current branch instead. If the current branch also does not exist on the remote repository the default branch defined in the plugin configuration is used instead." />
-      <item value="Plugin that clears commit message from commit window after a successful commit. After installation, plugin will be enabled by default. To toggle it on and off, use VCS (menu) -&gt; Clear message on successful commit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
