@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正常" />
+      <item value="option" />
+      <item value="channel" />
+      <item value="enable" />
       <item value="the other SingleSource that gets subscribed to if the current Single times out" />
       <item value="relating" />
       <item value="Subscribes the given SingleObserver to this SingleSource instance." />
@@ -47,15 +51,11 @@
       <item value="Retains only elements of this [MutableList] that match the given [predicate]." />
       <item value="Removes all elements from this [MutableList] that match the given [predicate]." />
       <item value="Returns a list containing only elements matching the given [predicate]." />
-      <item value="Returns a list containing first elements satisfying the given [predicate]." />
-      <item value="Returns a list containing all elements except first elements that satisfy the given [predicate]." />
-      <item value="AVATAR" />
-      <item value="Prop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
