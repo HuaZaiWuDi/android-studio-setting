@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified [selector] function." />
       <item value="deploy" />
       <item value="正常" />
       <item value="option" />
@@ -50,12 +51,11 @@
       <item value="Sets [overlay] to be laid out to describe [Target]." />
       <item value="Registers the given subscriber to receive events. Subscribers must call {@link #unregister(Object)} once they * are no longer interested in receiving events." />
       <item value="Retains only elements of this [MutableList] that match the given [predicate]." />
-      <item value="Removes all elements from this [MutableList] that match the given [predicate]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="2" />
