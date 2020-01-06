@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="子标题" />
+      <item value="子设备" />
+      <item value="subscribe" />
       <item value="adjust" />
       <item value="conditions" />
       <item value="Divides this value by the other value." />
@@ -48,16 +51,14 @@
       <item value="Resource shrinker cannot be used for libraries." />
       <item value="No cached version available for offline mode" />
       <item value="localizd" />
-      <item value="related" />
-      <item value="Disable the keyguard from showing. If the keyguard is currently * showing, hide it. The keyguard will be prevented from showing again * until {@link #reenableKeyguard()} is called." />
-      <item value="Neither user 10199 nor current process has android.permission.WAKE_LOCK." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
+        <entry key="ZULU" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
