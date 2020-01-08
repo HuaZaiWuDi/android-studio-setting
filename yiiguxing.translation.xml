@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="curtain" />
+      <item value="atmospheric" />
+      <item value="curved" />
       <item value="子标题" />
       <item value="子设备" />
       <item value="subscribe" />
@@ -48,14 +51,11 @@
       <item value="there were 54 unresolved references to program class members. Your input classes appear to be inconsistent. You may need to recompile the code." />
       <item value="there were 580 unresolved references to classes or interfaces. You may need to add missing library jars or update their versions. If your code works fine without the missing classes, you can suppress the warnings with '-dontwarn' options." />
       <item value="Please correct the above warnings first." />
-      <item value="Resource shrinker cannot be used for libraries." />
-      <item value="No cached version available for offline mode" />
-      <item value="localizd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
