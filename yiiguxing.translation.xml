@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mark the specified range of text with the specified object. * The flags determine how the span will behave when text is * inserted at the start or end of the span's range." />
       <item value="lateinit property mShowItems has not been initialized" />
       <item value="屏保" />
       <item value="ArrayMap is immutable" />
@@ -50,12 +51,11 @@
       <item value="Reception" />
       <item value="容器" />
       <item value="can't find superclass or interface org.glassfish.jersey.internal.spi.AutoDiscoverable" />
-      <item value="there were 2 unresolved references to library class members. You probably need to update the library versions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
