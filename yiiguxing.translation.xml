@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="onto" />
       <item value="hangup" />
       <item value="Mark the specified range of text with the specified object. * The flags determine how the span will behave when text is * inserted at the start or end of the span's range." />
       <item value="lateinit property mShowItems has not been initialized" />
@@ -50,7 +51,6 @@
       <item value="Manifest merger failed with multiple errors" />
       <item value="recover" />
       <item value="Reception" />
-      <item value="容器" />
     </histories>
     <option name="languageScores">
       <map>
