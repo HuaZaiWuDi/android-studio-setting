@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="默认" />
       <item value="语言" />
       <item value="屏保" />
       <item value="休眠" />
@@ -50,7 +51,6 @@
       <item value="cencel" />
       <item value="unversioned" />
       <item value="immersion" />
-      <item value="The inject fields CAN NOT BE 'private'!!! please check field [path] in class" />
     </histories>
     <option name="languageScores">
       <map>
