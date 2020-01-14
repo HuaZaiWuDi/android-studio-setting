@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="显示与声音" />
       <item value="温控" />
       <item value="change" />
       <item value="一样大" />
@@ -50,7 +51,6 @@
       <item value="This subject not view config" />
       <item value="the radix to be used while parsing {@code s}." />
       <item value="Duplicate resources" />
-      <item value="CONFIRM" />
     </histories>
     <option name="languageScores">
       <map>
