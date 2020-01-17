@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="five" />
+      <item value="fire" />
+      <item value="缓存" />
       <item value="接入" />
       <item value="永远" />
       <item value="待机" />
@@ -48,14 +51,11 @@
       <item value="Subscribes the given SingleObserver to this SingleSource instance." />
       <item value="Represents a basic {@link Single} source base interface, * consumable via an {@link SingleObserver}." />
       <item value="Pop the last fragment transition from the manager's fragment pop stack." />
-      <item value="Returns whether the given CharSequence contains only digits." />
-      <item value="安全" />
-      <item value="This subject not view config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
