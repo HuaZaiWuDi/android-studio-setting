@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接入" />
       <item value="永远" />
       <item value="待机" />
       <item value="显示与声音" />
@@ -50,7 +51,6 @@
       <item value="Returns whether the given CharSequence contains only digits." />
       <item value="安全" />
       <item value="This subject not view config" />
-      <item value="the radix to be used while parsing {@code s}." />
     </histories>
     <option name="languageScores">
       <map>
