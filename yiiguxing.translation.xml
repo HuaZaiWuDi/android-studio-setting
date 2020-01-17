@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instence" />
+      <item value="Lenght" />
       <item value="five" />
       <item value="fire" />
       <item value="缓存" />
@@ -49,13 +51,11 @@
       <item value="the other SingleSource that gets subscribed to if the current Single times out" />
       <item value="relating" />
       <item value="Subscribes the given SingleObserver to this SingleSource instance." />
-      <item value="Represents a basic {@link Single} source base interface, * consumable via an {@link SingleObserver}." />
-      <item value="Pop the last fragment transition from the manager's fragment pop stack." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
