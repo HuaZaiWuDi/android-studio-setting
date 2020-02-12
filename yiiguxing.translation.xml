@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constraint" />
       <item value="英语" />
       <item value="The last element in the progression." />
       <item value="internal" />
@@ -50,11 +51,10 @@
       <item value="#setReorderingAllowed(boolean)} must be set to &lt;code&gt;true&lt;/code&gt; * in the same transaction as addToBackStack() to allow the pop of that * transaction to be reordered." />
       <item value="Add this transaction to the back stack. This means that the transaction * will be remembered after it is committed, and will reverse its operation * when later popped off the stack." />
       <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified [selector] function." />
-      <item value="正常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
+        <entry key="CHINESE" value="183" />
         <entry key="ENGLISH" value="183" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
