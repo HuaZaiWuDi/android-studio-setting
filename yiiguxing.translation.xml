@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="right Enable" />
       <item value="多个" />
       <item value="Constraint" />
       <item value="英语" />
@@ -50,12 +51,11 @@
       <item value="deploy" />
       <item value="the previous value associated with the key, or `null` if the key was not present in the map. */" />
       <item value="#setReorderingAllowed(boolean)} must be set to &lt;code&gt;true&lt;/code&gt; * in the same transaction as addToBackStack() to allow the pop of that * transaction to be reordered." />
-      <item value="Add this transaction to the back stack. This means that the transaction * will be remembered after it is committed, and will reverse its operation * when later popped off the stack." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="183" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
