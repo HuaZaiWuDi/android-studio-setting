@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="before statement (&lt;Unknown source&gt;#1) in &lt;Unknown source&gt; at line number 1" />
       <item value="the range interval of RangeSeekBar" />
       <item value="ispatch the pop-event. Priority of the top of the stack of Fragment" />
       <item value="Sets the left position of this view relative to its parent. This method is meant to be called * by the layout system and should not generally be called otherwise, because the property * may be changed at any time by the layout." />
@@ -50,12 +51,11 @@
       <item value="lateinit property mShowItems has not been initialized" />
       <item value="ArrayMap is immutable" />
       <item value="curtain" />
-      <item value="atmospheric" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="200" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
