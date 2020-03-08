@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="container" />
+      <item value="Sheet" />
+      <item value="多个" />
       <item value="Input: If nothing, an empty dialer is started; else {@link #getData} * is URI of a phone number to be dialed or a tel: URI of an explicit phone * number." />
       <item value="Activity Action: Dial a number as specified by the data. This shows a * UI with the number being dialed, allowing the user to explicitly * initiate the call." />
       <item value="Int" />
@@ -36,7 +39,6 @@
       <item value="Enables or disables click events for this view. When a view * is clickable it will change its state to &quot;pressed&quot; on every click. * Subclasses should set the view clickable to visually react to * user's clicks." />
       <item value="true to make the view clickable, false otherwise" />
       <item value="right Enable" />
-      <item value="多个" />
       <item value="Constraint" />
       <item value="英语" />
       <item value="The last element in the progression." />
@@ -49,13 +51,11 @@
       <item value="five" />
       <item value="fire" />
       <item value="缓存" />
-      <item value="接入" />
-      <item value="永远" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
