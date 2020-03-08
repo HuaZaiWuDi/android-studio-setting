@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="选中" />
+      <item value="多个" />
       <item value="container" />
       <item value="Sheet" />
-      <item value="多个" />
       <item value="Input: If nothing, an empty dialer is started; else {@link #getData} * is URI of a phone number to be dialed or a tel: URI of an explicit phone * number." />
       <item value="Activity Action: Dial a number as specified by the data. This shows a * UI with the number being dialed, allowing the user to explicitly * initiate the call." />
       <item value="Int" />
@@ -50,12 +51,11 @@
       <item value="Lenght" />
       <item value="five" />
       <item value="fire" />
-      <item value="缓存" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
