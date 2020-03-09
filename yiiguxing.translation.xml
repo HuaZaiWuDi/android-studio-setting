@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exceptional scenario" />
+      <item value="exceptional scenario text" />
       <item value="god" />
       <item value="guard" />
       <item value="选中" />
@@ -49,8 +51,6 @@
       <item value="A progression of values of type `Int`." />
       <item value="Inclusive" />
       <item value="slider" />
-      <item value="Instence" />
-      <item value="Lenght" />
     </histories>
     <option name="languageScores">
       <map>
