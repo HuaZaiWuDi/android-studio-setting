@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="god" />
+      <item value="guard" />
       <item value="选中" />
       <item value="多个" />
       <item value="container" />
@@ -49,12 +51,10 @@
       <item value="slider" />
       <item value="Instence" />
       <item value="Lenght" />
-      <item value="five" />
-      <item value="fire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
+        <entry key="CHINESE" value="218" />
         <entry key="ENGLISH" value="218" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
