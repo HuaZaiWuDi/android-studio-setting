@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subscription" />
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
       <item value="exceptional scenario" />
       <item value="exceptional scenario text" />
@@ -50,12 +51,11 @@
       <item value="The last element in the progression." />
       <item value="internal" />
       <item value="A progression of values of type `Int`." />
-      <item value="Inclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
