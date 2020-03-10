@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Running task appeared exception!" />
+      <item value="Continue process" />
+      <item value="Interrupt process, pipeline will be destroy when this method called." />
+      <item value="navigation" />
       <item value="自动化" />
       <item value="Subscription" />
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
@@ -47,15 +51,11 @@
       <item value="Enables or disables click events for this view. When a view * is clickable it will change its state to &quot;pressed&quot; on every click. * Subclasses should set the view clickable to visually react to * user's clicks." />
       <item value="true to make the view clickable, false otherwise" />
       <item value="right Enable" />
-      <item value="Constraint" />
-      <item value="英语" />
-      <item value="The last element in the progression." />
-      <item value="internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
