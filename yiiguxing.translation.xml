@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始" />
+      <item value="原始的" />
+      <item value="Changed" />
+      <item value="Set a special listener to be called when an action is performed * on the text view. This will be called when the enter key is pressed, * or when an action supplied to the IME is selected by the user. Setting * this means that the normal hard key event will not insert a newline * into the text view, even if it is multi-line; holding down the ALT * modifier will, however, allow the user to insert a newline character." />
+      <item value="Returns whether the soft input method will be made visible when this * TextView gets focused. The default is true." />
       <item value="Check latest state b4 dispatch. Maybe it changed state but we didn't get the event yet. // // we still first check observer.active to keep it as the entrance for events. So even if // the observer moved to an active state, if we've not received that event, we better not // notify for a more predictable notification order." />
       <item value="m Dispatching" />
       <item value="dispatching" />
@@ -46,16 +51,11 @@
       <item value="Go to test [Alt T], [Ctrl Command T] on Mac Go to view [Alt V], [Ctrl Command V] on Mac Go to constructor [Alt G], [Ctrl Command G] on a mac Join multi-line strings and variable declarations [Ctrl SHIFT Alt J], [Ctrl Command J] on Mac Open current file in browser [Ctrl SHIFT Alt G], [SHIFT Option Command G] on Mac Add a semi-color at the end of the line [Ctrl SHIFT ;], [Command SHIFT ;] on Mac Sort the selection using a user-defined splitter [SHIFT alt 1], [Command SHIFT 1] on Mac Generate a method for the current javascript class Override a method from the parent javascript class" />
       <item value="JS Toolbox An Intellij / Webstorm plugin that provides several tools for javascript development. Here is a list of available actions:" />
       <item value="Schema-aware completion, error highlighting, and documentation Syntax highlighting, code-formatting, folding, commenter, and brace-matching Execute queries and mutations with variables against configurable endpoints Support for multiple schemas using graphql-config" />
-      <item value="AUTHORITY" />
-      <item value="thermostat" />
-      <item value="unpacking" />
-      <item value="before statement (&lt;Unknown source&gt;#1) in &lt;Unknown source&gt; at line number 1" />
-      <item value="the range interval of RangeSeekBar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="240" />
+        <entry key="ENGLISH" value="241" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
