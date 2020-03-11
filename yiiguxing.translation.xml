@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Check latest state b4 dispatch. Maybe it changed state but we didn't get the event yet. // // we still first check observer.active to keep it as the entrance for events. So even if // the observer moved to an active state, if we've not received that event, we better not // notify for a more predictable notification order." />
+      <item value="m Dispatching" />
       <item value="dispatching" />
       <item value="Adds the given observer to the observers list. This call is similar to * {@link LiveData#observe(LifecycleOwner, Observer)} with a LifecycleOwner, which * is always active. This means that the given observer will receive all events and will never * be automatically removed. You should manually call {@link #removeObserver(Observer)} to stop * observing this LiveData. * While LiveData has one of such observers, it will be considered * as active." />
       <item value="Absent" />
@@ -49,13 +51,11 @@
       <item value="unpacking" />
       <item value="before statement (&lt;Unknown source&gt;#1) in &lt;Unknown source&gt; at line number 1" />
       <item value="the range interval of RangeSeekBar" />
-      <item value="ispatch the pop-event. Priority of the top of the stack of Fragment" />
-      <item value="Sets the left position of this view relative to its parent. This method is meant to be called * by the layout system and should not generally be called otherwise, because the property * may be changed at any time by the layout." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
