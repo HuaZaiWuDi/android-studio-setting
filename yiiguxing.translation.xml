@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when the number of active observers change to 1 from 0." />
+      <item value="Sets the value. If there are active observers, the value will be dispatched to them." />
+      <item value="This method must be called from the main thread. If you need set a value from a background * thread, you can use {@link #postValue(Object)}" />
       <item value="message" />
       <item value="massage" />
       <item value="信息" />
@@ -48,14 +51,11 @@
       <item value="实例" />
       <item value="transparent" />
       <item value="indicator" />
-      <item value="mark" />
-      <item value="同步" />
-      <item value="Indicates whether this view reacts to click events or not." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
