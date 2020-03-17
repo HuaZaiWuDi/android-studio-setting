@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a Single that emits a single item, a list composed of all the items emitted by the * finite source ObservableSource." />
+      <item value="a Single that emits a single item: a List containing all of the items emitted by the source * ObservableSource" />
       <item value="the period of time each buffer collects items before it is emitted and replaced with a new * buffer" />
       <item value="When inputting prohibited specific characters" />
       <item value="round" />
@@ -49,13 +51,11 @@
       <item value="Barrier" />
       <item value="rectangle" />
       <item value="ring" />
-      <item value="直角" />
-      <item value="insurance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
