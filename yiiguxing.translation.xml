@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Check the device conditions for Smart Security\n&quot; + &quot;[Myhome door sensor] It is opened.\n&quot; + &quot;[Myhome motion sensor] Network connection is failed.\n&quot; + &quot;Will you activate Myguard Smart Security?" />
+      <item value="Motion" />
+      <item value="Reasons" />
       <item value="All security devices are offline" />
       <item value="Returns a Single that emits the single item emitted by this Observable if this Observable * emits only a single item, otherwise * if this Observable completes without emitting any items or emits more than one item a * {@link NoSuchElementException} or {@code IllegalArgumentException} will be signalled respectively." />
       <item value="Normally, an ObservableSource that returns multiple items will do so by invoking its {@link Observer}'s * {@link Observer#onNext onNext} method for each such item. You can change this behavior, instructing the * ObservableSource to compose a list of all of these items and then to invoke the Observer's {@code onNext} * function once, passing it the entire list, by calling the ObservableSource's {@code toList} method prior to * calling its {@link #subscribe} method." />
@@ -48,14 +51,11 @@
       <item value="选中" />
       <item value="多个" />
       <item value="container" />
-      <item value="Sheet" />
-      <item value="Input: If nothing, an empty dialer is started; else {@link #getData} * is URI of a phone number to be dialed or a tel: URI of an explicit phone * number." />
-      <item value="Activity Action: Dial a number as specified by the data. This shows a * UI with the number being dialed, allowing the user to explicitly * initiate the call." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
