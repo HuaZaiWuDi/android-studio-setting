@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detection" />
       <item value="privacy protection" />
       <item value="Check the device conditions for Smart Security\n&quot; + &quot;[Myhome door sensor] It is opened.\n&quot; + &quot;[Myhome motion sensor] Network connection is failed.\n&quot; + &quot;Will you activate Myguard Smart Security?" />
       <item value="Motion" />
@@ -50,12 +51,11 @@
       <item value="god" />
       <item value="guard" />
       <item value="选中" />
-      <item value="多个" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
