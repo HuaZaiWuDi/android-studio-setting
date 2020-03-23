@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cl sms Log" />
       <item value="Manual" />
       <item value="log" />
       <item value="Log" />
@@ -50,7 +51,6 @@
       <item value="Subscription" />
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
       <item value="exceptional scenario" />
-      <item value="exceptional scenario text" />
     </histories>
     <option name="languageScores">
       <map>
