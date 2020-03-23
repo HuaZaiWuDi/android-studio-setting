@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Manual" />
+      <item value="log" />
+      <item value="Log" />
       <item value="detection" />
       <item value="privacy protection" />
       <item value="Check the device conditions for Smart Security\n&quot; + &quot;[Myhome door sensor] It is opened.\n&quot; + &quot;[Myhome motion sensor] Network connection is failed.\n&quot; + &quot;Will you activate Myguard Smart Security?" />
@@ -48,14 +51,11 @@
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
       <item value="exceptional scenario" />
       <item value="exceptional scenario text" />
-      <item value="god" />
-      <item value="guard" />
-      <item value="选中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
