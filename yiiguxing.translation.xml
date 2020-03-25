@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Continuous" />
+      <item value="Timer" />
+      <item value="timer" />
+      <item value="times" />
+      <item value="time" />
+      <item value="连续" />
       <item value="cl sms Log" />
       <item value="Manual" />
       <item value="log" />
@@ -45,17 +51,11 @@
       <item value="信息" />
       <item value="Running task appeared exception!" />
       <item value="Continue process" />
-      <item value="Interrupt process, pipeline will be destroy when this method called." />
-      <item value="navigation" />
-      <item value="自动化" />
-      <item value="Subscription" />
-      <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
-      <item value="exceptional scenario" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
