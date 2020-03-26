@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The default implementation of this method returns 0, making the assumption of * a single view type for the adapter. Unlike ListView adapters, types need not * be contiguous. Consider using id resources to uniquely identify item view types." />
+      <item value="Return the view type of the item at &lt;code&gt;position&lt;/code&gt; for the purposes * of view recycling." />
+      <item value="Returns a hash code value for the object. The general contract of `hashCode` is:" />
+      <item value="Enumeration of the style of text formatting and parsing." />
       <item value="MAGNET" />
       <item value="Motion Detected" />
       <item value="昨天" />
@@ -47,15 +51,11 @@
       <item value="Adds the given observer to the observers list. This call is similar to * {@link LiveData#observe(LifecycleOwner, Observer)} with a LifecycleOwner, which * is always active. This means that the given observer will receive all events and will never * be automatically removed. You should manually call {@link #removeObserver(Observer)} to stop * observing this LiveData. * While LiveData has one of such observers, it will be considered * as active." />
       <item value="Absent" />
       <item value="Posts a task to a main thread to set the given value. So if you have a following code * executed in the main thread:" />
-      <item value="If you called this method multiple times before a main thread executed a posted task, only * the last value would be dispatched." />
-      <item value="The value &quot;b&quot; would be set at first and later the main thread would override it with * the value &quot;a&quot;." />
-      <item value="Called when the number of active observers change to 1 from 0." />
-      <item value="Sets the value. If there are active observers, the value will be dispatched to them." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
