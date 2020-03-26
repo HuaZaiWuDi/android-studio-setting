@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&gt;Rounds a date, leaving the field specified as the most * significant field.&lt;" />
+      <item value="the different rounded date, not null" />
+      <item value="number of days within the fragment of date" />
+      <item value="Gets a Calendar fragment for any unit." />
+      <item value="number of units within the fragment of the calendar" />
+      <item value="Checks if two date objects represent the same instant in time.&lt;/p&gt;" />
       <item value="The default implementation of this method returns 0, making the assumption of * a single view type for the adapter. Unlike ListView adapters, types need not * be contiguous. Consider using id resources to uniquely identify item view types." />
       <item value="Return the view type of the item at &lt;code&gt;position&lt;/code&gt; for the purposes * of view recycling." />
       <item value="Returns a hash code value for the object. The general contract of `hashCode` is:" />
@@ -45,17 +51,11 @@
       <item value="Changed" />
       <item value="Set a special listener to be called when an action is performed * on the text view. This will be called when the enter key is pressed, * or when an action supplied to the IME is selected by the user. Setting * this means that the normal hard key event will not insert a newline * into the text view, even if it is multi-line; holding down the ALT * modifier will, however, allow the user to insert a newline character." />
       <item value="Returns whether the soft input method will be made visible when this * TextView gets focused. The default is true." />
-      <item value="Check latest state b4 dispatch. Maybe it changed state but we didn't get the event yet. // // we still first check observer.active to keep it as the entrance for events. So even if // the observer moved to an active state, if we've not received that event, we better not // notify for a more predictable notification order." />
-      <item value="m Dispatching" />
-      <item value="dispatching" />
-      <item value="Adds the given observer to the observers list. This call is similar to * {@link LiveData#observe(LifecycleOwner, Observer)} with a LifecycleOwner, which * is always active. This means that the given observer will receive all events and will never * be automatically removed. You should manually call {@link #removeObserver(Observer)} to stop * observing this LiveData. * While LiveData has one of such observers, it will be considered * as active." />
-      <item value="Absent" />
-      <item value="Posts a task to a main thread to set the given value. So if you have a following code * executed in the main thread:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
