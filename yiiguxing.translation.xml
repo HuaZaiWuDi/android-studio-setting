@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="昨天" />
       <item value="Adds or subtracts the specified amount of time to the given calendar field, * based on the calendar's rules. For example, to subtract 5 days from * the current time of the calendar, you can achieve it by calling:" />
       <item value="access" />
       <item value="The notification starts the callback and loads more */" />
@@ -50,12 +51,11 @@
       <item value="Sets the value. If there are active observers, the value will be dispatched to them." />
       <item value="This method must be called from the main thread. If you need set a value from a background * thread, you can use {@link #postValue(Object)}" />
       <item value="message" />
-      <item value="massage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
