@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The notification starts the callback and loads more */" />
       <item value="Continuous" />
       <item value="Timer" />
       <item value="timer" />
@@ -50,12 +51,11 @@
       <item value="massage" />
       <item value="信息" />
       <item value="Running task appeared exception!" />
-      <item value="Continue process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
