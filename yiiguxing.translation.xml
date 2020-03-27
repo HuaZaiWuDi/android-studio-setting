@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="privacy protection in progress" />
       <item value="mdtrigger" />
       <item value="motion" />
       <item value="Groups elements of the original collection by the key returned by the given [keySelector] function * applied to each element and returns a map where each group key is associated with a list of corresponding elements." />
@@ -50,11 +51,10 @@
       <item value="When inputting prohibited specific characters" />
       <item value="round" />
       <item value="Specific" />
-      <item value="Autowired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
+        <entry key="CHINESE" value="285" />
         <entry key="ENGLISH" value="285" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
