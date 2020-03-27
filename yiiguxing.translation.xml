@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="motion" />
       <item value="Groups elements of the original collection by the key returned by the given [keySelector] function * applied to each element and returns a map where each group key is associated with a list of corresponding elements." />
       <item value="For example, if you had the date-time of 28 Mar 2002 * 13:45:01.231, if you passed with HOUR, it would return 28 Mar * 2002 13:00:00.000. If this was passed with MONTH, it would * return 1 Mar 2002 0:00:00.000." />
       <item value="Truncates a date, leaving the field specified as the most * significant field." />
@@ -50,12 +51,11 @@
       <item value="Specific" />
       <item value="Autowired" />
       <item value="Fields from build type: debug" />
-      <item value="solve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
