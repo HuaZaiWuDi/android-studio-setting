@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a new [LiveData] object does not emit a value until the source `this` LiveData value * has been changed. The value is considered changed if `equals()` yields `false`." />
       <item value="Token has expired" />
       <item value="magnet" />
       <item value="motion" />
@@ -50,12 +51,11 @@
       <item value="Bonjour" />
       <item value="an Observable that emits only those items emitted by the source ObservableSource that the filter * evaluates as {@code true}" />
       <item value="Returns a Single that emits a single item, a list composed of all the items emitted by the * finite source ObservableSource." />
-      <item value="the period of time each buffer collects items before it is emitted and replaced with a new * buffer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
