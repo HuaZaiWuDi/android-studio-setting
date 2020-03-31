@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maps the upstream items into {@link SingleSource}s and switches (subscribes) to the newer ones * while disposing the older ones (and ignoring their signals) and emits the latest success value of the current one, * delaying errors from this {@code Flowable} or the inner {@code SingleSource}s until all terminate." />
       <item value="Instructs a Publisher to pass control to another Publisher rather than invoking" />
       <item value="detection" />
       <item value="PORTRAIT" />
@@ -50,12 +51,11 @@
       <item value="Motion" />
       <item value="Reasons" />
       <item value="All security devices are offline" />
-      <item value="Returns a Single that emits the single item emitted by this Observable if this Observable * emits only a single item, otherwise * if this Observable completes without emitting any items or emits more than one item a * {@link NoSuchElementException} or {@code IllegalArgumentException} will be signalled respectively." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="297" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
