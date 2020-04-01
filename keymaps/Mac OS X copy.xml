@@ -12,7 +12,7 @@
   <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinFiles">
-    <keyboard-shortcut first-keystroke="shift m" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta m" />
