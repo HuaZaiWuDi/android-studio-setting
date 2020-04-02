@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lg my guard state push" />
+      <item value="Dispatch" />
+      <item value="代理" />
       <item value="magnet" />
       <item value="预设" />
       <item value="recipient" />
@@ -48,14 +51,11 @@
       <item value="cl sms Log" />
       <item value="Manual" />
       <item value="log" />
-      <item value="Log" />
-      <item value="privacy protection" />
-      <item value="Check the device conditions for Smart Security\n&quot; + &quot;[Myhome door sensor] It is opened.\n&quot; + &quot;[Myhome motion sensor] Network connection is failed.\n&quot; + &quot;Will you activate Myguard Smart Security?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
