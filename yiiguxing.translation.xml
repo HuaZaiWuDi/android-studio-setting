@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="magnet" />
       <item value="预设" />
       <item value="recipient" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view" />
@@ -13,7 +14,6 @@
       <item value="marquee" />
       <item value="Creates a new [LiveData] object does not emit a value until the source `this` LiveData value * has been changed. The value is considered changed if `equals()` yields `false`." />
       <item value="Token has expired" />
-      <item value="magnet" />
       <item value="motion" />
       <item value="Returns a singleton instance of a never-signalling Single (only calls onSubscribe)." />
       <item value="privacy protection in progress" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
+        <entry key="CHINESE" value="299" />
         <entry key="ENGLISH" value="299" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
