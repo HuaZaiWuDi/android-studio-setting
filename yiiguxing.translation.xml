@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="week Day" />
       <item value="motion" />
       <item value="The string constructed by replacing each matching subsequence * by the replacement string, substituting captured subsequences * as needed" />
       <item value="The replacement string" />
@@ -50,12 +51,11 @@
       <item value="number of days within the fragment of date" />
       <item value="Gets a Calendar fragment for any unit." />
       <item value="number of units within the fragment of the calendar" />
-      <item value="Checks if two date objects represent the same instant in time.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
