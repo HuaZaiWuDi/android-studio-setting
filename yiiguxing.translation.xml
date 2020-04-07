@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wheel curved" />
       <item value="atmospheric" />
       <item value="Pads the string to the specified [length] at the beginning with the specified character or space." />
       <item value="Returns a sub sequence of this char sequence having leading and trailing characters matching the [predicate] removed." />
@@ -50,12 +51,11 @@
       <item value="access" />
       <item value="The notification starts the callback and loads more */" />
       <item value="Continuous" />
-      <item value="Timer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="CHINESE" value="308" />
+        <entry key="ENGLISH" value="309" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
