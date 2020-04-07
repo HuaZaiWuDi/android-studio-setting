@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="motion" />
       <item value="The string constructed by replacing each matching subsequence * by the replacement string, substituting captured subsequences * as needed" />
       <item value="The replacement string" />
       <item value="A literal string replacement" />
@@ -36,7 +37,6 @@
       <item value="marquee" />
       <item value="Creates a new [LiveData] object does not emit a value until the source `this` LiveData value * has been changed. The value is considered changed if `equals()` yields `false`." />
       <item value="Token has expired" />
-      <item value="motion" />
       <item value="Returns a singleton instance of a never-signalling Single (only calls onSubscribe)." />
       <item value="privacy protection in progress" />
       <item value="mdtrigger" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
+        <entry key="CHINESE" value="321" />
         <entry key="ENGLISH" value="321" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
