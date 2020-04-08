@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a list of pairs built from the elements of `this` collection and the [other] array with the same index. * The returned list has length of the shortest collection." />
       <item value="postfix" />
       <item value="prefix" />
       <item value="separator" />
@@ -50,12 +51,11 @@
       <item value="Truncates a date, leaving the field specified as the most * significant field." />
       <item value="Determines if two calendars are equal up to no more than the specified * most significant field." />
       <item value="Parses a string representing a date by trying a variety of different parsers." />
-      <item value="&gt;Rounds a date, leaving the field specified as the most * significant field.&lt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
