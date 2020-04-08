@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets the current value of the default locale for this instance * of the Java Virtual Machine." />
+      <item value="KOREAN" />
       <item value="All security devices of CCTV G2 have been deleted so that Myguard cannot be activated." />
       <item value="Instantiation" />
       <item value="多选" />
@@ -49,13 +51,11 @@
       <item value="Token has expired" />
       <item value="Returns a singleton instance of a never-signalling Single (only calls onSubscribe)." />
       <item value="privacy protection in progress" />
-      <item value="mdtrigger" />
-      <item value="Groups elements of the original collection by the key returned by the given [keySelector] function * applied to each element and returns a map where each group key is associated with a list of corresponding elements." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
