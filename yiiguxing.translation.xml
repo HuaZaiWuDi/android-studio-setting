@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiation" />
+      <item value="多选" />
+      <item value="单选" />
       <item value="Returns a list of pairs built from the elements of `this` collection and the [other] array with the same index. * The returned list has length of the shortest collection." />
       <item value="postfix" />
       <item value="prefix" />
@@ -48,14 +51,11 @@
       <item value="mdtrigger" />
       <item value="Groups elements of the original collection by the key returned by the given [keySelector] function * applied to each element and returns a map where each group key is associated with a list of corresponding elements." />
       <item value="For example, if you had the date-time of 28 Mar 2002 * 13:45:01.231, if you passed with HOUR, it would return 28 Mar * 2002 13:00:00.000. If this was passed with MONTH, it would * return 1 Mar 2002 0:00:00.000." />
-      <item value="Truncates a date, leaving the field specified as the most * significant field." />
-      <item value="Determines if two calendars are equal up to no more than the specified * most significant field." />
-      <item value="Parses a string representing a date by trying a variety of different parsers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="330" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
