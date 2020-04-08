@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="postfix" />
+      <item value="prefix" />
+      <item value="separator" />
+      <item value="Creates a string from all the elements separated using [separator] and using the given [prefix] and [postfix] if supplied." />
       <item value="week Day" />
       <item value="motion" />
       <item value="The string constructed by replacing each matching subsequence * by the replacement string, substituting captured subsequences * as needed" />
@@ -47,15 +51,11 @@
       <item value="Determines if two calendars are equal up to no more than the specified * most significant field." />
       <item value="Parses a string representing a date by trying a variety of different parsers." />
       <item value="&gt;Rounds a date, leaving the field specified as the most * significant field.&lt;" />
-      <item value="the different rounded date, not null" />
-      <item value="number of days within the fragment of date" />
-      <item value="Gets a Calendar fragment for any unit." />
-      <item value="number of units within the fragment of the calendar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
