@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns `true` if this char sequence is empty (contains no characters)." />
+      <item value="Returns `true` if this nullable char sequence is either `null` or empty or consists solely of whitespace characters." />
       <item value="none" />
       <item value="Returns `true` if no elements match the given [predicate]." />
       <item value="IFTTT My Guard Action Bean" />
@@ -49,13 +51,11 @@
       <item value="PORTRAIT" />
       <item value="summarize" />
       <item value="韩语" />
-      <item value="marquee" />
-      <item value="Creates a new [LiveData] object does not emit a value until the source `this` LiveData value * has been changed. The value is considered changed if `equals()` yields `false`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
