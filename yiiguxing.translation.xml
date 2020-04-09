@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Optimze" />
       <item value="Returns `true` if this char sequence is empty (contains no characters)." />
       <item value="Returns `true` if this nullable char sequence is either `null` or empty or consists solely of whitespace characters." />
       <item value="none" />
@@ -50,11 +51,10 @@
       <item value="detection" />
       <item value="PORTRAIT" />
       <item value="summarize" />
-      <item value="韩语" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
+        <entry key="CHINESE" value="338" />
         <entry key="ENGLISH" value="338" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
