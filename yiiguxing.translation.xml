@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns `true` if no elements match the given [predicate]." />
       <item value="IFTTT My Guard Action Bean" />
       <item value="Gets the current value of the default locale for this instance * of the Java Virtual Machine." />
       <item value="KOREAN" />
@@ -50,12 +51,11 @@
       <item value="marquee" />
       <item value="Creates a new [LiveData] object does not emit a value until the source `this` LiveData value * has been changed. The value is considered changed if `equals()` yields `false`." />
       <item value="Token has expired" />
-      <item value="Returns a singleton instance of a never-signalling Single (only calls onSubscribe)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
