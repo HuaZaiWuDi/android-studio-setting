@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ATTR CAMERA MDRIGGER detect" />
+      <item value="Unit defined in com.lumi.commonui.cell.CommonCell" />
+      <item value="forever" />
       <item value="Optimze" />
       <item value="Returns `true` if this char sequence is empty (contains no characters)." />
       <item value="Returns `true` if this nullable char sequence is either `null` or empty or consists solely of whitespace characters." />
@@ -48,14 +51,11 @@
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view" />
       <item value="Maps the upstream items into {@link SingleSource}s and switches (subscribes) to the newer ones * while disposing the older ones (and ignoring their signals) and emits the latest success value of the current one, * delaying errors from this {@code Flowable} or the inner {@code SingleSource}s until all terminate." />
       <item value="Instructs a Publisher to pass control to another Publisher rather than invoking" />
-      <item value="detection" />
-      <item value="PORTRAIT" />
-      <item value="summarize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
