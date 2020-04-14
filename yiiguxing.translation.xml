@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cannot be activated due to disconnected network." />
       <item value="Returns a Single that emits the single item emitted by the source Publisher, if that Publisher * emits only a single item, or a default item if the source Publisher emits no items. If the source * Publisher emits more than one item, an {@code IllegalArgumentException} is signaled instead." />
       <item value="when setData is called, we set the pending data and actual data swap happens on the main" />
       <item value="Mutable" />
@@ -50,12 +51,11 @@
       <item value="Returns a string having leading and trailing characters matching the [predicate] removed." />
       <item value="Returns a string having leading and trailing whitespace removed." />
       <item value="handle" />
-      <item value="处理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
