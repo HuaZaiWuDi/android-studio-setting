@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If set in an Intent passed to {@link Context#startActivity Context.startActivity()}, * this flag will cause any existing task that would be associated with the * activity to be cleared before the activity is started. That is, the activity * becomes the new root of an otherwise empty task, and any old activities * are finished. This can only be used in conjunction with {@link #FLAG_ACTIVITY_NEW_TASK}." />
+      <item value="If set, and the activity being launched is already running in the * current task, then instead of launching a new instance of that activity, * all of the other activities on top of it will be closed and this Intent * will be delivered to the (now on top) old activity as a new Intent." />
       <item value="* * Consistent: for any non-null values `x` and `y`, multiple invocations of `x.equals(y)` consistently return true or consistently return false, provided no information used in `equals` comparisons on the objects is modified." />
       <item value="Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true" />
       <item value="Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true." />
@@ -49,13 +51,11 @@
       <item value="&lt;p&gt;This method produces a &lt;code&gt;String&lt;/code&gt; that can be used to * create a &lt;code&gt;Pattern&lt;/code&gt; that would match the string * &lt;code&gt;s&lt;/code&gt; as if it were a literal pattern.&lt;/p&gt; Metacharacters * or escape sequences in the input sequence will be given no special * meaning." />
       <item value="Returns a literal pattern &lt;code&gt;String&lt;/code&gt; for the specified * &lt;code&gt;String&lt;/code&gt;." />
       <item value="quote" />
-      <item value="Splits the given input sequence around matches of this pattern." />
-      <item value="The (possibly empty) subsequence matched by the previous match, * in string form" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="363" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
