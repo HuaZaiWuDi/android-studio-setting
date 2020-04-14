@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* * Consistent: for any non-null values `x` and `y`, multiple invocations of `x.equals(y)` consistently return true or consistently return false, provided no information used in `equals` comparisons on the objects is modified." />
+      <item value="Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true" />
+      <item value="Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true." />
+      <item value="Reflexive: for any non-null value `x`, `x.equals(x)` should return true." />
+      <item value="Reflexive: for any non-null value `x`, `x.equals(x)` should return true. * * Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true. * * Transitive: for any non-null values `x`, `y`, and `z`, if `x.equals(y)` returns true and `y.equals(z)` returns true, then `x.equals(z)` should return true. * * Consistent: for any non-null values `x` and `y`, multiple invocations of `x.equals(y)` consistently return true or consistently return false, provided no information used in `equals` comparisons on the objects is modified. * * Never equal to null: for any non-null value `x`, `x.equals(null)` should return false." />
+      <item value="Indicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following * requirements:" />
       <item value="Flag indicating whether this window requests a translucent navigation bar. Corresponds to {@link android.view.WindowManager.LayoutParams#FLAG_TRANSLUCENT_NAVIGATION}." />
       <item value="Extracts the phone number from an Intent." />
       <item value="Returns the phone number string for line 1, for example, the MSISDN * for a GSM phone. Return null if it is unavailable." />
@@ -45,17 +51,11 @@
       <item value="quote" />
       <item value="Splits the given input sequence around matches of this pattern." />
       <item value="The (possibly empty) subsequence matched by the previous match, * in string form" />
-      <item value="Returns the input subsequence matched by the previous match." />
-      <item value="fastpath will work if the regex is a * (1)one-char String and this character is not one of the * RegEx's meta characters &quot;.$|()[{^?*+\\&quot;, or * (2)two-char String and the first char is the backslash and * the second is one of regEx's meta characters &quot;.$|()[{^?*+\\&quot;." />
-      <item value="Returns a result equivalent to {@code s.split(separator, limit)} if it's able * to compute it more cheaply than native impl, or null if the caller should fall back to * using native impl." />
-      <item value="wheel curved" />
-      <item value="atmospheric" />
-      <item value="Pads the string to the specified [length] at the beginning with the specified character or space." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
