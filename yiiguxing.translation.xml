@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sensors Analytics" />
       <item value="Set special flags controlling how this intent is handled. Most values * here depend on the type of component being executed by the Intent, * specifically the FLAG_ACTIVITY_* flags are all for use with * {@link Context#startActivity Context.startActivity()} and the * FLAG_RECEIVER_* flags are all for use with * {@link Context#sendBroadcast(Intent) Context.sendBroadcast()}." />
       <item value="If set, the activity will not be launched if it is already running * at the top of the history stack." />
       <item value="If set in an Intent passed to {@link Context#startActivity Context.startActivity()}, * this flag will cause any existing task that would be associated with the * activity to be cleared before the activity is started. That is, the activity * becomes the new root of an otherwise empty task, and any old activities * are finished. This can only be used in conjunction with {@link #FLAG_ACTIVITY_NEW_TASK}." />
@@ -50,12 +51,11 @@
       <item value="The string constructed by replacing each matching subsequence * by the replacement string, substituting captured subsequences * as needed" />
       <item value="The replacement string" />
       <item value="A literal string replacement" />
-      <item value="&lt;p&gt;This method produces a &lt;code&gt;String&lt;/code&gt; that can be used to * create a &lt;code&gt;Pattern&lt;/code&gt; that would match the string * &lt;code&gt;s&lt;/code&gt; as if it were a literal pattern.&lt;/p&gt; Metacharacters * or escape sequences in the input sequence will be given no special * meaning." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="366" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
