@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동" />
+      <item value="detect" />
       <item value="on Arrival" />
       <item value="PROP alarm bell volume" />
       <item value="sensors Analytics" />
@@ -49,13 +51,11 @@
       <item value="separator" />
       <item value="Creates a string from all the elements separated using [separator] and using the given [prefix] and [postfix] if supplied." />
       <item value="week Day" />
-      <item value="motion" />
-      <item value="The string constructed by replacing each matching subsequence * by the replacement string, substituting captured subsequences * as needed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="369" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
