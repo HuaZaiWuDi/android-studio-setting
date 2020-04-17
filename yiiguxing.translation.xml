@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Due to insufficient storage space in U + box, the oldest videos will be automatically deleted before new videos are saved." />
       <item value="resolve" />
       <item value="경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동" />
       <item value="detect" />
@@ -50,12 +51,11 @@
       <item value="postfix" />
       <item value="prefix" />
       <item value="separator" />
-      <item value="Creates a string from all the elements separated using [separator] and using the given [prefix] and [postfix] if supplied." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
