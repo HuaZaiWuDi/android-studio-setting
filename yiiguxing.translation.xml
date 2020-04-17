@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unsubscribe On" />
+      <item value="observe On" />
+      <item value="subscribe On" />
       <item value="confirm" />
       <item value="Chain of Causes for CompositeException In Order Received" />
       <item value="Due to insufficient storage space in U + box, the oldest videos will be automatically deleted before new videos are saved." />
@@ -48,14 +51,11 @@
       <item value="All security devices of CCTV G2 have been deleted so that Myguard cannot be activated." />
       <item value="Instantiation" />
       <item value="多选" />
-      <item value="单选" />
-      <item value="Returns a list of pairs built from the elements of `this` collection and the [other] array with the same index. * The returned list has length of the shortest collection." />
-      <item value="postfix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
