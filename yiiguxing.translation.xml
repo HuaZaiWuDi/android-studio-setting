@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chain of Causes for CompositeException In Order Received" />
       <item value="Due to insufficient storage space in U + box, the oldest videos will be automatically deleted before new videos are saved." />
       <item value="resolve" />
       <item value="경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동" />
@@ -50,11 +51,10 @@
       <item value="Returns a list of pairs built from the elements of `this` collection and the [other] array with the same index. * The returned list has length of the shortest collection." />
       <item value="postfix" />
       <item value="prefix" />
-      <item value="separator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
+        <entry key="CHINESE" value="371" />
         <entry key="ENGLISH" value="371" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
