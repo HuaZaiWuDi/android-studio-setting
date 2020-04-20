@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate resources" />
+      <item value="Move or commit them before rebase" />
+      <item value="Untracked Files Prevent Rebase" />
       <item value="님이 신고하였습니다" />
       <item value="님이 신고하였습니다." />
       <item value="저장하기" />
@@ -48,14 +51,11 @@
       <item value="forever" />
       <item value="Optimze" />
       <item value="Returns `true` if this char sequence is empty (contains no characters)." />
-      <item value="Returns `true` if this nullable char sequence is either `null` or empty or consists solely of whitespace characters." />
-      <item value="none" />
-      <item value="Returns `true` if no elements match the given [predicate]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="380" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="1" />
         <entry key="CATALAN" value="1" />
