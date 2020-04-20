@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="year" />
       <item value="Returns true if this zone has the same rule and offset as another zone. * That is, if this zone differs only in ID, if at all. Returns false * if the other zone is null." />
       <item value="South Korea" />
       <item value="unsubscribe On" />
@@ -50,12 +51,11 @@
       <item value="IFTTT My Guard Action Bean" />
       <item value="Gets the current value of the default locale for this instance * of the Java Virtual Machine." />
       <item value="KOREAN" />
-      <item value="All security devices of CCTV G2 have been deleted so that Myguard cannot be activated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
