@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interrupt" />
       <item value="Duplicate resources" />
       <item value="Move or commit them before rebase" />
       <item value="Untracked Files Prevent Rebase" />
@@ -50,12 +51,11 @@
       <item value="Unit defined in com.lumi.commonui.cell.CommonCell" />
       <item value="forever" />
       <item value="Optimze" />
-      <item value="Returns `true` if this char sequence is empty (contains no characters)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="1" />
         <entry key="CATALAN" value="1" />
