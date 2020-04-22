@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns true if the activity's orientation is fixed to landscape." />
+      <item value="PORTRAIT" />
+      <item value="behind" />
+      <item value="Constant corresponding to &lt;code&gt;behind&lt;/code&gt; in * the {@link android.R.attr#screenOrientation} attribute." />
       <item value="Returns the timing interpolator that this animation uses." />
       <item value="curtain" />
       <item value="atmospheric" />
@@ -47,15 +51,11 @@
       <item value="Extracts the phone number from an Intent." />
       <item value="Returns the phone number string for line 1, for example, the MSISDN * for a GSM phone. Return null if it is unavailable." />
       <item value="Denied" />
-      <item value="cannot be activated due to disconnected network." />
-      <item value="Returns a Single that emits the single item emitted by the source Publisher, if that Publisher * emits only a single item, or a default item if the source Publisher emits no items. If the source * Publisher emits more than one item, an {@code IllegalArgumentException} is signaled instead." />
-      <item value="when setData is called, we set the pending data and actual data swap happens on the main" />
-      <item value="Mutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="396" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="1" />
         <entry key="CATALAN" value="1" />
