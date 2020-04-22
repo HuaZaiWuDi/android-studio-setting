@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the Adapter position of the item represented by this ViewHolder." />
       <item value="Compilation failed to complete" />
       <item value="is defined multiple times" />
       <item value="URL fire insurance detail" />
@@ -50,7 +51,6 @@
       <item value="Nulls out references to the upstream producer and downstream SingleObserver if * the sequence is terminated or downstream calls dispose()." />
       <item value="Detach" />
       <item value="Terminate" />
-      <item value="ATTR CAMERA MDRIGGER detect" />
     </histories>
     <option name="languageScores">
       <map>
