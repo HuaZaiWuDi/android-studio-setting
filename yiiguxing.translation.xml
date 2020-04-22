@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Have" />
       <item value="The notification starts the callback and loads more" />
       <item value="Returns the Adapter position of the item represented by this ViewHolder." />
       <item value="Compilation failed to complete" />
@@ -50,7 +51,6 @@
       <item value="This avoids a common problem with events: on configuration change (like rotation) an update * can be emitted if the observer is active. This LiveData only calls the observable if there's an * explicit call to setValue() or call()." />
       <item value="A lifecycle-aware observable that sends only new updates after subscription, used for events like * navigation and Snackbar messages." />
       <item value="Nulls out references to the upstream producer and downstream SingleObserver if * the sequence is terminated or downstream calls dispose()." />
-      <item value="Detach" />
     </histories>
     <option name="languageScores">
       <map>
