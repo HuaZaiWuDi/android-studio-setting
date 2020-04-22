@@ -4,11 +4,11 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
-      <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="grable" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="ecg" type="PLAIN_TEXT" />
       <mapping ext="rar" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
