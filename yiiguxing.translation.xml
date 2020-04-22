@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="curtain" />
+      <item value="atmospheric" />
+      <item value="curved" />
       <item value="Have" />
       <item value="The notification starts the callback and loads more" />
       <item value="Returns the Adapter position of the item represented by this ViewHolder." />
@@ -48,14 +51,11 @@
       <item value="when setData is called, we set the pending data and actual data swap happens on the main" />
       <item value="Mutable" />
       <item value="Note that only one observer is going to be notified of changes." />
-      <item value="This avoids a common problem with events: on configuration change (like rotation) an update * can be emitted if the observer is active. This LiveData only calls the observable if there's an * explicit call to setValue() or call()." />
-      <item value="A lifecycle-aware observable that sends only new updates after subscription, used for events like * navigation and Snackbar messages." />
-      <item value="Nulls out references to the upstream producer and downstream SingleObserver if * the sequence is terminated or downstream calls dispose()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="1" />
         <entry key="CATALAN" value="1" />
