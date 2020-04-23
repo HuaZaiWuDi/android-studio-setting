@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unescaped apostrophe in string" />
       <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with line breaks (single newline character) in between. This inverts the * {@link Spanned} to HTML string conversion done with the option * {@link #TO_HTML_PARAGRAPH_LINES_INDIVIDUAL}." />
       <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with blank lines (two newline characters) in between. This is the legacy behavior * prior to N." />
       <item value="Flag indicating that texts inside &amp;lt;h1&amp;gt;~&amp;lt;h6&amp;gt; elements will be separated from * other texts with one newline character by default. */" />
@@ -50,12 +51,11 @@
       <item value="If set, and the activity being launched is already running in the * current task, then instead of launching a new instance of that activity, * all of the other activities on top of it will be closed and this Intent * will be delivered to the (now on top) old activity as a new Intent." />
       <item value="* * Consistent: for any non-null values `x` and `y`, multiple invocations of `x.equals(y)` consistently return true or consistently return false, provided no information used in `equals` comparisons on the objects is modified." />
       <item value="Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true" />
-      <item value="Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="1" />
         <entry key="CATALAN" value="1" />
