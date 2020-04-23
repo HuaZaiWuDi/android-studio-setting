@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when the Activity calls {@link Activity#onCreate super.onCreate()}." />
+      <item value="Called as the first step of the Activity being created. This is always called before * {@link Activity#onCreate}." />
       <item value="Returns true if the activity's orientation is fixed to landscape." />
       <item value="PORTRAIT" />
       <item value="behind" />
@@ -49,13 +51,11 @@
       <item value="Indicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following * requirements:" />
       <item value="Flag indicating whether this window requests a translucent navigation bar. Corresponds to {@link android.view.WindowManager.LayoutParams#FLAG_TRANSLUCENT_NAVIGATION}." />
       <item value="Extracts the phone number from an Intent." />
-      <item value="Returns the phone number string for line 1, for example, the MSISDN * for a GSM phone. Return null if it is unavailable." />
-      <item value="Denied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="397" />
+        <entry key="ENGLISH" value="398" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="1" />
         <entry key="CATALAN" value="1" />
