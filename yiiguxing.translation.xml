@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with line breaks (single newline character) in between. This inverts the * {@link Spanned} to HTML string conversion done with the option * {@link #TO_HTML_PARAGRAPH_LINES_INDIVIDUAL}." />
+      <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with blank lines (two newline characters) in between. This is the legacy behavior * prior to N." />
+      <item value="Flag indicating that texts inside &amp;lt;h1&amp;gt;~&amp;lt;h6&amp;gt; elements will be separated from * other texts with one newline character by default. */" />
+      <item value="Flag indicating that texts inside &amp;lt;p&amp;gt; elements will be separated from other texts with * one newline character by default. */" />
+      <item value="Flag indicating that texts inside &amp;lt;ul&amp;gt; elements will be separated from other texts * with one newline character by default." />
       <item value="Called when the Activity calls {@link Activity#onCreate super.onCreate()}." />
       <item value="Called as the first step of the Activity being created. This is always called before * {@link Activity#onCreate}." />
       <item value="Returns true if the activity's orientation is fixed to landscape." />
@@ -46,16 +51,11 @@
       <item value="* * Consistent: for any non-null values `x` and `y`, multiple invocations of `x.equals(y)` consistently return true or consistently return false, provided no information used in `equals` comparisons on the objects is modified." />
       <item value="Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true" />
       <item value="Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true." />
-      <item value="Reflexive: for any non-null value `x`, `x.equals(x)` should return true." />
-      <item value="Reflexive: for any non-null value `x`, `x.equals(x)` should return true. * * Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true. * * Transitive: for any non-null values `x`, `y`, and `z`, if `x.equals(y)` returns true and `y.equals(z)` returns true, then `x.equals(z)` should return true. * * Consistent: for any non-null values `x` and `y`, multiple invocations of `x.equals(y)` consistently return true or consistently return false, provided no information used in `equals` comparisons on the objects is modified. * * Never equal to null: for any non-null value `x`, `x.equals(null)` should return false." />
-      <item value="Indicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following * requirements:" />
-      <item value="Flag indicating whether this window requests a translucent navigation bar. Corresponds to {@link android.view.WindowManager.LayoutParams#FLAG_TRANSLUCENT_NAVIGATION}." />
-      <item value="Extracts the phone number from an Intent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="397" />
-        <entry key="ENGLISH" value="398" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="1" />
         <entry key="CATALAN" value="1" />
