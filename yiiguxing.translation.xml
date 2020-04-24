@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="문이 열렸습니다." />
+      <item value="열림" />
+      <item value="움직임을 감지했습니다." />
+      <item value="감지 내역이 없습니다." />
+      <item value="年" />
+      <item value="MM월 dd일" />
+      <item value="오후" />
+      <item value="오전" />
       <item value="00시 00분" />
       <item value="시" />
       <item value="오전 " />
@@ -43,21 +51,13 @@
       <item value="specified as an absolute number where 0 is the top * edge." />
       <item value="unescaped apostrophe in string" />
       <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with line breaks (single newline character) in between. This inverts the * {@link Spanned} to HTML string conversion done with the option * {@link #TO_HTML_PARAGRAPH_LINES_INDIVIDUAL}." />
-      <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with blank lines (two newline characters) in between. This is the legacy behavior * prior to N." />
-      <item value="Flag indicating that texts inside &amp;lt;h1&amp;gt;~&amp;lt;h6&amp;gt; elements will be separated from * other texts with one newline character by default. */" />
-      <item value="Flag indicating that texts inside &amp;lt;p&amp;gt; elements will be separated from other texts with * one newline character by default. */" />
-      <item value="Flag indicating that texts inside &amp;lt;ul&amp;gt; elements will be separated from other texts * with one newline character by default." />
-      <item value="Called when the Activity calls {@link Activity#onCreate super.onCreate()}." />
-      <item value="Called as the first step of the Activity being created. This is always called before * {@link Activity#onCreate}." />
-      <item value="Returns true if the activity's orientation is fixed to landscape." />
-      <item value="PORTRAIT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="439" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="443" />
         <entry key="FRENCH" value="4" />
-        <entry key="KOREAN" value="5" />
+        <entry key="KOREAN" value="13" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="JAPANESE" value="2" />
