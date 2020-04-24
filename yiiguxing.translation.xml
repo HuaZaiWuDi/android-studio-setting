@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRADITIONAL" />
+      <item value="SIMPLIFIED" />
+      <item value="Category used to represent the default locale for * formatting dates, numbers, and/or currencies." />
+      <item value="KOREA" />
+      <item value="KOREAN" />
       <item value="연결끊김" />
       <item value="U+스마트홈 우리집 지킴이 Easy" />
       <item value="찾고자 하는 도로명주소, 검물명 또는 지번을 입력해주세요." />
@@ -46,16 +51,11 @@
       <item value="Cancel the animation. Cancelling an animation invokes the animation * listener, if set, to notify the end of the animation." />
       <item value="Defines what this animation should do when it reaches the end. This * setting is applied only when the repeat count is either greater than * 0 or {@link #INFINITE}. Defaults to {@link #RESTART}." />
       <item value="When the animation reaches the end and the repeat count is INFINTE_REPEAT * or a positive value, the animation restarts from the beginning." />
-      <item value="If fillBefore is true, this animation will apply its transformation * before the start time of the animation. If fillBefore is false and * {@link #isFillEnabled() fillEnabled} is true, the transformation will not be applied until * the start time of the animation." />
-      <item value="true if the animation has ended, false otherwise" />
-      <item value="The X coordinate of the point about which the object * is being rotated, specified as an absolute number where 0 is the * left edge. This value can either be an absolute number if * pivotXType is ABSOLUTE, or a percentage (where 1.0 is 100%) * otherwise." />
-      <item value="ABSOLUTE" />
-      <item value="Specifies how pivotXValue should be interpreted. One of * Animation.ABSOLUTE, Animation.RELATIVE_TO_SELF, or * Animation.RELATIVE_TO_PARENT." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="15" />
         <entry key="CATALAN" value="1" />
