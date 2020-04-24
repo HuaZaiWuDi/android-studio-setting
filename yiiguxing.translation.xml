@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="시작시간" />
       <item value="어제" />
       <item value="시간" />
       <item value="저장" />
@@ -50,12 +51,11 @@
       <item value="Returns the Adapter position of the item represented by this ViewHolder." />
       <item value="Compilation failed to complete" />
       <item value="is defined multiple times" />
-      <item value="URL fire insurance detail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="4" />
         <entry key="CATALAN" value="1" />
