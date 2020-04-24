@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets the transformation to apply at a specified point in time. Implementations of this * method should always replace the specified Transformation or document they are doing * otherwise." />
+      <item value="restrict" />
+      <item value="Ensure that the duration that this animation will run is not longer * than &lt;var&gt;durationMillis&lt;/var&gt;. In addition to adjusting the duration * itself, this ensures that the repeat count also will not make it run * longer than the given time." />
+      <item value="If fillEnabled is true, the animation will apply the value of fillBefore. * Otherwise, fillBefore is ignored and the animation * transformation is always applied until the animation ends." />
+      <item value="true if the animation should take the value of fillBefore into account" />
+      <item value="true if the animation will take fillBefore into account" />
+      <item value="If fillEnabled is true, this animation will apply the value of fillBefore." />
+      <item value="Indicates whether the animation transformation should be applied after the * animation ends." />
+      <item value="If this animation is run as a window animation, this will make the wallpaper visible behind * the animation." />
+      <item value="true if the animation should apply its transformation after it ends" />
+      <item value="If fillBefore is true, this animation will apply its transformation * before the start time of the animation. Defaults to true if * {@link #setFillEnabled(boolean)} is not set to true. * Note that this applies when using an {@link * android.view.animation.AnimationSet AnimationSet} to chain * animations. The transformation is not applied before the AnimationSet * itself starts." />
+      <item value="Convenience method to start the animation the first time * {@link #getTransformation(long, Transformation)} is invoked." />
+      <item value="If you cancel an animation manually, you must call {@link #reset()} * before starting the animation again." />
+      <item value="Cancel the animation. Cancelling an animation invokes the animation * listener, if set, to notify the end of the animation." />
+      <item value="Defines what this animation should do when it reaches the end. This * setting is applied only when the repeat count is either greater than * 0 or {@link #INFINITE}. Defaults to {@link #RESTART}." />
+      <item value="When the animation reaches the end and the repeat count is INFINTE_REPEAT * or a positive value, the animation restarts from the beginning." />
+      <item value="If fillBefore is true, this animation will apply its transformation * before the start time of the animation. If fillBefore is false and * {@link #isFillEnabled() fillEnabled} is true, the transformation will not be applied until * the start time of the animation." />
+      <item value="true if the animation has ended, false otherwise" />
+      <item value="The X coordinate of the point about which the object * is being rotated, specified as an absolute number where 0 is the * left edge. This value can either be an absolute number if * pivotXType is ABSOLUTE, or a percentage (where 1.0 is 100%) * otherwise." />
+      <item value="ABSOLUTE" />
+      <item value="Specifies how pivotXValue should be interpreted. One of * Animation.ABSOLUTE, Animation.RELATIVE_TO_SELF, or * Animation.RELATIVE_TO_PARENT." />
+      <item value="The X coordinate of the point about which the object is * being rotated, specified as an absolute number where 0 is the left * edge." />
+      <item value="Repeat the animation indefinitely." />
+      <item value="INFINITE" />
+      <item value="specified as an absolute number where 0 is the top * edge." />
       <item value="unescaped apostrophe in string" />
       <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with line breaks (single newline character) in between. This inverts the * {@link Spanned} to HTML string conversion done with the option * {@link #TO_HTML_PARAGRAPH_LINES_INDIVIDUAL}." />
       <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with blank lines (two newline characters) in between. This is the legacy behavior * prior to N." />
@@ -26,36 +51,11 @@
       <item value="Interrupt" />
       <item value="Duplicate resources" />
       <item value="Move or commit them before rebase" />
-      <item value="Untracked Files Prevent Rebase" />
-      <item value="님이 신고하였습니다" />
-      <item value="님이 신고하였습니다." />
-      <item value="저장하기" />
-      <item value="year" />
-      <item value="Returns true if this zone has the same rule and offset as another zone. * That is, if this zone differs only in ID, if at all. Returns false * if the other zone is null." />
-      <item value="South Korea" />
-      <item value="unsubscribe On" />
-      <item value="observe On" />
-      <item value="subscribe On" />
-      <item value="confirm" />
-      <item value="Chain of Causes for CompositeException In Order Received" />
-      <item value="Due to insufficient storage space in U + box, the oldest videos will be automatically deleted before new videos are saved." />
-      <item value="resolve" />
-      <item value="경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동경기도 광주시 직동" />
-      <item value="detect" />
-      <item value="on Arrival" />
-      <item value="PROP alarm bell volume" />
-      <item value="sensors Analytics" />
-      <item value="Set special flags controlling how this intent is handled. Most values * here depend on the type of component being executed by the Intent, * specifically the FLAG_ACTIVITY_* flags are all for use with * {@link Context#startActivity Context.startActivity()} and the * FLAG_RECEIVER_* flags are all for use with * {@link Context#sendBroadcast(Intent) Context.sendBroadcast()}." />
-      <item value="If set, the activity will not be launched if it is already running * at the top of the history stack." />
-      <item value="If set in an Intent passed to {@link Context#startActivity Context.startActivity()}, * this flag will cause any existing task that would be associated with the * activity to be cleared before the activity is started. That is, the activity * becomes the new root of an otherwise empty task, and any old activities * are finished. This can only be used in conjunction with {@link #FLAG_ACTIVITY_NEW_TASK}." />
-      <item value="If set, and the activity being launched is already running in the * current task, then instead of launching a new instance of that activity, * all of the other activities on top of it will be closed and this Intent * will be delivered to the (now on top) old activity as a new Intent." />
-      <item value="* * Consistent: for any non-null values `x` and `y`, multiple invocations of `x.equals(y)` consistently return true or consistently return false, provided no information used in `equals` comparisons on the objects is modified." />
-      <item value="Symmetric: for any non-null values `x` and `y`, `x.equals(y)` should return true if and only if `y.equals(x)` returns true" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="432" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="1" />
         <entry key="CATALAN" value="1" />
