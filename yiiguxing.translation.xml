@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="시간" />
+      <item value="저장" />
       <item value="Gets the transformation to apply at a specified point in time. Implementations of this * method should always replace the specified Transformation or document they are doing * otherwise." />
       <item value="restrict" />
       <item value="Ensure that the duration that this animation will run is not longer * than &lt;var&gt;durationMillis&lt;/var&gt;. In addition to adjusting the duration * itself, this ensures that the repeat count also will not make it run * longer than the given time." />
@@ -49,15 +51,13 @@
       <item value="is defined multiple times" />
       <item value="URL fire insurance detail" />
       <item value="Interrupt" />
-      <item value="Duplicate resources" />
-      <item value="Move or commit them before rebase" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="431" />
         <entry key="ENGLISH" value="432" />
         <entry key="FRENCH" value="4" />
-        <entry key="KOREAN" value="1" />
+        <entry key="KOREAN" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="JAPANESE" value="2" />
