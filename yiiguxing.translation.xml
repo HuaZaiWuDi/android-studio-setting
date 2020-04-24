@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="00시 00분" />
+      <item value="시" />
+      <item value="오전 " />
+      <item value="오전 00시 00분" />
+      <item value="신고하기" />
+      <item value="문자메시지를 보냈습니다.  [문자신고내역보기]에서 확인할 수 있습니다." />
+      <item value="문자메시지를 전송에 실패했습니다.  전화로 신고해 주세요. " />
+      <item value="112문자신고 보내기" />
+      <item value="출동 전에 제 연락처로 먼저 전화해 주세요.  2. 출동 결과를 반드시 알려주세요." />
+      <item value="움직임 감지됨" />
+      <item value="内容已确认" />
       <item value="시작시간" />
       <item value="어제" />
       <item value="시간" />
@@ -40,24 +51,13 @@
       <item value="Called as the first step of the Activity being created. This is always called before * {@link Activity#onCreate}." />
       <item value="Returns true if the activity's orientation is fixed to landscape." />
       <item value="PORTRAIT" />
-      <item value="behind" />
-      <item value="Constant corresponding to &lt;code&gt;behind&lt;/code&gt; in * the {@link android.R.attr#screenOrientation} attribute." />
-      <item value="Returns the timing interpolator that this animation uses." />
-      <item value="curtain" />
-      <item value="atmospheric" />
-      <item value="curved" />
-      <item value="Have" />
-      <item value="The notification starts the callback and loads more" />
-      <item value="Returns the Adapter position of the item represented by this ViewHolder." />
-      <item value="Compilation failed to complete" />
-      <item value="is defined multiple times" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="FRENCH" value="4" />
-        <entry key="KOREAN" value="4" />
+        <entry key="KOREAN" value="5" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="JAPANESE" value="2" />
