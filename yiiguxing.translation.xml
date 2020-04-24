@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="연결끊김" />
+      <item value="U+스마트홈 우리집 지킴이 Easy" />
+      <item value="찾고자 하는 도로명주소, 검물명 또는 지번을 입력해주세요." />
+      <item value="조회결과가 없습니다." />
+      <item value="일시적인 오류가 발생했습니다. 잠시 후 다시 시도해 주세요." />
+      <item value="일시적인 오류가 발생했습니다. 잠시 후 다시 시도해 주세요. " />
       <item value="문이 열렸습니다." />
       <item value="열림" />
       <item value="움직임을 감지했습니다." />
@@ -45,19 +51,13 @@
       <item value="The X coordinate of the point about which the object * is being rotated, specified as an absolute number where 0 is the * left edge. This value can either be an absolute number if * pivotXType is ABSOLUTE, or a percentage (where 1.0 is 100%) * otherwise." />
       <item value="ABSOLUTE" />
       <item value="Specifies how pivotXValue should be interpreted. One of * Animation.ABSOLUTE, Animation.RELATIVE_TO_SELF, or * Animation.RELATIVE_TO_PARENT." />
-      <item value="The X coordinate of the point about which the object is * being rotated, specified as an absolute number where 0 is the left * edge." />
-      <item value="Repeat the animation indefinitely." />
-      <item value="INFINITE" />
-      <item value="specified as an absolute number where 0 is the top * edge." />
-      <item value="unescaped apostrophe in string" />
-      <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with line breaks (single newline character) in between. This inverts the * {@link Spanned} to HTML string conversion done with the option * {@link #TO_HTML_PARAGRAPH_LINES_INDIVIDUAL}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="448" />
+        <entry key="ENGLISH" value="449" />
         <entry key="FRENCH" value="4" />
-        <entry key="KOREAN" value="13" />
+        <entry key="KOREAN" value="15" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="JAPANESE" value="2" />
