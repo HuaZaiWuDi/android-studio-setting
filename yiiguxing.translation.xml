@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scene" />
       <item value="curved" />
       <item value="설정하지 않음" />
       <item value="종료시간" />
@@ -50,12 +51,11 @@
       <item value="시간" />
       <item value="저장" />
       <item value="Gets the transformation to apply at a specified point in time. Implementations of this * method should always replace the specified Transformation or document they are doing * otherwise." />
-      <item value="restrict" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="472" />
-        <entry key="ENGLISH" value="473" />
+        <entry key="CHINESE" value="473" />
+        <entry key="ENGLISH" value="474" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="15" />
         <entry key="CATALAN" value="1" />
