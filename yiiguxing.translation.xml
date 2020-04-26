@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="funcation" />
       <item value="Amendments to Korean copywriters and UI issues" />
       <item value="Defines whether the scrollview should stretch its content to fill the viewport." />
       <item value="Never show over-scroll effects." />
@@ -50,12 +51,11 @@
       <item value="true if the animation should take the value of fillBefore into account" />
       <item value="true if the animation will take fillBefore into account" />
       <item value="If fillEnabled is true, this animation will apply the value of fillBefore." />
-      <item value="Indicates whether the animation transformation should be applied after the * animation ends." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="468" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="15" />
         <entry key="CATALAN" value="1" />
