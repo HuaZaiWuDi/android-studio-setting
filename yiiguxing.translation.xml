@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="curved" />
+      <item value="설정하지 않음" />
+      <item value="종료시간" />
+      <item value="시작시간" />
       <item value="marquee" />
       <item value="Sticky" />
       <item value="funcation" />
@@ -42,20 +46,16 @@
       <item value="출동 전에 제 연락처로 먼저 전화해 주세요.  2. 출동 결과를 반드시 알려주세요." />
       <item value="움직임 감지됨" />
       <item value="内容已确认" />
-      <item value="시작시간" />
       <item value="어제" />
       <item value="시간" />
       <item value="저장" />
       <item value="Gets the transformation to apply at a specified point in time. Implementations of this * method should always replace the specified Transformation or document they are doing * otherwise." />
       <item value="restrict" />
-      <item value="Ensure that the duration that this animation will run is not longer * than &lt;var&gt;durationMillis&lt;/var&gt;. In addition to adjusting the duration * itself, this ensures that the repeat count also will not make it run * longer than the given time." />
-      <item value="If fillEnabled is true, the animation will apply the value of fillBefore. * Otherwise, fillBefore is ignored and the animation * transformation is always applied until the animation ends." />
-      <item value="true if the animation should take the value of fillBefore into account" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="471" />
+        <entry key="CHINESE" value="472" />
+        <entry key="ENGLISH" value="473" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="15" />
         <entry key="CATALAN" value="1" />
