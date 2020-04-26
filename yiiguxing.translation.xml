@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="marquee" />
       <item value="Sticky" />
       <item value="funcation" />
       <item value="Amendments to Korean copywriters and UI issues" />
@@ -50,12 +51,11 @@
       <item value="Ensure that the duration that this animation will run is not longer * than &lt;var&gt;durationMillis&lt;/var&gt;. In addition to adjusting the duration * itself, this ensures that the repeat count also will not make it run * longer than the given time." />
       <item value="If fillEnabled is true, the animation will apply the value of fillBefore. * Otherwise, fillBefore is ignored and the animation * transformation is always applied until the animation ends." />
       <item value="true if the animation should take the value of fillBefore into account" />
-      <item value="true if the animation will take fillBefore into account" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="15" />
         <entry key="CATALAN" value="1" />
