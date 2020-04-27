@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="1004" type="PLAIN_TEXT" />
       <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
