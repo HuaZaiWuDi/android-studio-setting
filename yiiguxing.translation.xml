@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Weekdays" />
+      <item value="weekend" />
       <item value="The intensity of notification vibrations, if configurable." />
       <item value="Activity Action: Show notification redaction settings." />
       <item value="BUBBLE" />
@@ -49,13 +51,11 @@
       <item value="일시적인 오류가 발생했습니다. 잠시 후 다시 시도해 주세요. " />
       <item value="문이 열렸습니다." />
       <item value="열림" />
-      <item value="움직임을 감지했습니다." />
-      <item value="감지 내역이 없습니다." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="490" />
-        <entry key="ENGLISH" value="491" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="493" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="23" />
         <entry key="CATALAN" value="1" />
