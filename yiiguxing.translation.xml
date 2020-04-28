@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The intensity of notification vibrations, if configurable." />
+      <item value="Activity Action: Show notification redaction settings." />
+      <item value="BUBBLE" />
+      <item value="Activity Action: Show notification bubble settings for a single app. * See {@link NotificationManager#areBubblesAllowed()}." />
+      <item value="Activity Action: Show Notification assistant settings." />
       <item value="Clearable" />
       <item value="May be null. The subset of the bitmap to be drawn" />
       <item value="The rectangle that the bitmap will be scaled/translated to fit into" />
@@ -46,16 +51,11 @@
       <item value="열림" />
       <item value="움직임을 감지했습니다." />
       <item value="감지 내역이 없습니다." />
-      <item value="年" />
-      <item value="MM월 dd일" />
-      <item value="오후" />
-      <item value="오전" />
-      <item value="00시 00분" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
-        <entry key="ENGLISH" value="486" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="491" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="23" />
         <entry key="CATALAN" value="1" />
