@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a Flowable that emits only the first item emitted by the source Publisher during sequential * time windows of a specified duration." />
       <item value="True there was an assigned OnClickListener that was called, false * otherwise is returned." />
       <item value="Directly call any attached OnClickListener. Unlike {@link #performClick()}, * this only calls the listener, and does not do any associated clicking * actions like reporting an accessibility event." />
       <item value="Implement this method to learn about notification channel group modifications." />
@@ -50,12 +51,11 @@
       <item value="시" />
       <item value="오전 " />
       <item value="오전 00시 00분" />
-      <item value="문자메시지를 보냈습니다.  [문자신고내역보기]에서 확인할 수 있습니다." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="23" />
         <entry key="CATALAN" value="1" />
