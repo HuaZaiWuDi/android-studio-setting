@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Clearable" />
       <item value="May be null. The subset of the bitmap to be drawn" />
       <item value="The rectangle that the bitmap will be scaled/translated to fit into" />
       <item value="Returns a Flowable that emits only the first item emitted by the source Publisher during sequential * time windows of a specified duration." />
@@ -50,12 +51,11 @@
       <item value="오후" />
       <item value="오전" />
       <item value="00시 00분" />
-      <item value="시" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="485" />
+        <entry key="ENGLISH" value="486" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="23" />
         <entry key="CATALAN" value="1" />
