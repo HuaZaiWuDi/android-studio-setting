@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="True there was an assigned OnClickListener that was called, false * otherwise is returned." />
+      <item value="Directly call any attached OnClickListener. Unlike {@link #performClick()}, * this only calls the listener, and does not do any associated clicking * actions like reporting an accessibility event." />
       <item value="Implement this method to learn about notification channel group modifications." />
       <item value="Modified" />
       <item value="The current ranking map that can be used to retrieve ranking information * for active notifications, including the newly posted one." />
@@ -49,13 +51,11 @@
       <item value="오전 " />
       <item value="오전 00시 00분" />
       <item value="문자메시지를 보냈습니다.  [문자신고내역보기]에서 확인할 수 있습니다." />
-      <item value="문자메시지를 전송에 실패했습니다.  전화로 신고해 주세요. " />
-      <item value="112문자신고 보내기" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="479" />
+        <entry key="ENGLISH" value="480" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="23" />
         <entry key="CATALAN" value="1" />
