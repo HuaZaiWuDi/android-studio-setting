@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ACTION Click" />
+      <item value="Activity Action: Delete the given data from its container." />
       <item value="A composable that places its children in a horizontal sequence, assigning children widths * according to their flex weights." />
       <item value="A composable that places its children in a vertical flow. Unlike [Column] or [FlexColumn], if the * vertical space is too small to put all the children in one column, multiple columns may be used." />
       <item value="An Effect used to get the value of an ambient at a specific position during composition." />
@@ -49,13 +51,11 @@
       <item value="To prevent this exception from being emitted one must either:&lt;br&gt; * * always unsubscribe from the above mentioned Observable before subscribing again&lt;br&gt; * * {@link io.reactivex.Observable#share()} or {@link io.reactivex.Observable#publish()} the above mentioned * Observable so it will be subscribed only once" />
       <item value="Returns a new {@link ObservableSource} that multicasts (and shares a single subscription to) the original {@link ObservableSource}. As long as * there is at least one {@link Observer} this {@link ObservableSource} will be subscribed and emitting data. * When all subscribers have disposed it will dispose the source {@link ObservableSource}." />
       <item value="An exception being emitted from an {@link io.reactivex.Observable} returned by the function * {@link com.polidea.rxandroidble2.RxBleDevice#establishConnection(boolean)} or other establishConnection() overloads when this kind * of observable was already subscribed and {@link com.polidea.rxandroidble2.RxBleConnection} is currently being established or active." />
-      <item value="A transformer which combines the {@code replay(1)}, {@code publish()}, and {@code refCount()} * operators." />
-      <item value="Already connected to device with MAC address BC:E5:9F:48:96:D1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
