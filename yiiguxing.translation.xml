@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A string identifier for this notification. May be {@code null}." />
+      <item value="the channel to create. Note that the created channel may differ from this * value. If the provided channel is malformed, a RemoteException will be * thrown." />
+      <item value="Creates multiple notification channels that different notifications can be posted to. See * {@link #createNotificationChannel(NotificationChannel)}." />
+      <item value="This can also be used to restore a deleted channel and to update an existing channel's * name, description, group, and/or importance." />
+      <item value="Creates a notification channel that notifications can be posted to." />
+      <item value="Supply a {@link PendingIntent} to be sent when the notification is clicked." />
+      <item value="Bit to be bitwise-ored into the {@link #flags} field that should be * set if the notification should not be canceled when the user clicks * the Clear all button." />
+      <item value="Bit to be bitwise-ored into the {@link #flags} field that should be * set if the notification should be canceled when it is clicked by the * user." />
       <item value="channel" />
       <item value="ACTION Click" />
       <item value="Activity Action: Delete the given data from its container." />
@@ -43,19 +51,11 @@
       <item value="provided inputKeyingMaterial must be at least of size 1 and not null" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="destination" />
-      <item value="release" />
-      <item value="listener This should be the listener object that was passed to * {@link #registerService}. It identifies the service that should be unregistered * and notifies of a successful or unsuccessful unregistration via the listener * callbacks. In API versions 20 and above, the listener object may be used for * another service registration once the callback has been called. In API versions &lt;= 19, * there is no entirely reliable way to know when a listener may be re-used, and a new * listener should be created for each service registration request." />
-      <item value="* Unregister a service registered through {@link #registerService}. A successful * unregister is notified to the application with a call to" />
-      <item value="lateinit property connection has not been initialized" />
-      <item value="Error emitted when the connection to a specified device is already established or is being * established. In order to share the connection, share #establishConnection emissions." />
-      <item value="PEER" />
-      <item value="To prevent this exception from being emitted one must either:&lt;br&gt; * * always unsubscribe from the above mentioned Observable before subscribing again&lt;br&gt; * * {@link io.reactivex.Observable#share()} or {@link io.reactivex.Observable#publish()} the above mentioned * Observable so it will be subscribed only once" />
-      <item value="Returns a new {@link ObservableSource} that multicasts (and shares a single subscription to) the original {@link ObservableSource}. As long as * there is at least one {@link Observer} this {@link ObservableSource} will be subscribed and emitting data. * When all subscribers have disposed it will dispose the source {@link ObservableSource}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
