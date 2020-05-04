@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="channel" />
       <item value="ACTION Click" />
       <item value="Activity Action: Delete the given data from its container." />
       <item value="A composable that places its children in a horizontal sequence, assigning children widths * according to their flex weights." />
@@ -50,11 +51,10 @@
       <item value="PEER" />
       <item value="To prevent this exception from being emitted one must either:&lt;br&gt; * * always unsubscribe from the above mentioned Observable before subscribing again&lt;br&gt; * * {@link io.reactivex.Observable#share()} or {@link io.reactivex.Observable#publish()} the above mentioned * Observable so it will be subscribed only once" />
       <item value="Returns a new {@link ObservableSource} that multicasts (and shares a single subscription to) the original {@link ObservableSource}. As long as * there is at least one {@link Observer} this {@link ObservableSource} will be subscribed and emitting data. * When all subscribers have disposed it will dispose the source {@link ObservableSource}." />
-      <item value="An exception being emitted from an {@link io.reactivex.Observable} returned by the function * {@link com.polidea.rxandroidble2.RxBleDevice#establishConnection(boolean)} or other establishConnection() overloads when this kind * of observable was already subscribed and {@link com.polidea.rxandroidble2.RxBleConnection} is currently being established or active." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="72" />
         <entry key="ENGLISH" value="72" />
         <entry key="JAPANESE" value="1" />
       </map>
