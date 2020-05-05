@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delivery" />
       <item value="* Retrieve a PendingIntent that will start a service, like calling * {@link Context#startService Context.startService()}. The start * arguments given to the service will come from the extras of the Intent." />
       <item value="Flag indicating that if the described PendingIntent does not * already exist, then simply return null instead of creating it. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}." />
       <item value="Flag indicating that this PendingIntent can be used only once. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}. &lt;p&gt;If set, after * {@link #send()} is called on it, it will be automatically * canceled for you and any future attempt to send through it will fail." />
@@ -50,12 +51,11 @@
       <item value="Starts to listen the given {@code source} LiveData, {@code onChanged} observer will be called * when {@code source} value was changed." />
       <item value="yellow" />
       <item value="Category" />
-      <item value="Check to see whether this activity is in the process of finishing, * either because you called {@link #finish} on it or someone else * has requested that it finished. This is often used in * {@link #onPause} to determine whether the activity is simply pausing or * completely finishing." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
