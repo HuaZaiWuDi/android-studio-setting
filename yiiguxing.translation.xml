@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* * Use with {@link #fillIn} to allow the current data or type value * overwritten, even if it is already set." />
+      <item value="IMMUTABLE" />
+      <item value="Flag indicating that the created PendingIntent should be immutable. * This means that the additional intent argument passed to the send * methods to fill in unpopulated properties of this intent will be * ignored." />
+      <item value="Flag indicating that if the described PendingIntent already exists, * the current one should be canceled before generating a new one. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}. &lt;p&gt;You can use * this to retrieve a new PendingIntent when you are only changing the * extra data in the Intent; by canceling the previous pending intent, * this ensures that only entities given the new data will be able to * launch it. If this assurance is not an issue, consider * {@link #FLAG_UPDATE_CURRENT}." />
+      <item value="Flag indicating that if the described PendingIntent does not * already exist, then simply return null instead of creating it. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}." />
+      <item value="is called on it, it will be automatically * canceled for you and any future attempt to send through it will fail." />
       <item value="Notification category: incoming call (voice or video) or similar synchronous communication request." />
       <item value="This method returns a historically correct offset value if an * underlying TimeZone implementation subclass supports historical * Daylight Saving Time schedule and GMT offset changes." />
       <item value="Returns the offset of this time zone from UTC at the specified * date. If Daylight Saving Time is in effect at the specified * date, the offset value is adjusted with the amount of daylight * saving." />
@@ -22,8 +28,6 @@
       <item value="&lt;p class=&quot;note&quot;&gt;For security reasons, the {@link android.content.Intent} * you supply here should almost always be an &lt;em&gt;explicit intent&lt;/em&gt;, * that is specify an explicit component to be delivered to through * {@link Intent#setClass(android.content.Context, Class) Intent.setClass}&lt;/p&gt;" />
       <item value="Intent#fillIn Intent.fillIn()} to control which unspecified parts * of the intent that can be supplied when the actual send happens." />
       <item value="Returns an existing or new PendingIntent matching the given * parameters. May return null only if {@link #FLAG_NO_CREATE} has been * supplied." />
-      <item value="Flag indicating that the created PendingIntent should be immutable. * This means that the additional intent argument passed to the send * methods to fill in unpopulated properties of this intent will be * ignored." />
-      <item value="IMMUTABLE" />
       <item value="CURRENT" />
       <item value="Flag indicating that this PendingIntent can be used only once. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}. &lt;p&gt;If set, after * {@link #send()} is called on it, it will be automatically * canceled for you and any future attempt to send through it will fail." />
       <item value="A path to a file that contains compressed bitmap data of * a type that {@link android.graphics.BitmapFactory} can decode." />
@@ -31,7 +35,6 @@
       <item value="EXTRA MESSAGE" />
       <item value="delivery" />
       <item value="* Retrieve a PendingIntent that will start a service, like calling * {@link Context#startService Context.startService()}. The start * arguments given to the service will come from the extras of the Intent." />
-      <item value="Flag indicating that if the described PendingIntent does not * already exist, then simply return null instead of creating it. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}." />
       <item value="A string identifier for this notification. May be {@code null}." />
       <item value="the channel to create. Note that the created channel may differ from this * value. If the provided channel is malformed, a RemoteException will be * thrown." />
       <item value="Creates multiple notification channels that different notifications can be posted to. See * {@link #createNotificationChannel(NotificationChannel)}." />
@@ -48,14 +51,11 @@
       <item value="An Effect used to get the value of an ambient at a specific position during composition." />
       <item value="An Effect that positionally memoizes the result of a computation." />
       <item value="None of the following functions can be called with the arguments supplied:" />
-      <item value="After successful service discovery the service will initialize all services. * The {@link #onDeviceReady(BluetoothDevice)} method will be called when the initialization * is complete." />
-      <item value="if &lt;code&gt;true&lt;/code&gt; the secondary services were also found * on the device." />
-      <item value="GATT CONN TERMINATE LOCAL HOST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="KOREAN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
