@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Notification category: incoming call (voice or video) or similar synchronous communication request." />
       <item value="This method returns a historically correct offset value if an * underlying TimeZone implementation subclass supports historical * Daylight Saving Time schedule and GMT offset changes." />
       <item value="Returns the offset of this time zone from UTC at the specified * date. If Daylight Saving Time is in effect at the specified * date, the offset value is adjusted with the amount of daylight * saving." />
       <item value="the amount of time in milliseconds to add to UTC to get local time." />
@@ -50,12 +51,11 @@
       <item value="After successful service discovery the service will initialize all services. * The {@link #onDeviceReady(BluetoothDevice)} method will be called when the initialization * is complete." />
       <item value="if &lt;code&gt;true&lt;/code&gt; the secondary services were also found * on the device." />
       <item value="GATT CONN TERMINATE LOCAL HOST" />
-      <item value="thread is not runnable for too long time, need to remove" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="KOREAN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
