@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a [CorrespondingEventsFunction] that maps the * current event -&gt; target disposal event." />
+      <item value="dispose off any subscriptions in the ViewModel." />
+      <item value="Emit the [ViewModelEvent.CLEARED] event to * dispose off any subscriptions in the ViewModel." />
       <item value="子" />
       <item value="adjust" />
       <item value="Action" />
@@ -48,14 +51,11 @@
       <item value="KOREAN" />
       <item value="KOREA" />
       <item value="TRADITIONAL" />
-      <item value="SIMPLIFIED" />
-      <item value="Category used to represent the default locale for * formatting dates, numbers, and/or currencies." />
-      <item value="연결끊김" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="504" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="23" />
         <entry key="CATALAN" value="1" />
