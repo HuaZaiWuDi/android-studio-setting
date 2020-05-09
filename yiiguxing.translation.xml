@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please search the address." />
+      <item value="Complete confirming the contents" />
+      <item value="内容已确认" />
       <item value="Perform the operation associated with this PendingIntent, allowing the * caller to specify information about the Intent to use and be notified * when the send has completed." />
       <item value="to control which unspecified parts * of the intent that can be supplied when the actual send happens." />
       <item value="Use with {@link #fillIn} to allow the current identifier value to be * overwritten, even if it is already set." />
@@ -48,15 +51,12 @@
       <item value="Creates multiple notification channels that different notifications can be posted to. See * {@link #createNotificationChannel(NotificationChannel)}." />
       <item value="This can also be used to restore a deleted channel and to update an existing channel's * name, description, group, and/or importance." />
       <item value="Creates a notification channel that notifications can be posted to." />
-      <item value="Supply a {@link PendingIntent} to be sent when the notification is clicked." />
-      <item value="Bit to be bitwise-ored into the {@link #flags} field that should be * set if the notification should not be canceled when the user clicks * the Clear all button." />
-      <item value="Bit to be bitwise-ored into the {@link #flags} field that should be * set if the notification should be canceled when it is clicked by the * user." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
-        <entry key="KOREAN" value="1" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="129" />
+        <entry key="KOREAN" value="4" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
