@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="子" />
       <item value="adjust" />
       <item value="Action" />
       <item value="Automation" />
@@ -50,12 +51,11 @@
       <item value="SIMPLIFIED" />
       <item value="Category used to represent the default locale for * formatting dates, numbers, and/or currencies." />
       <item value="연결끊김" />
-      <item value="U+스마트홈 우리집 지킴이 Easy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="23" />
         <entry key="CATALAN" value="1" />
