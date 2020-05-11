@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="직접 선택 " />
+      <item value="요일" />
+      <item value="요일 설정 " />
       <item value="1. 112 문자신고 설정에서 설정 변경 후 취소 시 해당 팝업에서 문구는 우리집지킴이 예약설정 나가는 내용으로 작성되어 있음" />
       <item value="우리집 지킴이 예약 설정이 아닌 112 문자신고 설정으로 문구 변경 필요" />
       <item value="문자메시지를 전송에 실패했습니다. 전화로 신고해 주세요." />
@@ -48,14 +51,11 @@
       <item value="&lt;p&gt;As of {@link android.os.Build.VERSION_CODES#N} this information is displayed in the * notification header area. * * On Android versions before {@link android.os.Build.VERSION_CODES#N} * this will be shown in the third line of text in the platform notification template. * You should not be using {@link #setProgress(int, int, boolean)} at the * same time on those versions; they occupy the same place." />
       <item value="This provides some additional information that is displayed in the notification. No * guarantees are given where exactly it is displayed. * * &lt;p&gt;This information should only be provided if it provides an essential * benefit to the understanding of the notification. The more text you provide the * less readable it becomes. For example, an email client should only provide the account * name here if more than one email account has been added.&lt;/p&gt;" />
       <item value="Flag indicating that if the described PendingIntent already exists, * then keep it but replace its extra data with what is in this new * Intent. For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}. &lt;p&gt;This can be used if you are creating intents where only the * extras change, and don't care that any entities that received your * previous PendingIntent will be able to launch it with your new * extras even if they are not explicitly given to it." />
-      <item value="The intent to execute when the expanded status entry is clicked. If * this is an activity, it must include the" />
-      <item value="The intent to execute when the expanded status entry is clicked. If * this is an activity, it must include the * {@link android.content.Intent#FLAG_ACTIVITY_NEW_TASK} flag, which requires * that you take care of task management as described in the * &lt;a href=&quot;{@docRoot}guide/topics/fundamentals/tasks-and-back-stack.html&quot;&gt;Tasks and Back * Stack&lt;/a&gt; document. In particular, make sure to read the notification section * &lt;a href=&quot;{@docRoot}guide/topics/ui/notifiers/notifications.html#HandlingNotifications&quot;&gt;Handling * Notifications&lt;/a&gt; for the correct ways to launch an application from a * notification." />
-      <item value="Retrieve a PendingIntent that will start a service, like calling * {@link Context#startService Context.startService()}. The start * arguments given to the service will come from the extras of the Intent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="KOREAN" value="13" />
         <entry key="JAPANESE" value="1" />
       </map>
