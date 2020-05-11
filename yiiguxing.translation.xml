@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inlegal" />
       <item value="Returns a [CorrespondingEventsFunction] that maps the * current event -&gt; target disposal event." />
       <item value="dispose off any subscriptions in the ViewModel." />
       <item value="Emit the [ViewModelEvent.CLEARED] event to * dispose off any subscriptions in the ViewModel." />
@@ -50,12 +51,12 @@
       <item value="Do not set or read this directly. Use {@link #getLocales()} and * {@link #setLocales(LocaleList)}. If only the primary locale is needed, * &lt;code&gt;getLocales().get(0)&lt;/code&gt; is now the preferred accessor." />
       <item value="KOREAN" />
       <item value="KOREA" />
-      <item value="TRADITIONAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
+        <entry key="CHINESE" value="504" />
         <entry key="ENGLISH" value="504" />
+        <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="23" />
         <entry key="CATALAN" value="1" />
