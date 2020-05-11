@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constraint" />
       <item value="직접 선택 " />
       <item value="요일" />
       <item value="요일 설정 " />
@@ -50,12 +51,11 @@
       <item value="Set the second line of text in the platform notification template." />
       <item value="&lt;p&gt;As of {@link android.os.Build.VERSION_CODES#N} this information is displayed in the * notification header area. * * On Android versions before {@link android.os.Build.VERSION_CODES#N} * this will be shown in the third line of text in the platform notification template. * You should not be using {@link #setProgress(int, int, boolean)} at the * same time on those versions; they occupy the same place." />
       <item value="This provides some additional information that is displayed in the notification. No * guarantees are given where exactly it is displayed. * * &lt;p&gt;This information should only be provided if it provides an essential * benefit to the understanding of the notification. The more text you provide the * less readable it becomes. For example, an email client should only provide the account * name here if more than one email account has been added.&lt;/p&gt;" />
-      <item value="Flag indicating that if the described PendingIntent already exists, * then keep it but replace its extra data with what is in this new * Intent. For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}. &lt;p&gt;This can be used if you are creating intents where only the * extras change, and don't care that any entities that received your * previous PendingIntent will be able to launch it with your new * extras even if they are not explicitly given to it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="145" />
         <entry key="KOREAN" value="13" />
         <entry key="JAPANESE" value="1" />
       </map>
