@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="문자발송 요청을 처리하지 못했습니다.\n 앱을 통해 문자를 발송하세요." />
       <item value="데이터 없음" />
       <item value="감지 내역이 없습니다." />
       <item value="데이터 없음 " />
@@ -50,13 +51,12 @@
       <item value="Flag indicating that this PendingIntent can be used only once. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}. &lt;p&gt;If set, after * {@link #send()} is called on it, it will be automatically * canceled for you and any future attempt to send through it will fail." />
       <item value="A path to a file that contains compressed bitmap data of * a type that {@link android.graphics.BitmapFactory} can decode." />
       <item value="Decode a file path into a bitmap. If the specified file name is null, * or cannot be decoded into a bitmap, the function returns null." />
-      <item value="EXTRA MESSAGE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
+        <entry key="CHINESE" value="135" />
         <entry key="ENGLISH" value="135" />
-        <entry key="KOREAN" value="8" />
+        <entry key="KOREAN" value="9" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
