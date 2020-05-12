@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="스마트 보안 예약 설정 나가기" />
       <item value="스마트 보안" />
       <item value="설정하지 않음" />
       <item value="예약설정" />
@@ -50,12 +51,11 @@
       <item value="the offset in milliseconds to add to GMT to get local time." />
       <item value="Queries if the given {@code date} is in Daylight Saving Time in * this time zone." />
       <item value="설정하지 않았습니다." />
-      <item value="there were 2 unresolved references to classes or interfaces." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="151" />
         <entry key="KOREAN" value="20" />
         <entry key="JAPANESE" value="1" />
       </map>
