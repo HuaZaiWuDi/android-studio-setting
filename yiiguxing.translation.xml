@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="이미 삭제한 기기의 사용 내역은 확인할 수 없습니다." />
       <item value="Inlegal" />
       <item value="Returns a [CorrespondingEventsFunction] that maps the * current event -&gt; target disposal event." />
       <item value="dispose off any subscriptions in the ViewModel." />
@@ -50,15 +51,14 @@
       <item value="RecyclerView can perform several optimizations if it can know in advance that RecyclerView's * size is not affected by the adapter contents. RecyclerView can still change its size based * on other factors (e.g. its parent's size) but this size calculation cannot depend on the * size of its children or contents of its adapter (except the number of items in the adapter)." />
       <item value="Do not set or read this directly. Use {@link #getLocales()} and * {@link #setLocales(LocaleList)}. If only the primary locale is needed, * &lt;code&gt;getLocales().get(0)&lt;/code&gt; is now the preferred accessor." />
       <item value="KOREAN" />
-      <item value="KOREA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="504" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="505" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
-        <entry key="KOREAN" value="23" />
+        <entry key="KOREAN" value="24" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="JAPANESE" value="2" />
