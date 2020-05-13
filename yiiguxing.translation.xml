@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="일요일" />
       <item value="확인" />
       <item value="동의" />
       <item value="나가기" />
@@ -50,7 +51,6 @@
       <item value="Returns the offset of this time zone from UTC at the specified * date. If Daylight Saving Time is in effect at the specified * date, the offset value is adjusted with the amount of daylight * saving." />
       <item value="the amount of time in milliseconds to add to UTC to get local time." />
       <item value="the date represented in milliseconds since January 1, 1970 00:00:00 GMT" />
-      <item value="the offset in milliseconds to add to GMT to get local time." />
     </histories>
     <option name="languageScores">
       <map>
