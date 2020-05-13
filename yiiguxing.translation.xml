@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="확인" />
+      <item value="동의" />
       <item value="나가기" />
       <item value="스마트 보안 예약 설정 나가기" />
       <item value="스마트 보안" />
@@ -49,14 +51,12 @@
       <item value="the amount of time in milliseconds to add to UTC to get local time." />
       <item value="the date represented in milliseconds since January 1, 1970 00:00:00 GMT" />
       <item value="the offset in milliseconds to add to GMT to get local time." />
-      <item value="Queries if the given {@code date} is in Daylight Saving Time in * this time zone." />
-      <item value="설정하지 않았습니다." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="151" />
         <entry key="ENGLISH" value="152" />
-        <entry key="KOREAN" value="20" />
+        <entry key="KOREAN" value="22" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
