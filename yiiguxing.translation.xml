@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="모든 기기 업데이트" />
+      <item value="소프트웨어 업데이트" />
       <item value="112문자신고 보내기" />
       <item value="저장하기" />
       <item value="저장" />
@@ -49,14 +51,12 @@
       <item value="内容已确认" />
       <item value="Perform the operation associated with this PendingIntent, allowing the * caller to specify information about the Intent to use and be notified * when the send has completed." />
       <item value="to control which unspecified parts * of the intent that can be supplied when the actual send happens." />
-      <item value="Use with {@link #fillIn} to allow the current identifier value to be * overwritten, even if it is already set." />
-      <item value="Clip Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
-        <entry key="KOREAN" value="30" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="161" />
+        <entry key="KOREAN" value="32" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
