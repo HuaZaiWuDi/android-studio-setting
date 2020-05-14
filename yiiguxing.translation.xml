@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="112문자신고 보내기" />
       <item value="저장하기" />
       <item value="저장" />
       <item value="Click to load more" />
@@ -50,7 +51,6 @@
       <item value="to control which unspecified parts * of the intent that can be supplied when the actual send happens." />
       <item value="Use with {@link #fillIn} to allow the current identifier value to be * overwritten, even if it is already set." />
       <item value="Clip Data" />
-      <item value="Use with {@link #fillIn} to allow the current ClipData to be * overwritten, even if it is already set." />
     </histories>
     <option name="languageScores">
       <map>
