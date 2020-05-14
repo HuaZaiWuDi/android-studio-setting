@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="지번" />
       <item value="전체 업데이트" />
       <item value="모든 기기 업데이트" />
       <item value="소프트웨어 업데이트" />
@@ -50,13 +51,12 @@
       <item value="Please search the address." />
       <item value="Complete confirming the contents" />
       <item value="内容已确认" />
-      <item value="Perform the operation associated with this PendingIntent, allowing the * caller to specify information about the Intent to use and be notified * when the send has completed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
+        <entry key="CHINESE" value="162" />
         <entry key="ENGLISH" value="162" />
-        <entry key="KOREAN" value="33" />
+        <entry key="KOREAN" value="34" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
