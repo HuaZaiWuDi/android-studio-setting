@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assignable" />
       <item value="Activation" />
       <item value="Statistic" />
       <item value="다국어 컨텐츠가 비어있습니다. 다시 확인해주세요." />
@@ -50,12 +51,11 @@
       <item value="IMMUTABLE" />
       <item value="Flag indicating that if the described PendingIntent already exists, * the current one should be canceled before generating a new one. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}. &lt;p&gt;You can use * this to retrieve a new PendingIntent when you are only changing the * extra data in the Intent; by canceling the previous pending intent, * this ensures that only entities given the new data will be able to * launch it. If this assurance is not an issue, consider * {@link #FLAG_UPDATE_CURRENT}." />
       <item value="Flag indicating that if the described PendingIntent does not * already exist, then simply return null instead of creating it. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}." />
-      <item value="is called on it, it will be automatically * canceled for you and any future attempt to send through it will fail." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
         <entry key="KOREAN" value="23" />
         <entry key="JAPANESE" value="1" />
       </map>
