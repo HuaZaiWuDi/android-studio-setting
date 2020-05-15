@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If set, the new activity is not kept in the list of recently launched * activities." />
       <item value="Allows a package to post notifications on your behalf using * {@link #notifyAsPackage(String, String, int, Notification)}." />
       <item value="Recover a list of active notifications: ones that have been posted by the calling app that * have not yet been dismissed by the user or {@link #cancel(String, int)}ed by the app." />
       <item value="인증된 요청이 아닙니다." />
@@ -50,12 +51,11 @@
       <item value="요일 설정 " />
       <item value="1. 112 문자신고 설정에서 설정 변경 후 취소 시 해당 팝업에서 문구는 우리집지킴이 예약설정 나가는 내용으로 작성되어 있음" />
       <item value="우리집 지킴이 예약 설정이 아닌 112 문자신고 설정으로 문구 변경 필요" />
-      <item value="문자메시지를 전송에 실패했습니다. 전화로 신고해 주세요." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="KOREAN" value="38" />
         <entry key="JAPANESE" value="1" />
       </map>
