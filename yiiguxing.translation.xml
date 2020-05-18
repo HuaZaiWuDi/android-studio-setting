@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coerce" />
       <item value="删除" />
       <item value="Parses the string as an [Int] number and returns the result * or `null`" />
       <item value="is not a valid radix for string to number conversion." />
@@ -50,12 +51,11 @@
       <item value="시작시간" />
       <item value="marquee" />
       <item value="Sticky" />
-      <item value="funcation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="25" />
