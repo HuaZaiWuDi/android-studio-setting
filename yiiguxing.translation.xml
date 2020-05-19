@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="감지 내역이 없습니다" />
+      <item value="감지 내역이 없습니다." />
       <item value="Network failure" />
       <item value="Try again" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Returns an Observable that emits records of the time interval between consecutive items emitted by the * source ObservableSource, where this interval is computed on a specified Scheduler." />
-      <item value="감지 내역이 없습니다." />
       <item value="If set, the new activity is not kept in the list of recently launched * activities." />
       <item value="Allows a package to post notifications on your behalf using * {@link #notifyAsPackage(String, String, int, Notification)}." />
       <item value="Recover a list of active notifications: ones that have been posted by the calling app that * have not yet been dismissed by the user or {@link #cancel(String, int)}ed by the app." />
@@ -50,13 +51,12 @@
       <item value="예약설정" />
       <item value="우리집 지킴이 예약설정 나가기" />
       <item value="설정한 내용이 저장되지 않습니다. 우리집 지킴이 예약설정을 나가시겠습니까?" />
-      <item value="constraint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="181" />
-        <entry key="KOREAN" value="41" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="183" />
+        <entry key="KOREAN" value="43" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
