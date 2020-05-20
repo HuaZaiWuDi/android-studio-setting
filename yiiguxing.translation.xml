@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cond" />
       <item value="degree" />
       <item value="Contain" />
       <item value="Specifies whether the names and values are already URL encoded." />
@@ -50,12 +51,11 @@
       <item value="저장하기" />
       <item value="취소" />
       <item value="삭제" />
-      <item value="Scene" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="520" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="521" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="25" />
