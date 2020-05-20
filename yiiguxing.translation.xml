@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="degree" />
       <item value="Contain" />
       <item value="Specifies whether the names and values are already URL encoded." />
       <item value="Note that if the `comparator` considers any two keys of this map equal, only the value associated with the last of them gets into the resu" />
@@ -50,7 +51,6 @@
       <item value="취소" />
       <item value="삭제" />
       <item value="Scene" />
-      <item value="curved" />
     </histories>
     <option name="languageScores">
       <map>
