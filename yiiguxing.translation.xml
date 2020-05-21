@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns whether ItemTouchHelper should start a drag and drop operation if an item is * long pressed." />
+      <item value="The directions in which the item can be swiped." />
+      <item value="The directions in which the item can be dragged." />
+      <item value="For instance, if you want to let your items be drag &amp; dropped vertically and swiped * left to be dismissed, you can call this method with: * &lt;code&gt;makeMovementFlags(UP | DOWN, LEFT);&lt;/code&gt;" />
+      <item value="Convenience method to create movement flags." />
       <item value="Returns single element, or `null` if the list is empty or has more than one element." />
       <item value="Returns `true` if at least one element matches the given [predicate]." />
       <item value="Returns `true` if no elements match the given [predicate]." />
@@ -46,16 +51,11 @@
       <item value="Returns a Flowable that emits only the first item emitted by the source Publisher during sequential * time windows of a specified duration." />
       <item value="True there was an assigned OnClickListener that was called, false * otherwise is returned." />
       <item value="Directly call any attached OnClickListener. Unlike {@link #performClick()}, * this only calls the listener, and does not do any associated clicking * actions like reporting an accessibility event." />
-      <item value="Implement this method to learn about notification channel group modifications." />
-      <item value="Modified" />
-      <item value="The current ranking map that can be used to retrieve ranking information * for active notifications, including the newly posted one." />
-      <item value="확인" />
-      <item value="신고하기" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="523" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="529" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="25" />
