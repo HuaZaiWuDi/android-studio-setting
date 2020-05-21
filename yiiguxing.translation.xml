@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可拖拽" />
       <item value="Is there a toggle view which will trigger drag event." />
       <item value="Set the drag event should be trigger on long press. * Work when the toggleViewId has been set." />
       <item value="Returns whether ItemTouchHelper should start a drag and drop operation if an item is * long pressed." />
@@ -50,12 +51,11 @@
       <item value="Clearable" />
       <item value="May be null. The subset of the bitmap to be drawn" />
       <item value="The rectangle that the bitmap will be scaled/translated to fit into" />
-      <item value="Returns a Flowable that emits only the first item emitted by the source Publisher during sequential * time windows of a specified duration." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="531" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="CHINESE" value="532" />
+        <entry key="ENGLISH" value="533" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="25" />
