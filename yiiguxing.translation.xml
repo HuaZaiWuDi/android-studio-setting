@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HANDLE" />
+      <item value="ACTION HANDLE ONCE" />
+      <item value="ACTION ACTION ADD" />
       <item value="Optional parameter, use null to identify a &quot;full&quot; update" />
       <item value="Inserted" />
       <item value="This is a structural change event. Representations of other existing items in the * data set are still considered up to date and will not be rebound, though their * positions may be altered." />
@@ -48,14 +51,11 @@
       <item value="Weekdays" />
       <item value="weekend" />
       <item value="The intensity of notification vibrations, if configurable." />
-      <item value="Activity Action: Show notification redaction settings." />
-      <item value="BUBBLE" />
-      <item value="Activity Action: Show notification bubble settings for a single app. * See {@link NotificationManager#areBubblesAllowed()}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="541" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="25" />
