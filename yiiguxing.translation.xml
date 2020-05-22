@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Optional parameter, use null to identify a &quot;full&quot; update" />
+      <item value="Inserted" />
+      <item value="This is a structural change event. Representations of other existing items in the * data set are still considered up to date and will not be rebound, though their * positions may be altered." />
+      <item value="Notify any registered observers that the item reflected at &lt;code&gt;position&lt;/code&gt; * has been newly inserted. The item previously at &lt;code&gt;position&lt;/code&gt; is now at * position &lt;code&gt;position + 1&lt;/code&gt;." />
       <item value="可拖拽" />
       <item value="Is there a toggle view which will trigger drag event." />
       <item value="Set the drag event should be trigger on long press. * Work when the toggleViewId has been set." />
@@ -47,15 +51,11 @@
       <item value="Activity Action: Show notification redaction settings." />
       <item value="BUBBLE" />
       <item value="Activity Action: Show notification bubble settings for a single app. * See {@link NotificationManager#areBubblesAllowed()}." />
-      <item value="Activity Action: Show Notification assistant settings." />
-      <item value="Clearable" />
-      <item value="May be null. The subset of the bitmap to be drawn" />
-      <item value="The rectangle that the bitmap will be scaled/translated to fit into" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="536" />
+        <entry key="ENGLISH" value="537" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="25" />
