@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This flag is not normally set by application code, but set for you by * the system as described in the" />
       <item value="더 이상 데이터가 없습니다" />
       <item value="감지 내역이 없습니다" />
       <item value="감지 내역이 없습니다." />
@@ -50,12 +51,11 @@
       <item value="설정하지 않음" />
       <item value="예약설정" />
       <item value="우리집 지킴이 예약설정 나가기" />
-      <item value="설정한 내용이 저장되지 않습니다. 우리집 지킴이 예약설정을 나가시겠습니까?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="KOREAN" value="46" />
         <entry key="JAPANESE" value="1" />
       </map>
