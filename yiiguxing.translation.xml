@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the IP address string in textual presentation." />
       <item value="설정 에서 파마 해 주세요." />
       <item value="더 이상 검색 결과가 없습니다." />
       <item value="This flag is not normally set by application code, but set for you by * the system as described in the" />
@@ -50,12 +51,11 @@
       <item value="나가기" />
       <item value="스마트 보안 예약 설정 나가기" />
       <item value="스마트 보안" />
-      <item value="설정하지 않음" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="KOREAN" value="47" />
         <entry key="JAPANESE" value="1" />
       </map>
