@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="위 내용을 확인했습니다. " />
+      <item value="다시 연결하기" />
+      <item value="연결 실패" />
+      <item value="기기 연결 실패" />
+      <item value="허브 연결 실패" />
       <item value="Returns the IP address string in textual presentation." />
       <item value="설정 에서 파마 해 주세요." />
       <item value="더 이상 검색 결과가 없습니다." />
@@ -46,17 +51,12 @@
       <item value="다국어 컨텐츠가 비어있습니다. 다시 확인해주세요. " />
       <item value="네트워크 연결이 끊어져 스마트 보안을 실행할 수 없습니다. 연결 후 다시 실행해 주세요" />
       <item value="일요일" />
-      <item value="확인" />
-      <item value="동의" />
-      <item value="나가기" />
-      <item value="스마트 보안 예약 설정 나가기" />
-      <item value="스마트 보안" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
+        <entry key="CHINESE" value="188" />
         <entry key="ENGLISH" value="188" />
-        <entry key="KOREAN" value="47" />
+        <entry key="KOREAN" value="52" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
