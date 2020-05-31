@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="설정안함" />
+      <item value="이름 설정" />
+      <item value="조회결과가 없습니다." />
       <item value="이름 변경" />
       <item value="오류가 발생했습니다,잠시 후 다시 시도해 주세요." />
       <item value="네트워크 연결에 문제가 생겼습니다.\n다시 시도해 주세요." />
@@ -48,15 +51,12 @@
       <item value="주소를 검색해 주세요." />
       <item value="지번" />
       <item value="전체 업데이트" />
-      <item value="모든 기기 업데이트" />
-      <item value="소프트웨어 업데이트" />
-      <item value="112문자신고 보내기" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
-        <entry key="KOREAN" value="62" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
+        <entry key="KOREAN" value="63" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
