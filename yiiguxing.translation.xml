@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="transient" />
+      <item value="serial" />
       <item value="relation" />
+      <item value="transient" />
       <item value="conditions" />
       <item value="localize" />
       <item value="确认" />
@@ -50,12 +51,11 @@
       <item value="이미 삭제한 기기의 사용 내역은 확인할 수 없습니다." />
       <item value="Inlegal" />
       <item value="Returns a [CorrespondingEventsFunction] that maps the * current event -&gt; target disposal event." />
-      <item value="dispose off any subscriptions in the ViewModel." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="25" />
