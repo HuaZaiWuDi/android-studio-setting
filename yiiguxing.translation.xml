@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="움직임/소리 감지 시 녹화" />
+      <item value="네트워크 연결이 끊어져 스마트 보안을 실행할 수 없습니다. 연결 후 다시 실행해 주세요" />
       <item value="조건이 만료되었습니다. 삭제하시겠습니까?" />
       <item value="이 조건은 이미 무효입니가, 삭제하시겠습니까? " />
       <item value="The condition has expired, do you want to delete it?" />
@@ -49,13 +51,11 @@
       <item value="감지 내역이 없습니다." />
       <item value="Network failure" />
       <item value="Try again" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="Returns an Observable that emits records of the time interval between consecutive items emitted by the * source ObservableSource, where this interval is computed on a specified Scheduler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="218" />
         <entry key="KOREAN" value="82" />
         <entry key="JAPANESE" value="1" />
       </map>
