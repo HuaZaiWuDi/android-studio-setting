@@ -1,8 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="잘못된 QR 코드입니다." />
+      <item value="조건이 만료되었습니다. 삭제하시겠습니까?" />
+      <item value="이 조건은 이미 무효입니가, 삭제하시겠습니까? " />
+      <item value="The condition has expired, do you want to delete it?" />
+      <item value="삭제된 기기입니다." />
+      <item value="촬영 중" />
+      <item value="닫힘" />
+      <item value="정상 연결" />
+      <item value="연결 끊김" />
+      <item value="닫기" />
       <item value="우리집 지킴이 모든 기기가 네트워크 연결에 끊어져 스마트 보안을 실행/해제할 수 없습니다." />
+      <item value="잘못된 QR 코드입니다." />
       <item value="설정한 내용이 저장되지 않았습니다.\n그래도 나가시겠습니까?" />
       <item value="설정한 내용이 저장되지 않습니다. 우리집 지킴이 예약설정을 나가시겠습니까?" />
       <item value="우리집 지킴이 모든 기기가 삭제되어 실행/해제할 수 없습니다." />
@@ -19,7 +28,6 @@
       <item value="특수문자를 입력할 수 없습니다. " />
       <item value="설정한 비밀번호가 없습니다." />
       <item value="이름" />
-      <item value="닫기" />
       <item value="문자신고 기록이 없습니다." />
       <item value="取消" />
       <item value="关闭" />
@@ -43,20 +51,12 @@
       <item value="Try again" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Returns an Observable that emits records of the time interval between consecutive items emitted by the * source ObservableSource, where this interval is computed on a specified Scheduler." />
-      <item value="If set, the new activity is not kept in the list of recently launched * activities." />
-      <item value="Allows a package to post notifications on your behalf using * {@link #notifyAsPackage(String, String, int, Notification)}." />
-      <item value="Recover a list of active notifications: ones that have been posted by the calling app that * have not yet been dismissed by the user or {@link #cancel(String, int)}ed by the app." />
-      <item value="인증된 요청이 아닙니다." />
-      <item value="Only modifiable before the channel is submitted to * {@link NotificationManager#createNotificationChannel(NotificationChannel)}, unless the * channel is not currently part of a group." />
-      <item value="Sets what group this channel belongs to." />
-      <item value="Group information is only used for presentation, not for behavior." />
-      <item value="Sets whether or not notifications posted to this channel can interrupt the user in * {@link android.app.NotificationManager.Policy#INTERRUPTION_FILTER_PRIORITY} mode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
-        <entry key="KOREAN" value="70" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
+        <entry key="KOREAN" value="82" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
