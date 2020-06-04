@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This method cannot be called if the fragment is added to a FragmentManager and * if {@link #isStateSaved()} would return true." />
+      <item value="Supply the construction arguments for this fragment. * The arguments supplied here will be retained across fragment destroy and * creation." />
       <item value="이조건은이미무효입니가,삭제하시겠습 니까?" />
       <item value="relation" />
       <item value="serial" />
@@ -49,13 +51,11 @@
       <item value="Please set the Cube rotation control conditions first." />
       <item value="Returns true if this LiveData has observers." />
       <item value="Returns true if this LiveData has active observers." />
-      <item value="이미 삭제한 기기의 사용 내역은 확인할 수 없습니다." />
-      <item value="Inlegal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="557" />
+        <entry key="CHINESE" value="558" />
+        <entry key="ENGLISH" value="559" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="25" />
