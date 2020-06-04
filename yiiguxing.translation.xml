@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="이름 설정" />
+      <item value="자동화 명칭으로 노출됨" />
       <item value="Accessory offline. Please check and try again" />
       <item value="움직임/소리 감지 시 녹화" />
       <item value="네트워크 연결이 끊어져 스마트 보안을 실행할 수 없습니다. 연결 후 다시 실행해 주세요" />
@@ -22,7 +24,6 @@
       <item value="방 추가" />
       <item value="집 이름을 입력해 주세요" />
       <item value="설정안함" />
-      <item value="이름 설정" />
       <item value="조회결과가 없습니다." />
       <item value="이름 변경" />
       <item value="오류가 발생했습니다,잠시 후 다시 시도해 주세요." />
@@ -50,13 +51,12 @@
       <item value="더 이상 데이터가 없습니다" />
       <item value="감지 내역이 없습니다" />
       <item value="감지 내역이 없습니다." />
-      <item value="Network failure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="219" />
-        <entry key="KOREAN" value="82" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
+        <entry key="KOREAN" value="84" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
