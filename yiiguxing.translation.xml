@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="조회결과가 없습니다." />
       <item value="직접 선택" />
       <item value="자동화 명칭으로 노출됨" />
       <item value="This method cannot be called if the fragment is added to a FragmentManager and * if {@link #isStateSaved()} would return true." />
@@ -50,7 +51,6 @@
       <item value="The fractional part, if any, is rounded down towards zero." />
       <item value="Definition" />
       <item value="business" />
-      <item value="Please set the Cube rotation control conditions first." />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,7 +58,7 @@
         <entry key="ENGLISH" value="562" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
-        <entry key="KOREAN" value="26" />
+        <entry key="KOREAN" value="27" />
         <entry key="CATALAN" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="JAPANESE" value="2" />
