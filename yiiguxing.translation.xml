@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="업데이트 실패, 다시 시도해 주세요." />
+      <item value="업그레이드 실패，다시 시도해주세요." />
       <item value="우리집 지킴이 모든 기기가 삭제되어 실행/해제할 수 없습니다." />
       <item value="Helper class to manage a queue of pending tasks to send to notification side channel * listeners." />
       <item value="Returns whether notifications from the calling package are not blocked." />
@@ -49,14 +51,12 @@
       <item value="다시 연결하기" />
       <item value="연결 실패" />
       <item value="기기 연결 실패" />
-      <item value="허브 연결 실패" />
-      <item value="Returns the IP address string in textual presentation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="228" />
-        <entry key="KOREAN" value="85" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="230" />
+        <entry key="KOREAN" value="87" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
