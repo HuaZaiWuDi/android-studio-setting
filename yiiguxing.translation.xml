@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="직접 선택" />
       <item value="자동화 명칭으로 노출됨" />
       <item value="This method cannot be called if the fragment is added to a FragmentManager and * if {@link #isStateSaved()} would return true." />
       <item value="Supply the construction arguments for this fragment. * The arguments supplied here will be retained across fragment destroy and * creation." />
@@ -50,12 +51,11 @@
       <item value="Definition" />
       <item value="business" />
       <item value="Please set the Cube rotation control conditions first." />
-      <item value="Returns true if this LiveData has observers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
-        <entry key="ENGLISH" value="560" />
+        <entry key="CHINESE" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="26" />
