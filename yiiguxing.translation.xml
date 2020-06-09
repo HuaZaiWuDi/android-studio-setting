@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actual" />
+      <item value="syntax" />
       <item value="abnormal" />
       <item value="支持" />
       <item value="ILLUMINATION" />
@@ -49,13 +51,11 @@
       <item value="eturns a list of all elements sorted according to natural sort order of the value returned by specified [selector]" />
       <item value="coerce" />
       <item value="删除" />
-      <item value="Parses the string as an [Int] number and returns the result * or `null`" />
-      <item value="is not a valid radix for string to number conversion." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="564" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="567" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="27" />
