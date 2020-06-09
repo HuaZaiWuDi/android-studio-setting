@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inserted" />
       <item value="reduce" />
       <item value="actual" />
       <item value="syntax" />
@@ -29,7 +30,6 @@
       <item value="ACTION HANDLE ONCE" />
       <item value="ACTION ACTION ADD" />
       <item value="Optional parameter, use null to identify a &quot;full&quot; update" />
-      <item value="Inserted" />
       <item value="This is a structural change event. Representations of other existing items in the * data set are still considered up to date and will not be rebound, though their * positions may be altered." />
       <item value="Notify any registered observers that the item reflected at &lt;code&gt;position&lt;/code&gt; * has been newly inserted. The item previously at &lt;code&gt;position&lt;/code&gt; is now at * position &lt;code&gt;position + 1&lt;/code&gt;." />
       <item value="可拖拽" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="567" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="568" />
+        <entry key="ENGLISH" value="569" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="27" />
