@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illumination" />
       <item value="Inserted" />
       <item value="reduce" />
       <item value="actual" />
@@ -50,12 +51,11 @@
       <item value="Note that if the `comparator` considers any two keys of this map equal, only the value associated with the last of them gets into the resu" />
       <item value="Converts this [Map] to a [SortedMap]. The resulting [SortedMap] determines the equality and order of keys according to their natural sorting order." />
       <item value="eturns a list of all elements sorted according to natural sort order of the value returned by specified [selector]" />
-      <item value="coerce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="568" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="CHINESE" value="569" />
+        <entry key="ENGLISH" value="570" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="27" />
