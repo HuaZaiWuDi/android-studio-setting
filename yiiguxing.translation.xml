@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remove specific reverse socket connection" />
       <item value="serial" />
       <item value="business" />
       <item value="Returns `true` if at least one element matches the given [predicate]." />
@@ -50,11 +51,10 @@
       <item value="Contain" />
       <item value="Specifies whether the names and values are already URL encoded." />
       <item value="Note that if the `comparator` considers any two keys of this map equal, only the value associated with the last of them gets into the resu" />
-      <item value="Converts this [Map] to a [SortedMap]. The resulting [SortedMap] determines the equality and order of keys according to their natural sorting order." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="572" />
+        <entry key="CHINESE" value="573" />
         <entry key="ENGLISH" value="573" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
