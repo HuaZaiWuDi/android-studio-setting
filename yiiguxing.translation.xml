@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns `true` if at least one element matches the given [predicate]." />
       <item value="Illumination" />
       <item value="Inserted" />
       <item value="reduce" />
@@ -42,7 +43,6 @@
       <item value="For instance, if you want to let your items be drag &amp; dropped vertically and swiped * left to be dismissed, you can call this method with: * &lt;code&gt;makeMovementFlags(UP | DOWN, LEFT);&lt;/code&gt;" />
       <item value="Convenience method to create movement flags." />
       <item value="Returns single element, or `null` if the list is empty or has more than one element." />
-      <item value="Returns `true` if at least one element matches the given [predicate]." />
       <item value="Returns `true` if no elements match the given [predicate]." />
       <item value="Cond" />
       <item value="degree" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="569" />
-        <entry key="ENGLISH" value="570" />
+        <entry key="CHINESE" value="570" />
+        <entry key="ENGLISH" value="571" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="27" />
