@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="serial" />
+      <item value="business" />
       <item value="Returns `true` if at least one element matches the given [predicate]." />
       <item value="Illumination" />
       <item value="Inserted" />
@@ -18,7 +20,6 @@
       <item value="Supply the construction arguments for this fragment. * The arguments supplied here will be retained across fragment destroy and * creation." />
       <item value="이조건은이미무효입니가,삭제하시겠습 니까?" />
       <item value="relation" />
-      <item value="serial" />
       <item value="transient" />
       <item value="conditions" />
       <item value="localize" />
@@ -50,12 +51,11 @@
       <item value="Specifies whether the names and values are already URL encoded." />
       <item value="Note that if the `comparator` considers any two keys of this map equal, only the value associated with the last of them gets into the resu" />
       <item value="Converts this [Map] to a [SortedMap]. The resulting [SortedMap] determines the equality and order of keys according to their natural sorting order." />
-      <item value="eturns a list of all elements sorted according to natural sort order of the value returned by specified [selector]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="570" />
-        <entry key="ENGLISH" value="571" />
+        <entry key="CHINESE" value="572" />
+        <entry key="ENGLISH" value="573" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="KOREAN" value="27" />
