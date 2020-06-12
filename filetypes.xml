@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
+      <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="ecg" type="PLAIN_TEXT" />
