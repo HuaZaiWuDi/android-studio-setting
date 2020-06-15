@@ -7,14 +7,8 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <filter name="UserRootFragment">
-      <pattern index="0" />
-    </filter>
   </component>
 </application>

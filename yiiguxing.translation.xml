@@ -1,73 +1,64 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="abnormal" />
-      <item value="remove specific reverse socket connection" />
-      <item value="serial" />
-      <item value="business" />
-      <item value="Returns `true` if at least one element matches the given [predicate]." />
-      <item value="Illumination" />
-      <item value="Inserted" />
-      <item value="reduce" />
-      <item value="actual" />
-      <item value="syntax" />
-      <item value="支持" />
-      <item value="ILLUMINATION" />
-      <item value="方法" />
-      <item value="조회결과가 없습니다." />
-      <item value="직접 선택" />
+      <item value="현재 신호세기" />
+      <item value="현재" />
+      <item value="신호세기" />
+      <item value="강함" />
+      <item value="약함" />
+      <item value="현재 신호 강도" />
+      <item value="건물명" />
+      <item value="현재 신호 세기&lt;" />
+      <item value="스마트 허브를 업데이트 중입니다. 잠시 후 다시 시도해주세요." />
+      <item value="움직임 감지됨" />
+      <item value="업데이트 실패, 다시 시도해 주세요." />
+      <item value="업그레이드 실패，다시 시도해주세요." />
+      <item value="우리집 지킴이 모든 기기가 삭제되어 실행/해제할 수 없습니다." />
+      <item value="Helper class to manage a queue of pending tasks to send to notification side channel * listeners." />
+      <item value="Returns whether notifications from the calling package are not blocked." />
+      <item value="실행할 수 없는 조건이 있습니다. 다시 확인 후 저장해 주세요." />
+      <item value="certification path." />
+      <item value="An exception indicating one of a variety of problems encountered when * validating a certification path." />
+      <item value="This is the exception for invalid or inappropriate algorithm parameters." />
+      <item value="이름 설정" />
       <item value="자동화 명칭으로 노출됨" />
-      <item value="This method cannot be called if the fragment is added to a FragmentManager and * if {@link #isStateSaved()} would return true." />
-      <item value="Supply the construction arguments for this fragment. * The arguments supplied here will be retained across fragment destroy and * creation." />
-      <item value="이조건은이미무효입니가,삭제하시겠습 니까?" />
-      <item value="relation" />
-      <item value="transient" />
-      <item value="conditions" />
-      <item value="localize" />
-      <item value="确认" />
-      <item value="comfirm" />
-      <item value="peek" />
-      <item value="IFTTT IFTTT List Fragment" />
-      <item value="TYPE Center ITEM" />
-      <item value="12 문자신고는 SMS 접근 권한 동의가 반드시 필요합니다. " />
-      <item value="HANDLE" />
-      <item value="ACTION HANDLE ONCE" />
-      <item value="ACTION ACTION ADD" />
-      <item value="Optional parameter, use null to identify a &quot;full&quot; update" />
-      <item value="This is a structural change event. Representations of other existing items in the * data set are still considered up to date and will not be rebound, though their * positions may be altered." />
-      <item value="Notify any registered observers that the item reflected at &lt;code&gt;position&lt;/code&gt; * has been newly inserted. The item previously at &lt;code&gt;position&lt;/code&gt; is now at * position &lt;code&gt;position + 1&lt;/code&gt;." />
-      <item value="可拖拽" />
-      <item value="Is there a toggle view which will trigger drag event." />
-      <item value="Set the drag event should be trigger on long press. * Work when the toggleViewId has been set." />
-      <item value="Returns whether ItemTouchHelper should start a drag and drop operation if an item is * long pressed." />
-      <item value="The directions in which the item can be swiped." />
-      <item value="The directions in which the item can be dragged." />
-      <item value="For instance, if you want to let your items be drag &amp; dropped vertically and swiped * left to be dismissed, you can call this method with: * &lt;code&gt;makeMovementFlags(UP | DOWN, LEFT);&lt;/code&gt;" />
-      <item value="Convenience method to create movement flags." />
-      <item value="Returns single element, or `null` if the list is empty or has more than one element." />
-      <item value="Returns `true` if no elements match the given [predicate]." />
-      <item value="Cond" />
-      <item value="degree" />
-      <item value="Contain" />
-      <item value="Specifies whether the names and values are already URL encoded." />
-      <item value="Note that if the `comparator` considers any two keys of this map equal, only the value associated with the last of them gets into the resu" />
+      <item value="Accessory offline. Please check and try again" />
+      <item value="움직임/소리 감지 시 녹화" />
+      <item value="네트워크 연결이 끊어져 스마트 보안을 실행할 수 없습니다. 연결 후 다시 실행해 주세요" />
+      <item value="조건이 만료되었습니다. 삭제하시겠습니까?" />
+      <item value="이 조건은 이미 무효입니가, 삭제하시겠습니까? " />
+      <item value="The condition has expired, do you want to delete it?" />
+      <item value="삭제된 기기입니다." />
+      <item value="촬영 중" />
+      <item value="닫힘" />
+      <item value="정상 연결" />
+      <item value="연결 끊김" />
+      <item value="닫기" />
+      <item value="우리집 지킴이 모든 기기가 네트워크 연결에 끊어져 스마트 보안을 실행/해제할 수 없습니다." />
+      <item value="잘못된 QR 코드입니다." />
+      <item value="설정한 내용이 저장되지 않았습니다.\n그래도 나가시겠습니까?" />
+      <item value="설정한 내용이 저장되지 않습니다. 우리집 지킴이 예약설정을 나가시겠습니까?" />
+      <item value="When I select a menu(Details of the fire &amp; theft insurance), a white screen(no contens) appears." />
+      <item value="방 추가" />
+      <item value="집 이름을 입력해 주세요" />
+      <item value="설정안함" />
+      <item value="조회결과가 없습니다." />
+      <item value="이름 변경" />
+      <item value="오류가 발생했습니다,잠시 후 다시 시도해 주세요." />
+      <item value="네트워크 연결에 문제가 생겼습니다.\n다시 시도해 주세요." />
+      <item value="일시적인 오류가 발생했습니다. 잠시 후 다시 시도해 주세요." />
+      <item value="특수문자를 입력할 수 없습니다. " />
+      <item value="설정한 비밀번호가 없습니다." />
+      <item value="이름" />
+      <item value="문자신고 기록이 없습니다." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="573" />
-        <entry key="ENGLISH" value="574" />
-        <entry key="ICELANDIC" value="2" />
-        <entry key="FRENCH" value="4" />
-        <entry key="KOREAN" value="27" />
-        <entry key="CATALAN" value="1" />
-        <entry key="ZULU" value="1" />
-        <entry key="JAPANESE" value="2" />
-        <entry key="ITALIAN" value="1" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="236" />
+        <entry key="KOREAN" value="91" />
+        <entry key="JAPANESE" value="1" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
