@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns whether the given CharSequence contains only digits." />
       <item value="Radio" />
       <item value="重复" />
       <item value="DURATION" />
@@ -50,15 +51,17 @@
       <item value="오류가 발생했습니다,잠시 후 다시 시도해 주세요." />
       <item value="네트워크 연결에 문제가 생겼습니다.\n다시 시도해 주세요." />
       <item value="일시적인 오류가 발생했습니다. 잠시 후 다시 시도해 주세요." />
-      <item value="특수문자를 입력할 수 없습니다. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="KOREAN" value="91" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
