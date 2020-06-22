@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Signals success with 0L value after the given delay for each SingleObserver." />
       <item value="Scenario" />
       <item value="sealed" />
       <item value="assign" />
@@ -50,12 +51,11 @@
       <item value="집 이름을 입력해 주세요" />
       <item value="설정안함" />
       <item value="조회결과가 없습니다." />
-      <item value="이름 변경" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="KOREAN" value="91" />
         <entry key="JAPANESE" value="1" />
       </map>
