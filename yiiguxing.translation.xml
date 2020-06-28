@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a property delegate for a read/write property with a non-`null` value that is initialized not during * object construction time but at a later time. Trying to read the property before the initial value has been * assigned results in an exception." />
       <item value="Wrapper around layoutChildren() that handles animating changes caused by layout. * Animations work on the assumption that there are five different kinds of items * in play: * PERSISTENT: items are visible before and after layout * REMOVED: items were visible before layout and were removed by the app * ADDED: items did not exist before layout and were added by the app * DISAPPEARING: items exist in the data set before/after, but changed from * visible to non-visible in the process of layout (they were moved off * screen as a side-effect of other changes) * APPEARING: items exist in the data set before/after, but changed from * non-visible to visible in the process of layout (they were moved on * screen as a side-effect of other changes) * The overall approach figures out what items exist before/after layout and * infers one of the five above states for each of the items. Then the animations * are set up accordingly: * PERSISTENT views are animated via * {@link ItemAnimator#animatePersistence(ViewHolder, ItemHolderInfo, ItemHolderInfo)} * DISAPPEARING views are animated via * {@link ItemAnimator#animateDisappearance(ViewHolder, ItemHolderInfo, ItemHolderInfo)} * APPEARING views are animated via * {@link ItemAnimator#animateAppearance(ViewHolder, ItemHolderInfo, ItemHolderInfo)} * and changed views are animated via * {@link ItemAnimator#animateChange(ViewHolder, ViewHolder, ItemHolderInfo, ItemHolderInfo)}." />
       <item value="dispatch" />
       <item value="설정한 요일/시간에만 실행됩니다." />
@@ -50,12 +51,11 @@
       <item value="우리집 지킴이 모든 기기가 네트워크 연결에 끊어져 스마트 보안을 실행/해제할 수 없습니다." />
       <item value="잘못된 QR 코드입니다." />
       <item value="설정한 내용이 저장되지 않았습니다.\n그래도 나가시겠습니까?" />
-      <item value="설정한 내용이 저장되지 않습니다. 우리집 지킴이 예약설정을 나가시겠습니까?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
