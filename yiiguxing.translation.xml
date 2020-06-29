@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Virtual" />
       <item value="loading more or manual refresh" />
       <item value="CORRESPONDING" />
       <item value="Function of current event -&gt; target disposal event. ViewModel has a very simple lifecycle. * It is created and then later on cleared. So we only have two events and all subscriptions * will only be disposed at [ViewModelEvent.CLEARED]." />
@@ -50,12 +51,11 @@
       <item value="촬영 중" />
       <item value="닫힘" />
       <item value="정상 연결" />
-      <item value="연결 끊김" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
