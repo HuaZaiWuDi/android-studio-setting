@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the period of time each buffer collects items before it is emitted and replaced with a new * buffer" />
+      <item value="Returns an Observable that emits buffers of items it collects from the source ObservableSource. The resulting * ObservableSource emits connected, non-overlapping buffers, each of a fixed duration specified by the * {@code timespan} argument. When the source ObservableSource completes, the resulting ObservableSource emits the * current buffer and propagates the notification from the source ObservableSource. Note that if the source * ObservableSource issues an onError notification the event is passed on immediately without first emitting the * buffer it is in the process of assembling." />
+      <item value="The source did not signal an event for 5 seconds and has been terminated." />
+      <item value="The source did not signal an event for 2 seconds and has been terminated." />
       <item value="Chain of Causes for CompositeException In Order Received" />
       <item value="Re-subscribes to the current Single at most the given number of times and emits each success value." />
       <item value="AVAILABLE" />
@@ -47,15 +51,11 @@
       <item value="삭제된 기기입니다." />
       <item value="촬영 중" />
       <item value="닫힘" />
-      <item value="정상 연결" />
-      <item value="연결 끊김" />
-      <item value="닫기" />
-      <item value="우리집 지킴이 모든 기기가 네트워크 연결에 끊어져 스마트 보안을 실행/해제할 수 없습니다." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
