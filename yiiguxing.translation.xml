@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns {@code true} if the FragmentManager's state has already been saved * by its host. Any operations that would change saved state should not be performed * if this method returns true. For example, any popBackStack() method, such as * {@link #popBackStackImmediate()} or any FragmentTransaction using * {@link FragmentTransaction#commit()} instead of * {@link FragmentTransaction#commitAllowingStateLoss()} will change * the state and will result in an error." />
+      <item value="Perform" />
+      <item value="This is dangerous because the action can * be lost if the activity needs to later be restored from its state." />
+      <item value="If you don't want to lost the action:" />
+      <item value="Perform the transaction action after onSaveInstanceState. * &lt;p&gt; * This is dangerous because the action can * be lost if the activity needs to later be restored from its state. * &lt;p&gt; * &lt;p&gt;" />
+      <item value="Warning: Perform this popTo() action after onSaveInstanceState!" />
       <item value="在myguard 返回提示Tips中增加空格" />
       <item value="Virtual" />
       <item value="loading more or manual refresh" />
@@ -45,17 +51,11 @@
       <item value="Accessory offline. Please check and try again" />
       <item value="움직임/소리 감지 시 녹화" />
       <item value="네트워크 연결이 끊어져 스마트 보안을 실행할 수 없습니다. 연결 후 다시 실행해 주세요" />
-      <item value="조건이 만료되었습니다. 삭제하시겠습니까?" />
-      <item value="이 조건은 이미 무효입니가, 삭제하시겠습니까? " />
-      <item value="The condition has expired, do you want to delete it?" />
-      <item value="삭제된 기기입니다." />
-      <item value="촬영 중" />
-      <item value="닫힘" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
