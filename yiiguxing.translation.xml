@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delayed action must not be selected as the last action." />
+      <item value="Delays cannot be continuous" />
       <item value="Favorite" />
       <item value="shortcut" />
       <item value="Delivery" />
@@ -49,13 +51,11 @@
       <item value="Helper class to manage a queue of pending tasks to send to notification side channel * listeners." />
       <item value="Returns whether notifications from the calling package are not blocked." />
       <item value="실행할 수 없는 조건이 있습니다. 다시 확인 후 저장해 주세요." />
-      <item value="certification path." />
-      <item value="An exception indicating one of a variety of problems encountered when * validating a certification path." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
