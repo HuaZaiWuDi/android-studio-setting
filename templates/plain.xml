@@ -2,7 +2,4 @@
   <template name="St" value="String " description="String" toReformat="false" toShortenFQNames="false">
     <context />
   </template>
-  <template name="thr" value="throw new " description="throw new" toReformat="false" toShortenFQNames="false">
-    <context />
-  </template>
 </templateSet>
