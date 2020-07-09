@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Copies all of the elements from one list into another. After the * operation, the index of each copied element in the destination list * will be identical to its index in the source list. The destination * list must be at least as long as the source list. If it is longer, the * remaining elements in the destination list are unaffected. &lt;p&gt;" />
       <item value="Constructs a list containing the elements of the specified * collection, in the order they are returned by the collection's * iterator." />
       <item value="aggregate" />
       <item value="Perform the transaction action after onSaveInstanceState." />
@@ -50,12 +51,11 @@
       <item value="움직임 감지됨" />
       <item value="업데이트 실패, 다시 시도해 주세요." />
       <item value="업그레이드 실패，다시 시도해주세요." />
-      <item value="우리집 지킴이 모든 기기가 삭제되어 실행/해제할 수 없습니다." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
