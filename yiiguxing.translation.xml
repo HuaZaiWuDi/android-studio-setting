@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="Returns a reversed read-only view of the original List. * All changes made in the original list will be reflected in the reversed one." />
+      <item value="Returns a list with elements in reversed order." />
       <item value="Copies all of the elements from one list into another. After the * operation, the index of each copied element in the destination list * will be identical to its index in the source list. The destination * list must be at least as long as the source list. If it is longer, the * remaining elements in the destination list are unaffected. &lt;p&gt;" />
       <item value="Constructs a list containing the elements of the specified * collection, in the order they are returned by the collection's * iterator." />
       <item value="aggregate" />
@@ -50,12 +51,11 @@
       <item value="현재 신호 세기&lt;" />
       <item value="스마트 허브를 업데이트 중입니다. 잠시 후 다시 시도해주세요." />
       <item value="움직임 감지됨" />
-      <item value="업데이트 실패, 다시 시도해 주세요." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="275" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
