@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is defined multiple times:" />
       <item value="Location is illegal" />
       <item value="The color for the navigation bar. If the color is not opaque, consider setting {@link android.view.View#SYSTEM_UI_FLAG_LAYOUT_STABLE} and {@link android.view.View#SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION}. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attr#windowDrawsSystemBarBackgrounds} and the navigation bar must not have been requested to be translucent with {@link android.R.attr#windowTranslucentNavigation}. Corresponds to {@link android.view.Window#setNavigationBarColor(int)}." />
       <item value="Flag indicating whether this window requests a translucent navigation bar. Corresponds to {@link android.view.WindowManager.LayoutParams#FLAG_TRANSLUCENT_NAVIGATION}." />
@@ -50,12 +51,11 @@
       <item value="Signals success with 0L value after the given delay for each SingleObserver." />
       <item value="Scenario" />
       <item value="sealed" />
-      <item value="assign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
