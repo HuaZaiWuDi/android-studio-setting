@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This annotation is not applicable to target 'member property without backing field or delegate'" />
       <item value="is defined multiple times:" />
       <item value="Location is illegal" />
       <item value="The color for the navigation bar. If the color is not opaque, consider setting {@link android.view.View#SYSTEM_UI_FLAG_LAYOUT_STABLE} and {@link android.view.View#SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION}. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attr#windowDrawsSystemBarBackgrounds} and the navigation bar must not have been requested to be translucent with {@link android.R.attr#windowTranslucentNavigation}. Corresponds to {@link android.view.Window#setNavigationBarColor(int)}." />
@@ -50,11 +51,10 @@
       <item value="provides check for verifying if this element represents a null value or not." />
       <item value="Signals success with 0L value after the given delay for each SingleObserver." />
       <item value="Scenario" />
-      <item value="sealed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
+        <entry key="CHINESE" value="290" />
         <entry key="ENGLISH" value="290" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
