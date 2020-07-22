@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The name of a supported {@linkplain java.nio.charset.Charset * charset}" />
+      <item value="Converts the data from the specified array of bytes to characters using the specified character set * and returns the conversion result as a string." />
       <item value="Encodes the contents of this string using the specified character set and returns the resulting byte array." />
       <item value="syntax error" />
       <item value="Optional parameter, use null to identify a &quot;full&quot; update" />
@@ -49,13 +51,11 @@
       <item value="在myguard 返回提示Tips中增加空格" />
       <item value="Virtual" />
       <item value="loading more or manual refresh" />
-      <item value="CORRESPONDING" />
-      <item value="Function of current event -&gt; target disposal event. ViewModel has a very simple lifecycle. * It is created and then later on cleared. So we only have two events and all subscriptions * will only be disposed at [ViewModelEvent.CLEARED]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
