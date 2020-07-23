@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compatibility Note:&lt;/b&gt; For applications targeting * {@link android.os.Build.VERSION_CODES#Q} or above, this API will always return {@code -1}." />
       <item value="Ascii encoded SSID. This will replace SSID when we deprecate it. @hide" />
       <item value="This name is visible to remote Bluetooth devices." />
       <item value="Set the friendly Bluetooth name of the local Bluetooth adapter." />
@@ -50,12 +51,11 @@
       <item value="Delays cannot be continuous" />
       <item value="Favorite" />
       <item value="shortcut" />
-      <item value="Delivery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="314" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
