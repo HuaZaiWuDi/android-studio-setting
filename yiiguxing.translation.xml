@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;b&gt;Note:&lt;/b&gt; Apps can set a combination of SSID using {@link #setSsid(String)} and BSSID * using {@link #setBssid(MacAddress)} to provide more fine grained network suggestions to * the platform." />
+      <item value="Create a network suggestion object for use in * {@link WifiManager#addNetworkSuggestions(List)}." />
+      <item value="For example: * To provide credentials for one open, one WPA2 and one WPA3 network with their * corresponding SSID's:" />
+      <item value="Suggestions" />
+      <item value="To connect to an open network with a SSID prefix of &quot;test&quot; and a BSSID OUI of &quot;10:03:23&quot;:" />
+      <item value="Network specifier object used to request a local Wi-Fi network. Apps should use the * {@link WifiNetworkSpecifier.Builder} class to create an instance." />
+      <item value="Specifier" />
+      <item value="Apps can provide a list of such networks to the platform using * {@link WifiManager#addNetworkSuggestions(List)}." />
+      <item value="The Network Suggestion object is used to provide a Wi-Fi network for consideration when * auto-connecting to networks. Apps cannot directly create this object, they must use * {@link WifiNetworkSuggestion.Builder#build()} to obtain an instance of this object." />
+      <item value="Provide a list of network suggestions to the device. See {@link WifiNetworkSuggestion} * for a detailed explanation of the parameters." />
+      <item value="Device Owner (DO) &amp; Profile Owner (PO) apps will have access to the full list. * &lt;li&gt;Callers with Carrier privilege will receive a restricted list only containing * configurations which they created." />
+      <item value="Remove some or all of the network suggestions that were previously provided by the app. * See {@link WifiNetworkSuggestion} for a detailed explanation of the parameters. * See {@link WifiNetworkSuggestion#equals(Object)} for the equivalence evaluation used." />
+      <item value="Specifies whether the app needs to log in to a captive portal to obtain Internet access." />
+      <item value="{@code true} to indicate that app interaction is * required, {@code false} otherwise." />
+      <item value="Shared Key authentication (requires static WEP keys)" />
+      <item value="Due to security and performance limitations, use of WEP networks * is discouraged." />
       <item value="Compatibility Note:&lt;/b&gt; For applications targeting * {@link android.os.Build.VERSION_CODES#Q} or above, this API will always return {@code -1}." />
       <item value="Ascii encoded SSID. This will replace SSID when we deprecate it. @hide" />
       <item value="This name is visible to remote Bluetooth devices." />
@@ -35,27 +51,11 @@
       <item value="The color for the navigation bar. If the color is not opaque, consider setting" />
       <item value="Shows a thin line of the specified color between the navigation bar and the app content." />
       <item value="resolve" />
-      <item value="Indicates that the operation failed because the maximum outstanding * requests from the applications have reached." />
-      <item value="Indicates that the operation failed due to an internal error." />
-      <item value="Indicates that the operation failed because it is already active." />
-      <item value="a {@link ConnectableObservable} that upon connection causes the source ObservableSource to emit its * items to its {@link Observer}s" />
-      <item value="Returns a {@link ConnectableObservable} that shares a single subscription to the underlying ObservableSource * that will replay all of its items and notifications to any future {@link Observer}. A Connectable * ObservableSource resembles an ordinary ObservableSource, except that it does not begin emitting items when it is * subscribed to, but only when its {@code connect} method is called." />
-      <item value="Returns a reversed read-only view of the original List. * All changes made in the original list will be reflected in the reversed one." />
-      <item value="Returns a list with elements in reversed order." />
-      <item value="Copies all of the elements from one list into another. After the * operation, the index of each copied element in the destination list * will be identical to its index in the source list. The destination * list must be at least as long as the source list. If it is longer, the * remaining elements in the destination list are unaffected. &lt;p&gt;" />
-      <item value="Constructs a list containing the elements of the specified * collection, in the order they are returned by the collection's * iterator." />
-      <item value="aggregate" />
-      <item value="Perform the transaction action after onSaveInstanceState." />
-      <item value="This is dangerous because the action can * be lost if the activity needs to later be restored from its state." />
-      <item value="Delayed action must not be selected as the last action." />
-      <item value="Delays cannot be continuous" />
-      <item value="Favorite" />
-      <item value="shortcut" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="313" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="330" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
