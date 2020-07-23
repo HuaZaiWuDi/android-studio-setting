@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scan record including both advertising data and scan response data." />
+      <item value="Timestamp at which the scan result was observed." />
       <item value="encode" />
       <item value="depends" />
       <item value="reduce" />
@@ -49,13 +51,11 @@
       <item value="Returns {@code true} if the FragmentManager's state has already been saved * by its host. Any operations that would change saved state should not be performed * if this method returns true. For example, any popBackStack() method, such as * {@link #popBackStackImmediate()} or any FragmentTransaction using * {@link FragmentTransaction#commit()} instead of * {@link FragmentTransaction#commitAllowingStateLoss()} will change * the state and will result in an error." />
       <item value="Perform" />
       <item value="If you don't want to lost the action:" />
-      <item value="Perform the transaction action after onSaveInstanceState. * &lt;p&gt; * This is dangerous because the action can * be lost if the activity needs to later be restored from its state. * &lt;p&gt; * &lt;p&gt;" />
-      <item value="Warning: Perform this popTo() action after onSaveInstanceState!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
