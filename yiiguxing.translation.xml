@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ascii encoded SSID. This will replace SSID when we deprecate it. @hide" />
       <item value="This name is visible to remote Bluetooth devices." />
       <item value="Set the friendly Bluetooth name of the local Bluetooth adapter." />
       <item value="REASON NULL ATTRIBUTE" />
@@ -50,12 +51,11 @@
       <item value="Favorite" />
       <item value="shortcut" />
       <item value="Delivery" />
-      <item value="This position is deleted or do not have permission for this operation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
