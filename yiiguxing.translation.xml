@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REASON NULL ATTRIBUTE" />
       <item value="&lt;b&gt;Note:&lt;/b&gt; Apps can set a combination of SSID using {@link #setSsid(String)} and BSSID * using {@link #setBssid(MacAddress)} to provide more fine grained network suggestions to * the platform." />
       <item value="Create a network suggestion object for use in * {@link WifiManager#addNetworkSuggestions(List)}." />
       <item value="For example: * To provide credentials for one open, one WPA2 and one WPA3 network with their * corresponding SSID's:" />
@@ -21,7 +22,6 @@
       <item value="Ascii encoded SSID. This will replace SSID when we deprecate it. @hide" />
       <item value="This name is visible to remote Bluetooth devices." />
       <item value="Set the friendly Bluetooth name of the local Bluetooth adapter." />
-      <item value="REASON NULL ATTRIBUTE" />
       <item value="ATTRIBUTE" />
       <item value="identify" />
       <item value="Scan record including both advertising data and scan response data." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
