@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="artifact" />
       <item value="limit" />
       <item value="UNDEFINE" />
       <item value="Attempt to get length of null array" />
@@ -50,12 +51,11 @@
       <item value="Flag indicating whether this window requests a translucent navigation bar. Corresponds to {@link android.view.WindowManager.LayoutParams#FLAG_TRANSLUCENT_NAVIGATION}." />
       <item value="Flag indicating whether this window requests a translucent navigation bar." />
       <item value="For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attr#windowDrawsSystemBarBackgrounds} and the navigation bar must not have been requested to be translucent with {@link android.R.attr#windowTranslucentNavigation}." />
-      <item value="For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attr#windowDrawsSystemBarBackgrounds} and the navigation bar must not have been requested to be translucent with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
