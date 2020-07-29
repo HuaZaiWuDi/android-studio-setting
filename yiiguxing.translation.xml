@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pathspec '1.0.1' did not match any file(s) known to git" />
       <item value="Shifts this value right by the [bitCount] number of bits, filling the leftmost bits with copies of the sign bit." />
       <item value="Adds a disposable to this container or disposes it if the * container has been disposed." />
       <item value="false if this container has been disposed" />
@@ -50,12 +51,11 @@
       <item value="This annotation is not applicable to target 'member property without backing field or delegate'" />
       <item value="is defined multiple times:" />
       <item value="Location is illegal" />
-      <item value="The color for the navigation bar. If the color is not opaque, consider setting {@link android.view.View#SYSTEM_UI_FLAG_LAYOUT_STABLE} and {@link android.view.View#SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION}. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attr#windowDrawsSystemBarBackgrounds} and the navigation bar must not have been requested to be translucent with {@link android.R.attr#windowTranslucentNavigation}. Corresponds to {@link android.view.Window#setNavigationBarColor(int)}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
