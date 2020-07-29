@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spread inside" />
+      <item value="spread" />
+      <item value="packed" />
+      <item value="justification" />
+      <item value="aligned" />
       <item value="pathspec '1.0.1' did not match any file(s) known to git" />
       <item value="Shifts this value right by the [bitCount] number of bits, filling the leftmost bits with copies of the sign bit." />
       <item value="Adds a disposable to this container or disposes it if the * container has been disposed." />
@@ -46,16 +51,11 @@
       <item value="multi select" />
       <item value="Returns a new map with entries having the keys of this map and the values obtained by applying the [transform] * function to each entry in this [Map]." />
       <item value="Returns a list of all elements sorted descending according to natural sort order of the value returned by specified [selector] function." />
-      <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified [selector] function." />
-      <item value="decryption failed" />
-      <item value="This annotation is not applicable to target 'member property without backing field or delegate'" />
-      <item value="is defined multiple times:" />
-      <item value="Location is illegal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="344" />
+        <entry key="ENGLISH" value="345" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
