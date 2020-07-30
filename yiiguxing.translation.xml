@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UNDEFINE" />
       <item value="This value used used with the {@link #setRepeatCount(int)} property to repeat * the animation indefinitely." />
       <item value="spread inside" />
       <item value="spread" />
@@ -13,7 +14,6 @@
       <item value="false if this container has been disposed" />
       <item value="artifact" />
       <item value="limit" />
-      <item value="UNDEFINE" />
       <item value="Attempt to get length of null array" />
       <item value="REASON NULL ATTRIBUTE" />
       <item value="&lt;b&gt;Note:&lt;/b&gt; Apps can set a combination of SSID using {@link #setSsid(String)} and BSSID * using {@link #setBssid(MacAddress)} to provide more fine grained network suggestions to * the platform." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="346" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
