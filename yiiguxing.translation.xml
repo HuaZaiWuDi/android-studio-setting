@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This value used used with the {@link #setRepeatCount(int)} property to repeat * the animation indefinitely." />
       <item value="spread inside" />
       <item value="spread" />
       <item value="packed" />
@@ -50,12 +51,11 @@
       <item value="Channel" />
       <item value="multi select" />
       <item value="Returns a new map with entries having the keys of this map and the values obtained by applying the [transform] * function to each entry in this [Map]." />
-      <item value="Returns a list of all elements sorted descending according to natural sort order of the value returned by specified [selector] function." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
