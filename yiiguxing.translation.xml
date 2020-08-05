@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the index within this string of the first occurrence of the * specified substring, starting at the specified index." />
+      <item value="the index of the first occurrence of the specified substring, * starting at the specified index, * or {@code -1} if there is no such occurrence." />
+      <item value="the index from which to start the search." />
       <item value="submit" />
       <item value="Serverless" />
       <item value="Suppress" />
@@ -48,14 +51,11 @@
       <item value="Timestamp at which the scan result was observed." />
       <item value="encode" />
       <item value="depends" />
-      <item value="reduce" />
-      <item value="The name of a supported {@linkplain java.nio.charset.Charset * charset}" />
-      <item value="Converts the data from the specified array of bytes to characters using the specified character set * and returns the conversion result as a string." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
