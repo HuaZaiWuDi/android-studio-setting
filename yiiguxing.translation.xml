@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Status code for the operation. One of the STATUS_NETWORK_SUGGESTIONS_ values. * {@link WifiNetworkSuggestion#equals(Object)} any previously provided suggestions by the app. * @throws {@link SecurityException} if the caller is missing required permissions." />
+      <item value="These networks are just a suggestion to the platform. The platform will ultimately * decide on which network the device connects to. &lt;/li&gt; * &lt;li&gt; When an app is uninstalled, all its suggested networks are discarded. If the device is * currently connected to a suggested network which is being removed then the device will * disconnect from that network.&lt;/li&gt; * &lt;li&gt; No in-place modification of existing suggestions are allowed. Apps are expected to * remove suggestions using {@link #removeNetworkSuggestions(List)} and then add the modified * suggestion back using this API.&lt;/li&gt;" />
+      <item value="When the device decides to connect to one of the provided network suggestions, platform sends * a directed broadcast {@link #ACTION_WIFI_NETWORK_SUGGESTION_POST_CONNECTION} to the app if * the network was created with {@link WifiNetworkSuggestion.Builder * #setIsAppInteractionRequired()} flag set and the app holds * {@link android.Manifest.permission#ACCESS_FINE_LOCATION ACCESS_FINE_LOCATION} permission." />
+      <item value="&lt;b&gt;Note:&lt;/b&gt; Apps can set a combination of SSID using {@link #setSsid(String)} and BSSID * using {@link #setBssid(MacAddress)} to provide more fine grained network suggestions to * the platform." />
+      <item value="or above, this API will always return {@code false} * and will have no effect. If apps are targeting an older SDK (" />
+      <item value="An {@code String} of opaque format used to specify the bearer * specific network specifier where the bearer has a choice of * networks." />
+      <item value="Sets the optional bearer specific network specifier. * This has no meaning if a single transport is also not specified, so calling * this without a single transport set will generate an exception, as will * subsequently adding or removing transports after this is set." />
+      <item value="Suggestion" />
+      <item value="Specifier" />
+      <item value="Specifies whether this represents a hidden network." />
+      <item value="Set the associated enterprise configuration for this network. Needed for authenticating * to WPA2-EAP networks. See {@link WifiEnterpriseConfig} for description." />
+      <item value="Set the ASCII WPA2 passphrase for this network. Needed for authenticating to * WPA2-PSK networks." />
+      <item value="Specifies whether this represents an Enhanced Open (OWE) network." />
+      <item value="Pattern type: the given pattern must match the * beginning of the string it is tested against." />
+      <item value="CAPABILITY" />
       <item value="Binds the current process to {@code network}. All Sockets created in the future * (and not explicitly bound via a bound SocketFactory from" />
       <item value="Called when the framework connects and has declared a new network ready for use. * This callback may be called more than once if the {@link Network} that is * satisfying the request changes. This will always immediately be followed by a * call to {@link #onCapabilitiesChanged(Network, NetworkCapabilities)} then by a * call to {@link #onLinkPropertiesChanged(Network, LinkProperties)}, and a call to * {@link #onBlockedStatusChanged(Network, boolean)}." />
       <item value="Indicates this network uses a Wi-Fi transport." />
@@ -32,30 +47,15 @@
       <item value="limit" />
       <item value="Attempt to get length of null array" />
       <item value="REASON NULL ATTRIBUTE" />
-      <item value="&lt;b&gt;Note:&lt;/b&gt; Apps can set a combination of SSID using {@link #setSsid(String)} and BSSID * using {@link #setBssid(MacAddress)} to provide more fine grained network suggestions to * the platform." />
       <item value="Create a network suggestion object for use in * {@link WifiManager#addNetworkSuggestions(List)}." />
       <item value="For example: * To provide credentials for one open, one WPA2 and one WPA3 network with their * corresponding SSID's:" />
       <item value="Suggestions" />
       <item value="To connect to an open network with a SSID prefix of &quot;test&quot; and a BSSID OUI of &quot;10:03:23&quot;:" />
-      <item value="Network specifier object used to request a local Wi-Fi network. Apps should use the * {@link WifiNetworkSpecifier.Builder} class to create an instance." />
-      <item value="Specifier" />
-      <item value="Apps can provide a list of such networks to the platform using * {@link WifiManager#addNetworkSuggestions(List)}." />
-      <item value="The Network Suggestion object is used to provide a Wi-Fi network for consideration when * auto-connecting to networks. Apps cannot directly create this object, they must use * {@link WifiNetworkSuggestion.Builder#build()} to obtain an instance of this object." />
-      <item value="Provide a list of network suggestions to the device. See {@link WifiNetworkSuggestion} * for a detailed explanation of the parameters." />
-      <item value="Device Owner (DO) &amp; Profile Owner (PO) apps will have access to the full list. * &lt;li&gt;Callers with Carrier privilege will receive a restricted list only containing * configurations which they created." />
-      <item value="Remove some or all of the network suggestions that were previously provided by the app. * See {@link WifiNetworkSuggestion} for a detailed explanation of the parameters. * See {@link WifiNetworkSuggestion#equals(Object)} for the equivalence evaluation used." />
-      <item value="Specifies whether the app needs to log in to a captive portal to obtain Internet access." />
-      <item value="{@code true} to indicate that app interaction is * required, {@code false} otherwise." />
-      <item value="Shared Key authentication (requires static WEP keys)" />
-      <item value="Due to security and performance limitations, use of WEP networks * is discouraged." />
-      <item value="Compatibility Note:&lt;/b&gt; For applications targeting * {@link android.os.Build.VERSION_CODES#Q} or above, this API will always return {@code -1}." />
-      <item value="Ascii encoded SSID. This will replace SSID when we deprecate it. @hide" />
-      <item value="This name is visible to remote Bluetooth devices." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
