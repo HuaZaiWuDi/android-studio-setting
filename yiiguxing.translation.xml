@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suggestions" />
+      <item value="See {@link WifiNetworkSpecifier.Builder#build()} for new * mechanism to trigger connection to a Wi-Fi network." />
       <item value="Status code for the operation. One of the STATUS_NETWORK_SUGGESTIONS_ values. * {@link WifiNetworkSuggestion#equals(Object)} any previously provided suggestions by the app. * @throws {@link SecurityException} if the caller is missing required permissions." />
       <item value="These networks are just a suggestion to the platform. The platform will ultimately * decide on which network the device connects to. &lt;/li&gt; * &lt;li&gt; When an app is uninstalled, all its suggested networks are discarded. If the device is * currently connected to a suggested network which is being removed then the device will * disconnect from that network.&lt;/li&gt; * &lt;li&gt; No in-place modification of existing suggestions are allowed. Apps are expected to * remove suggestions using {@link #removeNetworkSuggestions(List)} and then add the modified * suggestion back using this API.&lt;/li&gt;" />
       <item value="When the device decides to connect to one of the provided network suggestions, platform sends * a directed broadcast {@link #ACTION_WIFI_NETWORK_SUGGESTION_POST_CONNECTION} to the app if * the network was created with {@link WifiNetworkSuggestion.Builder * #setIsAppInteractionRequired()} flag set and the app holds * {@link android.Manifest.permission#ACCESS_FINE_LOCATION ACCESS_FINE_LOCATION} permission." />
@@ -49,13 +51,11 @@
       <item value="REASON NULL ATTRIBUTE" />
       <item value="Create a network suggestion object for use in * {@link WifiManager#addNetworkSuggestions(List)}." />
       <item value="For example: * To provide credentials for one open, one WPA2 and one WPA3 network with their * corresponding SSID's:" />
-      <item value="Suggestions" />
-      <item value="To connect to an open network with a SSID prefix of &quot;test&quot; and a BSSID OUI of &quot;10:03:23&quot;:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="378" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
