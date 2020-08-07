@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abnormal" />
       <item value="This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
       <item value="Suggestions" />
       <item value="See {@link WifiNetworkSpecifier.Builder#build()} for new * mechanism to trigger connection to a Wi-Fi network." />
@@ -50,12 +51,11 @@
       <item value="limit" />
       <item value="Attempt to get length of null array" />
       <item value="REASON NULL ATTRIBUTE" />
-      <item value="Create a network suggestion object for use in * {@link WifiManager#addNetworkSuggestions(List)}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="380" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="CHINESE" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
