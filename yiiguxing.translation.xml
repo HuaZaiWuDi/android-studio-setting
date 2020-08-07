@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shifts this value right by the [bitCount] number of bits, filling the leftmost bits with copies of the sign bit." />
       <item value="Abnormal" />
       <item value="This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
       <item value="Suggestions" />
@@ -44,7 +45,6 @@
       <item value="justification" />
       <item value="aligned" />
       <item value="pathspec '1.0.1' did not match any file(s) known to git" />
-      <item value="Shifts this value right by the [bitCount] number of bits, filling the leftmost bits with copies of the sign bit." />
       <item value="Adds a disposable to this container or disposes it if the * container has been disposed." />
       <item value="false if this container has been disposed" />
       <item value="artifact" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="383" />
         <entry key="KOREAN" value="92" />
         <entry key="JAPANESE" value="1" />
       </map>
