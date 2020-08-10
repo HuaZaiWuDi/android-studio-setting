@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the specified subsequence" />
+      <item value="This filter will capitalize all the lowercase and titlecase letters that are added * through edits. (Note that if there are no lowercase or titlecase letters in the input, the * text would not be transformed, even if the result of capitalization of the string is * different from the string.)" />
       <item value="Note: If &lt;var&gt;source&lt;/var&gt; is an instance of {@link Spanned} or * {@link Spannable}, the span objects in the &lt;var&gt;source&lt;/var&gt; should be * copied into the filtered result (i.e. the non-null return value). * {@link TextUtils#copySpansFrom} can be used for convenience if the * span boundary indices would be remaining identical relative to the source." />
       <item value="dest" />
       <item value="Surrogate" />
@@ -49,13 +51,11 @@
       <item value="spread" />
       <item value="packed" />
       <item value="justification" />
-      <item value="aligned" />
-      <item value="pathspec '1.0.1' did not match any file(s) known to git" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
