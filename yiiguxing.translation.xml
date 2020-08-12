@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vibration" />
+      <item value="Illumination" />
+      <item value="auth" />
+      <item value="regular" />
       <item value="Poll" />
       <item value="the specified subsequence" />
       <item value="This filter will capitalize all the lowercase and titlecase letters that are added * through edits. (Note that if there are no lowercase or titlecase letters in the input, the * text would not be transformed, even if the result of capitalization of the string is * different from the string.)" />
@@ -47,15 +51,11 @@
       <item value="Dimmer" />
       <item value="Depends" />
       <item value="UNDEFINE" />
-      <item value="This value used used with the {@link #setRepeatCount(int)} property to repeat * the animation indefinitely." />
-      <item value="spread inside" />
-      <item value="spread" />
-      <item value="packed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
