@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AI code completions for Java &amp; Javascript on IntelliJ, Android Studio, WebStorm, and PhpStorm" />
+      <item value="ompresses javascript files by removing unnecessary whitespace, comments etc javascript source file should be named yourfilename.source.js otherwise source file is created before compressing the original file press ctrl+shift+alt+j while file is opened in editor panel the compressed javascript file will be saved as yourfilename.js" />
+      <item value="GraphQL language support including tagged template literals in JavaScript and TypeScript. Feature highlights: Schema-aware completion, error highlighting, and documentation Syntax highlighting, code-formatting, folding, commenter, and brace-matching Execute queries and mutations with variables against configurable endpoints Support for multiple schemas using graphql-config" />
+      <item value="See all the JS Toolbox actions from two locations: From Tools &gt; JS Toolbox From the editor, right click &gt; JS Toolbox Go to test [Alt T], [Ctrl Command T] on Mac Jump between a javascript file and its unit test. You can configure the file name patterns under: Settings &gt; JS Toolbox And set values for Unit test suffix and File suffix If you need multiple patterns use comma. For example: Unit test suffix: &quot;Spec.js,-spec.js&quot; File suffix: &quot;-controller.js,.js&quot; With this configuration the action will take you from: &quot;my-component.js&quot; or &quot;my-component-controller.js&quot;" />
+      <item value="JS Toolbox An Intellij / Webstorm plugin that provides several tools for javascript development. Here is a list of available actions: Go to test [Alt T], [Ctrl Command T] on Mac Go to view [Alt V], [Ctrl Command V] on Mac Go to constructor [Alt G], [Ctrl Command G] on a mac Join multi-line strings and variable declarations [Ctrl SHIFT Alt J], [Ctrl Command J] on Mac Open current file in browser [Ctrl SHIFT Alt G], [SHIFT Option Command G] on Mac Add a semi-color at the end of the line [Ctrl SHIFT ;], [Command SHIFT ;] on Mac Sort the selection using a user-defined splitter [SHIFT alt 1], [Command SHIFT 1] on Mac Generate a method for the current javascript class Override a method from the parent javascript class" />
+      <item value="Monokai Pro &amp; MacOS Mojave inspired color themes, with bright colors &amp; dark mode, with common color code for all languages. See description &amp; screenshots on Github. Check the sources, iTerm2 and macOS Terminal and XCode color schemes also available" />
       <item value="this sometimes occurs after a network connection timeout." />
       <item value="FRAGMENTATION" />
       <item value="the range interval of RangeSeekBar" />
@@ -45,16 +51,10 @@
       <item value="Indicates that this network should be able to reach the internet." />
       <item value="Error: Program type already present: javax.annotation.Generated" />
       <item value="parallel" />
-      <item value="Unable to find a matching configuration of project :Arn:" />
-      <item value="Returns the index within this string of the first occurrence of the * specified substring, starting at the specified index." />
-      <item value="the index of the first occurrence of the specified substring, * starting at the specified index, * or {@code -1} if there is no such occurrence." />
-      <item value="the index from which to start the search." />
-      <item value="submit" />
-      <item value="Serverless" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
+        <entry key="CHINESE" value="400" />
         <entry key="ENGLISH" value="400" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
