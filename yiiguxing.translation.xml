@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刻度" />
       <item value="undefined" />
       <item value="AI code completions for Java &amp; Javascript on IntelliJ, Android Studio, WebStorm, and PhpStorm" />
       <item value="ompresses javascript files by removing unnecessary whitespace, comments etc javascript source file should be named yourfilename.source.js otherwise source file is created before compressing the original file press ctrl+shift+alt+j while file is opened in editor panel the compressed javascript file will be saved as yourfilename.js" />
@@ -50,12 +51,11 @@
       <item value="Called when the framework connects and has declared a new network ready for use. * This callback may be called more than once if the {@link Network} that is * satisfying the request changes. This will always immediately be followed by a * call to {@link #onCapabilitiesChanged(Network, NetworkCapabilities)} then by a * call to {@link #onLinkPropertiesChanged(Network, LinkProperties)}, and a call to * {@link #onBlockedStatusChanged(Network, boolean)}." />
       <item value="Indicates this network uses a Wi-Fi transport." />
       <item value="Indicates that this network should be able to reach the internet." />
-      <item value="Error: Program type already present: javax.annotation.Generated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="402" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
