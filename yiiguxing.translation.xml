@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This function will commit all queued up characteristic write * operations for a given remote device." />
+      <item value="Executes a reliable write transaction for a given remote device." />
+      <item value="Callback invoked when a reliable write transaction has been completed." />
+      <item value="Reliable" />
+      <item value="offer" />
+      <item value="All methods defined in the super class." />
       <item value="Sets an optional retry count and a delay that the process will wait before each connection * attempt. The library will NOT retry if the device is not reachable, that is when the 30 sec. * timeout occurs. In that case the app should scan before connecting, to make sure the * target is in range." />
       <item value="Different PHYs are available only on more recent devices with Android 8+. * Check {@link BluetoothAdapter#isLe2MPhySupported()} and * {@link BluetoothAdapter#isLeCodedPhySupported()} if required PHYs are supported by this * Android device. The default PHY is {@link PhyRequest#PHY_LE_1M_MASK}." />
       <item value="Sets the preferred PHY used for connection. Th value should be a bitmask composed of" />
@@ -45,17 +51,11 @@
       <item value="Shifts this value right by the [bitCount] number of bits, filling the leftmost bits with copies of the sign bit." />
       <item value="Abnormal" />
       <item value="This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
-      <item value="Suggestions" />
-      <item value="See {@link WifiNetworkSpecifier.Builder#build()} for new * mechanism to trigger connection to a Wi-Fi network." />
-      <item value="Status code for the operation. One of the STATUS_NETWORK_SUGGESTIONS_ values. * {@link WifiNetworkSuggestion#equals(Object)} any previously provided suggestions by the app. * @throws {@link SecurityException} if the caller is missing required permissions." />
-      <item value="These networks are just a suggestion to the platform. The platform will ultimately * decide on which network the device connects to. &lt;/li&gt; * &lt;li&gt; When an app is uninstalled, all its suggested networks are discarded. If the device is * currently connected to a suggested network which is being removed then the device will * disconnect from that network.&lt;/li&gt; * &lt;li&gt; No in-place modification of existing suggestions are allowed. Apps are expected to * remove suggestions using {@link #removeNetworkSuggestions(List)} and then add the modified * suggestion back using this API.&lt;/li&gt;" />
-      <item value="When the device decides to connect to one of the provided network suggestions, platform sends * a directed broadcast {@link #ACTION_WIFI_NETWORK_SUGGESTION_POST_CONNECTION} to the app if * the network was created with {@link WifiNetworkSuggestion.Builder * #setIsAppInteractionRequired()} flag set and the app holds * {@link android.Manifest.permission#ACCESS_FINE_LOCATION ACCESS_FINE_LOCATION} permission." />
-      <item value="&lt;b&gt;Note:&lt;/b&gt; Apps can set a combination of SSID using {@link #setSsid(String)} and BSSID * using {@link #setBssid(MacAddress)} to provide more fine grained network suggestions to * the platform." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="415" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE" value="421" />
+        <entry key="ENGLISH" value="422" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
