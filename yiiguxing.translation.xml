@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the handler used for delaying operations, timeouts and, most of all, the * request callbacks (done/fail/with, etc)." />
       <item value="Callback called when the data received do not conform to required scheme." />
       <item value="Note that only one observer is going to be notified of changes." />
       <item value="This avoids a common problem with events: on configuration change (like rotation) an update * can be emitted if the observer is active. This LiveData only calls the observable if there's an * explicit call to setValue() or call()." />
@@ -50,12 +51,11 @@
       <item value="Specifier" />
       <item value="Specifies whether this represents a hidden network." />
       <item value="Set the associated enterprise configuration for this network. Needed for authenticating * to WPA2-EAP networks. See {@link WifiEnterpriseConfig} for description." />
-      <item value="Set the ASCII WPA2 passphrase for this network. Needed for authenticating to * WPA2-PSK networks." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="409" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
