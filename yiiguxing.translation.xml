@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不在范围内" />
       <item value="刻度" />
       <item value="undefined" />
       <item value="AI code completions for Java &amp; Javascript on IntelliJ, Android Studio, WebStorm, and PhpStorm" />
@@ -50,7 +51,6 @@
       <item value="Binds the current process to {@code network}. All Sockets created in the future * (and not explicitly bound via a bound SocketFactory from" />
       <item value="Called when the framework connects and has declared a new network ready for use. * This callback may be called more than once if the {@link Network} that is * satisfying the request changes. This will always immediately be followed by a * call to {@link #onCapabilitiesChanged(Network, NetworkCapabilities)} then by a * call to {@link #onLinkPropertiesChanged(Network, LinkProperties)}, and a call to * {@link #onBlockedStatusChanged(Network, boolean)}." />
       <item value="Indicates this network uses a Wi-Fi transport." />
-      <item value="Indicates that this network should be able to reach the internet." />
     </histories>
     <option name="languageScores">
       <map>
