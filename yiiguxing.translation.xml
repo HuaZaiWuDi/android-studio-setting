@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns `true` if at least one element matches the given [predicate]." />
+      <item value="Returns `true` if no elements match the given [predicate]." />
       <item value="This function will commit all queued up characteristic write * operations for a given remote device." />
       <item value="Executes a reliable write transaction for a given remote device." />
       <item value="Callback invoked when a reliable write transaction has been completed." />
@@ -49,13 +51,11 @@
       <item value="This filter will constrain edits not to make the length of the text * greater than the specified length." />
       <item value="When configured, Gradle will run in incubating parallel mode. # This option should only be used with decoupled projects. More details, visit" />
       <item value="Shifts this value right by the [bitCount] number of bits, filling the leftmost bits with copies of the sign bit." />
-      <item value="Abnormal" />
-      <item value="This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
