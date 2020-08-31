@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Callback called when the data received do not conform to required scheme." />
       <item value="Returns `true` if at least one element matches the given [predicate]." />
       <item value="Returns `true` if no elements match the given [predicate]." />
       <item value="This function will commit all queued up characteristic write * operations for a given remote device." />
@@ -17,7 +18,6 @@
       <item value="Bluetooth LE 1M PHY mask. Used to specify LE 1M Physical Channel as one of many available * options in a bitmask." />
       <item value="This method will be called if a remote device requires a non-'just works' pairing. * See PAIRING_* constants for possible options." />
       <item value="the handler used for delaying operations, timeouts and, most of all, the * request callbacks (done/fail/with, etc)." />
-      <item value="Callback called when the data received do not conform to required scheme." />
       <item value="Note that only one observer is going to be notified of changes." />
       <item value="This avoids a common problem with events: on configuration change (like rotation) an update * can be emitted if the observer is active. This LiveData only calls the observable if there's an * explicit call to setValue() or call()." />
       <item value="A lifecycle-aware observable that sends only new updates after subscription, used for events like * navigation and Snackbar messages." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
