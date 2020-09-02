@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="URL resolved against the {@linkplain Retrofit#baseUrl() base URL}." />
+      <item value="See {@linkplain retrofit2.Retrofit.Builder#baseUrl(HttpUrl) base URL} for details of how * the value will be resolved against a base URL to create the full endpoint URL." />
       <item value="expect {, actual pos 51" />
       <item value="Callback called when the data received do not conform to required scheme." />
       <item value="Returns `true` if at least one element matches the given [predicate]." />
@@ -49,13 +51,11 @@
       <item value="dest" />
       <item value="Surrogate" />
       <item value="original" />
-      <item value="This filter will constrain edits not to make the length of the text * greater than the specified length." />
-      <item value="When configured, Gradle will run in incubating parallel mode. # This option should only be used with decoupled projects. More details, visit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
