@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="`true` if this property is `lateinit`." />
       <item value="This declaration can only be called on a reference to a lateinit property" />
       <item value="depending on the action, do necessary business logic calls and update the" />
       <item value="Returns a Single that emits a single HashMap containing all items emitted by the finite source Publisher, * mapped by the keys returned by a specified {@code keySelector} function." />
@@ -50,12 +51,11 @@
       <item value="Poll" />
       <item value="the specified subsequence" />
       <item value="This filter will capitalize all the lowercase and titlecase letters that are added * through edits. (Note that if there are no lowercase or titlecase letters in the input, the * text would not be transformed, even if the result of capitalization of the string is * different from the string.)" />
-      <item value="Note: If &lt;var&gt;source&lt;/var&gt; is an instance of {@link Spanned} or * {@link Spannable}, the span objects in the &lt;var&gt;source&lt;/var&gt; should be * copied into the filtered result (i.e. the non-null return value). * {@link TextUtils#copySpansFrom} can be used for convenience if the * span boundary indices would be remaining identical relative to the source." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="430" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="ENGLISH" value="431" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
