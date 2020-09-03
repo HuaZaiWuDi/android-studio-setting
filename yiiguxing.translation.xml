@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a Flowable that emits buffers of items it collects from the source Publisher. The resulting * Publisher emits connected, non-overlapping buffers, each of a fixed duration specified by the * {@code timespan} argument. When the source Publisher completes, the resulting Publisher emits the current buffer * and propagates the notification from the source Publisher. Note that if the source Publisher issues an onError * notification the event is passed on immediately without first emitting the buffer it is in the process of * assembling." />
       <item value="Request a scan for access points. Returns immediately. The availability * of the results is made known later by means of an asynchronous event sent * on completion of the scan." />
       <item value="signal strength changed" />
       <item value="Broadcast intent action indicating that the configured networks changed." />
@@ -50,12 +51,11 @@
       <item value="Returns a Flowable that emits the item emitted by the source Single, then the item emitted by the * specified Single." />
       <item value="Vibration" />
       <item value="Illumination" />
-      <item value="auth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="434" />
-        <entry key="ENGLISH" value="435" />
+        <entry key="CHINESE" value="435" />
+        <entry key="ENGLISH" value="436" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
