@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signal strength changed" />
+      <item value="Broadcast intent action indicating that the configured networks changed." />
+      <item value="An access point scan has completed, and results are available." />
       <item value="`true` if this property is `lateinit`." />
       <item value="This declaration can only be called on a reference to a lateinit property" />
       <item value="depending on the action, do necessary business logic calls and update the" />
@@ -48,14 +51,11 @@
       <item value="Illumination" />
       <item value="auth" />
       <item value="regular" />
-      <item value="Poll" />
-      <item value="the specified subsequence" />
-      <item value="This filter will capitalize all the lowercase and titlecase letters that are added * through edits. (Note that if there are no lowercase or titlecase letters in the input, the * text would not be transformed, even if the result of capitalization of the string is * different from the string.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="430" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="CHINESE" value="433" />
+        <entry key="ENGLISH" value="434" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
