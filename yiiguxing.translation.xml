@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Untitled GraphQL Schema" />
       <item value="identify" />
       <item value="decryption failed" />
       <item value="execute" />
@@ -50,12 +51,11 @@
       <item value="See all the JS Toolbox actions from two locations: From Tools &gt; JS Toolbox From the editor, right click &gt; JS Toolbox Go to test [Alt T], [Ctrl Command T] on Mac Jump between a javascript file and its unit test. You can configure the file name patterns under: Settings &gt; JS Toolbox And set values for Unit test suffix and File suffix If you need multiple patterns use comma. For example: Unit test suffix: &quot;Spec.js,-spec.js&quot; File suffix: &quot;-controller.js,.js&quot; With this configuration the action will take you from: &quot;my-component.js&quot; or &quot;my-component-controller.js&quot;" />
       <item value="JS Toolbox An Intellij / Webstorm plugin that provides several tools for javascript development. Here is a list of available actions: Go to test [Alt T], [Ctrl Command T] on Mac Go to view [Alt V], [Ctrl Command V] on Mac Go to constructor [Alt G], [Ctrl Command G] on a mac Join multi-line strings and variable declarations [Ctrl SHIFT Alt J], [Ctrl Command J] on Mac Open current file in browser [Ctrl SHIFT Alt G], [SHIFT Option Command G] on Mac Add a semi-color at the end of the line [Ctrl SHIFT ;], [Command SHIFT ;] on Mac Sort the selection using a user-defined splitter [SHIFT alt 1], [Command SHIFT 1] on Mac Generate a method for the current javascript class Override a method from the parent javascript class" />
       <item value="Monokai Pro &amp; MacOS Mojave inspired color themes, with bright colors &amp; dark mode, with common color code for all languages. See description &amp; screenshots on Github. Check the sources, iTerm2 and macOS Terminal and XCode color schemes also available" />
-      <item value="this sometimes occurs after a network connection timeout." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="439" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="440" />
+        <entry key="ENGLISH" value="441" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
