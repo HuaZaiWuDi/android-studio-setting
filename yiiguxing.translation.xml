@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Depository" />
       <item value="Method Not Allowed" />
       <item value="Returns `true` if a value for this Lazy instance has been already initialized, and `false` otherwise. * Once this function has returned `true` it stays `true` for the rest of lifetime of this Lazy instance." />
       <item value="Represents a callable entity, such as a function or a property." />
@@ -50,12 +51,11 @@
       <item value="A lifecycle-aware observable that sends only new updates after subscription, used for events like * navigation and Snackbar messages." />
       <item value="Invalid" />
       <item value="Called when the data has been sent to the connected device." />
-      <item value="不在范围内" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
