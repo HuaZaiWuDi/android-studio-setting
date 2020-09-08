@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the data received. If the {@link DataMerger} was used, this contains the * merged result." />
       <item value="灵敏度" />
       <item value="数据间隔" />
       <item value="Lunar" />
@@ -50,12 +51,11 @@
       <item value="Sets the preferred PHY used for connection. Th value should be a bitmask composed of" />
       <item value="Prefer the S=8 coding to be used when transmitting on the LE Coded PHY." />
       <item value="Bluetooth LE 2M PHY mask. Used to specify LE 2M Physical Channel as one of many available * options in a bitmask." />
-      <item value="Bluetooth LE 1M PHY mask. Used to specify LE 1M Physical Channel as one of many available * options in a bitmask." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="456" />
-        <entry key="ENGLISH" value="457" />
+        <entry key="CHINESE" value="457" />
+        <entry key="ENGLISH" value="458" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
