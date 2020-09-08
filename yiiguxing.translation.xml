@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数据间隔" />
       <item value="Lunar" />
       <item value="This value is optional if the first * parameter of the method is annotated with {@link Url @Url}." />
       <item value="See {@linkplain retrofit2.Retrofit.Builder#baseUrl(HttpUrl) base URL} for details of how * this is resolved against a base URL to create the full endpoint URL." />
@@ -50,12 +51,11 @@
       <item value="Bluetooth LE 2M PHY mask. Used to specify LE 2M Physical Channel as one of many available * options in a bitmask." />
       <item value="Bluetooth LE 1M PHY mask. Used to specify LE 1M Physical Channel as one of many available * options in a bitmask." />
       <item value="This method will be called if a remote device requires a non-'just works' pairing. * See PAIRING_* constants for possible options." />
-      <item value="the handler used for delaying operations, timeouts and, most of all, the * request callbacks (done/fail/with, etc)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
-        <entry key="ENGLISH" value="456" />
+        <entry key="CHINESE" value="456" />
+        <entry key="ENGLISH" value="457" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
