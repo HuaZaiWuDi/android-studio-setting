@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(version.takeLast(1)) { &quot;0&quot; -&gt; { ConfigMutableListWidgetBeanV2(&quot;0&quot;, widgetEntity) } &quot;1&quot; -&gt; { ProfileGridWidgetBean(widgetEntity) } &quot;2&quot; -&gt; { ConfigMutableListWidgetBeanV2(&quot;2&quot;, widgetEntity) } else -&gt; { null }" />
       <item value="the data received. If the {@link DataMerger} was used, this contains the * merged result." />
       <item value="灵敏度" />
       <item value="数据间隔" />
@@ -50,12 +51,11 @@
       <item value="Different PHYs are available only on more recent devices with Android 8+. * Check {@link BluetoothAdapter#isLe2MPhySupported()} and * {@link BluetoothAdapter#isLeCodedPhySupported()} if required PHYs are supported by this * Android device. The default PHY is {@link PhyRequest#PHY_LE_1M_MASK}." />
       <item value="Sets the preferred PHY used for connection. Th value should be a bitmask composed of" />
       <item value="Prefer the S=8 coding to be used when transmitting on the LE Coded PHY." />
-      <item value="Bluetooth LE 2M PHY mask. Used to specify LE 2M Physical Channel as one of many available * options in a bitmask." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="458" />
+        <entry key="ENGLISH" value="459" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
