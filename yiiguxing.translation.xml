@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="灵敏度" />
       <item value="数据间隔" />
       <item value="Lunar" />
       <item value="This value is optional if the first * parameter of the method is annotated with {@link Url @Url}." />
@@ -50,7 +51,6 @@
       <item value="Prefer the S=8 coding to be used when transmitting on the LE Coded PHY." />
       <item value="Bluetooth LE 2M PHY mask. Used to specify LE 2M Physical Channel as one of many available * options in a bitmask." />
       <item value="Bluetooth LE 1M PHY mask. Used to specify LE 1M Physical Channel as one of many available * options in a bitmask." />
-      <item value="This method will be called if a remote device requires a non-'just works' pairing. * See PAIRING_* constants for possible options." />
     </histories>
     <option name="languageScores">
       <map>
