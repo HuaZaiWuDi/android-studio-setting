@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This value is optional if the first * parameter of the method is annotated with {@link Url @Url}." />
+      <item value="See {@linkplain retrofit2.Retrofit.Builder#baseUrl(HttpUrl) base URL} for details of how * this is resolved against a base URL to create the full endpoint URL." />
+      <item value="A relative or absolute path, or full URL of the endpoint. This value is optional if the first * parameter of the method is annotated with {@link Url @Url}." />
+      <item value="Missing either @POST URL or @Url parameter." />
       <item value="Depository" />
       <item value="Method Not Allowed" />
       <item value="Returns `true` if a value for this Lazy instance has been already initialized, and `false` otherwise. * Once this function has returned `true` it stays `true` for the rest of lifetime of this Lazy instance." />
@@ -47,15 +51,11 @@
       <item value="This method will be called if a remote device requires a non-'just works' pairing. * See PAIRING_* constants for possible options." />
       <item value="the handler used for delaying operations, timeouts and, most of all, the * request callbacks (done/fail/with, etc)." />
       <item value="Note that only one observer is going to be notified of changes." />
-      <item value="This avoids a common problem with events: on configuration change (like rotation) an update * can be emitted if the observer is active. This LiveData only calls the observable if there's an * explicit call to setValue() or call()." />
-      <item value="A lifecycle-aware observable that sends only new updates after subscription, used for events like * navigation and Snackbar messages." />
-      <item value="Invalid" />
-      <item value="Called when the data has been sent to the connected device." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="450" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
