@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="control" />
+      <item value="实时" />
+      <item value="频率" />
+      <item value="Timing" />
       <item value="src refspec dev_merge does not match any." />
       <item value=" If you are planning to push out a new local branch that hint: will track its remote counterpart, you may want to use hint: &quot;git push -u&quot; to set the upstream config as you push. " />
       <item value=" If you are planning on basing your work on an upstream hint: branch that already exists at the remote, you may need to hint: run &quot;git fetch&quot; to retrieve it. " />
@@ -47,15 +51,11 @@
       <item value="This function will commit all queued up characteristic write * operations for a given remote device." />
       <item value="Executes a reliable write transaction for a given remote device." />
       <item value="Callback invoked when a reliable write transaction has been completed." />
-      <item value="Reliable" />
-      <item value="offer" />
-      <item value="All methods defined in the super class." />
-      <item value="Sets an optional retry count and a delay that the process will wait before each connection * attempt. The library will NOT retry if the device is not reachable, that is when the 30 sec. * timeout occurs. In that case the app should scan before connecting, to make sure the * target is in range." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="461" />
+        <entry key="ENGLISH" value="462" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
