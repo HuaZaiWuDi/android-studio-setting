@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="体动" />
+      <item value="呼吸率" />
+      <item value="Re-subscribes to the current Single if * the Publisher returned by the handler function signals a value in response to a * value signalled through the Flowable the handle receives." />
+      <item value="Returns a {@link ConnectableFlowable} that shares a single subscription to the underlying Publisher * that will replay all of its items and notifications to any future {@link Subscriber}. A Connectable * Publisher resembles an ordinary Publisher, except that it does not begin emitting items when it is * subscribed to, but only when its {@code connect} method is called." />
+      <item value="Re-subscribes to the current Single at most the given number of times and emits each success value." />
       <item value="control" />
       <item value="实时" />
       <item value="频率" />
@@ -46,16 +51,11 @@
       <item value="See {@linkplain retrofit2.Retrofit.Builder#baseUrl(HttpUrl) base URL} for details of how * the value will be resolved against a base URL to create the full endpoint URL." />
       <item value="expect {, actual pos 51" />
       <item value="Callback called when the data received do not conform to required scheme." />
-      <item value="Returns `true` if at least one element matches the given [predicate]." />
-      <item value="Returns `true` if no elements match the given [predicate]." />
-      <item value="This function will commit all queued up characteristic write * operations for a given remote device." />
-      <item value="Executes a reliable write transaction for a given remote device." />
-      <item value="Callback invoked when a reliable write transaction has been completed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
-        <entry key="ENGLISH" value="462" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="467" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="JAPANESE" value="1" />
