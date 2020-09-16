@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Un Bind" />
       <item value="observe" />
       <item value="subscribe" />
       <item value="Unterminated object at line 1 column 396 path $[6].dataKey" />
@@ -50,14 +51,14 @@
       <item value="An access point scan has completed, and results are available." />
       <item value="`true` if this property is `lateinit`." />
       <item value="This declaration can only be called on a reference to a lateinit property" />
-      <item value="depending on the action, do necessary business logic calls and update the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
+        <entry key="CHINESE" value="474" />
         <entry key="ENGLISH" value="474" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
