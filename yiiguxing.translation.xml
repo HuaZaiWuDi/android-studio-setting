@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unexpected identifier" />
       <item value="Allows running, debugging JavaScript unit tests and measure test coverage." />
       <item value="GraphQL language support including tagged template literals in JavaScript and TypeScript." />
       <item value="Un Bind" />
@@ -50,7 +51,6 @@
       <item value="Request a scan for access points. Returns immediately. The availability * of the results is made known later by means of an asynchronous event sent * on completion of the scan." />
       <item value="signal strength changed" />
       <item value="Broadcast intent action indicating that the configured networks changed." />
-      <item value="An access point scan has completed, and results are available." />
     </histories>
     <option name="languageScores">
       <map>
