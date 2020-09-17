@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the width used for drawing borders around the bars. * If borderWidth == 0, no border will be drawn." />
+      <item value="the maximum number of bars that are stacked upon each other, this value * is calculated from the Entries that are added to the DataSet" />
+      <item value="Set the alpha value (transparency) that is used for drawing the highlight * indicator bar. min = 0 (fully transparent), max = 255 (fully opaque)" />
+      <item value="Sets labels for different values of bar-stacks, in case there are one." />
+      <item value="Stack" />
       <item value="白色" />
       <item value="write" />
       <item value="purple" />
@@ -46,16 +51,11 @@
       <item value="the data received. If the {@link DataMerger} was used, this contains the * merged result." />
       <item value="灵敏度" />
       <item value="数据间隔" />
-      <item value="Lunar" />
-      <item value="This value is optional if the first * parameter of the method is annotated with {@link Url @Url}." />
-      <item value="See {@linkplain retrofit2.Retrofit.Builder#baseUrl(HttpUrl) base URL} for details of how * this is resolved against a base URL to create the full endpoint URL." />
-      <item value="A relative or absolute path, or full URL of the endpoint. This value is optional if the first * parameter of the method is annotated with {@link Url @Url}." />
-      <item value="Missing either @POST URL or @Url parameter." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="493" />
+        <entry key="ENGLISH" value="494" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
