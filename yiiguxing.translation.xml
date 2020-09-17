@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adds an Entry to the DataSet dynamically. * Entries are added to the end of the list. * This will also recalculate the current minimum and maximum * values of the DataSet and the value-sum." />
       <item value="Sets the width used for drawing borders around the bars. * If borderWidth == 0, no border will be drawn." />
       <item value="the maximum number of bars that are stacked upon each other, this value * is calculated from the Entries that are added to the DataSet" />
       <item value="Set the alpha value (transparency) that is used for drawing the highlight * indicator bar. min = 0 (fully transparent), max = 255 (fully opaque)" />
@@ -50,12 +51,11 @@
       <item value="(version.takeLast(1)) { &quot;0&quot; -&gt; { ConfigMutableListWidgetBeanV2(&quot;0&quot;, widgetEntity) } &quot;1&quot; -&gt; { ProfileGridWidgetBean(widgetEntity) } &quot;2&quot; -&gt; { ConfigMutableListWidgetBeanV2(&quot;2&quot;, widgetEntity) } else -&gt; { null }" />
       <item value="the data received. If the {@link DataMerger} was used, this contains the * merged result." />
       <item value="灵敏度" />
-      <item value="数据间隔" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="493" />
-        <entry key="ENGLISH" value="494" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
