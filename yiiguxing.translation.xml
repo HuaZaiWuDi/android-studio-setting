@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="health" />
       <item value="Draw the specified arc, which will be scaled to fit inside the specified oval." />
       <item value="背景" />
       <item value="环" />
@@ -50,12 +51,11 @@
       <item value="Returns `true` if a value for this Lazy instance has been already initialized, and `false` otherwise. * Once this function has returned `true` it stays `true` for the rest of lifetime of this Lazy instance." />
       <item value="Represents a callable entity, such as a function or a property." />
       <item value="Visibility of this callable, or `null` if its visibility cannot be represented in Kotlin." />
-      <item value="`true` if this callable is `open`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="485" />
+        <entry key="ENGLISH" value="486" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
