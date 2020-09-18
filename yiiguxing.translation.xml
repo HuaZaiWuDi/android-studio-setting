@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="质量" />
       <item value="上传" />
       <item value="Duplicate class" />
       <item value="the space between groups of bars in values (not pixels) e.g. 0.8f for bar width 1f" />
@@ -16,7 +17,6 @@
       <item value="write" />
       <item value="purple" />
       <item value="the y value (the actual value of the entry)" />
-      <item value="质量" />
       <item value="health" />
       <item value="Draw the specified arc, which will be scaled to fit inside the specified oval." />
       <item value="背景" />
