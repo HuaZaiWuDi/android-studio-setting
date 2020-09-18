@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上传" />
       <item value="Duplicate class" />
       <item value="the space between groups of bars in values (not pixels) e.g. 0.8f for bar width 1f" />
       <item value="the space between individual bars in values (not pixels) e.g. 0.1f for bar width 1f" />
@@ -50,12 +51,11 @@
       <item value="频率" />
       <item value="Timing" />
       <item value="src refspec dev_merge does not match any." />
-      <item value=" If you are planning to push out a new local branch that hint: will track its remote counterpart, you may want to use hint: &quot;git push -u&quot; to set the upstream config as you push. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
