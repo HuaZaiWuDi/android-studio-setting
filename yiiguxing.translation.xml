@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="存在" />
+      <item value="Returns the context the view is running in, through which it can * access the current theme, resources, etc." />
+      <item value="离线" />
       <item value="灵敏度" />
       <item value="切换" />
       <item value="Closes and releases resources. This method will be called automatically after * calling {@link #disconnect()}. When the device disconnected with link loss and * {@link ConnectRequest#shouldAutoConnect()} returned true you have to call this method to * close the connection." />
@@ -48,14 +51,11 @@
       <item value="subscribe" />
       <item value="Unterminated object at line 1 column 396 path $[6].dataKey" />
       <item value="Malformed" />
-      <item value="This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
-      <item value="体动" />
-      <item value="呼吸率" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="CHINESE" value="510" />
+        <entry key="ENGLISH" value="511" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
