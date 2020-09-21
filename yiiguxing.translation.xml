@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="切换" />
       <item value="Closes and releases resources. This method will be called automatically after * calling {@link #disconnect()}. When the device disconnected with link loss and * {@link ConnectRequest#shouldAutoConnect()} returned true you have to call this method to * close the connection." />
       <item value="Whether the device, that was connected using auto connect, has disconnected." />
       <item value="Whether at least one required service was not found." />
@@ -50,12 +51,11 @@
       <item value="体动" />
       <item value="呼吸率" />
       <item value="Re-subscribes to the current Single if * the Publisher returned by the handler function signals a value in response to a * value signalled through the Flowable the handle receives." />
-      <item value="Returns a {@link ConnectableFlowable} that shares a single subscription to the underlying Publisher * that will replay all of its items and notifications to any future {@link Subscriber}. A Connectable * Publisher resembles an ordinary Publisher, except that it does not begin emitting items when it is * subscribed to, but only when its {@code connect} method is called." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="509" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
