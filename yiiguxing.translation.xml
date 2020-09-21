@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优先蓝牙" />
       <item value="ble Connection State" />
       <item value="precision" />
       <item value="质量" />
@@ -50,12 +51,11 @@
       <item value="Re-subscribes to the current Single at most the given number of times and emits each success value." />
       <item value="control" />
       <item value="实时" />
-      <item value="频率" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="504" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
