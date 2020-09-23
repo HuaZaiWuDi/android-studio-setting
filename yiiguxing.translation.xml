@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="双模" />
       <item value="Belong" />
       <item value=" identify" />
       <item value="Requested element count -2 is less than zero." />
@@ -50,12 +51,11 @@
       <item value="true to set the dithering bit in flags, false to clear it" />
       <item value="Unexpected identifier" />
       <item value="Allows running, debugging JavaScript unit tests and measure test coverage." />
-      <item value="GraphQL language support including tagged template literals in JavaScript and TypeScript." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="516" />
+        <entry key="ENGLISH" value="517" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
