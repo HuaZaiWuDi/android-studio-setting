@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identify" />
       <item value="untying" />
       <item value="更换" />
       <item value="双模" />
@@ -50,12 +51,11 @@
       <item value="root Optional view to be the parent of the generated hierarchy (if * &lt;em&gt;attachToRoot&lt;/em&gt; is true), or else simply an object that * provides a set of LayoutParams values for root of the returned * hierarchy (if &lt;em&gt;attachToRoot&lt;/em&gt; is false.)" />
       <item value="replicate the edge color if the shader draws outside of its * original bounds" />
       <item value="Round" />
-      <item value="true to set the dithering bit in flags, false to clear it" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="519" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
