@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监测" />
       <item value="Returns a copy of this string converted to upper case using the rules of the default locale." />
       <item value="The source did not signal an event for 15 seconds and has been terminated." />
       <item value="Navigation" />
@@ -50,12 +51,11 @@
       <item value="环" />
       <item value="背景颜色" />
       <item value="Sweep angle (in degrees) measured clockwise" />
-      <item value="sweep" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="524" />
-        <entry key="ENGLISH" value="525" />
+        <entry key="CHINESE" value="525" />
+        <entry key="ENGLISH" value="526" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
