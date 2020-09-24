@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监测" />
       <item value="灵敏度" />
       <item value="Instructs a Single to emit an item (returned by a specified function) rather than invoking * {@link SingleObserver#onError onError} if it encounters an error." />
       <item value="Converts a Publisher that emits Publishers into a Publisher that emits the items emitted by the * most recently emitted of those Publishers." />
       <item value="Returns a Single that emits the item emitted by the source Single until a second Single emits an item. Upon * emission of an item from {@code other}, this will emit a {@link CancellationException} rather than go to * {@link SingleObserver#onSuccess(Object)}." />
       <item value="control" />
-      <item value="监测" />
       <item value="Returns a copy of this string converted to upper case using the rules of the default locale." />
       <item value="The source did not signal an event for 15 seconds and has been terminated." />
       <item value="Navigation" />
