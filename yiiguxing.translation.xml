@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a Single that emits the item emitted by the source Single until a second Single emits an item. Upon * emission of an item from {@code other}, this will emit a {@link CancellationException} rather than go to * {@link SingleObserver#onSuccess(Object)}." />
+      <item value="control" />
       <item value="监测" />
       <item value="Returns a copy of this string converted to upper case using the rules of the default locale." />
       <item value="The source did not signal an event for 15 seconds and has been terminated." />
@@ -49,13 +51,11 @@
       <item value="Draw the specified arc, which will be scaled to fit inside the specified oval." />
       <item value="背景" />
       <item value="环" />
-      <item value="背景颜色" />
-      <item value="Sweep angle (in degrees) measured clockwise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="525" />
-        <entry key="ENGLISH" value="526" />
+        <entry key="CHINESE" value="527" />
+        <entry key="ENGLISH" value="528" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
