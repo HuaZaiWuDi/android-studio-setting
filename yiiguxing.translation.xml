@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作" />
+      <item value="option" />
       <item value="监测" />
       <item value="灵敏度" />
       <item value="Instructs a Single to emit an item (returned by a specified function) rather than invoking * {@link SingleObserver#onError onError} if it encounters an error." />
@@ -49,13 +51,11 @@
       <item value="write" />
       <item value="purple" />
       <item value="the y value (the actual value of the entry)" />
-      <item value="health" />
-      <item value="Draw the specified arc, which will be scaled to fit inside the specified oval." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="CHINESE" value="532" />
+        <entry key="ENGLISH" value="533" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
