@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="灵敏度" />
       <item value="Instructs a Single to emit an item (returned by a specified function) rather than invoking * {@link SingleObserver#onError onError} if it encounters an error." />
       <item value="Converts a Publisher that emits Publishers into a Publisher that emits the items emitted by the * most recently emitted of those Publishers." />
       <item value="Returns a Single that emits the item emitted by the source Single until a second Single emits an item. Upon * emission of an item from {@code other}, this will emit a {@link CancellationException} rather than go to * {@link SingleObserver#onSuccess(Object)}." />
@@ -25,7 +26,6 @@
       <item value="存在" />
       <item value="Returns the context the view is running in, through which it can * access the current theme, resources, etc." />
       <item value="离线" />
-      <item value="灵敏度" />
       <item value="切换" />
       <item value="Closes and releases resources. This method will be called automatically after * calling {@link #disconnect()}. When the device disconnected with link loss and * {@link ConnectRequest#shouldAutoConnect()} returned true you have to call this method to * close the connection." />
       <item value="Whether the device, that was connected using auto connect, has disconnected." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="529" />
-        <entry key="ENGLISH" value="530" />
+        <entry key="CHINESE" value="530" />
+        <entry key="ENGLISH" value="531" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
