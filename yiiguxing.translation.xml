@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by * the downstream." />
       <item value="Reverses elements in the array in-place." />
       <item value="exception decoding Hex string: invalid characters encountered in Hex string" />
       <item value="操作" />
@@ -50,12 +51,11 @@
       <item value="Sets labels for different values of bar-stacks, in case there are one." />
       <item value="Stack" />
       <item value="白色" />
-      <item value="write" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="534" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
