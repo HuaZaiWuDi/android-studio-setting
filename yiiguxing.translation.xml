@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set a custom maximum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMaxValue() to undo this." />
       <item value="Sets the size of the area (range on the x-axis) that should be maximum * visible at once (no further zooming out allowed). If this is e.g. set to * 10, no more than a range of 10 on the x-axis can be viewed at once without * scrolling." />
       <item value="This also refreshes the chart by calling invalidate()." />
       <item value="Moves the left side of the current viewport to the specified x-position. * This also refreshes the chart by calling invalidate()." />
@@ -50,12 +51,11 @@
       <item value="In case of grouped bars, this method returns the space an individual group of bar needs on the x-axis." />
       <item value="Adds an Entry to the DataSet dynamically. * Entries are added to the end of the list. * This will also recalculate the current minimum and maximum * values of the DataSet and the value-sum." />
       <item value="Sets the width used for drawing borders around the bars. * If borderWidth == 0, no border will be drawn." />
-      <item value="the maximum number of bars that are stacked upon each other, this value * is calculated from the Entries that are added to the DataSet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="540" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="541" />
+        <entry key="ENGLISH" value="542" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
