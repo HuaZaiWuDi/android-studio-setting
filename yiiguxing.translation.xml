@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reverses elements in the array in-place." />
       <item value="exception decoding Hex string: invalid characters encountered in Hex string" />
       <item value="操作" />
       <item value="option" />
@@ -50,12 +51,11 @@
       <item value="Stack" />
       <item value="白色" />
       <item value="write" />
-      <item value="purple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="533" />
-        <entry key="ENGLISH" value="534" />
+        <entry key="CHINESE" value="534" />
+        <entry key="ENGLISH" value="535" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
