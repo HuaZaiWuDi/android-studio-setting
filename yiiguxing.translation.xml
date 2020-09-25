@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This also refreshes the chart by calling invalidate()." />
       <item value="Moves the left side of the current viewport to the specified x-position. * This also refreshes the chart by calling invalidate()." />
       <item value="Delays the emission of the success signal from the current Single by the specified amount. * An error signal will not be delayed." />
       <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by * the downstream." />
@@ -50,12 +51,11 @@
       <item value="Sets the width used for drawing borders around the bars. * If borderWidth == 0, no border will be drawn." />
       <item value="the maximum number of bars that are stacked upon each other, this value * is calculated from the Entries that are added to the DataSet" />
       <item value="Set the alpha value (transparency) that is used for drawing the highlight * indicator bar. min = 0 (fully transparent), max = 255 (fully opaque)" />
-      <item value="Sets labels for different values of bar-stacks, in case there are one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="537" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="CHINESE" value="539" />
+        <entry key="ENGLISH" value="540" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
