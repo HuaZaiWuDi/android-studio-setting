@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the size of the area (range on the x-axis) that should be maximum * visible at once (no further zooming out allowed). If this is e.g. set to * 10, no more than a range of 10 on the x-axis can be viewed at once without * scrolling." />
       <item value="This also refreshes the chart by calling invalidate()." />
       <item value="Moves the left side of the current viewport to the specified x-position. * This also refreshes the chart by calling invalidate()." />
       <item value="Delays the emission of the success signal from the current Single by the specified amount. * An error signal will not be delayed." />
@@ -50,12 +51,11 @@
       <item value="Adds an Entry to the DataSet dynamically. * Entries are added to the end of the list. * This will also recalculate the current minimum and maximum * values of the DataSet and the value-sum." />
       <item value="Sets the width used for drawing borders around the bars. * If borderWidth == 0, no border will be drawn." />
       <item value="the maximum number of bars that are stacked upon each other, this value * is calculated from the Entries that are added to the DataSet" />
-      <item value="Set the alpha value (transparency) that is used for drawing the highlight * indicator bar. min = 0 (fully transparent), max = 255 (fully opaque)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="539" />
-        <entry key="ENGLISH" value="540" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="541" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
