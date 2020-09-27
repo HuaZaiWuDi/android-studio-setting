@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="范围" />
+      <item value="时段" />
       <item value="平均心率" />
       <item value="CERTIFICATES" />
       <item value="In my case problem was solved by enabling Instant Run. On each start of application there was prompt (Install Android 7 platform for instant run/Continue without instant run). When i press SKIP, there was same exception (dex version... bla-bla) for some apks. Installing appropriate platform dismissed exception." />
       <item value="The 037 version of the dex format was introduced in the N timeframe. Devices with a version of Android older than N won't be able to read it." />
       <item value="Unrecognized version number in /data/app/com.lumiunited.aqarahome-1/base.apk: 0 3 9" />
       <item value="replicate the edge color if the shader draws outside of its * original bounds" />
-      <item value="时段" />
       <item value="时长" />
       <item value="Expected a string but was BEGIN_OBJECT at line 1 column 2 path $" />
       <item value="Sets the size of the area (range on the x-axis) that should be minimum * visible at once (no further zooming in allowed). If this is e.g. set to * 10, no less than a range of 10 on the x-axis can be viewed at once without * scrolling." />
@@ -50,7 +51,6 @@
       <item value="Closes and releases resources. This method will be called automatically after * calling {@link #disconnect()}. When the device disconnected with link loss and * {@link ConnectRequest#shouldAutoConnect()} returned true you have to call this method to * close the connection." />
       <item value="Whether the device, that was connected using auto connect, has disconnected." />
       <item value="Whether at least one required service was not found." />
-      <item value="优先蓝牙" />
     </histories>
     <option name="languageScores">
       <map>
