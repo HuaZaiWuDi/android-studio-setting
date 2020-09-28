@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="静默" />
+      <item value="the BooleanSupplier called after the current Single succeeds and if returns false, * the Single is re-subscribed; otherwise the sequence completes." />
+      <item value="Re-subscribes to the current Single until the given BooleanSupplier returns true." />
       <item value="Mission Control" />
       <item value="范围" />
       <item value="时段" />
@@ -48,14 +51,11 @@
       <item value="存在" />
       <item value="Returns the context the view is running in, through which it can * access the current theme, resources, etc." />
       <item value="离线" />
-      <item value="切换" />
-      <item value="Closes and releases resources. This method will be called automatically after * calling {@link #disconnect()}. When the device disconnected with link loss and * {@link ConnectRequest#shouldAutoConnect()} returned true you have to call this method to * close the connection." />
-      <item value="Whether the device, that was connected using auto connect, has disconnected." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
