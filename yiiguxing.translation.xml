@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the delay amount" />
+      <item value="Signals success with 0L value after the given delay for each SingleObserver." />
       <item value="The connection timed out. The device might have reboot, is out of range, turned off * or doesn't respond for another reason." />
       <item value="Returns a Single that emits the result of applying a specified function to the pair of items emitted by * the source Single and another specified Single." />
       <item value="The local device initiated disconnection." />
@@ -49,13 +51,11 @@
       <item value="Belong" />
       <item value=" identify" />
       <item value="Requested element count -2 is less than zero." />
-      <item value="The mapper function returned a null value." />
-      <item value="BarData needs to hold at least 2 BarDataSets to allow grouping." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="553" />
-        <entry key="ENGLISH" value="554" />
+        <entry key="CHINESE" value="555" />
+        <entry key="ENGLISH" value="556" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
