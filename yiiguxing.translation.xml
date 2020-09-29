@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="睡眠时段" />
       <item value="the delay amount" />
       <item value="Signals success with 0L value after the given delay for each SingleObserver." />
       <item value="The connection timed out. The device might have reboot, is out of range, turned off * or doesn't respond for another reason." />
@@ -50,12 +51,11 @@
       <item value="双模" />
       <item value="Belong" />
       <item value=" identify" />
-      <item value="Requested element count -2 is less than zero." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="556" />
+        <entry key="ENGLISH" value="557" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
