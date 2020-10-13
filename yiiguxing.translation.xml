@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true to set the antialias bit in the flags, false to clear it" />
+      <item value="true to set the dithering bit in flags, false to clear it" />
       <item value="Re-subscribes to the current Single until the given BooleanSupplier returns true." />
       <item value="DA-29-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC" />
       <item value="Expected value at line 1 column 138 path $[2].value" />
@@ -49,13 +51,11 @@
       <item value="Navigation" />
       <item value="Retain" />
       <item value="Note that the {@link Emitter#onNext}, {@link Emitter#onError} and * {@link Emitter#onComplete} methods provided to the function via the {@link Emitter} instance should be called synchronously, * never concurrently. Calling them from multiple threads is not supported and leads to an * undefined behavior." />
-      <item value="硬件" />
-      <item value="固件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="564" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="567" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
