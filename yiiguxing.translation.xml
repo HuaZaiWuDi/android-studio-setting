@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the actual array of entries" />
+      <item value="axis" />
+      <item value="Used to draw axis labels, calls {@link #getFormattedValue(float)} by default." />
+      <item value="float to be formatted" />
+      <item value="Called when drawing any label, used to change numbers into formatted strings." />
+      <item value="only for backwards compatibility and will be removed in future versions." />
       <item value="固定" />
       <item value="the initial capacity of the list" />
       <item value="星期一" />
@@ -45,17 +51,11 @@
       <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by * the downstream." />
       <item value="Reverses elements in the array in-place." />
       <item value="exception decoding Hex string: invalid characters encountered in Hex string" />
-      <item value="操作" />
-      <item value="option" />
-      <item value="监测" />
-      <item value="灵敏度" />
-      <item value="Instructs a Single to emit an item (returned by a specified function) rather than invoking * {@link SingleObserver#onError onError} if it encounters an error." />
-      <item value="Converts a Publisher that emits Publishers into a Publisher that emits the items emitted by the * most recently emitted of those Publishers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="572" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="CHINESE" value="578" />
+        <entry key="ENGLISH" value="579" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
