@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set this to true to enable drawing the labels of this axis (this will not * affect drawing the grid lines or axis lines)." />
+      <item value="Set this to true to draw the zero-line regardless of weather other * grid-lines are enabled or not. Default: false" />
       <item value="If this returns true, the y-axis is inverted." />
       <item value="Returns the right y-axis object. In the horizontal bar-chart, this is the * bottom axis." />
       <item value="INSIDE" />
       <item value="Set a minimum interval for the axis when zooming in. The axis is not allowed to go below * that limit. This can be used to avoid label duplicating when zooming in." />
       <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
       <item value="Sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not fixed." />
-      <item value="Set this to true to enable drawing the labels of this axis (this will not * affect drawing the grid lines or axis lines)." />
       <item value="Returns true if drawing grid lines is enabled for this axis." />
       <item value="Set this to true if the line alongside the axis should be drawn or not." />
       <item value="Rounds the given value [x] towards the closest integer with ties rounded towards even integer." />
@@ -50,12 +51,11 @@
       <item value="In my case problem was solved by enabling Instant Run. On each start of application there was prompt (Install Android 7 platform for instant run/Continue without instant run). When i press SKIP, there was same exception (dex version... bla-bla) for some apks. Installing appropriate platform dismissed exception." />
       <item value="The 037 version of the dex format was introduced in the N timeframe. Devices with a version of Android older than N won't be able to read it." />
       <item value="Unrecognized version number in /data/app/com.lumiunited.aqarahome-1/base.apk: 0 3 9" />
-      <item value="replicate the edge color if the shader draws outside of its * original bounds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="591" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="595" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
