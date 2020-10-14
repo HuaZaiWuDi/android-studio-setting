@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="固定" />
+      <item value="the initial capacity of the list" />
       <item value="星期一" />
       <item value="mon Day" />
       <item value="周一" />
@@ -49,13 +51,11 @@
       <item value="灵敏度" />
       <item value="Instructs a Single to emit an item (returned by a specified function) rather than invoking * {@link SingleObserver#onError onError} if it encounters an error." />
       <item value="Converts a Publisher that emits Publishers into a Publisher that emits the items emitted by the * most recently emitted of those Publishers." />
-      <item value="Returns a Single that emits the item emitted by the source Single until a second Single emits an item. Upon * emission of an item from {@code other}, this will emit a {@link CancellationException} rather than go to * {@link SingleObserver#onSuccess(Object)}." />
-      <item value="control" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="570" />
-        <entry key="ENGLISH" value="571" />
+        <entry key="CHINESE" value="572" />
+        <entry key="ENGLISH" value="573" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
