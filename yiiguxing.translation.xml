@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a Maybe that mirrors the source Maybe but applies a timeout policy for each emitted * item. If the next item isn't emitted within the specified timeout duration starting from its predecessor, * the resulting Maybe terminates and notifies MaybeObservers of a {@code TimeoutException}." />
+      <item value="the {@link Scheduler} to run the timeout timers on" />
       <item value="true to set the antialias bit in the flags, false to clear it" />
       <item value="true to set the dithering bit in flags, false to clear it" />
       <item value="Re-subscribes to the current Single until the given BooleanSupplier returns true." />
@@ -49,13 +51,11 @@
       <item value="Returns a copy of this string converted to upper case using the rules of the default locale." />
       <item value="The source did not signal an event for 15 seconds and has been terminated." />
       <item value="Navigation" />
-      <item value="Retain" />
-      <item value="Note that the {@link Emitter#onNext}, {@link Emitter#onError} and * {@link Emitter#onComplete} methods provided to the function via the {@link Emitter} instance should be called synchronously, * never concurrently. Calling them from multiple threads is not supported and leads to an * undefined behavior." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="567" />
+        <entry key="CHINESE" value="568" />
+        <entry key="ENGLISH" value="569" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
