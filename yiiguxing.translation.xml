@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Sets the colors that should be used fore this DataSet. Colors are reused * as soon as the number of Entries the DataSet represents is higher than * the size of the colors array. If you are using colors from the resources, * make sure that the colors are already prepared (by calling * getResources().getColor(...)) before adding them to the DataSet." />
+      <item value="The maximum visible range of x-values." />
       <item value="Set this to true to enable drawing the labels of this axis (this will not * affect drawing the grid lines or axis lines)." />
+      <item value="Sets the colors that should be used fore this DataSet. Colors are reused * as soon as the number of Entries the DataSet represents is higher than * the size of the colors array. If you are using colors from the resources, * make sure that the colors are already prepared (by calling * getResources().getColor(...)) before adding them to the DataSet." />
       <item value="Set this to true to draw the zero-line regardless of weather other * grid-lines are enabled or not. Default: false" />
       <item value="If this returns true, the y-axis is inverted." />
       <item value="Returns the right y-axis object. In the horizontal bar-chart, this is the * bottom axis." />
@@ -50,12 +51,11 @@
       <item value="平均心率" />
       <item value="CERTIFICATES" />
       <item value="In my case problem was solved by enabling Instant Run. On each start of application there was prompt (Install Android 7 platform for instant run/Continue without instant run). When i press SKIP, there was same exception (dex version... bla-bla) for some apks. Installing appropriate platform dismissed exception." />
-      <item value="The 037 version of the dex format was introduced in the N timeframe. Devices with a version of Android older than N won't be able to read it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="595" />
-        <entry key="ENGLISH" value="596" />
+        <entry key="CHINESE" value="597" />
+        <entry key="ENGLISH" value="598" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
