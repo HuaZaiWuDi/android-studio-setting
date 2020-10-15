@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
       <item value="Moves the left side of the current viewport to the specified x-position. * This also refreshes the chart by calling invalidate()." />
       <item value="Sets the size of the area (range on the x-axis) that should be maximum * visible at once (no further zooming out allowed). If this is e.g. set to * 10, no more than a range of 10 on the x-axis can be viewed at once without * scrolling." />
-      <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
       <item value="Limits the maximum and minimum x range that can be visible by pinching and zooming. e.g. minRange=10, maxRange=100 the * smallest range to be displayed at once is 10, and no more than a range of 100 values can be viewed at once without * scrolling" />
       <item value="Granularity" />
       <item value="Sets extra offsets (around the chart view) to be appended to the * auto-calculated offsets." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="619" />
+        <entry key="ENGLISH" value="620" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
