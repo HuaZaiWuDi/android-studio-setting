@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The resulting value is the closest `Float` to this `Long` value. * In case when this `Long` value is exactly between two `Float`s, * the one with zero at least significant bit of mantissa is selected. */" />
+      <item value="The resulting value is the closest `Float` to this `Long` value. * In case when this `Long` value is exactly between two `Float`s, * the one with zero at least significant bit of mantissa is selected." />
       <item value="Moves the left side of the current viewport to the specified x-position. * This also refreshes the chart by calling invalidate()." />
       <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
       <item value="Sets the size of the area (range on the x-axis) that should be maximum * visible at once (no further zooming out allowed). If this is e.g. set to * 10, no more than a range of 10 on the x-axis can be viewed at once without * scrolling." />
@@ -49,13 +51,11 @@
       <item value="Re-subscribes to the current Single until the given BooleanSupplier returns true." />
       <item value="DA-29-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC-CC" />
       <item value="Expected value at line 1 column 138 path $[2].value" />
-      <item value="Malformed" />
-      <item value="com.google.gson.stream.MalformedJsonException: Expected value at line 1 column 138 path $[2].value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
-        <entry key="ENGLISH" value="621" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="623" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
