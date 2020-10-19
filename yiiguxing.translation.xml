@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Atomically clears the container, then disposes all the previously contained Disposables." />
+      <item value="Adds a disposable to this container or disposes it if the * container has been disposed." />
       <item value="Removes (but does not dispose) the given disposable if it is part of this * container." />
       <item value="disposable" />
-      <item value="Atomically clears the container, then disposes all the previously contained Disposables." />
       <item value="Dispose the contents of the OpenHashSet by suppressing non-fatal * Throwables till the end. * @param set the OpenHashSet to dispose elements of" />
       <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
       <item value="UP-TO-DATE" />
@@ -50,12 +51,11 @@
       <item value="Used to draw axis labels, calls {@link #getFormattedValue(float)} by default." />
       <item value="float to be formatted" />
       <item value="Called when drawing any label, used to change numbers into formatted strings." />
-      <item value="only for backwards compatibility and will be removed in future versions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="640" />
-        <entry key="ENGLISH" value="641" />
+        <entry key="CHINESE" value="642" />
+        <entry key="ENGLISH" value="643" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
