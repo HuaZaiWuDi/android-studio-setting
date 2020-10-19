@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UP-TO-DATE" />
+      <item value="the number of label entries the axis should have, default 6" />
+      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
+      <item value="the number of y-axis labels that should be displayed" />
+      <item value="Set this to true to enable drawing the labels of this axis (this will not * affect drawing the grid lines or axis lines)." />
+      <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart." />
       <item value="syntax error, unexpect token error" />
       <item value="exepct '[', but string, pos 4, json : &quot;[]&quot;" />
       <item value="PACKET" />
@@ -22,7 +28,6 @@
       <item value="Sets custom offsets for the current ViewPort (the offsets on the sides of * the actual chart window). Setting this will prevent the chart from * automatically calculating it's offsets. Use resetViewPortOffsets() to * undo this. ONLY USE THIS WHEN YOU KNOW WHAT YOU ARE DOING, else use * setExtraOffsets(...)." />
       <item value="Sets the maximum distance in screen dp a touch can be away from an entry to cause it to get highlighted. * Default: 500dp" />
       <item value="Negative" />
-      <item value="Set this to true to enable drawing the labels of this axis (this will not * affect drawing the grid lines or axis lines)." />
       <item value="Sets the used x-axis offset for the labels on this axis." />
       <item value="Sets extra spacing for `axisMaximum` to be added to automatically calculated `axisMaximum`" />
       <item value="The maximum visible range of x-values." />
@@ -31,7 +36,6 @@
       <item value="If this returns true, the y-axis is inverted." />
       <item value="Returns the right y-axis object. In the horizontal bar-chart, this is the * bottom axis." />
       <item value="Set a minimum interval for the axis when zooming in. The axis is not allowed to go below * that limit. This can be used to avoid label duplicating when zooming in." />
-      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
       <item value="Sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not fixed." />
       <item value="Returns true if drawing grid lines is enabled for this axis." />
       <item value="Set this to true if the line alongside the axis should be drawn or not." />
@@ -47,15 +51,11 @@
       <item value="星期一" />
       <item value="mon Day" />
       <item value="周一" />
-      <item value="Returns a Maybe that mirrors the source Maybe but applies a timeout policy for each emitted * item. If the next item isn't emitted within the specified timeout duration starting from its predecessor, * the resulting Maybe terminates and notifies MaybeObservers of a {@code TimeoutException}." />
-      <item value="the {@link Scheduler} to run the timeout timers on" />
-      <item value="true to set the antialias bit in the flags, false to clear it" />
-      <item value="true to set the dithering bit in flags, false to clear it" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="626" />
+        <entry key="CHINESE" value="633" />
+        <entry key="ENGLISH" value="634" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
