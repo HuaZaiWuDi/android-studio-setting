@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="syntax error, unexpect token error" />
       <item value="exepct '[', but string, pos 4, json : &quot;[]&quot;" />
       <item value="PACKET" />
       <item value="The resulting value is the closest `Float` to this `Long` value. * In case when this `Long` value is exactly between two `Float`s, * the one with zero at least significant bit of mantissa is selected. */" />
@@ -50,12 +51,11 @@
       <item value="the {@link Scheduler} to run the timeout timers on" />
       <item value="true to set the antialias bit in the flags, false to clear it" />
       <item value="true to set the dithering bit in flags, false to clear it" />
-      <item value="Re-subscribes to the current Single until the given BooleanSupplier returns true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="624" />
-        <entry key="ENGLISH" value="625" />
+        <entry key="CHINESE" value="625" />
+        <entry key="ENGLISH" value="626" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
