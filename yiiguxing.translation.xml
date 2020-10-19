@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Removes (but does not dispose) the given disposable if it is part of this * container." />
+      <item value="disposable" />
+      <item value="Atomically clears the container, then disposes all the previously contained Disposables." />
+      <item value="Dispose the contents of the OpenHashSet by suppressing non-fatal * Throwables till the end. * @param set the OpenHashSet to dispose elements of" />
+      <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
       <item value="UP-TO-DATE" />
       <item value="the number of label entries the axis should have, default 6" />
       <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
@@ -46,16 +51,11 @@
       <item value="float to be formatted" />
       <item value="Called when drawing any label, used to change numbers into formatted strings." />
       <item value="only for backwards compatibility and will be removed in future versions." />
-      <item value="固定" />
-      <item value="the initial capacity of the list" />
-      <item value="星期一" />
-      <item value="mon Day" />
-      <item value="周一" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="640" />
+        <entry key="ENGLISH" value="641" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
