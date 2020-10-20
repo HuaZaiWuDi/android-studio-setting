@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Removing unused resources requires unused code shrinking to be turned on" />
       <item value="Atomically clears the container, then disposes all the previously contained Disposables." />
       <item value="Adds a disposable to this container or disposes it if the * container has been disposed." />
       <item value="Removes (but does not dispose) the given disposable if it is part of this * container." />
@@ -50,12 +51,11 @@
       <item value="axis" />
       <item value="Used to draw axis labels, calls {@link #getFormattedValue(float)} by default." />
       <item value="float to be formatted" />
-      <item value="Called when drawing any label, used to change numbers into formatted strings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="642" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="CHINESE" value="643" />
+        <entry key="ENGLISH" value="644" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
