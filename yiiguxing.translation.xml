@@ -1,6 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Corner" />
+      <item value="大于" />
+      <item value="The y-radius of the oval used to round the corners" />
+      <item value="The x-radius of the oval used to round the corners" />
+      <item value="Draw the specified round-rect using the specified paint. The roundrect will be filled or * framed based on the Style in the paint." />
+      <item value="Draws a double rounded rectangle using the specified paint. The resultant round rect * will be filled in the area defined between the outer and inner rectangular bounds if * the {@link Paint} configured with {@link Paint.Style#FILL}. * Otherwise if {@link Paint.Style#STROKE} is used, then 2 rounded rect strokes will * be drawn at the outer and inner rounded rectangles" />
+      <item value="The outer edges of a join meet in a circular arc." />
+      <item value="The outer edges of a join meet at a sharp angle" />
+      <item value="set the paint's Join, used whenever the paint's style is * Stroke or StrokeAndFill." />
+      <item value="Geometry and text drawn with this style will be both filled and * stroked at the same time, respecting the stroke-related fields on * the paint. This mode can give unexpected results if the geometry * is oriented counter-clockwise. This restriction does not apply to * either FILL or STROKE." />
+      <item value="The stroke projects out as a square, with the center at the end * of the path." />
+      <item value="The stroke ends with the path, and does not project beyond it." />
+      <item value="set the paint's line cap style, used whenever the paint's * style is Stroke or StrokeAndFill." />
+      <item value="Sets the color for the background of the chart-drawing area (everything * behind the grid lines)." />
+      <item value="set this to true to draw the grid background, false if not" />
+      <item value="bubble" />
+      <item value="Used to draw high labels, calls {@link #getFormattedValue(float)} by default." />
+      <item value="Computed" />
+      <item value="Used to draw bar labels, calls {@link #getFormattedValue(float)} by default." />
+      <item value="紫色" />
+      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
+      <item value="Sets the width each bar should have on the x-axis (in values, not pixels). * Default 0.85f" />
+      <item value="Sets the width used for drawing borders around the bars. * If borderWidth == 0, no border will be drawn." />
+      <item value="In case of grouped bars, this method returns the space an individual group of bar needs on the x-axis." />
+      <item value="If there are multiple y-values for the specified x-value," />
+      <item value="Returns the first Entry object found at the given x-value with binary * search. * If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
+      <item value="Determines how to round DataSet index values for * {@link DataSet#getEntryIndex(float, float, Rounding)} DataSet.getEntryIndex()} * when an exact x-index is not found." />
+      <item value="CLOSEST" />
+      <item value="if disabled, scaling can be done on x- and y-axis separately" />
       <item value="Removing unused resources requires unused code shrinking to be turned on" />
       <item value="Atomically clears the container, then disposes all the previously contained Disposables." />
       <item value="Adds a disposable to this container or disposes it if the * container has been disposed." />
@@ -10,7 +39,6 @@
       <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
       <item value="UP-TO-DATE" />
       <item value="the number of label entries the axis should have, default 6" />
-      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
       <item value="the number of y-axis labels that should be displayed" />
       <item value="Set this to true to enable drawing the labels of this axis (this will not * affect drawing the grid lines or axis lines)." />
       <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart." />
@@ -23,39 +51,11 @@
       <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
       <item value="Sets the size of the area (range on the x-axis) that should be maximum * visible at once (no further zooming out allowed). If this is e.g. set to * 10, no more than a range of 10 on the x-axis can be viewed at once without * scrolling." />
       <item value="Limits the maximum and minimum x range that can be visible by pinching and zooming. e.g. minRange=10, maxRange=100 the * smallest range to be displayed at once is 10, and no more than a range of 100 values can be viewed at once without * scrolling" />
-      <item value="Granularity" />
-      <item value="Sets extra offsets (around the chart view) to be appended to the * auto-calculated offsets." />
-      <item value="ONLY USE THIS WHEN YOU KNOW WHAT YOU ARE DOING, else use * setExtraOffsets(...)." />
-      <item value="Sets the intensity for cubic lines (if enabled). Max = 1f = very cubic, * Min = 0.05f = low cubic effect, Default: 0.2f" />
-      <item value="SIDED" />
-      <item value="INSIDE" />
-      <item value="centering" />
-      <item value="only fill x values" />
-      <item value="draws the x-labels on the specified y-position" />
-      <item value="Sets custom offsets for the current ViewPort (the offsets on the sides of * the actual chart window). Setting this will prevent the chart from * automatically calculating it's offsets. Use resetViewPortOffsets() to * undo this. ONLY USE THIS WHEN YOU KNOW WHAT YOU ARE DOING, else use * setExtraOffsets(...)." />
-      <item value="Sets the maximum distance in screen dp a touch can be away from an entry to cause it to get highlighted. * Default: 500dp" />
-      <item value="Negative" />
-      <item value="Sets the used x-axis offset for the labels on this axis." />
-      <item value="Sets extra spacing for `axisMaximum` to be added to automatically calculated `axisMaximum`" />
-      <item value="The maximum visible range of x-values." />
-      <item value="Sets the colors that should be used fore this DataSet. Colors are reused * as soon as the number of Entries the DataSet represents is higher than * the size of the colors array. If you are using colors from the resources, * make sure that the colors are already prepared (by calling * getResources().getColor(...)) before adding them to the DataSet." />
-      <item value="Set this to true to draw the zero-line regardless of weather other * grid-lines are enabled or not. Default: false" />
-      <item value="If this returns true, the y-axis is inverted." />
-      <item value="Returns the right y-axis object. In the horizontal bar-chart, this is the * bottom axis." />
-      <item value="Set a minimum interval for the axis when zooming in. The axis is not allowed to go below * that limit. This can be used to avoid label duplicating when zooming in." />
-      <item value="Sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not fixed." />
-      <item value="Returns true if drawing grid lines is enabled for this axis." />
-      <item value="Set this to true if the line alongside the axis should be drawn or not." />
-      <item value="Rounds the given value [x] towards the closest integer with ties rounded towards even integer." />
-      <item value="the actual array of entries" />
-      <item value="axis" />
-      <item value="Used to draw axis labels, calls {@link #getFormattedValue(float)} by default." />
-      <item value="float to be formatted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="CHINESE" value="675" />
+        <entry key="ENGLISH" value="676" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
