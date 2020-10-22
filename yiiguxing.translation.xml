@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tests if this input stream supports the &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; methods. Whether or not &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; are supported is an invariant property of a * particular input stream instance. The &lt;code&gt;markSupported&lt;/code&gt; method * of &lt;code&gt;InputStream&lt;/code&gt; returns &lt;code&gt;false&lt;/code&gt;." />
+      <item value="if the image format is not supported or can not be decoded." />
+      <item value="If this is true, then the BitmapRegionDecoder may keep a * shallow reference to the input. If this is false, * then the BitmapRegionDecoder will explicitly make a copy of the * input data, and keep that. Even if sharing is allowed, * the implementation may still decide to make a deep * copy of the input data. If an image is progressively encoded, * allowing sharing may degrade the decoding speed." />
+      <item value="This configuration may be useful when using opaque bitmaps * that do not require high color fidelity. *" />
+      <item value="This configuration can produce slight visual artifacts depending * on the configuration of the source. For instance, without * dithering, the result might show a greenish tint. To get better * results dithering should be applied." />
+      <item value="Each pixel is stored on 2 bytes and only the RGB channels are * encoded: red is stored with 5 bits of precision (32 possible * values), green is stored with 6 bits of precision (64 possible * values) and blue is stored with 5 bits of precision." />
+      <item value="Image format not supported" />
       <item value="the size of the measure specification" />
       <item value="Corner" />
       <item value="大于" />
@@ -44,18 +51,11 @@
       <item value="Set this to true to enable drawing the labels of this axis (this will not * affect drawing the grid lines or axis lines)." />
       <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart." />
       <item value="syntax error, unexpect token error" />
-      <item value="exepct '[', but string, pos 4, json : &quot;[]&quot;" />
-      <item value="PACKET" />
-      <item value="The resulting value is the closest `Float` to this `Long` value. * In case when this `Long` value is exactly between two `Float`s, * the one with zero at least significant bit of mantissa is selected. */" />
-      <item value="The resulting value is the closest `Float` to this `Long` value. * In case when this `Long` value is exactly between two `Float`s, * the one with zero at least significant bit of mantissa is selected." />
-      <item value="Moves the left side of the current viewport to the specified x-position. * This also refreshes the chart by calling invalidate()." />
-      <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
-      <item value="Sets the size of the area (range on the x-axis) that should be maximum * visible at once (no further zooming out allowed). If this is e.g. set to * 10, no more than a range of 10 on the x-axis can be viewed at once without * scrolling." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="677" />
-        <entry key="ENGLISH" value="678" />
+        <entry key="CHINESE" value="684" />
+        <entry key="ENGLISH" value="685" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
