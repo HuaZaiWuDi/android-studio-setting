@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
+      <item value="The x coordinate of the first pixel in source" />
+      <item value="The number of pixels in each row" />
+      <item value="The new bitmap's desired height." />
+      <item value="Whether or not bilinear filtering should be used when scaling the * bitmap. If this is true then bilinear filtering will be used when * scaling which has better image quality at the cost of worse performance. * If this is false then nearest-neighbor scaling is used instead which * will have worse image quality but is faster. Recommended default * is to set filter to 'true' as the cost of bilinear filtering is * typically minimal and the improved image quality is significant." />
       <item value="You must call removeView() on the child's parent first." />
       <item value="Unchecked call to 'onBindViewHolder(VH, int)' as a member of raw type 'androidx.recyclerview.widget.RecyclerView.Adapter' " />
       <item value="footer" />
@@ -46,16 +51,11 @@
       <item value="Adds a disposable to this container or disposes it if the * container has been disposed." />
       <item value="Removes (but does not dispose) the given disposable if it is part of this * container." />
       <item value="disposable" />
-      <item value="Dispose the contents of the OpenHashSet by suppressing non-fatal * Throwables till the end. * @param set the OpenHashSet to dispose elements of" />
-      <item value="A disposable container that can hold onto multiple other disposables and * offers O(1) add and removal complexity." />
-      <item value="UP-TO-DATE" />
-      <item value="the number of label entries the axis should have, default 6" />
-      <item value="the number of y-axis labels that should be displayed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="686" />
-        <entry key="ENGLISH" value="686" />
+        <entry key="CHINESE" value="690" />
+        <entry key="ENGLISH" value="691" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
