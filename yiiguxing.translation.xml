@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the size of the measure specification" />
       <item value="Corner" />
       <item value="大于" />
       <item value="The y-radius of the oval used to round the corners" />
@@ -50,12 +51,11 @@
       <item value="Moves the left side of the current viewport to the specified x-position. * This also refreshes the chart by calling invalidate()." />
       <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
       <item value="Sets the size of the area (range on the x-axis) that should be maximum * visible at once (no further zooming out allowed). If this is e.g. set to * 10, no more than a range of 10 on the x-axis can be viewed at once without * scrolling." />
-      <item value="Limits the maximum and minimum x range that can be visible by pinching and zooming. e.g. minRange=10, maxRange=100 the * smallest range to be displayed at once is 10, and no more than a range of 100 values can be viewed at once without * scrolling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="675" />
-        <entry key="ENGLISH" value="676" />
+        <entry key="CHINESE" value="677" />
+        <entry key="ENGLISH" value="678" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
