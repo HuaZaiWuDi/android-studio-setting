@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CROP" />
+      <item value="INSIDE" />
+      <item value="Source image pixel density at minimum zoom." />
+      <item value="This is a screen density aware alternative to {@link #setMinScale(float)}; it allows you to express the minimum * allowed scale in terms of the maximum pixel density." />
+      <item value="Externally change the scale and translation of the source image. This may be used with getCenter() and getScale() * to restore the scale and zoom after a screen rotate." />
+      <item value="Enable tiling of the image. This does not apply to preview images which are always loaded as a single bitmap., * and tiling cannot be disabled when displaying a region of the source image." />
       <item value="Enable or disable tiling of the image. This does not apply to preview images which are always loaded as a single bitmap, * and tiling cannot be disabled when displaying a region of the source image." />
       <item value="tiling" />
       <item value="Use a region of the source image. Region must be set independently for the full size image and the preview if * you are using one." />
@@ -45,17 +51,11 @@
       <item value="紫色" />
       <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
       <item value="Sets the width each bar should have on the x-axis (in values, not pixels). * Default 0.85f" />
-      <item value="Sets the width used for drawing borders around the bars. * If borderWidth == 0, no border will be drawn." />
-      <item value="In case of grouped bars, this method returns the space an individual group of bar needs on the x-axis." />
-      <item value="If there are multiple y-values for the specified x-value," />
-      <item value="Returns the first Entry object found at the given x-value with binary * search. * If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
-      <item value="Determines how to round DataSet index values for * {@link DataSet#getEntryIndex(float, float, Rounding)} DataSet.getEntryIndex()} * when an exact x-index is not found." />
-      <item value="CLOSEST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="696" />
-        <entry key="ENGLISH" value="697" />
+        <entry key="CHINESE" value="702" />
+        <entry key="ENGLISH" value="703" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
