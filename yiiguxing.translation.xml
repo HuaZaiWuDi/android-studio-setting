@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="State change originated from a double tap zoom anim." />
+      <item value="State change originated from animation." />
+      <item value="Scale the image so that both dimensions of the image will be equal to or larger than the corresponding dimension of the view. The top left is shown." />
+      <item value="Scale the image so that both dimensions of the image will be equal to or less than the maxScale and equal to or larger than minScale. The image is then centered in the view." />
+      <item value="Scale the image uniformly so that both dimensions of the image will be equal to or larger than the corresponding dimension of the view. The image is then centered in the view." />
+      <item value="Scale the image so that both dimensions of the image will be equal to or less than the corresponding dimension of the view. The image is then centered in the view. This is the default behaviour and best for galleries." />
+      <item value="Allows the image to be panned until a corner reaches the center of the screen but no further. Useful when you want to pan any spot on the image to the exact center of the screen." />
+      <item value="Don't allow the image to be panned off screen. As much of the image as possible is always displayed, centered in the view when it is smaller. This is the best option for galleries." />
+      <item value="Allows the image to be panned until it is just off screen, but no further. The edge of the image will stop when it is flush with the screen edge. */ public static final int PAN_LIMIT_OUTSIDE = 2;" />
+      <item value="Quadratic ease out. Not recommended for scale animation, but good for panning. */" />
+      <item value="Zoom in to and center the tapped point immediately without animating. */" />
+      <item value="During zoom animation, keep the point of the image that was tapped in the same place, and scale the image around it. */" />
       <item value="CROP" />
       <item value="INSIDE" />
       <item value="Source image pixel density at minimum zoom." />
@@ -39,23 +51,11 @@
       <item value="The outer edges of a join meet at a sharp angle" />
       <item value="set the paint's Join, used whenever the paint's style is * Stroke or StrokeAndFill." />
       <item value="Geometry and text drawn with this style will be both filled and * stroked at the same time, respecting the stroke-related fields on * the paint. This mode can give unexpected results if the geometry * is oriented counter-clockwise. This restriction does not apply to * either FILL or STROKE." />
-      <item value="The stroke projects out as a square, with the center at the end * of the path." />
-      <item value="The stroke ends with the path, and does not project beyond it." />
-      <item value="set the paint's line cap style, used whenever the paint's * style is Stroke or StrokeAndFill." />
-      <item value="Sets the color for the background of the chart-drawing area (everything * behind the grid lines)." />
-      <item value="set this to true to draw the grid background, false if not" />
-      <item value="bubble" />
-      <item value="Used to draw high labels, calls {@link #getFormattedValue(float)} by default." />
-      <item value="Computed" />
-      <item value="Used to draw bar labels, calls {@link #getFormattedValue(float)} by default." />
-      <item value="紫色" />
-      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
-      <item value="Sets the width each bar should have on the x-axis (in values, not pixels). * Default 0.85f" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="702" />
-        <entry key="ENGLISH" value="703" />
+        <entry key="CHINESE" value="716" />
+        <entry key="ENGLISH" value="717" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
