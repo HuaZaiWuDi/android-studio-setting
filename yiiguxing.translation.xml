@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable or disable tiling of the image. This does not apply to preview images which are always loaded as a single bitmap, * and tiling cannot be disabled when displaying a region of the source image." />
+      <item value="tiling" />
+      <item value="Use a region of the source image. Region must be set independently for the full size image and the preview if * you are using one." />
+      <item value="Declare the dimensions of the image. This is only required for a full size image, when you are specifying a URI * and also a preview image. When displaying a bitmap object, or not using a preview, you do not need to declare * the image dimensions. Note if the declared dimensions are found to be incorrect, the view will reset." />
       <item value="Provide a loaded and cached bitmap for display. This bitmap will not be recycled when it is no * longer needed. Use this method if you loaded the bitmap with an image loader such as Picasso * or Volley." />
       <item value="周六" />
       <item value="生成" />
@@ -47,15 +51,11 @@
       <item value="Returns the first Entry object found at the given x-value with binary * search. * If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
       <item value="Determines how to round DataSet index values for * {@link DataSet#getEntryIndex(float, float, Rounding)} DataSet.getEntryIndex()} * when an exact x-index is not found." />
       <item value="CLOSEST" />
-      <item value="if disabled, scaling can be done on x- and y-axis separately" />
-      <item value="Removing unused resources requires unused code shrinking to be turned on" />
-      <item value="Atomically clears the container, then disposes all the previously contained Disposables." />
-      <item value="Adds a disposable to this container or disposes it if the * container has been disposed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="692" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="697" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
