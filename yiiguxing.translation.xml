@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="得分" />
       <item value="Enable or disable pan gesture detection. Disabling pan causes the image to be centered. Pan * can still be changed from code." />
       <item value="State change originated from a double tap zoom anim." />
       <item value="State change originated from animation." />
@@ -50,12 +51,11 @@
       <item value="Draws a double rounded rectangle using the specified paint. The resultant round rect * will be filled in the area defined between the outer and inner rectangular bounds if * the {@link Paint} configured with {@link Paint.Style#FILL}. * Otherwise if {@link Paint.Style#STROKE} is used, then 2 rounded rect strokes will * be drawn at the outer and inner rounded rectangles" />
       <item value="The outer edges of a join meet in a circular arc." />
       <item value="The outer edges of a join meet at a sharp angle" />
-      <item value="set the paint's Join, used whenever the paint's style is * Stroke or StrokeAndFill." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="717" />
-        <entry key="ENGLISH" value="718" />
+        <entry key="CHINESE" value="718" />
+        <entry key="ENGLISH" value="719" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
