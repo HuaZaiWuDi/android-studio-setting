@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordinal" />
       <item value="Requests new MTU. On Android Lollipop or newer it will send the MTU request to the connected * device. On older versions of Android the * {@link MtuCallback#onMtuChanged(BluetoothDevice, int)} set with * {@link MtuRequest#with(MtuCallback)} will be called with current MTU value. * &lt;p&gt; * The returned request must be either enqueued using {@link Request#enqueue()} for * asynchronous use, or awaited using await() in synchronous execution." />
       <item value="unresolved reference. None of the following candidates is applicable because of receiver type mismatch:" />
       <item value="Retrieves, but does not remove, the first element of this deque, * or returns {@code null} if this deque is empty." />
@@ -50,12 +51,11 @@
       <item value="Tests if this input stream supports the &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; methods. Whether or not &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; are supported is an invariant property of a * particular input stream instance. The &lt;code&gt;markSupported&lt;/code&gt; method * of &lt;code&gt;InputStream&lt;/code&gt; returns &lt;code&gt;false&lt;/code&gt;." />
       <item value="if the image format is not supported or can not be decoded." />
       <item value="If this is true, then the BitmapRegionDecoder may keep a * shallow reference to the input. If this is false, * then the BitmapRegionDecoder will explicitly make a copy of the * input data, and keep that. Even if sharing is allowed, * the implementation may still decide to make a deep * copy of the input data. If an image is progressively encoded, * allowing sharing may degrade the decoding speed." />
-      <item value="This configuration may be useful when using opaque bitmaps * that do not require high color fidelity. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="731" />
-        <entry key="ENGLISH" value="732" />
+        <entry key="CHINESE" value="732" />
+        <entry key="ENGLISH" value="733" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
