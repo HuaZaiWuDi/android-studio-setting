@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unresolved reference. None of the following candidates is applicable because of receiver type mismatch:" />
+      <item value="Retrieves, but does not remove, the first element of this deque, * or returns {@code null} if this deque is empty." />
+      <item value="offer" />
+      <item value="Retrieves and removes the first element of this deque, * or returns {@code null} if this deque is empty." />
+      <item value="Pushes an element onto the stack represented by this deque (in other * words, at the head of this deque) if it is possible to do so * immediately without violating capacity restrictions, throwing an * {@code IllegalStateException} if no space is currently available." />
+      <item value="initialize your data structure here." />
       <item value="Check your module classpath for missing or conflicting dependencies" />
       <item value="External" />
       <item value="cannot find symbol" />
@@ -45,17 +51,11 @@
       <item value="If this is true, then the BitmapRegionDecoder may keep a * shallow reference to the input. If this is false, * then the BitmapRegionDecoder will explicitly make a copy of the * input data, and keep that. Even if sharing is allowed, * the implementation may still decide to make a deep * copy of the input data. If an image is progressively encoded, * allowing sharing may degrade the decoding speed." />
       <item value="This configuration may be useful when using opaque bitmaps * that do not require high color fidelity. *" />
       <item value="This configuration can produce slight visual artifacts depending * on the configuration of the source. For instance, without * dithering, the result might show a greenish tint. To get better * results dithering should be applied." />
-      <item value="Each pixel is stored on 2 bytes and only the RGB channels are * encoded: red is stored with 5 bits of precision (32 possible * values), green is stored with 6 bits of precision (64 possible * values) and blue is stored with 5 bits of precision." />
-      <item value="Image format not supported" />
-      <item value="the size of the measure specification" />
-      <item value="Corner" />
-      <item value="大于" />
-      <item value="The y-radius of the oval used to round the corners" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="CHINESE" value="730" />
+        <entry key="ENGLISH" value="731" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
