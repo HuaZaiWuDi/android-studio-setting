@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ued" />
       <item value="the function that is called with a Flowable that signals a value when the Single      *                signalled a success value and returns a Publisher that has to signal a value to      *                trigger a resubscription to the current Single, otherwise the terminal signal of      *                the Publisher will be the terminal signal of the sequence as well." />
       <item value="the function that is called with a Flowable that signals a value when the Single * signalled a success value and returns a Publisher that has to signal a value to * trigger a resubscription to the current Single, otherwise the terminal signal of * the Publisher will be the terminal signal of the sequence as well." />
       <item value="does not operate by default on a particular {@link Scheduler}.&lt;/dd&gt;" />
@@ -50,12 +51,11 @@
       <item value="The number of pixels in each row" />
       <item value="The new bitmap's desired height." />
       <item value="Whether or not bilinear filtering should be used when scaling the * bitmap. If this is true then bilinear filtering will be used when * scaling which has better image quality at the cost of worse performance. * If this is false then nearest-neighbor scaling is used instead which * will have worse image quality but is faster. Recommended default * is to set filter to 'true' as the cost of bilinear filtering is * typically minimal and the improved image quality is significant." />
-      <item value="You must call removeView() on the child's parent first." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="738" />
-        <entry key="ENGLISH" value="738" />
+        <entry key="ENGLISH" value="739" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
