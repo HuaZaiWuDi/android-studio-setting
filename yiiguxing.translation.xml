@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="widget icon item" />
       <item value="available" />
       <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
       <item value="This is called when the user has started touching this widget." />
@@ -50,12 +51,11 @@
       <item value="tiling" />
       <item value="Use a region of the source image. Region must be set independently for the full size image and the preview if * you are using one." />
       <item value="Declare the dimensions of the image. This is only required for a full size image, when you are specifying a URI * and also a preview image. When displaying a bitmap object, or not using a preview, you do not need to declare * the image dimensions. Note if the declared dimensions are found to be incorrect, the view will reset." />
-      <item value="Provide a loaded and cached bitmap for display. This bitmap will not be recycled when it is no * longer needed. Use this method if you loaded the bitmap with an image loader such as Picasso * or Volley." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="745" />
+        <entry key="CHINESE" value="745" />
+        <entry key="ENGLISH" value="746" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
