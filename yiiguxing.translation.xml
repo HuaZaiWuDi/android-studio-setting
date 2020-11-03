@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns true if this is the Service Changed characteristic." />
+      <item value="the gatt device with services discovered" />
+      <item value="This method should return &lt;code&gt;true&lt;/code&gt; when the gatt device supports the * optional services. The default implementation returns &lt;code&gt;false&lt;/code&gt;." />
+      <item value="Called each time the task queue gets cleared." />
+      <item value="Called when the initialization queue is complete." />
       <item value="widget icon item" />
       <item value="available" />
       <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
@@ -46,16 +51,11 @@
       <item value="Source image pixel density at minimum zoom." />
       <item value="This is a screen density aware alternative to {@link #setMinScale(float)}; it allows you to express the minimum * allowed scale in terms of the maximum pixel density." />
       <item value="Externally change the scale and translation of the source image. This may be used with getCenter() and getScale() * to restore the scale and zoom after a screen rotate." />
-      <item value="Enable tiling of the image. This does not apply to preview images which are always loaded as a single bitmap., * and tiling cannot be disabled when displaying a region of the source image." />
-      <item value="Enable or disable tiling of the image. This does not apply to preview images which are always loaded as a single bitmap, * and tiling cannot be disabled when displaying a region of the source image." />
-      <item value="tiling" />
-      <item value="Use a region of the source image. Region must be set independently for the full size image and the preview if * you are using one." />
-      <item value="Declare the dimensions of the image. This is only required for a full size image, when you are specifying a URI * and also a preview image. When displaying a bitmap object, or not using a preview, you do not need to declare * the image dimensions. Note if the declared dimensions are found to be incorrect, the view will reset." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="745" />
-        <entry key="ENGLISH" value="746" />
+        <entry key="CHINESE" value="750" />
+        <entry key="ENGLISH" value="751" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
