@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="top-left corner pixel must be either opaque white or transparent." />
       <item value="Returns true if this is the Service Changed characteristic." />
       <item value="the gatt device with services discovered" />
       <item value="This method should return &lt;code&gt;true&lt;/code&gt; when the gatt device supports the * optional services. The default implementation returns &lt;code&gt;false&lt;/code&gt;." />
@@ -50,12 +51,11 @@
       <item value="INSIDE" />
       <item value="Source image pixel density at minimum zoom." />
       <item value="This is a screen density aware alternative to {@link #setMinScale(float)}; it allows you to express the minimum * allowed scale in terms of the maximum pixel density." />
-      <item value="Externally change the scale and translation of the source image. This may be used with getCenter() and getScale() * to restore the scale and zoom after a screen rotate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="750" />
-        <entry key="ENGLISH" value="751" />
+        <entry key="CHINESE" value="751" />
+        <entry key="ENGLISH" value="752" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
