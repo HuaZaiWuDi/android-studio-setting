@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets how many times to repeat the marquee animation. Only applied if the * TextView has marquee enabled. Set to -1 to repeat indefinitely." />
+      <item value="Gets the number of times the marquee animation is repeated. Only meaningful if the * TextView has marquee enabled." />
+      <item value="exit" />
+      <item value="exit animation" />
+      <item value="enter animation" />
+      <item value="An animation or animator resource ID used for the enter animation on the * view of the fragment being added or attached." />
+      <item value="An animation or animator resource ID used for the enter animation on the * view of the fragment being readded or reattached caused by * {@link FragmentManager#popBackStack()} or similar methods." />
       <item value="top-left corner pixel must be either opaque white or transparent." />
       <item value="Returns true if this is the Service Changed characteristic." />
       <item value="the gatt device with services discovered" />
@@ -44,18 +51,11 @@
       <item value="Allows the image to be panned until a corner reaches the center of the screen but no further. Useful when you want to pan any spot on the image to the exact center of the screen." />
       <item value="Don't allow the image to be panned off screen. As much of the image as possible is always displayed, centered in the view when it is smaller. This is the best option for galleries." />
       <item value="Allows the image to be panned until it is just off screen, but no further. The edge of the image will stop when it is flush with the screen edge. */ public static final int PAN_LIMIT_OUTSIDE = 2;" />
-      <item value="Quadratic ease out. Not recommended for scale animation, but good for panning. */" />
-      <item value="Zoom in to and center the tapped point immediately without animating. */" />
-      <item value="During zoom animation, keep the point of the image that was tapped in the same place, and scale the image around it. */" />
-      <item value="CROP" />
-      <item value="INSIDE" />
-      <item value="Source image pixel density at minimum zoom." />
-      <item value="This is a screen density aware alternative to {@link #setMinScale(float)}; it allows you to express the minimum * allowed scale in terms of the maximum pixel density." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="751" />
-        <entry key="ENGLISH" value="752" />
+        <entry key="CHINESE" value="759" />
+        <entry key="ENGLISH" value="760" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
