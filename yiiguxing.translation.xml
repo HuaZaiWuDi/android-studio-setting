@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detection" />
       <item value="cover" />
       <item value="Sets how many times to repeat the marquee animation. Only applied if the * TextView has marquee enabled. Set to -1 to repeat indefinitely." />
       <item value="Gets the number of times the marquee animation is repeated. Only meaningful if the * TextView has marquee enabled." />
@@ -50,12 +51,11 @@
       <item value="Scale the image uniformly so that both dimensions of the image will be equal to or larger than the corresponding dimension of the view. The image is then centered in the view." />
       <item value="Scale the image so that both dimensions of the image will be equal to or less than the corresponding dimension of the view. The image is then centered in the view. This is the default behaviour and best for galleries." />
       <item value="Allows the image to be panned until a corner reaches the center of the screen but no further. Useful when you want to pan any spot on the image to the exact center of the screen." />
-      <item value="Don't allow the image to be panned off screen. As much of the image as possible is always displayed, centered in the view when it is smaller. This is the best option for galleries." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="760" />
-        <entry key="ENGLISH" value="761" />
+        <entry key="CHINESE" value="761" />
+        <entry key="ENGLISH" value="762" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
