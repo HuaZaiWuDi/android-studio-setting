@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="setting image rotate" />
       <item value="sensivity" />
       <item value="detection" />
       <item value="cover" />
@@ -50,12 +51,11 @@
       <item value="Scale the image so that both dimensions of the image will be equal to or larger than the corresponding dimension of the view. The top left is shown." />
       <item value="Scale the image so that both dimensions of the image will be equal to or less than the maxScale and equal to or larger than minScale. The image is then centered in the view." />
       <item value="Scale the image uniformly so that both dimensions of the image will be equal to or larger than the corresponding dimension of the view. The image is then centered in the view." />
-      <item value="Scale the image so that both dimensions of the image will be equal to or less than the corresponding dimension of the view. The image is then centered in the view. This is the default behaviour and best for galleries." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="762" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="763" />
+        <entry key="ENGLISH" value="764" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
