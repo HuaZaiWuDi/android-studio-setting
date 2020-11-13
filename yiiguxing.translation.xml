@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="air conditioning" />
+      <item value="空调" />
       <item value="Head" />
       <item value="setting image rotate" />
       <item value="sensivity" />
@@ -49,13 +51,11 @@
       <item value="Enable or disable pan gesture detection. Disabling pan causes the image to be centered. Pan * can still be changed from code." />
       <item value="State change originated from a double tap zoom anim." />
       <item value="State change originated from animation." />
-      <item value="Scale the image so that both dimensions of the image will be equal to or larger than the corresponding dimension of the view. The top left is shown." />
-      <item value="Scale the image so that both dimensions of the image will be equal to or less than the maxScale and equal to or larger than minScale. The image is then centered in the view." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="764" />
-        <entry key="ENGLISH" value="765" />
+        <entry key="CHINESE" value="766" />
+        <entry key="ENGLISH" value="766" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
