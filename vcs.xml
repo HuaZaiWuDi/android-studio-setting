@@ -795,6 +795,7 @@
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="PREFER_COMMIT_DATE" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
