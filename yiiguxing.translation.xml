@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Available" />
+      <item value="可空" />
+      <item value="可选的" />
+      <item value="Optional" />
+      <item value="可不选" />
       <item value="多选" />
       <item value="syntax error, expect {, actual 14" />
       <item value="质量" />
@@ -46,16 +51,11 @@
       <item value="offer" />
       <item value="Retrieves and removes the first element of this deque, * or returns {@code null} if this deque is empty." />
       <item value="Pushes an element onto the stack represented by this deque (in other * words, at the head of this deque) if it is possible to do so * immediately without violating capacity restrictions, throwing an * {@code IllegalStateException} if no space is currently available." />
-      <item value="initialize your data structure here." />
-      <item value="Check your module classpath for missing or conflicting dependencies" />
-      <item value="External" />
-      <item value="cannot find symbol" />
-      <item value="for-each not applicable to expression type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="772" />
+        <entry key="ENGLISH" value="772" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
