@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多选" />
       <item value="syntax error, expect {, actual 14" />
       <item value="质量" />
       <item value="suspend" />
@@ -50,12 +51,11 @@
       <item value="External" />
       <item value="cannot find symbol" />
       <item value="for-each not applicable to expression type" />
-      <item value="peek" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="769" />
-        <entry key="ENGLISH" value="770" />
+        <entry key="CHINESE" value="770" />
+        <entry key="ENGLISH" value="771" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
