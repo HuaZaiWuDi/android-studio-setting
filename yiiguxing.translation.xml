@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="质量" />
       <item value="suspend" />
       <item value="not locked, return timer interval in milliseconds" />
       <item value="air conditioning" />
@@ -50,12 +51,11 @@
       <item value="for-each not applicable to expression type" />
       <item value="peek" />
       <item value="得分" />
-      <item value="Enable or disable pan gesture detection. Disabling pan causes the image to be centered. Pan * can still be changed from code." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="767" />
-        <entry key="ENGLISH" value="768" />
+        <entry key="CHINESE" value="768" />
+        <entry key="ENGLISH" value="769" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
