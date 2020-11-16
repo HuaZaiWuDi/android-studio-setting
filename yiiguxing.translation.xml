@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the number of stars to show. In order for these to be shown * properly, it is recommended the layout width of this widget be wrap * content." />
       <item value="Available" />
       <item value="可空" />
       <item value="可选的" />
@@ -50,12 +51,11 @@
       <item value="Retrieves, but does not remove, the first element of this deque, * or returns {@code null} if this deque is empty." />
       <item value="offer" />
       <item value="Retrieves and removes the first element of this deque, * or returns {@code null} if this deque is empty." />
-      <item value="Pushes an element onto the stack represented by this deque (in other * words, at the head of this deque) if it is possible to do so * immediately without violating capacity restrictions, throwing an * {@code IllegalStateException} if no space is currently available." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="772" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="ENGLISH" value="773" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
