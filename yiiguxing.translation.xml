@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constrained" />
       <item value="judge" />
       <item value="Configing" />
       <item value="Sets whether this dialog is cancelable with the" />
@@ -50,12 +51,11 @@
       <item value="honors the backpressure of the downstream consumer." />
       <item value="Re-subscribes to the current Single if * the Publisher returned by the handler function signals a value in response to a * value signalled through the Flowable the handle receives." />
       <item value="ordinal" />
-      <item value="Requests new MTU. On Android Lollipop or newer it will send the MTU request to the connected * device. On older versions of Android the * {@link MtuCallback#onMtuChanged(BluetoothDevice, int)} set with * {@link MtuRequest#with(MtuCallback)} will be called with current MTU value. * &lt;p&gt; * The returned request must be either enqueued using {@link Request#enqueue()} for * asynchronous use, or awaited using await() in synchronous execution." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="777" />
+        <entry key="CHINESE" value="777" />
+        <entry key="ENGLISH" value="778" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
