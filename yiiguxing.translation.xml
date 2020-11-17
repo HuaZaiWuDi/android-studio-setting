@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets whether this dialog is cancelable with the" />
       <item value="rating" />
       <item value="Sets the number of stars to show. In order for these to be shown * properly, it is recommended the layout width of this widget be wrap * content." />
       <item value="Available" />
@@ -50,12 +51,11 @@
       <item value="Requests new MTU. On Android Lollipop or newer it will send the MTU request to the connected * device. On older versions of Android the * {@link MtuCallback#onMtuChanged(BluetoothDevice, int)} set with * {@link MtuRequest#with(MtuCallback)} will be called with current MTU value. * &lt;p&gt; * The returned request must be either enqueued using {@link Request#enqueue()} for * asynchronous use, or awaited using await() in synchronous execution." />
       <item value="unresolved reference. None of the following candidates is applicable because of receiver type mismatch:" />
       <item value="Retrieves, but does not remove, the first element of this deque, * or returns {@code null} if this deque is empty." />
-      <item value="offer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="774" />
+        <entry key="CHINESE" value="774" />
+        <entry key="ENGLISH" value="775" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
