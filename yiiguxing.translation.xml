@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You &lt;em&gt;cannot&lt;/em&gt; receive this through components declared in * manifests, only by explicitly registering for it with * {@link Context#registerReceiver(BroadcastReceiver, IntentFilter) * Context.registerReceiver()}. *" />
       <item value="Hilt" />
       <item value="Dagger" />
       <item value="SSL handshake aborted: ssl=0xaf94c7a8: I/O error during system call, Connection reset by peer" />
@@ -50,12 +51,11 @@
       <item value="Called each time the task queue gets cleared." />
       <item value="Called when the initialization queue is complete." />
       <item value="widget icon item" />
-      <item value="available" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="ENGLISH" value="788" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
