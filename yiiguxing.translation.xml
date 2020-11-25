@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entry of an operation on the fragment back stack." />
       <item value="Alternate constructor that can be used to provide a default layout * that will be inflated by {@link #onCreateView(LayoutInflater, ViewGroup, Bundle)}." />
       <item value="instantiate" />
       <item value="bypassing the {@link Class#forName(String)} calls when passed the same * class name again." />
@@ -50,12 +51,11 @@
       <item value="exit animation" />
       <item value="enter animation" />
       <item value="An animation or animator resource ID used for the enter animation on the * view of the fragment being added or attached." />
-      <item value="An animation or animator resource ID used for the enter animation on the * view of the fragment being readded or reattached caused by * {@link FragmentManager#popBackStack()} or similar methods." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="793" />
-        <entry key="ENGLISH" value="794" />
+        <entry key="CHINESE" value="794" />
+        <entry key="ENGLISH" value="795" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
