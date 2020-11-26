@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the string to be substituted for each match" />
       <item value="Returns `true` if this string is equal to the contents of the specified [CharSequence], `false` otherwise." />
       <item value="Unmarshalling unknown type code 7667827 at offset 1896" />
       <item value="SUPPORT ETHERNET" />
@@ -50,12 +51,11 @@
       <item value="sensivity" />
       <item value="detection" />
       <item value="cover" />
-      <item value="Sets how many times to repeat the marquee animation. Only applied if the * TextView has marquee enabled. Set to -1 to repeat indefinitely." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="797" />
-        <entry key="ENGLISH" value="798" />
+        <entry key="CHINESE" value="798" />
+        <entry key="ENGLISH" value="799" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
