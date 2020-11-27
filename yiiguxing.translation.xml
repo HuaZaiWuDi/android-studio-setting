@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stdin" />
       <item value="Note that backslashes ({@code \}) and dollar signs ({@code $}) in the * replacement string may cause the results to be different than if it were * being treated as a literal replacement string; see * {@link java.util.regex.Matcher#replaceAll Matcher.replaceAll}. * Use {@link java.util.regex.Matcher#quoteReplacement} to suppress the special * meaning of these characters, if desired." />
       <item value="the string to be substituted for each match" />
       <item value="the regular expression to which this string is to be matched" />
@@ -50,11 +51,10 @@
       <item value="空调" />
       <item value="Head" />
       <item value="setting image rotate" />
-      <item value="sensivity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="801" />
+        <entry key="CHINESE" value="802" />
         <entry key="ENGLISH" value="802" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
