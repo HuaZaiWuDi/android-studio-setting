@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Excelerator" />
       <item value="The Python plug-in provides smart editing for Python scripts. The feature set of the plugin corresponds to PyCharm IDE Community Edition." />
       <item value="stdin" />
       <item value="Note that backslashes ({@code \}) and dollar signs ({@code $}) in the * replacement string may cause the results to be different than if it were * being treated as a literal replacement string; see * {@link java.util.regex.Matcher#replaceAll Matcher.replaceAll}. * Use {@link java.util.regex.Matcher#quoteReplacement} to suppress the special * meaning of these characters, if desired." />
@@ -50,12 +51,11 @@
       <item value="not locked, return timer interval in milliseconds" />
       <item value="air conditioning" />
       <item value="空调" />
-      <item value="Head" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="802" />
-        <entry key="ENGLISH" value="802" />
+        <entry key="ENGLISH" value="803" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
