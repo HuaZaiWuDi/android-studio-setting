@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="频道" />
       <item value="Excelerator" />
       <item value="The Python plug-in provides smart editing for Python scripts. The feature set of the plugin corresponds to PyCharm IDE Community Edition." />
       <item value="stdin" />
@@ -50,12 +51,11 @@
       <item value="suspend" />
       <item value="not locked, return timer interval in milliseconds" />
       <item value="air conditioning" />
-      <item value="空调" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="802" />
-        <entry key="ENGLISH" value="803" />
+        <entry key="CHINESE" value="803" />
+        <entry key="ENGLISH" value="804" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
