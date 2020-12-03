@@ -1,7 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Evaluate a JavaScript source string. The provided source name and line number are used for error messages and for producing debug information." />
+      <item value="Call function that may pause execution by capturing a continuation. Caller must be prepared to catch a ContinuationPending exception and resume execution by calling" />
+      <item value="Continuations" />
       <item value="the result of evaluating the string" />
+      <item value="Returns the value of the named property or NOT_FOUND." />
+      <item value="the name of the property" />
+      <item value="security" />
+      <item value="Decompile the source information associated with this js function/script back into a string." />
+      <item value="Decompile the source information associated with this js * function/script back into a string." />
+      <item value="Call the function as a constructor." />
+      <item value="How much to indent the decompiled result" />
+      <item value="Get encoded source string." />
+      <item value="Get parameter or variable name." />
+      <item value="Cannot access 'InterpretedFunction'" />
       <item value="an arbitrary object that specifies security * information about the origin or owner of the script. For * implementations that don't care about security, this value * may be null." />
       <item value="the starting line number" />
       <item value="Initialize the standard objects." />
@@ -38,24 +51,11 @@
       <item value="local data Key flow protection" />
       <item value="Reachable" />
       <item value="the default item to signal in Single if this Maybe is empty" />
-      <item value="Converts this Maybe into a Single instance composing disposal * through and turning an empty Maybe into a Single that emits the given * value through onSuccess." />
-      <item value="Converts this Maybe into a Single instance composing disposal * through and turning an empty Maybe into a signal of NoSuchElementException." />
-      <item value="Cannot read property 'length' of undefined&quot;, source:" />
-      <item value="长度" />
-      <item value="The default interactive shell is now zsh. To update your account to use zsh, please run `chsh -s /bin/zsh`. " />
-      <item value="exception decoding Hex string: invalid characters encountered in Hex string" />
-      <item value="constrained" />
-      <item value="judge" />
-      <item value="Configing" />
-      <item value="Sets whether this dialog is cancelable with the" />
-      <item value="rating" />
-      <item value="Sets the number of stars to show. In order for these to be shown * properly, it is recommended the layout width of this widget be wrap * content." />
-      <item value="Available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="812" />
-        <entry key="ENGLISH" value="813" />
+        <entry key="CHINESE" value="826" />
+        <entry key="ENGLISH" value="827" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
