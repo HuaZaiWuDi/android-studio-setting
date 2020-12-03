@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Explain" />
       <item value="高度" />
       <item value="占位" />
       <item value="占用" />
@@ -50,12 +51,11 @@
       <item value="Called when the fragment is visible to the user and actively running. * This is generally * tied to {@link Activity#onResume() Activity.onResume} of the containing * Activity's lifecycle." />
       <item value="You &lt;em&gt;cannot&lt;/em&gt; receive this through components declared in * manifests, only by explicitly registering for it with * {@link Context#registerReceiver(BroadcastReceiver, IntentFilter) * Context.registerReceiver()}. *" />
       <item value="Hilt" />
-      <item value="Dagger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="828" />
-        <entry key="ENGLISH" value="829" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="830" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
