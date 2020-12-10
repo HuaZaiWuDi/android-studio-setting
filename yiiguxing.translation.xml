@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A problem occurred evaluating initialization script." />
+      <item value="This is probably not a problem with npm. There is likely additional logging output above." />
       <item value="serialize" />
       <item value="deserialize" />
       <item value="across gesture" />
@@ -49,12 +51,10 @@
       <item value="instantiate" />
       <item value="bypassing the {@link Class#forName(String)} calls when passed the same * class name again." />
       <item value="if the specified element is null and this * list does not permit null elements" />
-      <item value="Removes the first occurrence of the specified element from this list, * if it is present (optional operation). If this list does not contain * the element, it is unchanged. More formally, removes the element with * the lowest index &lt;tt&gt;i&lt;/tt&gt; such that * &lt;tt&gt;(o==null&amp;nbsp;?&amp;nbsp;get(i)==null&amp;nbsp;:&amp;nbsp;o.equals(get(i)))&lt;/tt&gt; * (if such an element exists). Returns &lt;tt&gt;true&lt;/tt&gt; if this list * contained the specified element (or equivalently, if this list changed * as a result of the call)." />
-      <item value="retained" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="833" />
+        <entry key="CHINESE" value="834" />
         <entry key="ENGLISH" value="834" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
