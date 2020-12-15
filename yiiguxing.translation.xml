@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="位置" />
       <item value="Sets the start and end color for gradient colors, ONLY color that should be used for this DataSet." />
       <item value="fully displayed." />
       <item value="Adds half of the bar width to each side of the x-axis range in order to allow the bars of the barchart to be" />
@@ -50,12 +51,11 @@
       <item value="stdin" />
       <item value="Note that backslashes ({@code \}) and dollar signs ({@code $}) in the * replacement string may cause the results to be different than if it were * being treated as a literal replacement string; see * {@link java.util.regex.Matcher#replaceAll Matcher.replaceAll}. * Use {@link java.util.regex.Matcher#quoteReplacement} to suppress the special * meaning of these characters, if desired." />
       <item value="the string to be substituted for each match" />
-      <item value="the regular expression to which this string is to be matched" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="844" />
-        <entry key="ENGLISH" value="845" />
+        <entry key="CHINESE" value="845" />
+        <entry key="ENGLISH" value="846" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
