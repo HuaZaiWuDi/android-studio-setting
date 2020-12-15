@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="translate" />
       <item value="Unresolved reference" />
       <item value="* Preconcat the current matrix with the specified translation" />
       <item value="位置" />
@@ -50,12 +51,11 @@
       <item value="频道" />
       <item value="Excelerator" />
       <item value="The Python plug-in provides smart editing for Python scripts. The feature set of the plugin corresponds to PyCharm IDE Community Edition." />
-      <item value="stdin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="847" />
-        <entry key="ENGLISH" value="848" />
+        <entry key="CHINESE" value="848" />
+        <entry key="ENGLISH" value="849" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
