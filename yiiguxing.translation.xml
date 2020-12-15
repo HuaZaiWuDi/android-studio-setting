@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the start and end color for gradient colors, ONLY color that should be used for this DataSet." />
       <item value="fully displayed." />
       <item value="Adds half of the bar width to each side of the x-axis range in order to allow the bars of the barchart to be" />
       <item value="Set a custom minimum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMinValue() to undo this. Do not forget to call * setStartAtZero(false) if you use * this method. Otherwise, the axis-minimum value will still be forced to 0." />
@@ -50,12 +51,11 @@
       <item value="Note that backslashes ({@code \}) and dollar signs ({@code $}) in the * replacement string may cause the results to be different than if it were * being treated as a literal replacement string; see * {@link java.util.regex.Matcher#replaceAll Matcher.replaceAll}. * Use {@link java.util.regex.Matcher#quoteReplacement} to suppress the special * meaning of these characters, if desired." />
       <item value="the string to be substituted for each match" />
       <item value="the regular expression to which this string is to be matched" />
-      <item value="Returns `true` if this string is equal to the contents of the specified [CharSequence], `false` otherwise." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="842" />
-        <entry key="ENGLISH" value="843" />
+        <entry key="CHINESE" value="844" />
+        <entry key="ENGLISH" value="845" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
