@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set a custom minimum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMinValue() to undo this. Do not forget to call * setStartAtZero(false) if you use * this method. Otherwise, the axis-minimum value will still be forced to 0." />
+      <item value="Stacked with space chart that draws bars" />
+      <item value="Adds half of the bar width to each side of the x-axis range in order to allow the bars of the barchart to be fully displayed." />
       <item value="CHART Mode line" />
       <item value="The device has connected and begun service discovery and initialization." />
       <item value="Routing" />
@@ -48,14 +51,11 @@
       <item value="Returns `true` if this string is equal to the contents of the specified [CharSequence], `false` otherwise." />
       <item value="Unmarshalling unknown type code 7667827 at offset 1896" />
       <item value="SUPPORT ETHERNET" />
-      <item value=" Element instance has no attribute 'data'" />
-      <item value="most recent call last" />
-      <item value="Entry of an operation on the fragment back stack." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="837" />
-        <entry key="ENGLISH" value="838" />
+        <entry key="CHINESE" value="840" />
+        <entry key="ENGLISH" value="841" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
