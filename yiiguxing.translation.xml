@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies tint color for this drawable." />
+      <item value="Specify an optional color filter for the drawable." />
       <item value="stack" />
       <item value="span Count" />
       <item value="Returns the closest {@code long} to the argument, with ties * rounding to positive infinity." />
@@ -49,13 +51,11 @@
       <item value="Initialize the standard objects." />
       <item value="The optimization level is expected to be an integer between -1 and * 9. Any negative values will be interpreted as -1, and any values * greater than 9 will be interpreted as 9. * An optimization level of -1 indicates that interpretive mode will * always be used. Levels 0 through 9 indicate that class files may * be generated. Higher optimization levels trade off compile time * performance for runtime performance. * The optimizer level can't be set greater than -1 if the optimizer * package doesn't exist at run time." />
       <item value="disable compilation" />
-      <item value="Convenient method to convert java value to its closest representation * in JavaScript." />
-      <item value="Initialize the standard objects. * * Creates instances of the standard objects and their constructors * (Object, String, Number, Date, etc.), setting up 'scope' to act * as a global object as in ECMA 15.1.&lt;p&gt; * * This method must be called to initialize a scope before scripts * can be evaluated in that scope.&lt;p&gt; * * This method does not affect the Context it is called upon. * * @return the initialized scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="853" />
-        <entry key="ENGLISH" value="854" />
+        <entry key="CHINESE" value="855" />
+        <entry key="ENGLISH" value="856" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
