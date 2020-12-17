@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="limits" />
+      <item value="medium" />
+      <item value="limit" />
+      <item value="multi-" />
+      <item value="多" />
       <item value="固定" />
       <item value="Fox" />
       <item value="The maximum visible range of x-values." />
@@ -46,16 +51,11 @@
       <item value="Stub" />
       <item value="A problem occurred evaluating initialization script." />
       <item value="This is probably not a problem with npm. There is likely additional logging output above." />
-      <item value="serialize" />
-      <item value="deserialize" />
-      <item value="across gesture" />
-      <item value="Explain" />
-      <item value="高度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="879" />
-        <entry key="ENGLISH" value="880" />
+        <entry key="CHINESE" value="882" />
+        <entry key="ENGLISH" value="883" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
