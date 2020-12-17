@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fills the cache with bitmaps for the given dataset." />
       <item value="limits" />
       <item value="medium" />
       <item value="limit" />
@@ -50,12 +51,11 @@
       <item value="Routing" />
       <item value="Stub" />
       <item value="A problem occurred evaluating initialization script." />
-      <item value="This is probably not a problem with npm. There is likely additional logging output above." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="882" />
-        <entry key="ENGLISH" value="883" />
+        <entry key="CHINESE" value="883" />
+        <entry key="ENGLISH" value="884" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
