@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="barrier" />
       <item value="ring" />
       <item value="圆" />
       <item value="Duplicate" />
@@ -50,12 +51,11 @@
       <item value="Get parameter or variable name." />
       <item value="Cannot access 'InterpretedFunction'" />
       <item value="an arbitrary object that specifies security * information about the origin or owner of the script. For * implementations that don't care about security, this value * may be null." />
-      <item value="the starting line number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="858" />
-        <entry key="ENGLISH" value="859" />
+        <entry key="CHINESE" value="859" />
+        <entry key="ENGLISH" value="860" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
