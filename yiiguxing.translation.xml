@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A Entry represents one single entry in the chart" />
       <item value="Widgets" />
       <item value="Allows" />
       <item value="barrier" />
@@ -50,12 +51,11 @@
       <item value="Call the function as a constructor." />
       <item value="How much to indent the decompiled result" />
       <item value="Get encoded source string." />
-      <item value="Get parameter or variable name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="863" />
+        <entry key="ENGLISH" value="864" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
