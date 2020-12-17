@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Widgets" />
+      <item value="Allows" />
       <item value="barrier" />
       <item value="ring" />
       <item value="圆" />
@@ -49,13 +51,11 @@
       <item value="How much to indent the decompiled result" />
       <item value="Get encoded source string." />
       <item value="Get parameter or variable name." />
-      <item value="Cannot access 'InterpretedFunction'" />
-      <item value="an arbitrary object that specifies security * information about the origin or owner of the script. For * implementations that don't care about security, this value * may be null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="859" />
-        <entry key="ENGLISH" value="860" />
+        <entry key="CHINESE" value="862" />
+        <entry key="ENGLISH" value="863" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
