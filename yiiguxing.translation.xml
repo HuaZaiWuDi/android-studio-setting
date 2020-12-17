@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Drawing mode for this line dataset" />
+      <item value="LINEAR" />
+      <item value="STEPPED" />
+      <item value="Stepped" />
       <item value="Fills the cache with bitmaps for the given dataset." />
       <item value="limits" />
       <item value="medium" />
@@ -47,15 +51,11 @@
       <item value="Stacked with space chart that draws bars" />
       <item value="Adds half of the bar width to each side of the x-axis range in order to allow the bars of the barchart to be fully displayed." />
       <item value="CHART Mode line" />
-      <item value="The device has connected and begun service discovery and initialization." />
-      <item value="Routing" />
-      <item value="Stub" />
-      <item value="A problem occurred evaluating initialization script." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="883" />
-        <entry key="ENGLISH" value="884" />
+        <entry key="CHINESE" value="887" />
+        <entry key="ENGLISH" value="888" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
