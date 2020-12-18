@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Distance" />
+      <item value="Sets the maximum distance in screen dp a touch can be away from an entry to cause it to get highlighted. * Default: 500dp" />
+      <item value="The desired (general) offset you wish the IMarker to have on the x- and y-axis. * By returning x: -(width / 2) you will center the IMarker horizontally. * By returning y: -(height / 2) you will center the IMarker vertically." />
+      <item value="The offset for drawing at the specific `point`. This allows conditional adjusting of the Marker position. * If you have no adjustments to make, return getOffset()." />
       <item value="Sets the used y-axis offset for the labels on this axis. For the legend, * higher offset means the legend as a whole will be placed further away * from the top." />
       <item value="Sets the relative end margin. Margin values should be positive." />
       <item value="Drawing mode for this line dataset" />
@@ -47,15 +51,11 @@
       <item value="Unresolved reference" />
       <item value="* Preconcat the current matrix with the specified translation" />
       <item value="位置" />
-      <item value="fully displayed." />
-      <item value="Adds half of the bar width to each side of the x-axis range in order to allow the bars of the barchart to be" />
-      <item value="Set a custom minimum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMinValue() to undo this. Do not forget to call * setStartAtZero(false) if you use * this method. Otherwise, the axis-minimum value will still be forced to 0." />
-      <item value="Stacked with space chart that draws bars" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="889" />
-        <entry key="ENGLISH" value="890" />
+        <entry key="CHINESE" value="893" />
+        <entry key="ENGLISH" value="894" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
