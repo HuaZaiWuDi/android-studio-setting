@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上次" />
       <item value="Distance" />
       <item value="Sets the maximum distance in screen dp a touch can be away from an entry to cause it to get highlighted. * Default: 500dp" />
       <item value="The desired (general) offset you wish the IMarker to have on the x- and y-axis. * By returning x: -(width / 2) you will center the IMarker horizontally. * By returning y: -(height / 2) you will center the IMarker vertically." />
@@ -50,12 +51,11 @@
       <item value="translate" />
       <item value="Unresolved reference" />
       <item value="* Preconcat the current matrix with the specified translation" />
-      <item value="位置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="893" />
-        <entry key="ENGLISH" value="894" />
+        <entry key="CHINESE" value="894" />
+        <entry key="ENGLISH" value="895" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
