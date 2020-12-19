@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The remote device initiated graceful disconnection." />
       <item value="上次" />
       <item value="Distance" />
       <item value="Sets the maximum distance in screen dp a touch can be away from an entry to cause it to get highlighted. * Default: 500dp" />
@@ -50,12 +51,11 @@
       <item value="间隔" />
       <item value="translate" />
       <item value="Unresolved reference" />
-      <item value="* Preconcat the current matrix with the specified translation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="894" />
-        <entry key="ENGLISH" value="895" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="896" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
