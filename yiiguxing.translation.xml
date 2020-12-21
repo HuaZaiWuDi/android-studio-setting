@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets extra offsets (around the chart view) to be appended to the * auto-calculated offsets." />
+      <item value="Sets the minimum offset (padding) around the chart, defaults to 15" />
+      <item value="Extra spacing for `axisMaximum` to be added to automatically calculated `axisMaximum`" />
       <item value="Set a custom maximum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMaxValue() to undo this." />
       <item value="Sets the bottom axis space in percent of the full range. Default 10f" />
       <item value="Sets the top axis space in percent of the full range. Default 10f" />
@@ -48,14 +51,11 @@
       <item value="Widgets" />
       <item value="Allows" />
       <item value="barrier" />
-      <item value="ring" />
-      <item value="圆" />
-      <item value="Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="906" />
-        <entry key="ENGLISH" value="907" />
+        <entry key="CHINESE" value="909" />
+        <entry key="ENGLISH" value="910" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
