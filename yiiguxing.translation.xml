@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="更新中" />
+      <item value="升级中" />
+      <item value="UPDATING" />
       <item value="The device does not hav required services." />
       <item value="Whether the device, that was connected using auto connect, has disconnected." />
       <item value="The local device initiated disconnection." />
@@ -48,14 +51,11 @@
       <item value="smallest range to be displayed at once is 10" />
       <item value="Limits the maximum and minimum x range that can be visible by pinching and zooming. e.g. minRange=10, maxRange=100 the smallest range to be displayed at once is 10, and no more than a range of 100 values can be viewed at once without scrolling" />
       <item value="Moves the left side of the current viewport to the specified x-position. This also refreshes the chart by calling invalidate()." />
-      <item value="Otherwise" />
-      <item value="Checks if the specified [value] belongs to this range." />
-      <item value="Adds a new color to the colors array of the DataSet." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="914" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="916" />
+        <entry key="ENGLISH" value="917" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
