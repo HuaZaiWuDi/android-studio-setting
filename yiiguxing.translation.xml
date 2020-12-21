@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set a custom maximum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMaxValue() to undo this." />
+      <item value="Sets the bottom axis space in percent of the full range. Default 10f" />
+      <item value="Sets the top axis space in percent of the full range. Default 10f" />
       <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
       <item value="Sets the minimum offset (padding) around the chart, defaults to 15.f" />
       <item value="unused" />
@@ -48,14 +51,11 @@
       <item value="ring" />
       <item value="圆" />
       <item value="Duplicate" />
-      <item value="Specifies tint color for this drawable." />
-      <item value="Specify an optional color filter for the drawable." />
-      <item value="stack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="902" />
-        <entry key="ENGLISH" value="903" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="907" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
