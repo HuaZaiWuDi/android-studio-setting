@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="data Sending" />
+      <item value="internal" />
+      <item value="The connection timed out. The device might have reboot, is out of range, turned off * or doesn't respond for another reason." />
+      <item value="This reason will only be reported when {@link ConnectRequest#shouldAutoConnect()} was called * and connection to the device was lost. Android will try to connect automatically." />
+      <item value="The local device initiated disconnection." />
+      <item value="The remote device initiated graceful disconnection." />
+      <item value="The disconnection was initiated by the user." />
       <item value="transport" />
       <item value="传输" />
       <item value="WAITING" />
@@ -11,9 +18,6 @@
       <item value="UPDATING" />
       <item value="The device does not hav required services." />
       <item value="Whether the device, that was connected using auto connect, has disconnected." />
-      <item value="The local device initiated disconnection." />
-      <item value="The disconnection was initiated by the user." />
-      <item value="The remote device initiated graceful disconnection." />
       <item value="Sets extra offsets (around the chart view) to be appended to the * auto-calculated offsets." />
       <item value="Sets the minimum offset (padding) around the chart, defaults to 15" />
       <item value="Extra spacing for `axisMaximum` to be added to automatically calculated `axisMaximum`" />
@@ -47,15 +51,11 @@
       <item value="Fox" />
       <item value="The maximum visible range of x-values." />
       <item value="Curve" />
-      <item value="Sets the start and end color for gradient colors, ONLY color that should be used for this DataSet." />
-      <item value="Sets the start and end color for gradient color, ONLY color that should be used for this DataSet." />
-      <item value="This will move the left side of the current viewport to the specified * x-value on the x-axis, and center the viewport to the specified y value on the y-axis. * This also refreshes the chart by calling invalidate()." />
-      <item value="- which axis should be used as a reference for the y-axis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="921" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="928" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
