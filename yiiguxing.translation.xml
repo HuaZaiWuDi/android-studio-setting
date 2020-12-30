@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enqueues a sleep operation with given duration. The next request will be performed after at least given number of milliseconds." />
+      <item value="Bluetooth LE Coded PHY mask. Used to specify LE Coded Physical Channel as one of many * available options in a bitmask." />
+      <item value="preferred coding to use when transmitting on the LE Coded PHY. Can be one of {@link PhyRequest#PHY_OPTION_NO_PREFERRED}, {@link PhyRequest#PHY_OPTION_S2} or {@link PhyRequest#PHY_OPTION_S8}." />
+      <item value="preferred receiver PHY. Bitwise OR of any of {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, and {@link PhyRequest#PHY_LE_CODED_MASK}." />
+      <item value="preferred transmitter PHY. Bitwise OR of any of {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, and {@link PhyRequest#PHY_LE_CODED_MASK}." />
+      <item value="PHY LE 2M and PHY LE Coded are supported only on Android Oreo or newer. You may safely request other PHYs on older platforms, but you will get PHY LE 1M as TX and RX PHY in the callback." />
+      <item value="Enqueues a request to set the preferred PHY" />
+      <item value="Interval: 11.25 -15 ms, latency: 0, supervision timeout: 20 sec," />
+      <item value="Requests the new connection priority. Acceptable values are:" />
+      <item value="Sets a one-time callback that will be notified when the value of the given characteristic changes. This is a blocking request, so the next request will be executed after the write command or write request was received." />
+      <item value="The returned request must be either enqueued using {@link Request#enqueue()} for asynchronous use, or awaited using await() in synchronous execution." />
+      <item value="Sets a one-time callback that will be notified when the value of the given characteristic changes. This is a blocking request, so the next request will be executed after the notification was received." />
+      <item value="Returns the callback that is registered for value changes (write command or write request * initiated by the remote device) of given characteristic." />
+      <item value="Bluetooth LE 2M PHY mask. Used to specify LE 2M Physical Channel as one of many available * options in a bitmask." />
+      <item value="Bluetooth LE 1M PHY mask. Used to specify LE 1M Physical Channel as one of many available * options in a bitmask." />
+      <item value="Prefer the S=2 coding to be used when transmitting on the LE Coded PHY." />
+      <item value="No preferred coding when transmitting on the LE Coded PHY." />
+      <item value="Calling {@link ConnectRequest#await()} will make this request * synchronous (the callbacks set will be ignored, instead the synchronous method will * return or throw an exception)." />
+      <item value="Creates a Connect request that will try to connect to the given Bluetooth LE device using * preferred PHY. Call {@link ConnectRequest#enqueue()} or {@link ConnectRequest#await()} * in order to execute the request." />
+      <item value="preferred PHY for connections to remote LE device. Bitwise OR of any of * {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, * and {@link PhyRequest#PHY_LE_CODED_MASK}. This option does not take effect * if {@code autoConnect} is set to true. PHY 2M and Coded are supported * on newer devices running Android Oreo or newer." />
+      <item value="The default this implementation returns 1600 ms for bonded and 300 ms when the device is not * bonded to be compatible with older versions of the library." />
+      <item value="The BleManager should be overridden in your app and all the 'high level' callbacks should * be called from there." />
       <item value="The device has connected and begun service discovery and initialization." />
       <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by * the downstream." />
       <item value="Note that the {@code onFinally} action is shared between subscriptions and as such * should be thread-safe." />
@@ -29,33 +51,11 @@
       <item value="The remote device initiated graceful disconnection." />
       <item value="The disconnection was initiated by the user." />
       <item value="transport" />
-      <item value="传输" />
-      <item value="WAITING" />
-      <item value="Control whether a fragment instance is retained across Activity * re-creation (such as from a configuration change). If set, the fragment * lifecycle will be slightly different when an activity is recreated:" />
-      <item value="will not be called since the fragment * is not being re-created." />
-      <item value="更新中" />
-      <item value="升级中" />
-      <item value="UPDATING" />
-      <item value="The device does not hav required services." />
-      <item value="Whether the device, that was connected using auto connect, has disconnected." />
-      <item value="Sets extra offsets (around the chart view) to be appended to the * auto-calculated offsets." />
-      <item value="Sets the minimum offset (padding) around the chart, defaults to 15" />
-      <item value="Extra spacing for `axisMaximum` to be added to automatically calculated `axisMaximum`" />
-      <item value="Set a custom maximum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMaxValue() to undo this." />
-      <item value="Sets the bottom axis space in percent of the full range. Default 10f" />
-      <item value="Sets the top axis space in percent of the full range. Default 10f" />
-      <item value="Sets extra spacing for `axisMinimum` to be added to automatically calculated `axisMinimum`" />
-      <item value="Sets the minimum offset (padding) around the chart, defaults to 15.f" />
-      <item value="unused" />
-      <item value="The observer that will receive the events" />
-      <item value="If the observer was already added with an owner to this LiveData, LiveData throws an" />
-      <item value="Adds the given observer to the observers list. This call is similar to * {@link LiveData#observe(LifecycleOwner, Observer)} with a LifecycleOwner, which * is always active. This means that the given observer will receive all events and will never * be automatically removed. You should manually call {@link #removeObserver(Observer)} to stop * observing this LiveData. * While LiveData has one of such observers, it will be considered * as active." />
-      <item value="上次" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="946" />
-        <entry key="ENGLISH" value="947" />
+        <entry key="CHINESE" value="969" />
+        <entry key="ENGLISH" value="970" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
