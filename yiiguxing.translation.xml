@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REASON NULL ATTRIBUTE" />
+      <item value="ATTRIBUTE" />
       <item value="resource layout id illegal" />
       <item value="Sets whether this dialog is cancelable with the" />
       <item value="the period between subsequent values" />
@@ -49,13 +51,11 @@
       <item value="The desired (general) offset you wish the IMarker to have on the x- and y-axis. * By returning x: -(width / 2) you will center the IMarker horizontally. * By returning y: -(height / 2) you will center the IMarker vertically." />
       <item value="The offset for drawing at the specific `point`. This allows conditional adjusting of the Marker position. * If you have no adjustments to make, return getOffset()." />
       <item value="Sets the used y-axis offset for the labels on this axis. For the legend, * higher offset means the legend as a whole will be placed further away * from the top." />
-      <item value="Sets the relative end margin. Margin values should be positive." />
-      <item value="Drawing mode for this line dataset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="940" />
-        <entry key="ENGLISH" value="941" />
+        <entry key="CHINESE" value="941" />
+        <entry key="ENGLISH" value="942" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
