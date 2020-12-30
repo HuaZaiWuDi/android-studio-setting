@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Enqueues a sleep operation with given duration. The next request will be performed after at least given number of milliseconds." />
       <item value="Bluetooth LE Coded PHY mask. Used to specify LE Coded Physical Channel as one of many * available options in a bitmask." />
+      <item value="Prefer the S=2 coding to be used when transmitting on the LE Coded PHY" />
+      <item value="Returns a substring after the first occurrence of [delimiter]. * If the string does not contain the delimiter, returns [missingDelimiterValue] which defaults to the original string. */" />
+      <item value="Enqueues a sleep operation with given duration. The next request will be performed after at least given number of milliseconds." />
       <item value="preferred coding to use when transmitting on the LE Coded PHY. Can be one of {@link PhyRequest#PHY_OPTION_NO_PREFERRED}, {@link PhyRequest#PHY_OPTION_S2} or {@link PhyRequest#PHY_OPTION_S8}." />
       <item value="preferred receiver PHY. Bitwise OR of any of {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, and {@link PhyRequest#PHY_LE_CODED_MASK}." />
       <item value="preferred transmitter PHY. Bitwise OR of any of {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, and {@link PhyRequest#PHY_LE_CODED_MASK}." />
@@ -49,13 +51,11 @@
       <item value="This reason will only be reported when {@link ConnectRequest#shouldAutoConnect()} was called * and connection to the device was lost. Android will try to connect automatically." />
       <item value="The local device initiated disconnection." />
       <item value="The remote device initiated graceful disconnection." />
-      <item value="The disconnection was initiated by the user." />
-      <item value="transport" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="969" />
-        <entry key="ENGLISH" value="970" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="973" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
