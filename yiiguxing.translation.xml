@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rounds this [Float] value to the nearest integer and converts the result to [Int]. * Ties are rounded towards positive infinity." />
       <item value="REASON NULL ATTRIBUTE" />
       <item value="ATTRIBUTE" />
       <item value="resource layout id illegal" />
@@ -50,12 +51,11 @@
       <item value="Sets the maximum distance in screen dp a touch can be away from an entry to cause it to get highlighted. * Default: 500dp" />
       <item value="The desired (general) offset you wish the IMarker to have on the x- and y-axis. * By returning x: -(width / 2) you will center the IMarker horizontally. * By returning y: -(height / 2) you will center the IMarker vertically." />
       <item value="The offset for drawing at the specific `point`. This allows conditional adjusting of the Marker position. * If you have no adjustments to make, return getOffset()." />
-      <item value="Sets the used y-axis offset for the labels on this axis. For the legend, * higher offset means the legend as a whole will be placed further away * from the top." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="941" />
-        <entry key="ENGLISH" value="942" />
+        <entry key="CHINESE" value="942" />
+        <entry key="ENGLISH" value="943" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
