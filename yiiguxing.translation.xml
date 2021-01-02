@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UPGRADING" />
       <item value="Unrecognized" />
       <item value="Reverses the Activity Scene entry Transition and triggers the calling Activity * to reverse its exit Transition. When the exit Transition completes, * {@link #finish()} is called. If no entry Transition was used, finish() is called * immediately and the Activity exit Transition is run." />
       <item value="拦截" />
@@ -50,12 +51,11 @@
       <item value="Simple factory, which calls empty constructor on the give class." />
       <item value="which have an empty constructor." />
       <item value="Retrieve a singleton instance of AndroidViewModelFactory." />
-      <item value="data Sending" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="978" />
+        <entry key="CHINESE" value="978" />
+        <entry key="ENGLISH" value="979" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
