@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handle runtime permissions." />
+      <item value="Handle notification permission." />
       <item value="The disconnection was initiated by the user." />
       <item value="The local device initiated disconnection." />
       <item value="The remote device initiated graceful disconnection." />
@@ -49,13 +51,11 @@
       <item value="REASON NULL ATTRIBUTE" />
       <item value="ATTRIBUTE" />
       <item value="resource layout id illegal" />
-      <item value="Sets whether this dialog is cancelable with the" />
-      <item value="the period between subsequent values" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="997" />
-        <entry key="ENGLISH" value="998" />
+        <entry key="CHINESE" value="999" />
+        <entry key="ENGLISH" value="1000" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
