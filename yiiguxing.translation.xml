@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实时" />
       <item value="The local device initiated disconnection." />
       <item value="Handle runtime permissions." />
       <item value="Handle notification permission." />
@@ -50,12 +51,11 @@
       <item value="Rounds this [Float] value to the nearest integer and converts the result to [Int]. * Ties are rounded towards positive infinity." />
       <item value="REASON NULL ATTRIBUTE" />
       <item value="ATTRIBUTE" />
-      <item value="resource layout id illegal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1000" />
-        <entry key="ENGLISH" value="1001" />
+        <entry key="CHINESE" value="1001" />
+        <entry key="ENGLISH" value="1002" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
