@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="picture" />
+      <item value="图片" />
       <item value="stats" />
       <item value="MILLISECONDS" />
       <item value="实时" />
@@ -49,13 +51,11 @@
       <item value="The device has connected and begun service discovery and initialization." />
       <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by * the downstream." />
       <item value="Note that the {@code onFinally} action is shared between subscriptions and as such * should be thread-safe." />
-      <item value="In case of a race between a terminal event and a cancellation, the provided {@code onFinally} action * is executed once per subscription." />
-      <item value="Rounds this [Float] value to the nearest integer and converts the result to [Int]. * Ties are rounded towards positive infinity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1003" />
-        <entry key="ENGLISH" value="1003" />
+        <entry key="CHINESE" value="1004" />
+        <entry key="ENGLISH" value="1004" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
