@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="params" />
+      <item value="参数" />
+      <item value="PARAM" />
       <item value="busy" />
       <item value="Convert a {@link WritableMap} to a {@link Bundle}. Note: Each array is converted to an {@link * ArrayList}." />
       <item value="Writable" />
@@ -48,18 +51,16 @@
       <item value="Bluetooth LE 1M PHY mask. Used to specify LE 1M Physical Channel as one of many available * options in a bitmask." />
       <item value="Prefer the S=2 coding to be used when transmitting on the LE Coded PHY." />
       <item value="No preferred coding when transmitting on the LE Coded PHY." />
-      <item value="Calling {@link ConnectRequest#await()} will make this request * synchronous (the callbacks set will be ignored, instead the synchronous method will * return or throw an exception)." />
-      <item value="Creates a Connect request that will try to connect to the given Bluetooth LE device using * preferred PHY. Call {@link ConnectRequest#enqueue()} or {@link ConnectRequest#await()} * in order to execute the request." />
-      <item value="preferred PHY for connections to remote LE device. Bitwise OR of any of * {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, * and {@link PhyRequest#PHY_LE_CODED_MASK}. This option does not take effect * if {@code autoConnect} is set to true. PHY 2M and Coded are supported * on newer devices running Android Oreo or newer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1008" />
-        <entry key="ENGLISH" value="1009" />
+        <entry key="CHINESE" value="1010" />
+        <entry key="ENGLISH" value="1011" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
