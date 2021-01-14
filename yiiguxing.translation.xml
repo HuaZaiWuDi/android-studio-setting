@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Convert a {@link WritableMap} to a {@link Bundle}. Note: Each array is converted to an {@link * ArrayList}." />
+      <item value="Writable" />
+      <item value="Interface for a map that allows typed access to its members. Used to pass parameters from JS to * Java." />
       <item value="时长" />
       <item value="picture" />
       <item value="图片" />
@@ -48,14 +51,11 @@
       <item value="Creates a Connect request that will try to connect to the given Bluetooth LE device using * preferred PHY. Call {@link ConnectRequest#enqueue()} or {@link ConnectRequest#await()} * in order to execute the request." />
       <item value="preferred PHY for connections to remote LE device. Bitwise OR of any of * {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, * and {@link PhyRequest#PHY_LE_CODED_MASK}. This option does not take effect * if {@code autoConnect} is set to true. PHY 2M and Coded are supported * on newer devices running Android Oreo or newer." />
       <item value="The default this implementation returns 1600 ms for bonded and 300 ms when the device is not * bonded to be compatible with older versions of the library." />
-      <item value="The BleManager should be overridden in your app and all the 'high level' callbacks should * be called from there." />
-      <item value="The device has connected and begun service discovery and initialization." />
-      <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by * the downstream." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1004" />
-        <entry key="ENGLISH" value="1005" />
+        <entry key="CHINESE" value="1007" />
+        <entry key="ENGLISH" value="1008" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
