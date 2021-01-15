@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="noon" />
+      <item value="中午" />
       <item value="params" />
       <item value="参数" />
       <item value="PARAM" />
@@ -49,13 +51,11 @@
       <item value="Returns the callback that is registered for value changes (write command or write request * initiated by the remote device) of given characteristic." />
       <item value="Bluetooth LE 2M PHY mask. Used to specify LE 2M Physical Channel as one of many available * options in a bitmask." />
       <item value="Bluetooth LE 1M PHY mask. Used to specify LE 1M Physical Channel as one of many available * options in a bitmask." />
-      <item value="Prefer the S=2 coding to be used when transmitting on the LE Coded PHY." />
-      <item value="No preferred coding when transmitting on the LE Coded PHY." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1010" />
-        <entry key="ENGLISH" value="1011" />
+        <entry key="CHINESE" value="1012" />
+        <entry key="ENGLISH" value="1012" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
