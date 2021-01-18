@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="awake" />
       <item value="Unchecked cast" />
       <item value="noon" />
       <item value="中午" />
@@ -50,12 +51,11 @@
       <item value="The returned request must be either enqueued using {@link Request#enqueue()} for asynchronous use, or awaited using await() in synchronous execution." />
       <item value="Sets a one-time callback that will be notified when the value of the given characteristic changes. This is a blocking request, so the next request will be executed after the notification was received." />
       <item value="Returns the callback that is registered for value changes (write command or write request * initiated by the remote device) of given characteristic." />
-      <item value="Bluetooth LE 2M PHY mask. Used to specify LE 2M Physical Channel as one of many available * options in a bitmask." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1012" />
-        <entry key="ENGLISH" value="1012" />
+        <entry key="ENGLISH" value="1013" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
