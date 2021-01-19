@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when a view created by this {@link ItemViewBinder} has been detached from its * window." />
+      <item value="&lt;p&gt;This can be used as a reasonable signal that the view is about to be seen * by the user. If the {@link ItemViewBinder} previously freed any resources in * {@link #onViewDetachedFromWindow(RecyclerView.ViewHolder) onViewDetachedFromWindow} * those resources should be restored here.&lt;/p&gt;" />
+      <item value="Called when a view created by this {@link ItemViewBinder} has been attached to a window." />
+      <item value="Called by the RecyclerView if a ViewHolder created by this Adapter cannot be recycled * due to its transient state. Upon receiving this callback, Adapter can clear the * animation(s) that effect the View's transient state and return &lt;code&gt;true&lt;/code&gt; so that * the View can be recycled. Keep in mind that the View in question is already removed from * the RecyclerView." />
+      <item value="Called by MultiTypeAdapter to display the data with its view holder. This method should * update the contents of the {@link ViewHolder#itemView} to reflect the given item." />
+      <item value="自评" />
       <item value="inset" />
       <item value="intersect" />
       <item value="intersects" />
@@ -45,17 +51,11 @@
       <item value="拦截" />
       <item value="Returns a string having leading and trailing whitespace removed." />
       <item value="Bluetooth LE Coded PHY mask. Used to specify LE Coded Physical Channel as one of many * available options in a bitmask." />
-      <item value="Prefer the S=2 coding to be used when transmitting on the LE Coded PHY" />
-      <item value="Returns a substring after the first occurrence of [delimiter]. * If the string does not contain the delimiter, returns [missingDelimiterValue] which defaults to the original string. */" />
-      <item value="Enqueues a sleep operation with given duration. The next request will be performed after at least given number of milliseconds." />
-      <item value="preferred coding to use when transmitting on the LE Coded PHY. Can be one of {@link PhyRequest#PHY_OPTION_NO_PREFERRED}, {@link PhyRequest#PHY_OPTION_S2} or {@link PhyRequest#PHY_OPTION_S8}." />
-      <item value="preferred receiver PHY. Bitwise OR of any of {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, and {@link PhyRequest#PHY_LE_CODED_MASK}." />
-      <item value="preferred transmitter PHY. Bitwise OR of any of {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, and {@link PhyRequest#PHY_LE_CODED_MASK}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1023" />
-        <entry key="ENGLISH" value="1024" />
+        <entry key="CHINESE" value="1029" />
+        <entry key="ENGLISH" value="1030" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
