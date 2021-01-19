@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="average" />
       <item value="Called when a view created by this {@link ItemViewBinder} has been detached from its * window." />
       <item value="&lt;p&gt;This can be used as a reasonable signal that the view is about to be seen * by the user. If the {@link ItemViewBinder} previously freed any resources in * {@link #onViewDetachedFromWindow(RecyclerView.ViewHolder) onViewDetachedFromWindow} * those resources should be restored here.&lt;/p&gt;" />
       <item value="Called when a view created by this {@link ItemViewBinder} has been attached to a window." />
@@ -50,12 +51,11 @@
       <item value="Reverses the Activity Scene entry Transition and triggers the calling Activity * to reverse its exit Transition. When the exit Transition completes, * {@link #finish()} is called. If no entry Transition was used, finish() is called * immediately and the Activity exit Transition is run." />
       <item value="拦截" />
       <item value="Returns a string having leading and trailing whitespace removed." />
-      <item value="Bluetooth LE Coded PHY mask. Used to specify LE Coded Physical Channel as one of many * available options in a bitmask." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1029" />
-        <entry key="ENGLISH" value="1030" />
+        <entry key="CHINESE" value="1030" />
+        <entry key="ENGLISH" value="1031" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
