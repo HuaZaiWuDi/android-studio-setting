@@ -1,7 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns `true` if there are elements in the iteration before the current element." />
       <item value="Returns the previous element in the iteration and moves the cursor position backwards." />
+      <item value="Adds the specified element [element] into the underlying collection immediately before the element that would be * returned by [next], if any, and after the element that would be returned by [previous], if any. * (If the collection contains no elements, the new element becomes the sole element in the collection.) * The new element is inserted before the implicit cursor: a subsequent call to [next] would be unaffected, * and a subsequent call to [previous] would return the new element. (This call increases by one the value \ * that would be returned by a call to [nextIndex] or [previousIndex].)" />
       <item value="average" />
       <item value="Called when a view created by this {@link ItemViewBinder} has been detached from its * window." />
       <item value="&lt;p&gt;This can be used as a reasonable signal that the view is about to be seen * by the user. If the {@link ItemViewBinder} previously freed any resources in * {@link #onViewDetachedFromWindow(RecyclerView.ViewHolder) onViewDetachedFromWindow} * those resources should be restored here.&lt;/p&gt;" />
@@ -49,13 +51,11 @@
       <item value="chunk" />
       <item value="UPGRADING" />
       <item value="Unrecognized" />
-      <item value="Reverses the Activity Scene entry Transition and triggers the calling Activity * to reverse its exit Transition. When the exit Transition completes, * {@link #finish()} is called. If no entry Transition was used, finish() is called * immediately and the Activity exit Transition is run." />
-      <item value="拦截" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1031" />
-        <entry key="ENGLISH" value="1032" />
+        <entry key="CHINESE" value="1035" />
+        <entry key="ENGLISH" value="1036" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
