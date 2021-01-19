@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inset" />
+      <item value="intersect" />
+      <item value="intersects" />
+      <item value="Set the dst integer Rect by rounding this rectangle's coordinates * to their nearest integer values." />
+      <item value="round" />
+      <item value="union" />
+      <item value="sort" />
       <item value="Reversed" />
       <item value="awake" />
       <item value="Unchecked cast" />
@@ -44,18 +51,11 @@
       <item value="preferred coding to use when transmitting on the LE Coded PHY. Can be one of {@link PhyRequest#PHY_OPTION_NO_PREFERRED}, {@link PhyRequest#PHY_OPTION_S2} or {@link PhyRequest#PHY_OPTION_S8}." />
       <item value="preferred receiver PHY. Bitwise OR of any of {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, and {@link PhyRequest#PHY_LE_CODED_MASK}." />
       <item value="preferred transmitter PHY. Bitwise OR of any of {@link PhyRequest#PHY_LE_1M_MASK}, {@link PhyRequest#PHY_LE_2M_MASK}, and {@link PhyRequest#PHY_LE_CODED_MASK}." />
-      <item value="PHY LE 2M and PHY LE Coded are supported only on Android Oreo or newer. You may safely request other PHYs on older platforms, but you will get PHY LE 1M as TX and RX PHY in the callback." />
-      <item value="Enqueues a request to set the preferred PHY" />
-      <item value="Interval: 11.25 -15 ms, latency: 0, supervision timeout: 20 sec," />
-      <item value="Requests the new connection priority. Acceptable values are:" />
-      <item value="Sets a one-time callback that will be notified when the value of the given characteristic changes. This is a blocking request, so the next request will be executed after the write command or write request was received." />
-      <item value="The returned request must be either enqueued using {@link Request#enqueue()} for asynchronous use, or awaited using await() in synchronous execution." />
-      <item value="Sets a one-time callback that will be notified when the value of the given characteristic changes. This is a blocking request, so the next request will be executed after the notification was received." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1013" />
-        <entry key="ENGLISH" value="1014" />
+        <entry key="CHINESE" value="1023" />
+        <entry key="ENGLISH" value="1024" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
