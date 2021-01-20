@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart" />
+      <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart or the screen" />
+      <item value="Set this to true to enable drawing the labels of this axis (this will not * affect drawing the grid lines or axis lines)." />
+      <item value="Set a custom minimum value for this axis. If set, this value will not be calculated * automatically depending on * the provided data. Use resetAxisMinValue() to undo this. Do not forget to call * setStartAtZero(false) if you use * this method. Otherwise, the axis-minimum value will still be forced to 0." />
       <item value="Hypopnea" />
       <item value="上气道阻力综合征" />
       <item value="呼吸低通气" />
@@ -47,15 +51,11 @@
       <item value="Handle notification permission." />
       <item value="The disconnection was initiated by the user." />
       <item value="The remote device initiated graceful disconnection." />
-      <item value="The connection timed out. The device might have reboot, is out of range, turned off * or doesn't respond for another reason." />
-      <item value="Whether the device, that was connected using auto connect, has disconnected." />
-      <item value="The disconnection was initiated by the user" />
-      <item value="Called when the initialization queue is complete." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1040" />
-        <entry key="ENGLISH" value="1041" />
+        <entry key="CHINESE" value="1044" />
+        <entry key="ENGLISH" value="1045" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
