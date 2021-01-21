@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the longest formatted label (in terms of characters), this axis * contains." />
+      <item value="Inverted" />
+      <item value="This is for normal (not horizontal) charts horizontal spacing." />
+      <item value="Avoid" />
+      <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart or the screen" />
+      <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart." />
       <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
       <item value="sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not * fixed (if force == false) and can only be approximated." />
       <item value="ower" />
@@ -13,8 +19,6 @@
       <item value="If there are multiple y-values for the specified x-value," />
       <item value="Enabled/disable granularity control on axis value intervals. If enabled, the axis * interval is not allowed to go below a certain granularity. Default: false" />
       <item value="sets the angle for drawing the X axis labels (in degrees)" />
-      <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart." />
-      <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart or the screen" />
       <item value="can only be approximated." />
       <item value="the number of y-axis labels that should be displayed" />
       <item value="Returns the previous element in the iteration and moves the cursor position backwards." />
@@ -47,15 +51,11 @@
       <item value="awake" />
       <item value="Unchecked cast" />
       <item value="noon" />
-      <item value="中午" />
-      <item value="params" />
-      <item value="参数" />
-      <item value="PARAM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1062" />
-        <entry key="ENGLISH" value="1063" />
+        <entry key="CHINESE" value="1068" />
+        <entry key="ENGLISH" value="1069" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
