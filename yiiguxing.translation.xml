@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the visibility of this DataSet. If not visible, the DataSet will not * be drawn to the chart upon refreshing it." />
+      <item value="Calculates the min and max y-values from the Entry closest to the given fromX to the Entry closest to the given toX value. * This is only needed for the autoScaleMinMax feature." />
+      <item value="determine whether to round up/down/closest * if there is no Entry matching the provided x-value" />
+      <item value="Search by closest to y-value" />
+      <item value="If there are multiple y-values for the specified x-value," />
+      <item value="CLOSEST" />
+      <item value="Returns the first Entry object found at the given x-value with binary * search. * If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
+      <item value="Returns the Entry object found at the given index (NOT xIndex) in the values array." />
       <item value="Returns the longest formatted label (in terms of characters), this axis * contains." />
       <item value="Inverted" />
       <item value="This is for normal (not horizontal) charts horizontal spacing." />
@@ -12,11 +20,9 @@
       <item value="ower" />
       <item value="间隔" />
       <item value="the total range of values this axis covers" />
-      <item value="determine whether to round up/down/closest * if there is no Entry matching the provided x-value" />
       <item value="If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
       <item value="Used to draw axis labels, calls {@link #getFormattedValue(float)} by default." />
       <item value="Returns the first Entry object found at the given x-value with binary * search." />
-      <item value="If there are multiple y-values for the specified x-value," />
       <item value="Enabled/disable granularity control on axis value intervals. If enabled, the axis * interval is not allowed to go below a certain granularity. Default: false" />
       <item value="sets the angle for drawing the X axis labels (in degrees)" />
       <item value="can only be approximated." />
@@ -45,17 +51,11 @@
       <item value="intersect" />
       <item value="intersects" />
       <item value="Set the dst integer Rect by rounding this rectangle's coordinates * to their nearest integer values." />
-      <item value="round" />
-      <item value="union" />
-      <item value="Reversed" />
-      <item value="awake" />
-      <item value="Unchecked cast" />
-      <item value="noon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1068" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="CHINESE" value="1079" />
+        <entry key="ENGLISH" value="1080" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
