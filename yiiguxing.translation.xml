@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the total range of values this axis covers" />
       <item value="determine whether to round up/down/closest * if there is no Entry matching the provided x-value" />
       <item value="If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
       <item value="Used to draw axis labels, calls {@link #getFormattedValue(float)} by default." />
@@ -50,12 +51,11 @@
       <item value="busy" />
       <item value="Convert a {@link WritableMap} to a {@link Bundle}. Note: Each array is converted to an {@link * ArrayList}." />
       <item value="Writable" />
-      <item value="Interface for a map that allows typed access to its members. Used to pass parameters from JS to * Java." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1057" />
-        <entry key="ENGLISH" value="1058" />
+        <entry key="CHINESE" value="1058" />
+        <entry key="ENGLISH" value="1059" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
