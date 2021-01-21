@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
+      <item value="sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not * fixed (if force == false) and can only be approximated." />
       <item value="ower" />
       <item value="间隔" />
       <item value="the total range of values this axis covers" />
@@ -13,7 +15,6 @@
       <item value="sets the angle for drawing the X axis labels (in degrees)" />
       <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart." />
       <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart or the screen" />
-      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
       <item value="can only be approximated." />
       <item value="the number of y-axis labels that should be displayed" />
       <item value="Returns the previous element in the iteration and moves the cursor position backwards." />
@@ -50,12 +51,11 @@
       <item value="params" />
       <item value="参数" />
       <item value="PARAM" />
-      <item value="busy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1060" />
-        <entry key="ENGLISH" value="1060" />
+        <entry key="CHINESE" value="1062" />
+        <entry key="ENGLISH" value="1063" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
