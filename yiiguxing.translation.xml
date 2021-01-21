@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ower" />
       <item value="间隔" />
       <item value="the total range of values this axis covers" />
       <item value="determine whether to round up/down/closest * if there is no Entry matching the provided x-value" />
@@ -50,11 +51,10 @@
       <item value="参数" />
       <item value="PARAM" />
       <item value="busy" />
-      <item value="Convert a {@link WritableMap} to a {@link Bundle}. Note: Each array is converted to an {@link * ArrayList}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1059" />
+        <entry key="CHINESE" value="1060" />
         <entry key="ENGLISH" value="1060" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
