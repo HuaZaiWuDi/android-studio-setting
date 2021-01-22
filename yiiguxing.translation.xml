@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets up the axis values. Computes the desired number of labels between the two given extremes." />
       <item value="Checks if this DataSet contains the specified Entry. Returns true if so, * false if not. NOTE: Performance is pretty bad on this one, do not * over-use in performance critical situations." />
       <item value="Returns all Entry objects found at the given x-value with binary * search. An empty array if no Entry object at that x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
       <item value="Set the visibility of this DataSet. If not visible, the DataSet will not * be drawn to the chart upon refreshing it." />
@@ -50,12 +51,11 @@
       <item value="Called by MultiTypeAdapter to display the data with its view holder. This method should * update the contents of the {@link ViewHolder#itemView} to reflect the given item." />
       <item value="自评" />
       <item value="inset" />
-      <item value="intersect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1081" />
-        <entry key="ENGLISH" value="1082" />
+        <entry key="CHINESE" value="1082" />
+        <entry key="ENGLISH" value="1083" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
