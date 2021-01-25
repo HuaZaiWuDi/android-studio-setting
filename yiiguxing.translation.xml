@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the total range of values this axis covers" />
       <item value="Granted" />
       <item value="Unit" />
       <item value="evaluate" />
@@ -34,7 +35,6 @@
       <item value="sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not * fixed (if force == false) and can only be approximated." />
       <item value="ower" />
       <item value="间隔" />
-      <item value="the total range of values this axis covers" />
       <item value="If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
       <item value="Used to draw axis labels, calls {@link #getFormattedValue(float)} by default." />
       <item value="Returns the first Entry object found at the given x-value with binary * search." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1093" />
-        <entry key="ENGLISH" value="1094" />
+        <entry key="CHINESE" value="1094" />
+        <entry key="ENGLISH" value="1095" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
