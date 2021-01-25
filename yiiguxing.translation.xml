@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Granted" />
       <item value="Unit" />
       <item value="evaluate" />
       <item value="评价" />
@@ -50,12 +51,11 @@
       <item value="呼吸低通气" />
       <item value="呼吸暂停" />
       <item value="Returns the absolute value of the given value [n]." />
-      <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified [selector] function." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1092" />
-        <entry key="ENGLISH" value="1093" />
+        <entry key="CHINESE" value="1093" />
+        <entry key="ENGLISH" value="1094" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
