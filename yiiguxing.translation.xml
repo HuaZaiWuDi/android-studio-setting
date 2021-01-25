@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The fractional part, if any, is rounded down towards zero." />
       <item value="the total range of values this axis covers" />
       <item value="Granted" />
       <item value="Unit" />
@@ -50,12 +51,11 @@
       <item value="上气道阻力综合征" />
       <item value="呼吸低通气" />
       <item value="呼吸暂停" />
-      <item value="Returns the absolute value of the given value [n]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1094" />
-        <entry key="ENGLISH" value="1095" />
+        <entry key="CHINESE" value="1095" />
+        <entry key="ENGLISH" value="1096" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
