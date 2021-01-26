@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inverted" />
       <item value="The fractional part, if any, is rounded down towards zero." />
       <item value="the total range of values this axis covers" />
       <item value="Granted" />
@@ -27,7 +28,6 @@
       <item value="Returns the first Entry object found at the given x-value with binary * search. * If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
       <item value="Returns the Entry object found at the given index (NOT xIndex) in the values array." />
       <item value="Returns the longest formatted label (in terms of characters), this axis * contains." />
-      <item value="Inverted" />
       <item value="This is for normal (not horizontal) charts horizontal spacing." />
       <item value="Avoid" />
       <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart or the screen" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1095" />
-        <entry key="ENGLISH" value="1096" />
+        <entry key="CHINESE" value="1096" />
+        <entry key="ENGLISH" value="1097" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
