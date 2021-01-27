@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a Single that emits a Boolean that indicates whether all of the items emitted by the source Publisher satisfy a condition." />
+      <item value="{@code zip} applies this function in strict sequence, so the first item emitted by the new Publisher will be the result of the function applied to the first item emitted by {@code o1} and the first item emitted by {@code o2}; the second item emitted by the new Publisher will be the result of the function applied to the second item emitted by {@code o1} and the second item emitted by {@code o2}; and so forth. &lt;p&gt; The resulting {@code Publisher&lt;R&gt;} returned from {@code zip} will invoke {@link Subscriber#onNext onNext} as many times as the number of {@code onNext} invocations of the source Publisher that emits the fewest items. &lt;p&gt;" />
+      <item value="the number of elements to prefetch from each source Publisher" />
+      <item value="delay errors from any of the source Publishers till the other terminates" />
+      <item value="a function that, when applied to an item emitted by each of the source Publishers, results in an item that will be emitted by the resulting Publisher" />
+      <item value="The operator subscribes to its sources in the order they are specified and completes eagerly if one of the sources is shorter than the rest while canceling the other sources. Therefore, it is possible those other sources will never be able to run to completion (and thus not calling {@code doOnComplete()}). This can also happen if the sources are exactly the same length; if source A completes and B has been consumed and is about to complete, the operator detects A won't be sending further values and it will cancel B immediately. For example: &lt;pre&gt;&lt;code&gt;zip(range(1, 5).doOnComplete(action1), range(6, 5).doOnComplete(action2), (a, b) -&amp;gt; a + b)&lt;/code&gt;&lt;/pre&gt; {@code action1} will be called but {@code action2} won't. &lt;br&gt;To work around this termination property, use {@link #doOnCancel(Action)} as well or use {@code using()} to do cleanup in case of completion or cancellation." />
+      <item value="{@code zip} applies this function in strict sequence, so the first item emitted by the new Publisher will be the result of the function applied to the first item emitted by {@code o1} and the first item emitted by {@code o2}; the second item emitted by the new Publisher will be the result of the function applied to the second item emitted by {@code o1} and the second item emitted by {@code o2}; and so forth. &lt;p&gt; The resulting {@code Publisher&lt;R&gt;} returned from {@code zip} will invoke {@link Subscriber#onNext onNext} as many times as the number of {@code onNext} invocations of the source Publisher that emits the fewest items." />
+      <item value="applies this function in strict sequence, so the first item emitted by the new Publisher * will be the result of the function applied to the first item emitted by {@code o1} and the first item * emitted by {@code o2}; the second item emitted by the new Publisher will be the result of the function * applied to the second item emitted by {@code o1} and the second item emitted by {@code o2}; and so forth. * &lt;p&gt; * The resulting {@code Publisher&lt;R&gt;} returned from {@code zip} will invoke {@link Subscriber#onNext onNext} * as many times as the number of {@code onNext} invocations of the source Publisher that emits the fewest * items." />
       <item value="&lt;br&gt;To work around this termination property, * use {@link #doOnCancel(Action)} as well or use {@code using()} to do cleanup in case of completion * or cancellation." />
       <item value="{@code zip} applies this function in strict sequence, so the first item emitted by the new Publisher * will be the result of the function applied to the first item emitted by {@code o1} and the first item * emitted by {@code o2}; the second item emitted by the new Publisher will be the result of the function * applied to the second item emitted by {@code o1} and the second item emitted by {@code o2}; and so forth. * &lt;p&gt; * The resulting {@code Publisher&lt;R&gt;} returned from {@code zip} will invoke {@link Subscriber#onNext onNext} * as many times as the number of {@code onNext} invocations of the source Publisher that emits the fewest * items." />
       <item value="Returns a Flowable that emits items that are the result of applying a specified function to pairs of * values, one each from the source Publisher and another specified Publisher." />
@@ -43,19 +51,11 @@
       <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart." />
       <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
       <item value="sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not * fixed (if force == false) and can only be approximated." />
-      <item value="ower" />
-      <item value="间隔" />
-      <item value="If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
-      <item value="Used to draw axis labels, calls {@link #getFormattedValue(float)} by default." />
-      <item value="Returns the first Entry object found at the given x-value with binary * search." />
-      <item value="Enabled/disable granularity control on axis value intervals. If enabled, the axis * interval is not allowed to go below a certain granularity. Default: false" />
-      <item value="sets the angle for drawing the X axis labels (in degrees)" />
-      <item value="can only be approximated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1109" />
-        <entry key="ENGLISH" value="1110" />
+        <entry key="CHINESE" value="1117" />
+        <entry key="ENGLISH" value="1118" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
