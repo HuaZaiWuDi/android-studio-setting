@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolve" />
+      <item value="scope" />
+      <item value="variant Data" />
+      <item value="variant" />
+      <item value="depends" />
+      <item value="depends On" />
+      <item value="Access Controller" />
+      <item value="is Assignable From" />
+      <item value="pending" />
       <item value="Processor" />
       <item value="graph" />
       <item value="Interface definition for a callback to be invoked when a hardware key event hasn't * been handled by the view hierarchy." />
@@ -42,20 +51,11 @@
       <item value="Compares value, xIndex and data of the entries. Returns true if entries * are equal in those points, false if not. Does not check by hash-code like * it's done by the &quot;equals&quot; method." />
       <item value="Sets up the axis values. Computes the desired number of labels between the two given extremes." />
       <item value="Checks if this DataSet contains the specified Entry. Returns true if so, * false if not. NOTE: Performance is pretty bad on this one, do not * over-use in performance critical situations." />
-      <item value="Returns all Entry objects found at the given x-value with binary * search. An empty array if no Entry object at that x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
-      <item value="Set the visibility of this DataSet. If not visible, the DataSet will not * be drawn to the chart upon refreshing it." />
-      <item value="Calculates the min and max y-values from the Entry closest to the given fromX to the Entry closest to the given toX value. * This is only needed for the autoScaleMinMax feature." />
-      <item value="determine whether to round up/down/closest * if there is no Entry matching the provided x-value" />
-      <item value="Search by closest to y-value" />
-      <item value="If there are multiple y-values for the specified x-value," />
-      <item value="CLOSEST" />
-      <item value="Returns the first Entry object found at the given x-value with binary * search. * If the no Entry at the specified x-value is found, this method * returns the Entry at the closest x-value. * INFORMATION: This method does calculations at runtime. Do * not over-use in performance critical situations." />
-      <item value="Returns the Entry object found at the given index (NOT xIndex) in the values array." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1125" />
-        <entry key="ENGLISH" value="1126" />
+        <entry key="CHINESE" value="1137" />
+        <entry key="ENGLISH" value="1138" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
