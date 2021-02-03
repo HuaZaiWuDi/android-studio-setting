@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sorted" />
       <item value="第二" />
       <item value="Service Provider Interface" />
       <item value="resolve" />
@@ -50,12 +51,11 @@
       <item value="Electric" />
       <item value="axis label entries only used for centered labels" />
       <item value="the actual array of entries" />
-      <item value="Compares value, xIndex and data of the entries. Returns true if entries * are equal in those points, false if not. Does not check by hash-code like * it's done by the &quot;equals&quot; method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1138" />
-        <entry key="ENGLISH" value="1139" />
+        <entry key="CHINESE" value="1139" />
+        <entry key="ENGLISH" value="1140" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
