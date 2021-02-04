@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MIRROR" />
+      <item value="CLAMP" />
       <item value="sorted" />
       <item value="第二" />
       <item value="Service Provider Interface" />
@@ -49,13 +51,11 @@
       <item value="only fill x values" />
       <item value="draws the x-labels on the specified y-position" />
       <item value="Electric" />
-      <item value="axis label entries only used for centered labels" />
-      <item value="the actual array of entries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1139" />
-        <entry key="ENGLISH" value="1140" />
+        <entry key="CHINESE" value="1141" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
