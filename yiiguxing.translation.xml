@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decorate" />
       <item value="if this list contains a null element and the * specified collection does not permit null elements * (&lt;a href=&quot;Collection.html#optional-restrictions&quot;&gt;optional&lt;/a&gt;), * or if the specified collection is null" />
       <item value="MIRROR" />
       <item value="CLAMP" />
@@ -50,12 +51,11 @@
       <item value="spacing" />
       <item value="空隙" />
       <item value="only fill x values" />
-      <item value="draws the x-labels on the specified y-position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1142" />
-        <entry key="ENGLISH" value="1143" />
+        <entry key="CHINESE" value="1143" />
+        <entry key="ENGLISH" value="1144" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
