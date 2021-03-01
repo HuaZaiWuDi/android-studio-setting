@@ -1,12 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remove a specific decorator instance. Same rules as {@linkplain List#remove(Object)}" />
+      <item value="Note, passing true here will &lt;b&gt;not&lt;/b&gt; override minimum and maximum dates, if set. * This will only re-enable disabled dates." />
+      <item value="Set days to be in a disabled state, or re-enabled.&lt;/p&gt;" />
+      <item value="Set decoration options onto a facade to be applied to all relevant days" />
+      <item value="Determine if a specific day should be decorated" />
+      <item value="Decorate" />
       <item value="at Time" />
       <item value="a Calendar set to a day to focus the calendar on. Null will do nothing" />
       <item value="Set the calendar to a specific month or week based on a date." />
       <item value="a Date set to a day to select. Null to clear selection" />
       <item value="Add several day decorators" />
-      <item value="Decorate" />
       <item value="附近" />
       <item value="if this list contains a null element and the * specified collection does not permit null elements * (&lt;a href=&quot;Collection.html#optional-restrictions&quot;&gt;optional&lt;/a&gt;), * or if the specified collection is null" />
       <item value="MIRROR" />
@@ -46,16 +51,11 @@
       <item value="if true, errors from the current Flowable or the other Publisher is delayed until both terminate" />
       <item value="a function that combines the pairs of items from the two Publishers to generate the items to * be emitted by the resulting Publisher" />
       <item value="MILLISECOND&lt;/code&gt; is 250." />
-      <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * millisecond within the second." />
-      <item value="Inverted" />
-      <item value="The fractional part, if any, is rounded down towards zero." />
-      <item value="the total range of values this axis covers" />
-      <item value="Granted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1150" />
-        <entry key="ENGLISH" value="1151" />
+        <entry key="CHINESE" value="1157" />
+        <entry key="ENGLISH" value="1158" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
