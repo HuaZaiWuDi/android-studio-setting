@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set a minimum interval for the axis when zooming in. The axis is not allowed to go below * that limit. This can be used to avoid label duplicating when zooming in." />
       <item value="epoch Second" />
       <item value="Remove a specific decorator instance. Same rules as {@linkplain List#remove(Object)}" />
       <item value="Note, passing true here will &lt;b&gt;not&lt;/b&gt; override minimum and maximum dates, if set. * This will only re-enable disabled dates." />
@@ -50,12 +51,11 @@
       <item value="The operator subscribes to its sources in the order they are specified and completes eagerly if * one of the sources is shorter than the rest while canceling the other sources. Therefore, it * is possible those other sources will never be able to run to completion (and thus not calling * {@code doOnComplete()}). This can also happen if the sources are exactly the same length; if * source A completes and B has been consumed and is about to complete, the operator detects A won't * be sending further values and it will cancel B immediately. For example: * &lt;pre&gt;&lt;code&gt;range(1, 5).doOnComplete(action1).zipWith(range(6, 5).doOnComplete(action2), (a, b) -&amp;gt; a + b)&lt;/code&gt;&lt;/pre&gt; * {@code action1} will be called but {@code action2} won't. * &lt;br&gt;To work around this termination property, * use {@link #doOnCancel(Action)} as well or use {@code using()} to do cleanup in case of completion * or cancellation." />
       <item value="the capacity hint for the buffer in the inner windows" />
       <item value="if true, errors from the current Flowable or the other Publisher is delayed until both terminate" />
-      <item value="a function that combines the pairs of items from the two Publishers to generate the items to * be emitted by the resulting Publisher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1158" />
-        <entry key="ENGLISH" value="1159" />
+        <entry key="CHINESE" value="1159" />
+        <entry key="ENGLISH" value="1160" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
