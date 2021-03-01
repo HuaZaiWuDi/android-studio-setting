@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="附近" />
+      <item value="at Time" />
+      <item value="a Calendar set to a day to focus the calendar on. Null will do nothing" />
+      <item value="Set the calendar to a specific month or week based on a date." />
+      <item value="a Date set to a day to select. Null to clear selection" />
+      <item value="Add several day decorators" />
       <item value="Decorate" />
+      <item value="附近" />
       <item value="if this list contains a null element and the * specified collection does not permit null elements * (&lt;a href=&quot;Collection.html#optional-restrictions&quot;&gt;optional&lt;/a&gt;), * or if the specified collection is null" />
       <item value="MIRROR" />
       <item value="CLAMP" />
@@ -46,16 +51,11 @@
       <item value="The fractional part, if any, is rounded down towards zero." />
       <item value="the total range of values this axis covers" />
       <item value="Granted" />
-      <item value="Unit" />
-      <item value="evaluate" />
-      <item value="评价" />
-      <item value="spacing" />
-      <item value="空隙" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1144" />
-        <entry key="ENGLISH" value="1145" />
+        <entry key="CHINESE" value="1150" />
+        <entry key="ENGLISH" value="1151" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
