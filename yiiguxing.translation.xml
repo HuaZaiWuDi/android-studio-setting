@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="epoch Second" />
       <item value="Remove a specific decorator instance. Same rules as {@linkplain List#remove(Object)}" />
       <item value="Note, passing true here will &lt;b&gt;not&lt;/b&gt; override minimum and maximum dates, if set. * This will only re-enable disabled dates." />
       <item value="Set days to be in a disabled state, or re-enabled.&lt;/p&gt;" />
@@ -50,12 +51,11 @@
       <item value="the capacity hint for the buffer in the inner windows" />
       <item value="if true, errors from the current Flowable or the other Publisher is delayed until both terminate" />
       <item value="a function that combines the pairs of items from the two Publishers to generate the items to * be emitted by the resulting Publisher" />
-      <item value="MILLISECOND&lt;/code&gt; is 250." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1157" />
-        <entry key="ENGLISH" value="1158" />
+        <entry key="CHINESE" value="1158" />
+        <entry key="ENGLISH" value="1159" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
