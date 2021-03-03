@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Active" />
+      <item value="Could not resolve" />
+      <item value="Unable to resolve dependency for" />
       <item value="时区" />
       <item value="Annotation is stored in binary output and visible for reflection (default retention)" />
       <item value="Annotation is stored in binary output, but invisible for reflection" />
@@ -48,14 +51,11 @@
       <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart or the screen" />
       <item value="illumination" />
       <item value="Dual" />
-      <item value="statistical" />
-      <item value="Returns a Single that emits a Boolean that indicates whether all of the items emitted by the source Publisher satisfy a condition." />
-      <item value="{@code zip} applies this function in strict sequence, so the first item emitted by the new Publisher will be the result of the function applied to the first item emitted by {@code o1} and the first item emitted by {@code o2}; the second item emitted by the new Publisher will be the result of the function applied to the second item emitted by {@code o1} and the second item emitted by {@code o2}; and so forth. &lt;p&gt; The resulting {@code Publisher&lt;R&gt;} returned from {@code zip} will invoke {@link Subscriber#onNext onNext} as many times as the number of {@code onNext} invocations of the source Publisher that emits the fewest items. &lt;p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1171" />
-        <entry key="ENGLISH" value="1172" />
+        <entry key="CHINESE" value="1174" />
+        <entry key="ENGLISH" value="1175" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
