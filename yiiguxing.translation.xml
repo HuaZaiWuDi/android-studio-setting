@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入网" />
+      <item value="Access" />
       <item value="Active" />
       <item value="Could not resolve" />
       <item value="Unable to resolve dependency for" />
@@ -49,13 +51,11 @@
       <item value="graph" />
       <item value="Interface definition for a callback to be invoked when a hardware key event hasn't * been handled by the view hierarchy." />
       <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart or the screen" />
-      <item value="illumination" />
-      <item value="Dual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1174" />
-        <entry key="ENGLISH" value="1175" />
+        <entry key="CHINESE" value="1176" />
+        <entry key="ENGLISH" value="1177" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
