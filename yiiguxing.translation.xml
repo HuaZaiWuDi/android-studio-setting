@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="axis label entries only used for centered labels" />
+      <item value="the actual array of entries" />
+      <item value="Re-subscribes to the current Single if and when the Publisher returned by the handler * function signals a value." />
+      <item value="take While" />
+      <item value="Atomically increments by one the current value." />
+      <item value="The following example demonstrates how to retry an asynchronous source with a delay:" />
+      <item value="灯" />
+      <item value="bright" />
+      <item value="Traffic" />
+      <item value="apps should use the more versatile {@link #requestNetwork}, * {@link #registerNetworkCallback} or {@link #registerDefaultNetworkCallback} * functions instead for faster and more detailed updates about the network * changes they care about." />
       <item value="入网" />
       <item value="Access" />
       <item value="Active" />
@@ -41,21 +51,11 @@
       <item value="resolve" />
       <item value="scope" />
       <item value="variant Data" />
-      <item value="variant" />
-      <item value="depends" />
-      <item value="depends On" />
-      <item value="Access Controller" />
-      <item value="is Assignable From" />
-      <item value="pending" />
-      <item value="Processor" />
-      <item value="graph" />
-      <item value="Interface definition for a callback to be invoked when a hardware key event hasn't * been handled by the view hierarchy." />
-      <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart or the screen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1176" />
-        <entry key="ENGLISH" value="1177" />
+        <entry key="CHINESE" value="1187" />
+        <entry key="ENGLISH" value="1188" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
