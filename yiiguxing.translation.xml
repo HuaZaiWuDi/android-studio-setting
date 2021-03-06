@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="等待" />
+      <item value="ACCESS CONFIG Guide Page" />
+      <item value="ACCESS" />
       <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart." />
       <item value="axis label entries only used for centered labels" />
       <item value="the actual array of entries" />
@@ -48,14 +51,11 @@
       <item value="CLAMP" />
       <item value="sorted" />
       <item value="第二" />
-      <item value="Service Provider Interface" />
-      <item value="resolve" />
-      <item value="scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1188" />
-        <entry key="ENGLISH" value="1189" />
+        <entry key="CHINESE" value="1190" />
+        <entry key="ENGLISH" value="1191" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
