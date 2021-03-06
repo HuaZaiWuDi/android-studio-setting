@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pop the last fragment transition from the manager's fragment * back stack." />
       <item value="等待" />
       <item value="ACCESS CONFIG Guide Page" />
       <item value="ACCESS" />
@@ -50,12 +51,11 @@
       <item value="MIRROR" />
       <item value="CLAMP" />
       <item value="sorted" />
-      <item value="第二" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1190" />
-        <entry key="ENGLISH" value="1191" />
+        <entry key="CHINESE" value="1191" />
+        <entry key="ENGLISH" value="1192" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
