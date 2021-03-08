@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a [LiveData] mapped from the input `this` `LiveData` by applying * [transform] to each value set on `this`." />
       <item value="扫描器" />
       <item value="Doubly-linked list implementation of the {@code List} and {@code Deque} * interfaces. Implements all optional list operations, and permits all * elements (including {@code null})." />
       <item value="Some privileges permanently disabled, may need to set up in the execute." />
@@ -50,12 +51,11 @@
       <item value="Set decoration options onto a facade to be applied to all relevant days" />
       <item value="Determine if a specific day should be decorated" />
       <item value="Decorate" />
-      <item value="at Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1200" />
-        <entry key="ENGLISH" value="1201" />
+        <entry key="CHINESE" value="1201" />
+        <entry key="ENGLISH" value="1202" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
