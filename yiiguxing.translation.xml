@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Some privileges permanently disabled, may need to set up in the execute." />
       <item value="The detected signal level in dBm, also known as the RSSI." />
       <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified [selector] function." />
       <item value="Register a BroadcastReceiver to listen to * {@code SCAN_RESULTS_AVAILABLE_ACTION}.&lt;/li&gt; * &lt;li&gt;When a broadcast is received, call: * {@code ((WifiManager) getSystemService(WIFI_SERVICE)).getScanResults()}&lt;/li&gt;" />
@@ -50,12 +51,11 @@
       <item value="at Time" />
       <item value="a Calendar set to a day to focus the calendar on. Null will do nothing" />
       <item value="Set the calendar to a specific month or week based on a date." />
-      <item value="a Date set to a day to select. Null to clear selection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1197" />
-        <entry key="ENGLISH" value="1198" />
+        <entry key="CHINESE" value="1198" />
+        <entry key="ENGLISH" value="1199" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
