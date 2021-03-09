@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns `true` if no elements match the given [predicate]." />
       <item value="MulticastLock under-locked com.github.druk.dnssd.DNSSD" />
       <item value="This declaration can only be called on a reference to a lateinit property" />
       <item value="the Consumer that gets called when an Observer subscribes to the current {@code Observable}" />
@@ -50,12 +51,11 @@
       <item value="Set a minimum interval for the axis when zooming in. The axis is not allowed to go below * that limit. This can be used to avoid label duplicating when zooming in." />
       <item value="epoch Second" />
       <item value="Remove a specific decorator instance. Same rules as {@linkplain List#remove(Object)}" />
-      <item value="Note, passing true here will &lt;b&gt;not&lt;/b&gt; override minimum and maximum dates, if set. * This will only re-enable disabled dates." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1204" />
-        <entry key="ENGLISH" value="1205" />
+        <entry key="CHINESE" value="1205" />
+        <entry key="ENGLISH" value="1206" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
