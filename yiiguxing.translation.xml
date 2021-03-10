@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reverse" />
       <item value="voice" />
       <item value="声音" />
       <item value="Returns the index of the last character in the char sequence or -1 if it is empty." />
@@ -50,12 +51,11 @@
       <item value="Property" />
       <item value="Field, including property's backing field" />
       <item value="annotation" />
-      <item value="True if the child does not want the parent to * intercept touch events." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1212" />
-        <entry key="ENGLISH" value="1212" />
+        <entry key="ENGLISH" value="1213" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
