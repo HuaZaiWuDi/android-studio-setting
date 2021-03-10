@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Templates" />
+      <item value="Template" />
       <item value="非法" />
       <item value="fetch Bind Key" />
       <item value="Absent" />
@@ -49,13 +51,11 @@
       <item value="Active" />
       <item value="Could not resolve" />
       <item value="Unable to resolve dependency for" />
-      <item value="时区" />
-      <item value="Annotation is stored in binary output and visible for reflection (default retention)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1217" />
-        <entry key="ENGLISH" value="1218" />
+        <entry key="CHINESE" value="1219" />
+        <entry key="ENGLISH" value="1220" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
