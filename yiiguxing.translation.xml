@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="非法" />
+      <item value="fetch Bind Key" />
+      <item value="Absent" />
       <item value="If the specified key is not already associated with a value (or is mapped * to {@code null}) associates it with the given value and returns * {@code null}, else returns the current value." />
       <item value="EXTRA WIFI NAME" />
       <item value="reverse" />
@@ -48,14 +51,11 @@
       <item value="Unable to resolve dependency for" />
       <item value="时区" />
       <item value="Annotation is stored in binary output and visible for reflection (default retention)" />
-      <item value="Annotation is stored in binary output, but invisible for reflection" />
-      <item value="Annotation isn't stored in binary output" />
-      <item value="Property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1214" />
-        <entry key="ENGLISH" value="1215" />
+        <entry key="CHINESE" value="1217" />
+        <entry key="ENGLISH" value="1218" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
