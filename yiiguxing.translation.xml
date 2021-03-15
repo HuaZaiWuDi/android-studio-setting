@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inflate" />
+      <item value="Infalte" />
       <item value="安防" />
       <item value="shortcut" />
       <item value="Strong" />
@@ -49,19 +51,18 @@
       <item value="The following example demonstrates how to retry an asynchronous source with a delay:" />
       <item value="灯" />
       <item value="bright" />
-      <item value="Traffic" />
-      <item value="apps should use the more versatile {@link #requestNetwork}, * {@link #registerNetworkCallback} or {@link #registerDefaultNetworkCallback} * functions instead for faster and more detailed updates about the network * changes they care about." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1224" />
-        <entry key="ENGLISH" value="1225" />
+        <entry key="CHINESE" value="1225" />
+        <entry key="ENGLISH" value="1226" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
