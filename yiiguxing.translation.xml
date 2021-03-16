@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Helper function to request a network with a particular legacy type." />
+      <item value="apps should use the more versatile {@link #requestNetwork}, * {@link #registerNetworkCallback} or {@link #registerDefaultNetworkCallback} * functions instead for faster and more detailed updates about the network * changes they care about." />
+      <item value="A change in network connectivity has occurred. A default connection has either * been established or lost. The NetworkInfo for the affected network is * sent as an extra; it should be consulted to see what kind of * connectivity event occurred." />
       <item value="未连接设备热点" />
       <item value="poll" />
       <item value="轮询" />
@@ -48,14 +51,11 @@
       <item value="Register a BroadcastReceiver to listen to * {@code SCAN_RESULTS_AVAILABLE_ACTION}.&lt;/li&gt; * &lt;li&gt;When a broadcast is received, call: * {@code ((WifiManager) getSystemService(WIFI_SERVICE)).getScanResults()}&lt;/li&gt;" />
       <item value="Request a scan for access points. Returns immediately. The availability * of the results is made known later by means of an asynchronous event sent * on completion of the scan." />
       <item value="The ability for apps to trigger scan requests will be removed in a future * release." />
-      <item value="if the operation succeeded, i.e., the scan was initiated." />
-      <item value="Pop the last fragment transition from the manager's fragment * back stack." />
-      <item value="等待" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1232" />
-        <entry key="ENGLISH" value="1233" />
+        <entry key="CHINESE" value="1235" />
+        <entry key="ENGLISH" value="1236" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
