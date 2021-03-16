@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未连接设备热点" />
       <item value="poll" />
       <item value="轮询" />
       <item value="需要手动切换wifi" />
@@ -50,12 +51,11 @@
       <item value="if the operation succeeded, i.e., the scan was initiated." />
       <item value="Pop the last fragment transition from the manager's fragment * back stack." />
       <item value="等待" />
-      <item value="ACCESS CONFIG Guide Page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1232" />
-        <entry key="ENGLISH" value="1232" />
+        <entry key="ENGLISH" value="1233" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
