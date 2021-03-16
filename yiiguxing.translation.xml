@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="poll" />
+      <item value="轮询" />
+      <item value="需要手动切换wifi" />
+      <item value="需要手动切xuyao " />
+      <item value="需要手动切换" />
       <item value="授予" />
       <item value="Available" />
       <item value="Returns the position of the ViewHolder in terms of the latest layout pass." />
@@ -46,15 +51,10 @@
       <item value="Pop the last fragment transition from the manager's fragment * back stack." />
       <item value="等待" />
       <item value="ACCESS CONFIG Guide Page" />
-      <item value="ACCESS" />
-      <item value="Centers the axis labels instead of drawing them at their original position. * This is useful especially for grouped BarChart." />
-      <item value="axis label entries only used for centered labels" />
-      <item value="the actual array of entries" />
-      <item value="Re-subscribes to the current Single if and when the Publisher returned by the handler * function signals a value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1231" />
+        <entry key="CHINESE" value="1232" />
         <entry key="ENGLISH" value="1232" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
