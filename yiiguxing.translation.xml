@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2 exceptions occurred." />
       <item value="target" />
       <item value="目标" />
       <item value="语音" />
@@ -50,12 +51,11 @@
       <item value="Modifies the source {@code ObservableSource} so that it invokes the given action when it is subscribed from * its subscribers. Each subscription will result in an invocation of the given action except when the * source {@code ObservableSource} is reference counted, in which case the source {@code ObservableSource} will invoke * the given action for the first subscription." />
       <item value="Returns a [LiveData] mapped from the input `this` `LiveData` by applying * [transform] to each value set on `this`." />
       <item value="扫描器" />
-      <item value="Doubly-linked list implementation of the {@code List} and {@code Deque} * interfaces. Implements all optional list operations, and permits all * elements (including {@code null})." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1237" />
-        <entry key="ENGLISH" value="1237" />
+        <entry key="ENGLISH" value="1238" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
