@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identity" />
       <item value="Helper function to request a network with a particular legacy type." />
       <item value="apps should use the more versatile {@link #requestNetwork}, * {@link #registerNetworkCallback} or {@link #registerDefaultNetworkCallback} * functions instead for faster and more detailed updates about the network * changes they care about." />
       <item value="A change in network connectivity has occurred. A default connection has either * been established or lost. The NetworkInfo for the affected network is * sent as an extra; it should be consulted to see what kind of * connectivity event occurred." />
@@ -50,11 +51,10 @@
       <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified [selector] function." />
       <item value="Register a BroadcastReceiver to listen to * {@code SCAN_RESULTS_AVAILABLE_ACTION}.&lt;/li&gt; * &lt;li&gt;When a broadcast is received, call: * {@code ((WifiManager) getSystemService(WIFI_SERVICE)).getScanResults()}&lt;/li&gt;" />
       <item value="Request a scan for access points. Returns immediately. The availability * of the results is made known later by means of an asynchronous event sent * on completion of the scan." />
-      <item value="The ability for apps to trigger scan requests will be removed in a future * release." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1235" />
+        <entry key="CHINESE" value="1236" />
         <entry key="ENGLISH" value="1236" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
