@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="门锁" />
+      <item value="说明" />
       <item value="Identity" />
       <item value="Helper function to request a network with a particular legacy type." />
       <item value="apps should use the more versatile {@link #requestNetwork}, * {@link #registerNetworkCallback} or {@link #registerDefaultNetworkCallback} * functions instead for faster and more detailed updates about the network * changes they care about." />
@@ -49,13 +51,11 @@
       <item value="Some privileges permanently disabled, may need to set up in the execute." />
       <item value="The detected signal level in dBm, also known as the RSSI." />
       <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified [selector] function." />
-      <item value="Register a BroadcastReceiver to listen to * {@code SCAN_RESULTS_AVAILABLE_ACTION}.&lt;/li&gt; * &lt;li&gt;When a broadcast is received, call: * {@code ((WifiManager) getSystemService(WIFI_SERVICE)).getScanResults()}&lt;/li&gt;" />
-      <item value="Request a scan for access points. Returns immediately. The availability * of the results is made known later by means of an asynchronous event sent * on completion of the scan." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1236" />
-        <entry key="ENGLISH" value="1236" />
+        <entry key="ENGLISH" value="1237" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
