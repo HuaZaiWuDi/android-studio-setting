@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="target" />
+      <item value="目标" />
       <item value="语音" />
       <item value="门锁" />
       <item value="说明" />
@@ -49,12 +51,10 @@
       <item value="Returns a [LiveData] mapped from the input `this` `LiveData` by applying * [transform] to each value set on `this`." />
       <item value="扫描器" />
       <item value="Doubly-linked list implementation of the {@code List} and {@code Deque} * interfaces. Implements all optional list operations, and permits all * elements (including {@code null})." />
-      <item value="Some privileges permanently disabled, may need to set up in the execute." />
-      <item value="The detected signal level in dBm, also known as the RSSI." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1236" />
+        <entry key="CHINESE" value="1237" />
         <entry key="ENGLISH" value="1237" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
