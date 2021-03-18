@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Marquee" />
+      <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled." />
+      <item value="Boolean that controls whether a view can take focus while in touch mode. If this is true for a view, that view can gain focus when clicked on, and can keep focus if another view is clicked on that doesn't have this attribute set to true." />
       <item value="Calls the shared consumer with the success value sent via onSuccess for each * SingleObserver that subscribes to the current Single." />
       <item value="GRANTED" />
       <item value="2 exceptions occurred." />
@@ -24,7 +27,6 @@
       <item value="Returns the position of the ViewHolder in terms of the latest layout pass." />
       <item value="Returns the Adapter position of the item represented by this ViewHolder." />
       <item value="This method is deprecated because its meaning is ambiguous due to the async * handling of adapter updates. You should use {@link #getLayoutPosition()} or * {@link #getAdapterPosition()} depending on your use case." />
-      <item value="Marquee" />
       <item value="inflate" />
       <item value="Infalte" />
       <item value="安防" />
@@ -49,13 +51,11 @@
       <item value="Returns `true` if no elements match the given [predicate]." />
       <item value="MulticastLock under-locked com.github.druk.dnssd.DNSSD" />
       <item value="This declaration can only be called on a reference to a lateinit property" />
-      <item value="the Consumer that gets called when an Observer subscribes to the current {@code Observable}" />
-      <item value="Modifies the source {@code ObservableSource} so that it invokes the given action when it is subscribed from * its subscribers. Each subscription will result in an invocation of the given action except when the * source {@code ObservableSource} is reference counted, in which case the source {@code ObservableSource} will invoke * the given action for the first subscription." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1239" />
-        <entry key="ENGLISH" value="1240" />
+        <entry key="CHINESE" value="1242" />
+        <entry key="ENGLISH" value="1243" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
