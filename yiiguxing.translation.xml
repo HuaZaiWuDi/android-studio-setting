@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calls the shared consumer with the success value sent via onSuccess for each * SingleObserver that subscribes to the current Single." />
+      <item value="GRANTED" />
       <item value="2 exceptions occurred." />
       <item value="target" />
       <item value="目标" />
@@ -49,13 +51,11 @@
       <item value="This declaration can only be called on a reference to a lateinit property" />
       <item value="the Consumer that gets called when an Observer subscribes to the current {@code Observable}" />
       <item value="Modifies the source {@code ObservableSource} so that it invokes the given action when it is subscribed from * its subscribers. Each subscription will result in an invocation of the given action except when the * source {@code ObservableSource} is reference counted, in which case the source {@code ObservableSource} will invoke * the given action for the first subscription." />
-      <item value="Returns a [LiveData] mapped from the input `this` `LiveData` by applying * [transform] to each value set on `this`." />
-      <item value="扫描器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1237" />
-        <entry key="ENGLISH" value="1238" />
+        <entry key="CHINESE" value="1239" />
+        <entry key="ENGLISH" value="1240" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
