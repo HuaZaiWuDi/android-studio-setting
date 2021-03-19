@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="识别" />
       <item value="Called when an attached input method calls * {@link InputConnection#performEditorAction(int) * InputConnection.performEditorAction()} * for this text view. The default implementation will call your action * listener supplied to {@link #setOnEditorActionListener}, or perform * a standard operation for {@link EditorInfo#IME_ACTION_NEXT * EditorInfo.IME_ACTION_NEXT}, {@link EditorInfo#IME_ACTION_PREVIOUS * EditorInfo.IME_ACTION_PREVIOUS}, or {@link EditorInfo#IME_ACTION_DONE * EditorInfo.IME_ACTION_DONE}." />
       <item value="Add up fetch logic, almost like load more, but simpler." />
       <item value="Marquee" />
@@ -50,12 +51,11 @@
       <item value="The elements in the resulting list are in the same order as they were in the source collection." />
       <item value="reduce" />
       <item value="Returns `true` if at least one element matches the given [predicate]." />
-      <item value="Returns `true` if no elements match the given [predicate]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1244" />
-        <entry key="ENGLISH" value="1245" />
+        <entry key="CHINESE" value="1245" />
+        <entry key="ENGLISH" value="1246" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
