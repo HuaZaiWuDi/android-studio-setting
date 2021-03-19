@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when an attached input method calls * {@link InputConnection#performEditorAction(int) * InputConnection.performEditorAction()} * for this text view. The default implementation will call your action * listener supplied to {@link #setOnEditorActionListener}, or perform * a standard operation for {@link EditorInfo#IME_ACTION_NEXT * EditorInfo.IME_ACTION_NEXT}, {@link EditorInfo#IME_ACTION_PREVIOUS * EditorInfo.IME_ACTION_PREVIOUS}, or {@link EditorInfo#IME_ACTION_DONE * EditorInfo.IME_ACTION_DONE}." />
+      <item value="Add up fetch logic, almost like load more, but simpler." />
       <item value="Marquee" />
       <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled." />
       <item value="Boolean that controls whether a view can take focus while in touch mode. If this is true for a view, that view can gain focus when clicked on, and can keep focus if another view is clicked on that doesn't have this attribute set to true." />
@@ -49,13 +51,11 @@
       <item value="reduce" />
       <item value="Returns `true` if at least one element matches the given [predicate]." />
       <item value="Returns `true` if no elements match the given [predicate]." />
-      <item value="MulticastLock under-locked com.github.druk.dnssd.DNSSD" />
-      <item value="This declaration can only be called on a reference to a lateinit property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1242" />
-        <entry key="ENGLISH" value="1243" />
+        <entry key="CHINESE" value="1244" />
+        <entry key="ENGLISH" value="1245" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
