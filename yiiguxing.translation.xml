@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The {@link NetworkCallback} to be utilized for this request. Note * the callback must not be shared - it uniquely specifies this request. * The callback is invoked on the default internal Handler." />
+      <item value="This {@link NetworkRequest} will live until released via * {@link #unregisterNetworkCallback(NetworkCallback)} or the calling application exits. A * version of the method which takes a timeout is * {@link #requestNetwork(NetworkRequest, NetworkCallback, int)}. * Status of the request can be followed by listening to the various * callbacks described in {@link NetworkCallback}. The {@link Network} * can be used to direct traffic to the network. * &lt;p&gt;It is presently unsupported to request a network with mutable * {@link NetworkCapabilities} such as * {@link NetworkCapabilities#NET_CAPABILITY_VALIDATED} or * {@link NetworkCapabilities#NET_CAPABILITY_CAPTIVE_PORTAL} * as these {@code NetworkCapabilities} represent states that a particular * network may never attain, and whether a network will attain these states * is unknown prior to bringing up the network so the framework does not * know how to go about satisfing a request with these capabilities." />
+      <item value="* &lt;p&gt;This method requires the caller to hold either the * {@link android.Manifest.permission#CHANGE_NETWORK_STATE} permission * or the ability to modify system settings as determined by * {@link android.provider.Settings.System#canWrite}.&lt;/p&gt;" />
       <item value="Need to switch wifi by user" />
       <item value="Indicates this network uses a Cellular transport." />
       <item value="Sets the value. If there are active observers, the value will be dispatched to them." />
@@ -48,14 +51,11 @@
       <item value="非法" />
       <item value="fetch Bind Key" />
       <item value="Absent" />
-      <item value="If the specified key is not already associated with a value (or is mapped * to {@code null}) associates it with the given value and returns * {@code null}, else returns the current value." />
-      <item value="EXTRA WIFI NAME" />
-      <item value="reverse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1253" />
-        <entry key="ENGLISH" value="1254" />
+        <entry key="CHINESE" value="1256" />
+        <entry key="ENGLISH" value="1257" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
