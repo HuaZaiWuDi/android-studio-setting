@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the value. If there are active observers, the value will be dispatched to them." />
+      <item value="This method must be called from the main thread. If you need set a value from a background * thread, you can use {@link #postValue(Object)}" />
+      <item value="If you called this method multiple times before a main thread executed a posted task, only * the last value would be dispatched." />
+      <item value="The value &quot;b&quot; would be set at first and later the main thread would override it with * the value &quot;a&quot;." />
+      <item value="Posts a task to a main thread to set the given value. So if you have a following code * executed in the main thread:" />
       <item value="识别" />
       <item value="Called when an attached input method calls * {@link InputConnection#performEditorAction(int) * InputConnection.performEditorAction()} * for this text view. The default implementation will call your action * listener supplied to {@link #setOnEditorActionListener}, or perform * a standard operation for {@link EditorInfo#IME_ACTION_NEXT * EditorInfo.IME_ACTION_NEXT}, {@link EditorInfo#IME_ACTION_PREVIOUS * EditorInfo.IME_ACTION_PREVIOUS}, or {@link EditorInfo#IME_ACTION_DONE * EditorInfo.IME_ACTION_DONE}." />
       <item value="Add up fetch logic, almost like load more, but simpler." />
@@ -46,16 +51,11 @@
       <item value="reverse" />
       <item value="voice" />
       <item value="声音" />
-      <item value="Returns the index of the last character in the char sequence or -1 if it is empty." />
-      <item value="Returns a list containing only elements from the given collection * having distinct keys returned by the given [selector] function." />
-      <item value="The elements in the resulting list are in the same order as they were in the source collection." />
-      <item value="reduce" />
-      <item value="Returns `true` if at least one element matches the given [predicate]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1245" />
-        <entry key="ENGLISH" value="1246" />
+        <entry key="CHINESE" value="1251" />
+        <entry key="ENGLISH" value="1252" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
