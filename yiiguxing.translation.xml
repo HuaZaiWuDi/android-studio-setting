@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The SDK version of the software currently running on this hardware * device. This value never changes while a device is booted, but it may * increase when the hardware manufacturer provides an OTA update." />
       <item value="Pop the last fragment transition from the manager's fragment pop stack." />
       <item value="SINGLETASK" />
       <item value="SINGLETOP" />
@@ -50,12 +51,11 @@
       <item value="轮询" />
       <item value="需要手动切换wifi" />
       <item value="需要手动切xuyao " />
-      <item value="需要手动切换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1273" />
-        <entry key="ENGLISH" value="1274" />
+        <entry key="CHINESE" value="1275" />
+        <entry key="ENGLISH" value="1276" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
