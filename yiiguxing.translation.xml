@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Dim Amount" />
       <item value="Recommened" />
       <item value="WRAP" />
       <item value="ROW" />
@@ -50,12 +51,11 @@
       <item value="门锁" />
       <item value="说明" />
       <item value="Identity" />
-      <item value="Helper function to request a network with a particular legacy type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1282" />
-        <entry key="ENGLISH" value="1283" />
+        <entry key="CHINESE" value="1283" />
+        <entry key="ENGLISH" value="1284" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
