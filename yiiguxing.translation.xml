@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Select Click" />
       <item value="The name of the property being animated." />
       <item value="Binding socket to network 247 failed: ENONET (Machine is not on the network)" />
       <item value="Inserts a Bundle value into the mapping of this Bundle, replacing * any existing value for the given key. Either key or value may be null. *" />
@@ -50,12 +51,11 @@
       <item value="apps should use the more versatile {@link #requestNetwork}, * {@link #registerNetworkCallback} or {@link #registerDefaultNetworkCallback} * functions instead for faster and more detailed updates about the network * changes they care about." />
       <item value="A change in network connectivity has occurred. A default connection has either * been established or lost. The NetworkInfo for the affected network is * sent as an extra; it should be consulted to see what kind of * connectivity event occurred." />
       <item value="未连接设备热点" />
-      <item value="poll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1278" />
-        <entry key="ENGLISH" value="1279" />
+        <entry key="CHINESE" value="1279" />
+        <entry key="ENGLISH" value="1280" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
