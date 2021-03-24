@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unterminated" />
       <item value="Unterminated object at line 1 column 267 path $[1].deviceName" />
       <item value="Malformed Json Exception" />
       <item value="Move the cursor to offset &lt;code&gt;index&lt;/code&gt;." />
@@ -50,12 +51,11 @@
       <item value="Add up fetch logic, almost like load more, but simpler." />
       <item value="Marquee" />
       <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled." />
-      <item value="Boolean that controls whether a view can take focus while in touch mode. If this is true for a view, that view can gain focus when clicked on, and can keep focus if another view is clicked on that doesn't have this attribute set to true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1295" />
-        <entry key="ENGLISH" value="1296" />
+        <entry key="CHINESE" value="1296" />
+        <entry key="ENGLISH" value="1297" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
