@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Move the cursor to offset &lt;code&gt;index&lt;/code&gt;." />
+      <item value="Select the entire text." />
+      <item value="Move the selection edge to offset &lt;code&gt;index&lt;/code&gt;." />
+      <item value="extend" />
+      <item value="Convenience for {@link Selection#extendSelection}." />
+      <item value="Convenience for {@link Selection#selectAll}." />
+      <item value="Convenience for {@link Selection#setSelection(Spannable, int)}." />
       <item value="get Dim Amount" />
       <item value="Recommened" />
       <item value="WRAP" />
@@ -44,18 +51,11 @@
       <item value="Boolean that controls whether a view can take focus while in touch mode. If this is true for a view, that view can gain focus when clicked on, and can keep focus if another view is clicked on that doesn't have this attribute set to true." />
       <item value="Calls the shared consumer with the success value sent via onSuccess for each * SingleObserver that subscribes to the current Single." />
       <item value="GRANTED" />
-      <item value="2 exceptions occurred." />
-      <item value="target" />
-      <item value="目标" />
-      <item value="语音" />
-      <item value="门锁" />
-      <item value="说明" />
-      <item value="Identity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1283" />
-        <entry key="ENGLISH" value="1284" />
+        <entry key="CHINESE" value="1291" />
+        <entry key="ENGLISH" value="1292" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
