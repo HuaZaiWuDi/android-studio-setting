@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct By" />
       <item value="identify" />
       <item value="ERROR GATE WAY HTTP SERVER ERROR" />
       <item value="Unterminated" />
@@ -50,12 +51,11 @@
       <item value="Posts a task to a main thread to set the given value. So if you have a following code * executed in the main thread:" />
       <item value="识别" />
       <item value="Called when an attached input method calls * {@link InputConnection#performEditorAction(int) * InputConnection.performEditorAction()} * for this text view. The default implementation will call your action * listener supplied to {@link #setOnEditorActionListener}, or perform * a standard operation for {@link EditorInfo#IME_ACTION_NEXT * EditorInfo.IME_ACTION_NEXT}, {@link EditorInfo#IME_ACTION_PREVIOUS * EditorInfo.IME_ACTION_PREVIOUS}, or {@link EditorInfo#IME_ACTION_DONE * EditorInfo.IME_ACTION_DONE}." />
-      <item value="Add up fetch logic, almost like load more, but simpler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1298" />
-        <entry key="ENGLISH" value="1299" />
+        <entry key="CHINESE" value="1299" />
+        <entry key="ENGLISH" value="1300" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
