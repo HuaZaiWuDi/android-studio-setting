@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR GATE WAY HTTP SERVER ERROR" />
       <item value="Unterminated" />
       <item value="Unterminated object at line 1 column 267 path $[1].deviceName" />
       <item value="Malformed Json Exception" />
@@ -50,12 +51,11 @@
       <item value="Called when an attached input method calls * {@link InputConnection#performEditorAction(int) * InputConnection.performEditorAction()} * for this text view. The default implementation will call your action * listener supplied to {@link #setOnEditorActionListener}, or perform * a standard operation for {@link EditorInfo#IME_ACTION_NEXT * EditorInfo.IME_ACTION_NEXT}, {@link EditorInfo#IME_ACTION_PREVIOUS * EditorInfo.IME_ACTION_PREVIOUS}, or {@link EditorInfo#IME_ACTION_DONE * EditorInfo.IME_ACTION_DONE}." />
       <item value="Add up fetch logic, almost like load more, but simpler." />
       <item value="Marquee" />
-      <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1296" />
-        <entry key="ENGLISH" value="1297" />
+        <entry key="CHINESE" value="1297" />
+        <entry key="ENGLISH" value="1298" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
