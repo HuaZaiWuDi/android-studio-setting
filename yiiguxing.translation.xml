@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns `true` if no elements match the given [predicate]." />
       <item value="Set whether an activity title/subtitle should be displayed." />
       <item value="payloads" />
       <item value="distinct By" />
@@ -50,12 +51,11 @@
       <item value="This method must be called from the main thread. If you need set a value from a background * thread, you can use {@link #postValue(Object)}" />
       <item value="If you called this method multiple times before a main thread executed a posted task, only * the last value would be dispatched." />
       <item value="The value &quot;b&quot; would be set at first and later the main thread would override it with * the value &quot;a&quot;." />
-      <item value="Posts a task to a main thread to set the given value. So if you have a following code * executed in the main thread:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1301" />
-        <entry key="ENGLISH" value="1302" />
+        <entry key="CHINESE" value="1302" />
+        <entry key="ENGLISH" value="1303" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
