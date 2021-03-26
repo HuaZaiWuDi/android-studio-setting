@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calls the shared consumer with the error sent via onError for each SingleObserver that subscribes to the current Single." />
+      <item value="Calls the shared consumer with the error sent via onError for each * SingleObserver that subscribes to the current Single." />
       <item value="Indicates whether network connectivity is possible. A network is unavailable when a persistent or semi-persistent condition prevents the possibility of connecting to that network. Examples include" />
       <item value="Since Android L, this always returns {@code true}, because the system only returns info for available networks." />
       <item value="Apps should instead use the {@link android.net.ConnectivityManager.NetworkCallback} API to learn about connectivity changes. {@link ConnectivityManager#registerDefaultNetworkCallback} and {@link ConnectivityManager#registerNetworkCallback}. These will give a more accurate picture of the connectivity state of the device and let apps react more easily and quickly to changes." />
@@ -49,13 +51,11 @@
       <item value="if request limit per UID is exceeded." />
       <item value="if missing the appropriate permissions." />
       <item value="if {@code request} contains invalid network capabilitie" />
-      <item value="Allow a previously configured network to be associated with. If &lt;code&gt;attemptConnect&lt;/code&gt; is true, an attempt to connect to the selected network is initiated. This may result in the asynchronous delivery of state change events." />
-      <item value="Allow a previously configured network to be associated with. If * &lt;code&gt;attemptConnect&lt;/code&gt; is true, an attempt to connect to the selected * network is initiated. This may result in the asynchronous delivery * of state change events." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1312" />
-        <entry key="ENGLISH" value="1313" />
+        <entry key="CHINESE" value="1314" />
+        <entry key="ENGLISH" value="1315" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
