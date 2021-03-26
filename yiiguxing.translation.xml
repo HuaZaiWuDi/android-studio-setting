@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to find instance for manager" />
       <item value="navigation" />
       <item value="true to display a title/subtitle if present." />
       <item value="To set several display options at once, see the setDisplayOptions methods." />
@@ -50,12 +51,11 @@
       <item value="This {@link NetworkRequest} will live until released via * {@link #unregisterNetworkCallback(NetworkCallback)} or the calling application exits. A * version of the method which takes a timeout is * {@link #requestNetwork(NetworkRequest, NetworkCallback, int)}. * Status of the request can be followed by listening to the various * callbacks described in {@link NetworkCallback}. The {@link Network} * can be used to direct traffic to the network. * &lt;p&gt;It is presently unsupported to request a network with mutable * {@link NetworkCapabilities} such as * {@link NetworkCapabilities#NET_CAPABILITY_VALIDATED} or * {@link NetworkCapabilities#NET_CAPABILITY_CAPTIVE_PORTAL} * as these {@code NetworkCapabilities} represent states that a particular * network may never attain, and whether a network will attain these states * is unknown prior to bringing up the network so the framework does not * know how to go about satisfing a request with these capabilities." />
       <item value="* &lt;p&gt;This method requires the caller to hold either the * {@link android.Manifest.permission#CHANGE_NETWORK_STATE} permission * or the ability to modify system settings as determined by * {@link android.provider.Settings.System#canWrite}.&lt;/p&gt;" />
       <item value="Need to switch wifi by user" />
-      <item value="Indicates this network uses a Cellular transport." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1306" />
-        <entry key="ENGLISH" value="1307" />
+        <entry key="CHINESE" value="1307" />
+        <entry key="ENGLISH" value="1308" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
