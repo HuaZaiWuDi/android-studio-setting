@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true to display a title/subtitle if present." />
+      <item value="To set several display options at once, see the setDisplayOptions methods." />
+      <item value="Set whether an activity title/subtitle should be displayed." />
       <item value="1616673213744" />
       <item value="Returns `true` if no elements match the given [predicate]." />
-      <item value="Set whether an activity title/subtitle should be displayed." />
       <item value="payloads" />
       <item value="distinct By" />
       <item value="identify" />
@@ -49,13 +51,11 @@
       <item value="Need to switch wifi by user" />
       <item value="Indicates this network uses a Cellular transport." />
       <item value="Sets the value. If there are active observers, the value will be dispatched to them." />
-      <item value="This method must be called from the main thread. If you need set a value from a background * thread, you can use {@link #postValue(Object)}" />
-      <item value="If you called this method multiple times before a main thread executed a posted task, only * the last value would be dispatched." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1304" />
-        <entry key="ENGLISH" value="1303" />
+        <entry key="CHINESE" value="1305" />
+        <entry key="ENGLISH" value="1306" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
