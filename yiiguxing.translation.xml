@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation isn't stored in binary output" />
       <item value="regiser" />
       <item value="Low-level logging call." />
       <item value="RADIO" />
@@ -50,12 +51,11 @@
       <item value="Convenience for {@link Selection#extendSelection}." />
       <item value="Convenience for {@link Selection#selectAll}." />
       <item value="Convenience for {@link Selection#setSelection(Spannable, int)}." />
-      <item value="get Dim Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1334" />
-        <entry key="ENGLISH" value="1335" />
+        <entry key="CHINESE" value="1335" />
+        <entry key="ENGLISH" value="1336" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
