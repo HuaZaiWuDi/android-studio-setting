@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adds the given observer to the observers list within the lifespan of the given * owner. The events are dispatched on the main thread. If LiveData already has data * set, it will be delivered to the observer." />
       <item value="ensure" />
       <item value="Return the handle to a system-level service by name. The class of the * returned object varies by the requested name. Currently available names * are:" />
       <item value="throw exception instead and enforce 1:1 mapping of callbacks" />
@@ -50,12 +51,11 @@
       <item value="The name of the property being animated." />
       <item value="Binding socket to network 247 failed: ENONET (Machine is not on the network)" />
       <item value="Inserts a Bundle value into the mapping of this Bundle, replacing * any existing value for the given key. Either key or value may be null. *" />
-      <item value="The SDK version of the software currently running on this hardware * device. This value never changes while a device is booted, but it may * increase when the hardware manufacturer provides an OTA update." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1326" />
-        <entry key="ENGLISH" value="1327" />
+        <entry key="CHINESE" value="1327" />
+        <entry key="ENGLISH" value="1328" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
