@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use {@link BaseInputConnection#removeComposingSpans * BaseInputConnection.removeComposingSpans()} to remove any IME composing * state from this text view." />
+      <item value="Composing" />
       <item value="you can call GOI_get_model_define(string model) to get the define of each property." />
       <item value="Annotation isn't stored in binary output" />
       <item value="regiser" />
@@ -49,13 +51,11 @@
       <item value="Select the entire text." />
       <item value="Move the selection edge to offset &lt;code&gt;index&lt;/code&gt;." />
       <item value="extend" />
-      <item value="Convenience for {@link Selection#extendSelection}." />
-      <item value="Convenience for {@link Selection#selectAll}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1336" />
-        <entry key="ENGLISH" value="1337" />
+        <entry key="CHINESE" value="1338" />
+        <entry key="ENGLISH" value="1339" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
