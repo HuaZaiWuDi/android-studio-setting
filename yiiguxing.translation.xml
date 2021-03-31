@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is useful when ViewModel observes some data and you need to clear this subscription to * prevent a leak of this ViewModel." />
+      <item value="This method will be called when this ViewModel is no longer used and will be destroyed." />
+      <item value="Since clear() is final, this method is still called on mock objects // and in those cases, mBagOfTags is null. It'll always be empty though // because setTagIfAbsent and getTag are not final so we can skip // clearing it" />
+      <item value="Emit the [ViewModelEvent.CLEARED] event to * dispose off any subscriptions in the ViewModel." />
+      <item value="MulticastLock under-locked com.github.druk.dnssd.DNSSD" />
+      <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with." />
       <item value="contorl" />
       <item value="Returns a Flowable that emits buffers of items it collects from the source Publisher. The resulting * Publisher emits connected, non-overlapping buffers, each of a fixed duration specified by the * {@code timespan} argument. When the source Publisher completes, the resulting Publisher emits the current buffer * and propagates the notification from the source Publisher. Note that if the source Publisher issues an onError * notification the event is passed on immediately without first emitting the buffer it is in the process of * assembling." />
       <item value="giving up android.os.TransactionTooLargeException: data parcel size 534876 bytes" />
@@ -45,17 +51,11 @@
       <item value="1616673213744" />
       <item value="Returns `true` if no elements match the given [predicate]." />
       <item value="payloads" />
-      <item value="distinct By" />
-      <item value="identify" />
-      <item value="ERROR GATE WAY HTTP SERVER ERROR" />
-      <item value="Unterminated" />
-      <item value="Unterminated object at line 1 column 267 path $[1].deviceName" />
-      <item value="Malformed Json Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1343" />
-        <entry key="ENGLISH" value="1344" />
+        <entry key="CHINESE" value="1349" />
+        <entry key="ENGLISH" value="1350" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
