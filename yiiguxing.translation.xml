@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a Flowable that emits buffers of items it collects from the source Publisher. The resulting * Publisher emits connected, non-overlapping buffers, each of a fixed duration specified by the * {@code timespan} argument. When the source Publisher completes, the resulting Publisher emits the current buffer * and propagates the notification from the source Publisher. Note that if the source Publisher issues an onError * notification the event is passed on immediately without first emitting the buffer it is in the process of * assembling." />
       <item value="giving up android.os.TransactionTooLargeException: data parcel size 534876 bytes" />
       <item value="Binds the current process to {@code network}. All Sockets created in the future * (and not explicitly bound via a bound SocketFactory from" />
       <item value="Use {@link BaseInputConnection#removeComposingSpans * BaseInputConnection.removeComposingSpans()} to remove any IME composing * state from this text view." />
@@ -50,12 +51,11 @@
       <item value="Unterminated object at line 1 column 267 path $[1].deviceName" />
       <item value="Malformed Json Exception" />
       <item value="Move the cursor to offset &lt;code&gt;index&lt;/code&gt;." />
-      <item value="Select the entire text." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1340" />
-        <entry key="ENGLISH" value="1341" />
+        <entry key="CHINESE" value="1341" />
+        <entry key="ENGLISH" value="1342" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
