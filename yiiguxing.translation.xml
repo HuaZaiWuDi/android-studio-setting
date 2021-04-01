@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Volatile" />
+      <item value="Marks the JVM backing field of the annotated property as `volatile`, meaning that writes to this field * are immediately made visible to other threads." />
+      <item value="Marks the JVM method generated from the annotated function as `strictfp`, meaning that the precision * of floating point operations performed inside the method needs to be restricted in order to * achieve better portability." />
+      <item value="Marks the JVM backing field of the annotated property as `transient`, meaning that it is not * part of the default serialized form of the object." />
+      <item value="Marks the JVM method generated from the annotated function as `synchronized`, meaning that the method * will be protected from concurrent execution by multiple threads by the monitor of the instance (or, * for static methods, the class) on which the method is defined." />
       <item value="provisioned" />
       <item value="Retains only elements of this [MutableCollection] that are contained in the given [elements] collection." />
       <item value="subtract" />
@@ -46,16 +51,11 @@
       <item value="ensure" />
       <item value="Return the handle to a system-level service by name. The class of the * returned object varies by the requested name. Currently available names * are:" />
       <item value="throw exception instead and enforce 1:1 mapping of callbacks" />
-      <item value="The time in milliseconds to attempt looking for a suitable network * before {@link NetworkCallback#onUnavailable()} is called. The timeout must * be a positive value (i.e. &gt;0)." />
-      <item value="Removes (if found) the given transport from this builder instance." />
-      <item value="if the operation succeeded, i.e., the scan was initiated." />
-      <item value="The ability for apps to trigger scan requests will be removed in a future * release." />
-      <item value="he ability for apps to trigger scan requests will be removed in a future * release." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1374" />
-        <entry key="ENGLISH" value="1374" />
+        <entry key="CHINESE" value="1378" />
+        <entry key="ENGLISH" value="1379" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
