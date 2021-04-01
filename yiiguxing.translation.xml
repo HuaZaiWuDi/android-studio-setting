@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="period" />
+      <item value="the action called when this Flowable terminates or gets canceled" />
+      <item value="In case of a race between a terminal event and a cancellation, the provided {@code onFinally} action * is executed once per subscription." />
+      <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by * the downstream." />
+      <item value="Modifies the source Publisher so that it invokes an action when it calls {@code onComplete}." />
       <item value="Either 0 or {@link #POP_BACK_STACK_INCLUSIVE}." />
       <item value="POP BACK STACK INCLUSIVE" />
       <item value="REASON NULL ATTRIBUTE" />
@@ -46,16 +51,11 @@
       <item value="Since Android L, this always returns {@code true}, because the system only returns info for available networks." />
       <item value="Apps should instead use the {@link android.net.ConnectivityManager.NetworkCallback} API to learn about connectivity changes. {@link ConnectivityManager#registerDefaultNetworkCallback} and {@link ConnectivityManager#registerNetworkCallback}. These will give a more accurate picture of the connectivity state of the device and let apps react more easily and quickly to changes." />
       <item value="Apps should instead use the * {@link android.net.ConnectivityManager.NetworkCallback} API to * learn about connectivity changes. * {@link ConnectivityManager#registerDefaultNetworkCallback} and * {@link ConnectivityManager#registerNetworkCallback}. These will * give a more accurate picture of the connectivity state of * the device and let apps react more easily and quickly to changes." />
-      <item value="Indicates whether network connectivity is possible. A network is unavailable * when a persistent or semi-persistent condition prevents the possibility * of connecting to that network. Examples include" />
-      <item value="Unable to find instance for manager" />
-      <item value="navigation" />
-      <item value="true to display a title/subtitle if present." />
-      <item value="To set several display options at once, see the setDisplayOptions methods." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1353" />
-        <entry key="ENGLISH" value="1354" />
+        <entry key="CHINESE" value="1358" />
+        <entry key="ENGLISH" value="1359" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
