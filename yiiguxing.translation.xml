@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Either 0 or {@link #POP_BACK_STACK_INCLUSIVE}." />
+      <item value="POP BACK STACK INCLUSIVE" />
+      <item value="REASON NULL ATTRIBUTE" />
       <item value="Requested element count -3 is less than zero." />
       <item value="It is useful when ViewModel observes some data and you need to clear this subscription to * prevent a leak of this ViewModel." />
       <item value="This method will be called when this ViewModel is no longer used and will be destroyed." />
@@ -48,14 +51,11 @@
       <item value="navigation" />
       <item value="true to display a title/subtitle if present." />
       <item value="To set several display options at once, see the setDisplayOptions methods." />
-      <item value="Set whether an activity title/subtitle should be displayed." />
-      <item value="1616673213744" />
-      <item value="Returns `true` if no elements match the given [predicate]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1350" />
-        <entry key="ENGLISH" value="1351" />
+        <entry key="CHINESE" value="1353" />
+        <entry key="ENGLISH" value="1354" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
