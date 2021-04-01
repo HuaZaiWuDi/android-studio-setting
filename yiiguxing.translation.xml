@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provisioned" />
       <item value="Retains only elements of this [MutableCollection] that are contained in the given [elements] collection." />
       <item value="subtract" />
       <item value="Returns a set containing all elements that are contained by both this collection and the specified collection." />
@@ -50,11 +51,10 @@
       <item value="if the operation succeeded, i.e., the scan was initiated." />
       <item value="The ability for apps to trigger scan requests will be removed in a future * release." />
       <item value="he ability for apps to trigger scan requests will be removed in a future * release." />
-      <item value="in order to get valid results." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1373" />
+        <entry key="CHINESE" value="1374" />
         <entry key="ENGLISH" value="1374" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
