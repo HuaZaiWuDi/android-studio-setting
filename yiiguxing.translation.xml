@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="带瓶设备" />
+      <item value="面板" />
+      <item value="Link" />
       <item value="拦截器" />
       <item value="Volatile" />
       <item value="Marks the JVM backing field of the annotated property as `volatile`, meaning that writes to this field * are immediately made visible to other threads." />
@@ -48,14 +51,11 @@
       <item value="The remote device initiated graceful disconnection." />
       <item value="The local device initiated disconnection." />
       <item value="REASON LINK LOSS" />
-      <item value="Adds the given observer to the observers list within the lifespan of the given * owner. The events are dispatched on the main thread. If LiveData already has data * set, it will be delivered to the observer." />
-      <item value="ensure" />
-      <item value="Return the handle to a system-level service by name. The class of the * returned object varies by the requested name. Currently available names * are:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1379" />
-        <entry key="ENGLISH" value="1380" />
+        <entry key="CHINESE" value="1380" />
+        <entry key="ENGLISH" value="1381" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
