@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Re-subscribe to the current Single if the given predicate returns true when the Single fails * with an onError." />
+      <item value="Instructs a Single to pass control to another Single rather than invoking * {@link SingleObserver#onError(Throwable)} if it encounters an error." />
+      <item value="Instructs a Single to pass control to another Single rather than invoking" />
       <item value="带瓶设备" />
       <item value="面板" />
       <item value="Link" />
@@ -48,14 +51,11 @@
       <item value="Low-level logging call." />
       <item value="RADIO" />
       <item value="write" />
-      <item value="The remote device initiated graceful disconnection." />
-      <item value="The local device initiated disconnection." />
-      <item value="REASON LINK LOSS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1380" />
-        <entry key="ENGLISH" value="1381" />
+        <entry key="CHINESE" value="1383" />
+        <entry key="ENGLISH" value="1384" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
