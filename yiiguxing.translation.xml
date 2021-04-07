@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="denied" />
       <item value="不支持" />
       <item value="Returns the detail message string of this throwable." />
       <item value="Localized" />
@@ -50,12 +51,11 @@
       <item value="Binds the current process to {@code network}. All Sockets created in the future * (and not explicitly bound via a bound SocketFactory from" />
       <item value="Use {@link BaseInputConnection#removeComposingSpans * BaseInputConnection.removeComposingSpans()} to remove any IME composing * state from this text view." />
       <item value="Composing" />
-      <item value="you can call GOI_get_model_define(string model) to get the define of each property." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1388" />
-        <entry key="ENGLISH" value="1389" />
+        <entry key="CHINESE" value="1389" />
+        <entry key="ENGLISH" value="1390" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
