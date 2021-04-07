@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Represents an exception that is a composite of one or more other exceptions. A {@code CompositeException} * does not modify the structure of any exception it wraps, but at print-time it iterates through the list of * Throwables contained in the composite in order to print them all." />
       <item value="Re-subscribe to the current Single if the given predicate returns true when the Single fails * with an onError." />
       <item value="Instructs a Single to pass control to another Single rather than invoking * {@link SingleObserver#onError(Throwable)} if it encounters an error." />
       <item value="Instructs a Single to pass control to another Single rather than invoking" />
@@ -50,12 +51,11 @@
       <item value="regiser" />
       <item value="Low-level logging call." />
       <item value="RADIO" />
-      <item value="write" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1383" />
-        <entry key="ENGLISH" value="1384" />
+        <entry key="CHINESE" value="1384" />
+        <entry key="ENGLISH" value="1385" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
