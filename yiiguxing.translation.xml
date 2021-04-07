@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不支持" />
       <item value="Returns the detail message string of this throwable." />
       <item value="Localized" />
       <item value="Creates a localized description of this throwable. * Subclasses may override this method in order to produce a * locale-specific message. For subclasses that do not override this * method, the default implementation returns the same result as * {@code getMessage()}." />
@@ -50,12 +51,11 @@
       <item value="Use {@link BaseInputConnection#removeComposingSpans * BaseInputConnection.removeComposingSpans()} to remove any IME composing * state from this text view." />
       <item value="Composing" />
       <item value="you can call GOI_get_model_define(string model) to get the define of each property." />
-      <item value="Annotation isn't stored in binary output" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1387" />
-        <entry key="ENGLISH" value="1388" />
+        <entry key="CHINESE" value="1388" />
+        <entry key="ENGLISH" value="1389" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
