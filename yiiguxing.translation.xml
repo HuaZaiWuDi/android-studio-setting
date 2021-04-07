@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the detail message string of this throwable." />
+      <item value="Localized" />
+      <item value="Creates a localized description of this throwable. * Subclasses may override this method in order to produce a * locale-specific message. For subclasses that do not override this * method, the default implementation returns the same result as * {@code getMessage()}." />
       <item value="Represents an exception that is a composite of one or more other exceptions. A {@code CompositeException} * does not modify the structure of any exception it wraps, but at print-time it iterates through the list of * Throwables contained in the composite in order to print them all." />
       <item value="Re-subscribe to the current Single if the given predicate returns true when the Single fails * with an onError." />
       <item value="Instructs a Single to pass control to another Single rather than invoking * {@link SingleObserver#onError(Throwable)} if it encounters an error." />
@@ -48,14 +51,11 @@
       <item value="Composing" />
       <item value="you can call GOI_get_model_define(string model) to get the define of each property." />
       <item value="Annotation isn't stored in binary output" />
-      <item value="regiser" />
-      <item value="Low-level logging call." />
-      <item value="RADIO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1384" />
-        <entry key="ENGLISH" value="1385" />
+        <entry key="CHINESE" value="1387" />
+        <entry key="ENGLISH" value="1388" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
