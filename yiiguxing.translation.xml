@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Callback on interrupt." />
+      <item value="Callback after navigation." />
+      <item value="BE ATTENTION TO THIS METHOD WAS &lt;P&gt;SET, NOT ADD!&lt;/P&gt;" />
       <item value="不同意" />
       <item value="analyze" />
       <item value="You can use this to prevent errors from propagating or to supply fallback data should errors be * encountered." />
@@ -48,14 +51,11 @@
       <item value="This method will be called when this ViewModel is no longer used and will be destroyed." />
       <item value="Since clear() is final, this method is still called on mock objects // and in those cases, mBagOfTags is null. It'll always be empty though // because setTagIfAbsent and getTag are not final so we can skip // clearing it" />
       <item value="Emit the [ViewModelEvent.CLEARED] event to * dispose off any subscriptions in the ViewModel." />
-      <item value="MulticastLock under-locked com.github.druk.dnssd.DNSSD" />
-      <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with." />
-      <item value="contorl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1394" />
-        <entry key="ENGLISH" value="1395" />
+        <entry key="CHINESE" value="1397" />
+        <entry key="ENGLISH" value="1398" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
