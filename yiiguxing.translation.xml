@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="analyze" />
       <item value="You can use this to prevent errors from propagating or to supply fallback data should errors be * encountered." />
       <item value="Calls the shared consumer with the error sent via onError for each * SingleObserver that subscribes to the current Single." />
       <item value="** * Instructs a Single to pass control to another Single rather than invoking * {@link SingleObserver#onError(Throwable)} if it encounters an error." />
@@ -50,12 +51,11 @@
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with." />
       <item value="contorl" />
       <item value="Returns a Flowable that emits buffers of items it collects from the source Publisher. The resulting * Publisher emits connected, non-overlapping buffers, each of a fixed duration specified by the * {@code timespan} argument. When the source Publisher completes, the resulting Publisher emits the current buffer * and propagates the notification from the source Publisher. Note that if the source Publisher issues an onError * notification the event is passed on immediately without first emitting the buffer it is in the process of * assembling." />
-      <item value="giving up android.os.TransactionTooLargeException: data parcel size 534876 bytes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1392" />
-        <entry key="ENGLISH" value="1393" />
+        <entry key="CHINESE" value="1393" />
+        <entry key="ENGLISH" value="1394" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
