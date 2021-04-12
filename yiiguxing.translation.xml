@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{@link Handler} to specify the thread upon which the callback will be invoked." />
+      <item value="The {@link NetworkCallback} to be utilized for this request. Note * the callback must not be shared - it uniquely specifies this request. * The callback is invoked on the default internal Handler." />
+      <item value="Determines if the specified {@code Object} is assignment-compatible * with the object represented by this {@code Class}. This method is * the dynamic equivalent of the Java language {@code instanceof} * operator. The method returns {@code true} if the specified * {@code Object} argument is non-null and can be cast to the * reference type represented by this {@code Class} object without * raising a {@code ClassCastException.} It returns {@code false} * otherwise." />
+      <item value="Determines if the specified {@code Class} object represents an * interface type." />
+      <item value="is Assignable From" />
+      <item value="true if {@code obj} is an instance of this class" />
+      <item value="条件" />
       <item value="Callback on interrupt." />
       <item value="Callback after navigation." />
       <item value="BE ATTENTION TO THIS METHOD WAS &lt;P&gt;SET, NOT ADD!&lt;/P&gt;" />
@@ -44,18 +51,11 @@
       <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by * the downstream." />
       <item value="Modifies the source Publisher so that it invokes an action when it calls {@code onComplete}." />
       <item value="Either 0 or {@link #POP_BACK_STACK_INCLUSIVE}." />
-      <item value="POP BACK STACK INCLUSIVE" />
-      <item value="REASON NULL ATTRIBUTE" />
-      <item value="Requested element count -3 is less than zero." />
-      <item value="It is useful when ViewModel observes some data and you need to clear this subscription to * prevent a leak of this ViewModel." />
-      <item value="This method will be called when this ViewModel is no longer used and will be destroyed." />
-      <item value="Since clear() is final, this method is still called on mock objects // and in those cases, mBagOfTags is null. It'll always be empty though // because setTagIfAbsent and getTag are not final so we can skip // clearing it" />
-      <item value="Emit the [ViewModelEvent.CLEARED] event to * dispose off any subscriptions in the ViewModel." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1397" />
-        <entry key="ENGLISH" value="1398" />
+        <entry key="CHINESE" value="1404" />
+        <entry key="ENGLISH" value="1405" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
