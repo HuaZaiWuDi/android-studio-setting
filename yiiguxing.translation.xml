@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inner" />
       <item value="{@link Handler} to specify the thread upon which the callback will be invoked." />
       <item value="The {@link NetworkCallback} to be utilized for this request. Note * the callback must not be shared - it uniquely specifies this request. * The callback is invoked on the default internal Handler." />
       <item value="Determines if the specified {@code Object} is assignment-compatible * with the object represented by this {@code Class}. This method is * the dynamic equivalent of the Java language {@code instanceof} * operator. The method returns {@code true} if the specified * {@code Object} argument is non-null and can be cast to the * reference type represented by this {@code Class} object without * raising a {@code ClassCastException.} It returns {@code false} * otherwise." />
@@ -50,12 +51,11 @@
       <item value="In case of a race between a terminal event and a cancellation, the provided {@code onFinally} action * is executed once per subscription." />
       <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by * the downstream." />
       <item value="Modifies the source Publisher so that it invokes an action when it calls {@code onComplete}." />
-      <item value="Either 0 or {@link #POP_BACK_STACK_INCLUSIVE}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1404" />
-        <entry key="ENGLISH" value="1405" />
+        <entry key="CHINESE" value="1405" />
+        <entry key="ENGLISH" value="1406" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
