@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重构" />
       <item value="Saves no data to cache." />
       <item value="Caches remote data with both {@link #DATA} and {@link #RESOURCE}, and local data with {@link * #RESOURCE} only." />
       <item value="Writes retrieved data directly to the disk cache before it's decoded." />
@@ -50,12 +51,11 @@
       <item value="provisioned" />
       <item value="Retains only elements of this [MutableCollection] that are contained in the given [elements] collection." />
       <item value="subtract" />
-      <item value="Returns a set containing all elements that are contained by both this collection and the specified collection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1417" />
-        <entry key="ENGLISH" value="1418" />
+        <entry key="CHINESE" value="1418" />
+        <entry key="ENGLISH" value="1419" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
