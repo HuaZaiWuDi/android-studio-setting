@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FORTIFY: FD_SET: file descriptor 1028 &gt;= FD_SETSIZE 1024" />
+      <item value="Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 26850 (Thread-55), pid 26134 (ice_join_config)" />
       <item value="deploy" />
       <item value="重构" />
       <item value="Saves no data to cache." />
@@ -49,13 +51,11 @@
       <item value="Marks the JVM method generated from the annotated function as `strictfp`, meaning that the precision * of floating point operations performed inside the method needs to be restricted in order to * achieve better portability." />
       <item value="Marks the JVM backing field of the annotated property as `transient`, meaning that it is not * part of the default serialized form of the object." />
       <item value="Marks the JVM method generated from the annotated function as `synchronized`, meaning that the method * will be protected from concurrent execution by multiple threads by the monitor of the instance (or, * for static methods, the class) on which the method is defined." />
-      <item value="provisioned" />
-      <item value="Retains only elements of this [MutableCollection] that are contained in the given [elements] collection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1419" />
-        <entry key="ENGLISH" value="1420" />
+        <entry key="CHINESE" value="1421" />
+        <entry key="ENGLISH" value="1422" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
