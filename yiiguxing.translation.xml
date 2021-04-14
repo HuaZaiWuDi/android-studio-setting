@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deploy" />
       <item value="重构" />
       <item value="Saves no data to cache." />
       <item value="Caches remote data with both {@link #DATA} and {@link #RESOURCE}, and local data with {@link * #RESOURCE} only." />
@@ -50,12 +51,11 @@
       <item value="Marks the JVM method generated from the annotated function as `synchronized`, meaning that the method * will be protected from concurrent execution by multiple threads by the monitor of the instance (or, * for static methods, the class) on which the method is defined." />
       <item value="provisioned" />
       <item value="Retains only elements of this [MutableCollection] that are contained in the given [elements] collection." />
-      <item value="subtract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1418" />
-        <entry key="ENGLISH" value="1419" />
+        <entry key="CHINESE" value="1419" />
+        <entry key="ENGLISH" value="1420" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
