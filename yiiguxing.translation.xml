@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subclass which may observe other {@code LiveData} objects and react on * {@code OnChanged} events from them." />
       <item value="path Separator" />
       <item value="separator" />
       <item value="联调" />
@@ -50,12 +51,11 @@
       <item value="Localized" />
       <item value="Creates a localized description of this throwable. * Subclasses may override this method in order to produce a * locale-specific message. For subclasses that do not override this * method, the default implementation returns the same result as * {@code getMessage()}." />
       <item value="Represents an exception that is a composite of one or more other exceptions. A {@code CompositeException} * does not modify the structure of any exception it wraps, but at print-time it iterates through the list of * Throwables contained in the composite in order to print them all." />
-      <item value="Re-subscribe to the current Single if the given predicate returns true when the Single fails * with an onError." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1432" />
-        <entry key="ENGLISH" value="1433" />
+        <entry key="CHINESE" value="1433" />
+        <entry key="ENGLISH" value="1434" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
