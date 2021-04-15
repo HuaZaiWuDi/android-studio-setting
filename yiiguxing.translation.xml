@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="联调" />
       <item value="the length of the window of time that must pass after the emission of an item from the source * ObservableSource in which that ObservableSource emits no items in order for the item to be emitted by the * resulting ObservableSource" />
       <item value="Returns an Observable that emits records of the time interval between consecutive items emitted by the * source ObservableSource." />
       <item value="Returns an Observable that mirrors the source ObservableSource, except that it drops items emitted by the * source ObservableSource that are followed by newer items before a timeout value expires on a specified * Scheduler. The timer resets on each emission." />
@@ -50,12 +51,11 @@
       <item value="Re-subscribe to the current Single if the given predicate returns true when the Single fails * with an onError." />
       <item value="Instructs a Single to pass control to another Single rather than invoking * {@link SingleObserver#onError(Throwable)} if it encounters an error." />
       <item value="Instructs a Single to pass control to another Single rather than invoking" />
-      <item value="带瓶设备" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1429" />
-        <entry key="ENGLISH" value="1430" />
+        <entry key="CHINESE" value="1430" />
+        <entry key="ENGLISH" value="1431" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
