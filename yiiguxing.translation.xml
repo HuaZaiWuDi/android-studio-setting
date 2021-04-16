@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the TextView so that when it takes focus, all the text is * selected." />
+      <item value="Set a special listener to be called when an action is performed * on the text view. This will be called when the enter key is pressed, * or when an action supplied to the IME is selected by the user. Setting * this means that the normal hard key event will not insert a newline * into the text view, even if it is multi-line; holding down the ALT * modifier will, however, allow the user to insert a newline character." />
       <item value="all Name" />
       <item value="subordinates" />
       <item value="subclass which may observe other {@code LiveData} objects and react on * {@code OnChanged} events from them." />
@@ -49,13 +51,11 @@
       <item value="** * Instructs a Single to pass control to another Single rather than invoking * {@link SingleObserver#onError(Throwable)} if it encounters an error." />
       <item value="denied" />
       <item value="不支持" />
-      <item value="Returns the detail message string of this throwable." />
-      <item value="Localized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1435" />
-        <entry key="ENGLISH" value="1436" />
+        <entry key="CHINESE" value="1437" />
+        <entry key="ENGLISH" value="1438" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
