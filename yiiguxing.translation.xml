@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the camera up to take preview images which are used for both preview and decoding. We detect the preview format here so that buildLuminanceSource() can build an appropriate LuminanceSource subclass. In the future we may want to force YUV420SP as it's the smallest, and the planar Y can be used for barcode scanning without a copy in some cases." />
+      <item value="Resolution" />
+      <item value="This is a hack to turn the flash off on the Samsung Galaxy. // And this is a hack-hack to work around a different value on the Behold II // Restrict Behold II check to Cupcake, per Samsung's advice //if (Build.MODEL.contains(&quot;Behold II&quot;) &amp;&amp;" />
+      <item value="SHARPNESS" />
       <item value="this is ignored, this value is set automatically when needed. */" />
       <item value="Opens the camera driver and initializes the hardware parameters." />
       <item value="Closes the camera driver if still in use." />
@@ -47,15 +51,11 @@
       <item value="Determines if the specified {@code Object} is assignment-compatible * with the object represented by this {@code Class}. This method is * the dynamic equivalent of the Java language {@code instanceof} * operator. The method returns {@code true} if the specified * {@code Object} argument is non-null and can be cast to the * reference type represented by this {@code Class} object without * raising a {@code ClassCastException.} It returns {@code false} * otherwise." />
       <item value="Determines if the specified {@code Class} object represents an * interface type." />
       <item value="is Assignable From" />
-      <item value="true if {@code obj} is an instance of this class" />
-      <item value="条件" />
-      <item value="Callback on interrupt." />
-      <item value="Callback after navigation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1445" />
-        <entry key="ENGLISH" value="1446" />
+        <entry key="CHINESE" value="1449" />
+        <entry key="ENGLISH" value="1450" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
