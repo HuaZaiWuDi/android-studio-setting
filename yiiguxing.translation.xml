@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不允许绑定" />
+      <item value="重新绑定" />
+      <item value="已绑定" />
+      <item value="binded" />
+      <item value="unregister" />
+      <item value="cloud" />
+      <item value="cloudcloud" />
       <item value="生成" />
       <item value="UNSUPPORT" />
       <item value="transport" />
@@ -44,18 +51,11 @@
       <item value="the hardware camera to access, between 0 and * {@link #getNumberOfCameras()}-1." />
       <item value="Creates a new Camera object to access a particular hardware camera. If * the same camera is opened by other applications, this will throw a * RuntimeException." />
       <item value="Connect to the camera service using #connectLegacy" />
-      <item value="DATA MATRIX FORMATS" />
-      <item value="QR CODE FORMATS" />
-      <item value="ONE D_FORMATS" />
-      <item value="PRODUCT FORMATS" />
-      <item value="This format has never been seen in the wild, but is compatible as we only care // about the Y channel, so allow it." />
-      <item value="This is the standard Android format which all devices are REQUIRED to support. // In theory, it's the only one we should ever care about." />
-      <item value="Sets the camera up to take preview images which are used for both preview and decoding. We detect the preview format here so that buildLuminanceSource() can build an appropriate LuminanceSource subclass. In the future we may want to force YUV420SP as it's the smallest, and the planar Y can be used for barcode scanning without a copy in some cases." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1496" />
-        <entry key="ENGLISH" value="1497" />
+        <entry key="CHINESE" value="1497" />
+        <entry key="ENGLISH" value="1498" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
