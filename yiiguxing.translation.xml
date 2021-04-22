@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REASON BLUETOOTH DISABLED" />
+      <item value="the delay between each connection attempt, in milliseconds. The real delay will be 200 ms longer than specified, as {@link BluetoothGatt#clone()} is estimated to last {@link BleManagerHandler#internalConnect(BluetoothDevice, ConnectRequest) 200 ms}." />
+      <item value="Sets an optional retry count and a delay that the process will wait before each connection attempt. The library will NOT retry if the device is not reachable, that is when the 30 sec. timeout occurs. In that case the app should scan before connecting, to make sure the target is in range." />
+      <item value="Use to set a completion callback. The callback will be invoked when the operation has finished successfully unless {@link #await()} or its variant was used, in which case this callback will be ignored. &lt;p&gt; The done callback will also be called when one or more of initialization requests has failed due to a reason other than disconnect event. This is because {@link BleManagerCallbacks#onDeviceReady(BluetoothDevice)} is called no matter if the requests succeeded, or not. Set failure callbacks to initialization requests to get information about failures." />
+      <item value="The {@link #done(SuccessCallback)} callback will be called after the device is ready, that is when it is connected, the services were discovered, the required services were found and the initialization queue set in {@link BleManager.BleManagerGattCallback#initialize()} is complete (without or with errors)." />
+      <item value="The {@link #done(SuccessCallback)} callback will be called after the device is ready, that is * when it is connected, the services were discovered, the required services were found and the * initialization queue set in {@link BleManager.BleManagerGattCallback#initialize()} is complete * (without or with errors)." />
+      <item value="The connect request is used to connect to a Bluetooth LE device. The request will end when * the device gets connected, the connection timeouts, or an error occurs." />
+      <item value="invalid" />
+      <item value="REASON DEVICE DISCONNECTED" />
+      <item value="REASON DEVICE NOT SUPPORTED" />
+      <item value="REASON NULL ATTRIBUTE" />
+      <item value="REASON REQUEST FAILED" />
+      <item value="REASON TIMEOUT" />
+      <item value="REASON VALIDATION" />
+      <item value="REASON CANCELLED" />
+      <item value="The local device initiated disconnection." />
+      <item value="The connection timed out. The device might have reboot, is out of range, turned off * or doesn't respond for another reason." />
       <item value="`true` if the element has been successfully removed; `false` if it was not present in the collection." />
       <item value="makes real freq boundaries" />
       <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified [selector] function." />
@@ -34,28 +51,11 @@
       <item value="Invalid sign" />
       <item value="Analyze" />
       <item value="Folder" />
-      <item value="Template" />
-      <item value="Set the TextView so that when it takes focus, all the text is * selected." />
-      <item value="Set a special listener to be called when an action is performed * on the text view. This will be called when the enter key is pressed, * or when an action supplied to the IME is selected by the user. Setting * this means that the normal hard key event will not insert a newline * into the text view, even if it is multi-line; holding down the ALT * modifier will, however, allow the user to insert a newline character." />
-      <item value="all Name" />
-      <item value="subordinates" />
-      <item value="subclass which may observe other {@code LiveData} objects and react on * {@code OnChanged} events from them." />
-      <item value="path Separator" />
-      <item value="separator" />
-      <item value="联调" />
-      <item value="the length of the window of time that must pass after the emission of an item from the source * ObservableSource in which that ObservableSource emits no items in order for the item to be emitted by the * resulting ObservableSource" />
-      <item value="Returns an Observable that emits records of the time interval between consecutive items emitted by the * source ObservableSource." />
-      <item value="Returns an Observable that mirrors the source ObservableSource, except that it drops items emitted by the * source ObservableSource that are followed by newer items before a timeout value expires on a specified * Scheduler. The timer resets on each emission." />
-      <item value="Returns an Observable that mirrors the source ObservableSource, except that it drops items emitted by the * source ObservableSource that are followed by newer items before a timeout value expires. The timer resets on * each emission (alias to {@link #debounce(long, TimeUnit, Scheduler)})." />
-      <item value="throttle" />
-      <item value="an Observable that emits only the first {@code count} items emitted by the source ObservableSource, or * all of the items from the source ObservableSource if that ObservableSource emits fewer than {@code count} items" />
-      <item value="Returns an Observable that emits only the first {@code count} items emitted by the source ObservableSource. If the source emits fewer than * {@code count} items then all of its items are emitted." />
-      <item value="Returns an Observable that mirrors the source ObservableSource but applies a timeout policy for each emitted * item. If the next item isn't emitted within the specified timeout duration starting from its predecessor, * the resulting ObservableSource terminates and notifies observers of a {@code TimeoutException}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1471" />
-        <entry key="ENGLISH" value="1472" />
+        <entry key="CHINESE" value="1489" />
+        <entry key="ENGLISH" value="1490" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
