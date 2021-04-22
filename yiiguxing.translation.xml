@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BLE" />
       <item value="REASON BLUETOOTH DISABLED" />
       <item value="the delay between each connection attempt, in milliseconds. The real delay will be 200 ms longer than specified, as {@link BluetoothGatt#clone()} is estimated to last {@link BleManagerHandler#internalConnect(BluetoothDevice, ConnectRequest) 200 ms}." />
       <item value="Sets an optional retry count and a delay that the process will wait before each connection attempt. The library will NOT retry if the device is not reachable, that is when the 30 sec. timeout occurs. In that case the app should scan before connecting, to make sure the target is in range." />
@@ -50,16 +51,16 @@
       <item value="caused by encoding method-get params your local changes would be overwritten by cherry-pick. hint: commit your changes or stash them to proceed. cherry-pick failed" />
       <item value="Invalid sign" />
       <item value="Analyze" />
-      <item value="Folder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1489" />
+        <entry key="CHINESE" value="1490" />
         <entry key="ENGLISH" value="1490" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="SPANISH" value="1" />
