@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refresh Wifi List" />
       <item value="Movement" />
       <item value="不允许绑定" />
       <item value="重新绑定" />
@@ -50,12 +51,11 @@
       <item value="a new Camera object for the first back-facing camera, or null if there is no * backfacing camera" />
       <item value="Creates a new Camera object to access the first back-facing camera on the * device. If the device does not have a back-facing camera, this returns * null. Otherwise acts like the {@link #open(int)} call." />
       <item value="the hardware camera to access, between 0 and * {@link #getNumberOfCameras()}-1." />
-      <item value="Creates a new Camera object to access a particular hardware camera. If * the same camera is opened by other applications, this will throw a * RuntimeException." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1498" />
-        <entry key="ENGLISH" value="1498" />
+        <entry key="ENGLISH" value="1499" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
