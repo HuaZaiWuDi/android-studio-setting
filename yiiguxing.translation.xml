@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets a Disposable on this emitter; any previous Disposable * or Cancellable will be disposed/cancelled." />
+      <item value="A functional interface that has a single cancel method * that can throw." />
+      <item value="Sets a Cancellable on this emitter; any previous {@link Disposable} * or {@link Cancellable} will be disposed/cancelled." />
+      <item value="the emitter that is called when a SingleObserver subscribes to the returned {@code Single}" />
+      <item value="Provides an API (via a cold Completable) that bridges the reactive world with the callback-style world." />
       <item value="Read error: ssl=0xc8d77828: I/O error during system call, Software caused connection abort" />
       <item value="refresh Wifi List" />
       <item value="Movement" />
@@ -46,16 +51,11 @@
       <item value="Shared singleton connectivity thread for the system. This is a thread for * connectivity operations such as AsyncChannel connections to system services. * Various connectivity manager objects can use this singleton as a common * resource for their handlers instead of creating separate threads of their own." />
       <item value="to specify the thread upon which the callback will be invoked." />
       <item value="The {@link NetworkCallback} to be utilized for this request. Note the callback must not be shared - it uniquely specifies this request. The callback is invoked on the default internal Handler." />
-      <item value="The {@link NetworkCallback} to be utilized for this request. Note * the callback must not be shared - it uniquely specifies this request. * The callback is invoked on the default internal Handler." />
-      <item value="integration" />
-      <item value="The facing of the camera is the same as that of the screen." />
-      <item value="a new Camera object for the first back-facing camera, or null if there is no * backfacing camera" />
-      <item value="Creates a new Camera object to access the first back-facing camera on the * device. If the device does not have a back-facing camera, this returns * null. Otherwise acts like the {@link #open(int)} call." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1499" />
-        <entry key="ENGLISH" value="1500" />
+        <entry key="CHINESE" value="1503" />
+        <entry key="ENGLISH" value="1504" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
