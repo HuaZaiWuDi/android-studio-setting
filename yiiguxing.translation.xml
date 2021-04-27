@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Do your init work in this method, it well be call when processor has been load." />
+      <item value="ethernet" />
       <item value="pool" />
       <item value="This shouldn't ever happen, see #331." />
       <item value="dump" />
@@ -49,13 +51,11 @@
       <item value="REASON VALIDATION" />
       <item value="REASON CANCELLED" />
       <item value="The local device initiated disconnection." />
-      <item value="The connection timed out. The device might have reboot, is out of range, turned off * or doesn't respond for another reason." />
-      <item value="`true` if the element has been successfully removed; `false` if it was not present in the collection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1511" />
-        <entry key="ENGLISH" value="1512" />
+        <entry key="CHINESE" value="1512" />
+        <entry key="ENGLISH" value="1513" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
