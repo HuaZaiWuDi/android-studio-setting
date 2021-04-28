@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Some privileges permanently disabled, may need to set up in the execute." />
+      <item value="Handle overlay permission." />
       <item value="不支持" />
       <item value="Do your init work in this method, it well be call when processor has been load." />
       <item value="ethernet" />
@@ -49,13 +51,11 @@
       <item value="REASON NULL ATTRIBUTE" />
       <item value="REASON REQUEST FAILED" />
       <item value="REASON TIMEOUT" />
-      <item value="REASON VALIDATION" />
-      <item value="REASON CANCELLED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1513" />
-        <entry key="ENGLISH" value="1514" />
+        <entry key="CHINESE" value="1515" />
+        <entry key="ENGLISH" value="1516" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
