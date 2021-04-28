@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unbinds all use cases from the lifecycle and removes them from CameraX." />
       <item value="Portrait" />
       <item value="Adds a {@link CameraFilter} to the current set of filters. It can be used to select a * specific camera based on customized criteria like Camera2 characteristics. * * &lt;p&gt;Multiple filters can be added. All filters will be applied by the order they were * added when the {@link CameraSelector} is used, and the first camera output from the * filters will be selected." />
       <item value="A {@link Future} that accepts completion listeners. Each listener has an associated executor, and * it is invoked using this executor once the future's computation is {@linkplain Future#isDone() * complete}. If the computation has already completed when the listener is added, the listener will * execute immediately. *" />
@@ -50,12 +51,11 @@
       <item value="transport" />
       <item value="传输" />
       <item value="PARAMETER" />
-      <item value="参数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1534" />
-        <entry key="ENGLISH" value="1535" />
+        <entry key="CHINESE" value="1535" />
+        <entry key="ENGLISH" value="1536" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
