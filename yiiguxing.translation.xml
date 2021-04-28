@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;When the producer stops producing images, it may also stop producing images for other use cases, such as {@link Preview}, so it is important for the analyzer to keep up with frame rate, &lt;i&gt;on average&lt;/i&gt;. Failure to keep up with frame rate may lead to jank in the frame stream and a diminished user experience. If more time is needed for analysis on &lt;i&gt;some&lt;/i&gt; frames, consider increasing the image queue depth with {@link Builder#setImageQueueDepth(int)}." />
+      <item value="&lt;p&gt;Once the producer has produced the number of images equal to the image queue depth, and none have been closed, the producer will stop producing images. Note that images may be queued internally and not be delivered to the analyzer until the last delivered image has been closed with {@link ImageProxy#close()}. These internally queued images will count towards the total number of images that the producer can provide at any one time." />
+      <item value="&lt;p&gt;This strategy ignores the value set by {@link Builder#setImageQueueDepth(int)}. Only one image will be delivered for analysis at a time. If more images are produced while that image is being analyzed, they will be dropped and not queued for delivery. Once the image being analyzed is closed by calling {@link ImageProxy#close()}, the next latest image will be delivered." />
       <item value="Block the producer from generating new images." />
       <item value="PRODUCER" />
       <item value="&gt;The available values are {@link #STRATEGY_BLOCK_PRODUCER} and * {@link #STRATEGY_KEEP_ONLY_LATEST}. * * &lt;p&gt;If not set, the backpressure strategy will default to * {@link #STRATEGY_KEEP_ONLY_LATEST}. *" />
@@ -48,14 +51,11 @@
       <item value="PARAM" />
       <item value="本地" />
       <item value="LOCATION" />
-      <item value="BLE" />
-      <item value="REASON BLUETOOTH DISABLED" />
-      <item value="the delay between each connection attempt, in milliseconds. The real delay will be 200 ms longer than specified, as {@link BluetoothGatt#clone()} is estimated to last {@link BleManagerHandler#internalConnect(BluetoothDevice, ConnectRequest) 200 ms}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1526" />
-        <entry key="ENGLISH" value="1527" />
+        <entry key="CHINESE" value="1531" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
