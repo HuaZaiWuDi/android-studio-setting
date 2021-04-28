@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This strategy ignores the value set by {@link Builder#setImageQueueDepth(int)}. * Only one image will be delivered for analysis at a time. If more images are produced * while that image is being analyzed, they will be dropped and not queued for delivery. * Once the image being analyzed is closed by calling {@link ImageProxy#close()}, the * next latest image will be delivered." />
+      <item value="Only deliver the latest image to the analyzer, dropping images as they arrive" />
+      <item value="Once the producer has produced the number of images equal to the image queue depth, * and none have been closed, the producer will stop producing images. Note that images * may be queued internally and not be delivered to the analyzer until the last delivered * image has been closed with {@link ImageProxy#close()}. These internally queued images * will count towards the total number of images that the producer can provide at any one * time." />
+      <item value="The requested capture processor for extension." />
+      <item value="Processor" />
+      <item value="Turn on the local Bluetooth adapter&amp;mdash;do not use without explicit user action to turn on Bluetooth. &lt;p&gt;This powers on the underlying Bluetooth hardware, and starts all Bluetooth system services. &lt;p class=&quot;caution&quot;&gt;&lt;strong&gt;Bluetooth should never be enabled without direct user consent&lt;/strong&gt;. If you want to turn on Bluetooth in order to create a wireless connection, you should use the {@link #ACTION_REQUEST_ENABLE} Intent, which will raise a dialog that requests user permission to turn on Bluetooth. The {@link #enable()} method is provided only for applications that include a user interface for changing system settings, such as a &quot;power manager&quot; app.&lt;/p&gt; &lt;p&gt;This is an asynchronous call: it will return immediately, and clients should listen for {@link #ACTION_STATE_CHANGED} to be notified of subsequent adapter state changes. If this call returns true, then the adapter state will immediately transition from {@link #STATE_OFF} to {@link #STATE_TURNING_ON}, and some time later transition to either {@link #STATE_OFF} or {@link #STATE_ON}. If this call returns false then there was an immediate problem that will prevent the adapter from being turned on - such as Airplane mode, or the adapter is already turned on." />
+      <item value="Turn on the local Bluetooth adapter&amp;mdash;do not use without explicit * user action to turn on Bluetooth." />
+      <item value="rationale" />
       <item value="Some privileges permanently disabled, may need to set up in the execute." />
       <item value="Handle overlay permission." />
       <item value="不支持" />
@@ -43,19 +51,11 @@
       <item value="Sets an optional retry count and a delay that the process will wait before each connection attempt. The library will NOT retry if the device is not reachable, that is when the 30 sec. timeout occurs. In that case the app should scan before connecting, to make sure the target is in range." />
       <item value="Use to set a completion callback. The callback will be invoked when the operation has finished successfully unless {@link #await()} or its variant was used, in which case this callback will be ignored. &lt;p&gt; The done callback will also be called when one or more of initialization requests has failed due to a reason other than disconnect event. This is because {@link BleManagerCallbacks#onDeviceReady(BluetoothDevice)} is called no matter if the requests succeeded, or not. Set failure callbacks to initialization requests to get information about failures." />
       <item value="The {@link #done(SuccessCallback)} callback will be called after the device is ready, that is when it is connected, the services were discovered, the required services were found and the initialization queue set in {@link BleManager.BleManagerGattCallback#initialize()} is complete (without or with errors)." />
-      <item value="The {@link #done(SuccessCallback)} callback will be called after the device is ready, that is * when it is connected, the services were discovered, the required services were found and the * initialization queue set in {@link BleManager.BleManagerGattCallback#initialize()} is complete * (without or with errors)." />
-      <item value="The connect request is used to connect to a Bluetooth LE device. The request will end when * the device gets connected, the connection timeouts, or an error occurs." />
-      <item value="invalid" />
-      <item value="REASON DEVICE DISCONNECTED" />
-      <item value="REASON DEVICE NOT SUPPORTED" />
-      <item value="REASON NULL ATTRIBUTE" />
-      <item value="REASON REQUEST FAILED" />
-      <item value="REASON TIMEOUT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1515" />
-        <entry key="ENGLISH" value="1516" />
+        <entry key="CHINESE" value="1523" />
+        <entry key="ENGLISH" value="1524" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
