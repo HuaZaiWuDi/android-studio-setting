@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adds another {@link MeteringPoint} with default metering mode {@link #FLAG_AF} | * {@link #FLAG_AE} | {@link #FLAG_AWB}." />
+      <item value="When the torch is enabled, the torch will remain enabled during photo capture regardless * of the flashMode setting. When the torch is disabled, flash will function as the flash mode * set by either {@link ImageCapture#setFlashMode(int)} or * {@link ImageCapture.Builder#setFlashMode(int)}." />
+      <item value="The viewPort which represents the visible camera sensor rect." />
+      <item value="Unbinds all specified use cases from the lifecycle." />
+      <item value="It modifies both current zoomRatio and linearZoom so if apps are observing * zoomRatio or linearZoom, they will get the update as well. If the ratio is * smaller than {@link ZoomState#getMinZoomRatio()} or larger than * {@link ZoomState#getMaxZoomRatio()}, the returned {@link ListenableFuture} will fail with * {@link IllegalArgumentException} and it won't modify current zoom ratio. It is the * applications' duty to clamp the ratio." />
+      <item value="Sets current zoom by ratio." />
+      <item value="Set the exposure compensation value for the camera." />
+      <item value="Torch" />
+      <item value="When the torch is enabled via {@link CameraControl#enableTorch(boolean)}, the torch * will remain enabled during photo capture regardless of flashMode setting. When * the torch is disabled, flash will function as specified by {@link #setFlashMode(int)}." />
+      <item value="Returns if flash unit is available or not." />
+      <item value="The flash control for the subsequent photo capture requests. Applications can check if * there is a flash unit via {@link CameraInfo#hasFlashUnit()} and update UI component if * necessary. If there is no flash unit, then calling this API will take no effect for the * subsequent photo capture requests and they will act like {@link #FLASH_MODE_OFF}." />
+      <item value="Auto flash. The flash will be used according to the camera system's determination when taking * a picture." />
+      <item value="Constant emission of light during preview, auto-focus and snapshot. * This can also be used for video recording." />
+      <item value="Always flash. The flash will always be used when taking a picture." />
       <item value="UNAVAILABLE" />
       <item value="重" />
       <item value="重新扫描" />
@@ -37,25 +51,11 @@
       <item value="A flag used in metering mode indicating the AE (Auto Exposure) region is enabled." />
       <item value="&lt;p&gt; This is used to apply additional configs that modifying the behavior of the camera and any attached {@link UseCase}. For example, this may limit the instances of CameraInternal that are used or configure the {@link ImageCapture} to use a {@link androidx.camera.core.impl.CaptureProcessor} in order to implement effects such as HDR or bokeh." />
       <item value="&lt;p&gt; This is used to apply additional configs that modifying the behavior of the camera and * any attached {@link UseCase}. For example, this may limit the instances of CameraInternal * that are used or configure the {@link ImageCapture} to use a * {@link androidx.camera.core.impl.CaptureProcessor} in order to implement effects such as * HDR or bokeh." />
-      <item value="&lt;p&gt; A {@link Camera} is a logical camera which wraps one or more {@link CameraInternal}. * At any time, only one of the CameraInternal is actually being used, and it is up to the * implementation to determine which {@link CameraInternal} will be used. Certain * reconfigurations of the camera will cause the current CameraInternal camera to change. * However, it will be transparent to the {@link CameraControl} and {@link CameraInfo} * retrieved from {@link #getCameraControl()} and {@link #getCameraInfo()}." />
-      <item value="Returns all of the {@link CameraInternal} instances represented by this Camera." />
-      <item value="&lt;p&gt;The {@link CameraControl} provides various asynchronous operations like zoom, focus and * metering. {@link CameraControl} is ready to start operations immediately after use cases * are bound to the {@link Camera}. When all {@link UseCase}s are unbound, or when camera is * closing or closed because lifecycle onStop happens, the {@link CameraControl} will reject * all operations." />
-      <item value="Returns information about this camera." />
-      <item value="Set the extended config of the Camera and potentially reconfigure the camera." />
-      <item value="Get the currently set extended config of the Camera." />
-      <item value="Enable the torch or disable the torch." />
-      <item value="Starts a focus and metering action configured by the {@link FocusMeteringAction}." />
-      <item value="Captures a new still image for in memory access." />
-      <item value="Unbinds all use cases from the lifecycle and removes them from CameraX." />
-      <item value="Portrait" />
-      <item value="Adds a {@link CameraFilter} to the current set of filters. It can be used to select a * specific camera based on customized criteria like Camera2 characteristics. * * &lt;p&gt;Multiple filters can be added. All filters will be applied by the order they were * added when the {@link CameraSelector} is used, and the first camera output from the * filters will be selected." />
-      <item value="A {@link Future} that accepts completion listeners. Each listener has an associated executor, and * it is invoked using this executor once the future's computation is {@linkplain Future#isDone() * complete}. If the computation has already completed when the listener is added, the listener will * execute immediately. *" />
-      <item value="&lt;p&gt;When the producer stops producing images, it may also stop producing images for other use cases, such as {@link Preview}, so it is important for the analyzer to keep up with frame rate, &lt;i&gt;on average&lt;/i&gt;. Failure to keep up with frame rate may lead to jank in the frame stream and a diminished user experience. If more time is needed for analysis on &lt;i&gt;some&lt;/i&gt; frames, consider increasing the image queue depth with {@link Builder#setImageQueueDepth(int)}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1583" />
-        <entry key="ENGLISH" value="1584" />
+        <entry key="CHINESE" value="1597" />
+        <entry key="ENGLISH" value="1598" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
