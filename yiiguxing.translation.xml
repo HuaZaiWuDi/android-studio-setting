@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If the folder selected is an external media directory, this is unnecessary but otherwise other apps will not be able to access our images unless we scan them using [MediaScannerConnection]" />
+      <item value="Image capture scanned into media store" />
+      <item value="Callers should migrate to inserting items directly into * {@link MediaStore}, where they will be automatically scanned * after each mutation." />
+      <item value="Broadcast Action: Request the media scanner to scan a file and add it to * the media database." />
+      <item value="MediaScannerConnection provides a way for applications to pass a newly created or downloaded media file to the media scanner service The media scanner service will read metadata from the file and add the file to the media content provider. The MediaScannerConnectionClient provides an interface for the media scanner service to return the Uri for a newly scanned file to the client of the MediaScannerConnection class." />
       <item value="LENS FACING FRONT" />
       <item value="Optimizes capture pipeline to prioritize latency over image quality. When the capture * mode is set to MIN_LATENCY, images may capture faster but the image quality may be * reduced." />
       <item value="The executor in which the callback methods will be run." />
@@ -46,16 +51,11 @@
       <item value="This strategy ignores the value set by {@link Builder#setImageQueueDepth(int)}. * Only one image will be delivered for analysis at a time. If more images are produced * while that image is being analyzed, they will be dropped and not queued for delivery. * Once the image being analyzed is closed by calling {@link ImageProxy#close()}, the * next latest image will be delivered." />
       <item value="Only deliver the latest image to the analyzer, dropping images as they arrive" />
       <item value="Once the producer has produced the number of images equal to the image queue depth, * and none have been closed, the producer will stop producing images. Note that images * may be queued internally and not be delivered to the analyzer until the last delivered * image has been closed with {@link ImageProxy#close()}. These internally queued images * will count towards the total number of images that the producer can provide at any one * time." />
-      <item value="The requested capture processor for extension." />
-      <item value="Processor" />
-      <item value="Turn on the local Bluetooth adapter&amp;mdash;do not use without explicit user action to turn on Bluetooth. &lt;p&gt;This powers on the underlying Bluetooth hardware, and starts all Bluetooth system services. &lt;p class=&quot;caution&quot;&gt;&lt;strong&gt;Bluetooth should never be enabled without direct user consent&lt;/strong&gt;. If you want to turn on Bluetooth in order to create a wireless connection, you should use the {@link #ACTION_REQUEST_ENABLE} Intent, which will raise a dialog that requests user permission to turn on Bluetooth. The {@link #enable()} method is provided only for applications that include a user interface for changing system settings, such as a &quot;power manager&quot; app.&lt;/p&gt; &lt;p&gt;This is an asynchronous call: it will return immediately, and clients should listen for {@link #ACTION_STATE_CHANGED} to be notified of subsequent adapter state changes. If this call returns true, then the adapter state will immediately transition from {@link #STATE_OFF} to {@link #STATE_TURNING_ON}, and some time later transition to either {@link #STATE_OFF} or {@link #STATE_ON}. If this call returns false then there was an immediate problem that will prevent the adapter from being turned on - such as Airplane mode, or the adapter is already turned on." />
-      <item value="Turn on the local Bluetooth adapter&amp;mdash;do not use without explicit * user action to turn on Bluetooth." />
-      <item value="rationale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1571" />
-        <entry key="ENGLISH" value="1572" />
+        <entry key="CHINESE" value="1577" />
+        <entry key="ENGLISH" value="1578" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
