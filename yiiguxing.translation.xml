@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重" />
+      <item value="重新扫描" />
+      <item value="rescan" />
       <item value="InputImage width and height should be at least 32!" />
       <item value="re Scan" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
@@ -48,14 +51,11 @@
       <item value="A {@link Future} that accepts completion listeners. Each listener has an associated executor, and * it is invoked using this executor once the future's computation is {@linkplain Future#isDone() * complete}. If the computation has already completed when the listener is added, the listener will * execute immediately. *" />
       <item value="&lt;p&gt;When the producer stops producing images, it may also stop producing images for other use cases, such as {@link Preview}, so it is important for the analyzer to keep up with frame rate, &lt;i&gt;on average&lt;/i&gt;. Failure to keep up with frame rate may lead to jank in the frame stream and a diminished user experience. If more time is needed for analysis on &lt;i&gt;some&lt;/i&gt; frames, consider increasing the image queue depth with {@link Builder#setImageQueueDepth(int)}." />
       <item value="&lt;p&gt;Once the producer has produced the number of images equal to the image queue depth, and none have been closed, the producer will stop producing images. Note that images may be queued internally and not be delivered to the analyzer until the last delivered image has been closed with {@link ImageProxy#close()}. These internally queued images will count towards the total number of images that the producer can provide at any one time." />
-      <item value="&lt;p&gt;This strategy ignores the value set by {@link Builder#setImageQueueDepth(int)}. Only one image will be delivered for analysis at a time. If more images are produced while that image is being analyzed, they will be dropped and not queued for delivery. Once the image being analyzed is closed by calling {@link ImageProxy#close()}, the next latest image will be delivered." />
-      <item value="Block the producer from generating new images." />
-      <item value="PRODUCER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1581" />
-        <entry key="ENGLISH" value="1582" />
+        <entry key="CHINESE" value="1582" />
+        <entry key="ENGLISH" value="1583" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
