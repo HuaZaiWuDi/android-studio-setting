@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt; A {@link Camera} is a logical camera which wraps one or more {@link CameraInternal}. * At any time, only one of the CameraInternal is actually being used, and it is up to the * implementation to determine which {@link CameraInternal} will be used. Certain * reconfigurations of the camera will cause the current CameraInternal camera to change. * However, it will be transparent to the {@link CameraControl} and {@link CameraInfo} * retrieved from {@link #getCameraControl()} and {@link #getCameraInfo()}." />
+      <item value="Returns all of the {@link CameraInternal} instances represented by this Camera." />
+      <item value="&lt;p&gt;The {@link CameraControl} provides various asynchronous operations like zoom, focus and * metering. {@link CameraControl} is ready to start operations immediately after use cases * are bound to the {@link Camera}. When all {@link UseCase}s are unbound, or when camera is * closing or closed because lifecycle onStop happens, the {@link CameraControl} will reject * all operations." />
+      <item value="Returns information about this camera." />
+      <item value="Set the extended config of the Camera and potentially reconfigure the camera." />
+      <item value="Get the currently set extended config of the Camera." />
+      <item value="Enable the torch or disable the torch." />
+      <item value="Starts a focus and metering action configured by the {@link FocusMeteringAction}." />
       <item value="Captures a new still image for in memory access." />
       <item value="Unbinds all use cases from the lifecycle and removes them from CameraX." />
       <item value="Portrait" />
@@ -43,19 +51,11 @@
       <item value="不允许绑定" />
       <item value="重新绑定" />
       <item value="已绑定" />
-      <item value="binded" />
-      <item value="unregister" />
-      <item value="cloud" />
-      <item value="cloudcloud" />
-      <item value="生成" />
-      <item value="UNSUPPORT" />
-      <item value="transport" />
-      <item value="传输" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1536" />
-        <entry key="ENGLISH" value="1537" />
+        <entry key="CHINESE" value="1545" />
+        <entry key="ENGLISH" value="1546" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
