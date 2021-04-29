@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UNAVAILABLE" />
       <item value="重" />
       <item value="重新扫描" />
       <item value="rescan" />
@@ -50,12 +51,11 @@
       <item value="Adds a {@link CameraFilter} to the current set of filters. It can be used to select a * specific camera based on customized criteria like Camera2 characteristics. * * &lt;p&gt;Multiple filters can be added. All filters will be applied by the order they were * added when the {@link CameraSelector} is used, and the first camera output from the * filters will be selected." />
       <item value="A {@link Future} that accepts completion listeners. Each listener has an associated executor, and * it is invoked using this executor once the future's computation is {@linkplain Future#isDone() * complete}. If the computation has already completed when the listener is added, the listener will * execute immediately. *" />
       <item value="&lt;p&gt;When the producer stops producing images, it may also stop producing images for other use cases, such as {@link Preview}, so it is important for the analyzer to keep up with frame rate, &lt;i&gt;on average&lt;/i&gt;. Failure to keep up with frame rate may lead to jank in the frame stream and a diminished user experience. If more time is needed for analysis on &lt;i&gt;some&lt;/i&gt; frames, consider increasing the image queue depth with {@link Builder#setImageQueueDepth(int)}." />
-      <item value="&lt;p&gt;Once the producer has produced the number of images equal to the image queue depth, and none have been closed, the producer will stop producing images. Note that images may be queued internally and not be delivered to the analyzer until the last delivered image has been closed with {@link ImageProxy#close()}. These internally queued images will count towards the total number of images that the producer can provide at any one time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1582" />
-        <entry key="ENGLISH" value="1583" />
+        <entry key="CHINESE" value="1583" />
+        <entry key="ENGLISH" value="1584" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
