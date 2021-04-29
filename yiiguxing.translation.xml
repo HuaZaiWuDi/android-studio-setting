@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Users can call {@link #createPoint(float, float)} to * create a {@link MeteringPoint} with x, y, default size. There is also another * variant, {@link #createPoint(float, float, float)} for apps that want to also specify size." />
+      <item value="x to be converted." />
+      <item value="The width/height is the width/height in surface orientation which defines an area (0, 0) * - (width, height) within which apps can specify metering points by * {@link #createPoint(float, float)}. Setting width and height to 1.0 will allow points to * be created by specifying normalized coordinates." />
+      <item value="Creates the {@link SurfaceOrientedMeteringPointFactory} by width and height" />
+      <item value="If more points are added than what current device supports for AF/AE/AWB, only the * first point and then in order up to the number of points supported on the device * will be enabled." />
+      <item value="The points added here will be appended in order after the point set in builder * constructor." />
+      <item value="&lt;p&gt;Metering mode is a combination of flags consisting of {@link #FLAG_AF}, * {@link #FLAG_AE}, and {@link #FLAG_AWB}. This combination indicates whether the * {@link MeteringPoint} is used to set AF(Auto Focus) region, AE(Auto Exposure) region * or AWB(Auto White Balance) region." />
+      <item value="Adds another {@link MeteringPoint} with specified meteringMode." />
+      <item value="A flag used in metering mode indicating the AF (Auto Focus) region is enabled. An autofocus * scan is also triggered when FLAG_AF is assigned." />
+      <item value="A flag used in metering mode indicating the AWB (Auto White Balance) region is enabled." />
+      <item value="A flag used in metering mode indicating the AE (Auto Exposure) region is enabled." />
+      <item value="&lt;p&gt; This is used to apply additional configs that modifying the behavior of the camera and any attached {@link UseCase}. For example, this may limit the instances of CameraInternal that are used or configure the {@link ImageCapture} to use a {@link androidx.camera.core.impl.CaptureProcessor} in order to implement effects such as HDR or bokeh." />
+      <item value="&lt;p&gt; This is used to apply additional configs that modifying the behavior of the camera and * any attached {@link UseCase}. For example, this may limit the instances of CameraInternal * that are used or configure the {@link ImageCapture} to use a * {@link androidx.camera.core.impl.CaptureProcessor} in order to implement effects such as * HDR or bokeh." />
       <item value="&lt;p&gt; A {@link Camera} is a logical camera which wraps one or more {@link CameraInternal}. * At any time, only one of the CameraInternal is actually being used, and it is up to the * implementation to determine which {@link CameraInternal} will be used. Certain * reconfigurations of the camera will cause the current CameraInternal camera to change. * However, it will be transparent to the {@link CameraControl} and {@link CameraInfo} * retrieved from {@link #getCameraControl()} and {@link #getCameraInfo()}." />
       <item value="Returns all of the {@link CameraInternal} instances represented by this Camera." />
       <item value="&lt;p&gt;The {@link CameraControl} provides various asynchronous operations like zoom, focus and * metering. {@link CameraControl} is ready to start operations immediately after use cases * are bound to the {@link Camera}. When all {@link UseCase}s are unbound, or when camera is * closing or closed because lifecycle onStop happens, the {@link CameraControl} will reject * all operations." />
@@ -38,24 +51,11 @@
       <item value="dump" />
       <item value="A strategy for reusing bitmaps that requires any returned bitmap's dimensions to exactly match * those request." />
       <item value="Cloud" />
-      <item value="Returns the value mapped by {@code name} if it exists and is a {@code * JSONObject}, or null otherwise." />
-      <item value="at result of type java.lang.String cannot be converted to JSONObject" />
-      <item value="Sets a Disposable on this emitter; any previous Disposable * or Cancellable will be disposed/cancelled." />
-      <item value="A functional interface that has a single cancel method * that can throw." />
-      <item value="Sets a Cancellable on this emitter; any previous {@link Disposable} * or {@link Cancellable} will be disposed/cancelled." />
-      <item value="the emitter that is called when a SingleObserver subscribes to the returned {@code Single}" />
-      <item value="Provides an API (via a cold Completable) that bridges the reactive world with the callback-style world." />
-      <item value="Read error: ssl=0xc8d77828: I/O error during system call, Software caused connection abort" />
-      <item value="refresh Wifi List" />
-      <item value="Movement" />
-      <item value="不允许绑定" />
-      <item value="重新绑定" />
-      <item value="已绑定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1545" />
-        <entry key="ENGLISH" value="1546" />
+        <entry key="CHINESE" value="1560" />
+        <entry key="ENGLISH" value="1561" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
