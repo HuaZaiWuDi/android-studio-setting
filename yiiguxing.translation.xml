@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the layout direction of the {@link ViewPort}." />
+      <item value="The viewPort which represents the visible camera sensor rect." />
+      <item value="val aspectRatio = Rational(viewFinder.width, viewFinder.height) * val viewport = ViewPort.Builder(aspectRatio, preview.getTargetRotation()).build()" />
+      <item value="aspect ratio of the output crop rect if the scale type * is FILL_START, FILL_CENTER or FILL_END. This is usually the * width/height of the preview viewfinder that displays the camera * feed. The value is ignored if the scale type is FIT." />
       <item value="The aspect ratio is the ratio of width to height in the sensor orientation." />
       <item value="It is not allowed to set both target aspect ratio and target resolution on the same * use case. Attempting so will throw an IllegalArgumentException when building the Config." />
       <item value="The target aspect ratio is used as a hint when determining the resulting output aspect * ratio which may differ from the request, possibly due to device constraints. * Application code should check the resulting output's resolution and the resulting * aspect ratio may not be exactly as requested." />
@@ -22,7 +26,6 @@
       <item value="Demonstrates use of RenderScript to display a live HDR feed from camera frames using Camera2 API." />
       <item value="Adds another {@link MeteringPoint} with default metering mode {@link #FLAG_AF} | * {@link #FLAG_AE} | {@link #FLAG_AWB}." />
       <item value="When the torch is enabled, the torch will remain enabled during photo capture regardless * of the flashMode setting. When the torch is disabled, flash will function as the flash mode * set by either {@link ImageCapture#setFlashMode(int)} or * {@link ImageCapture.Builder#setFlashMode(int)}." />
-      <item value="The viewPort which represents the visible camera sensor rect." />
       <item value="Unbinds all specified use cases from the lifecycle." />
       <item value="It modifies both current zoomRatio and linearZoom so if apps are observing * zoomRatio or linearZoom, they will get the update as well. If the ratio is * smaller than {@link ZoomState#getMinZoomRatio()} or larger than * {@link ZoomState#getMaxZoomRatio()}, the returned {@link ListenableFuture} will fail with * {@link IllegalArgumentException} and it won't modify current zoom ratio. It is the * applications' duty to clamp the ratio." />
       <item value="Sets current zoom by ratio." />
@@ -48,14 +51,11 @@
       <item value="Broadcast Action: Request the media scanner to scan a file and add it to * the media database." />
       <item value="MediaScannerConnection provides a way for applications to pass a newly created or downloaded media file to the media scanner service The media scanner service will read metadata from the file and add the file to the media content provider. The MediaScannerConnectionClient provides an interface for the media scanner service to return the Uri for a newly scanned file to the client of the MediaScannerConnection class." />
       <item value="LENS FACING FRONT" />
-      <item value="Optimizes capture pipeline to prioritize latency over image quality. When the capture * mode is set to MIN_LATENCY, images may capture faster but the image quality may be * reduced." />
-      <item value="The executor in which the callback methods will be run." />
-      <item value="Returns the set capture mode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1617" />
-        <entry key="ENGLISH" value="1618" />
+        <entry key="CHINESE" value="1621" />
+        <entry key="ENGLISH" value="1622" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
