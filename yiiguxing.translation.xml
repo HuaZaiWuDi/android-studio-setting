@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CHARACTER SET" />
+      <item value="quit Synchronously" />
+      <item value="We're decoding as fast as possible, so when one decode fails, start another." />
+      <item value="Got product query message" />
       <item value="Hybrid Binarizer" />
       <item value="Hybrid" />
       <item value="This class is the core bitmap class used by ZXing to represent 1 bit data. Reader objects * accept a BinaryBitmap and attempt to decode it." />
@@ -47,15 +51,11 @@
       <item value="Set the exposure compensation value for the camera." />
       <item value="Torch" />
       <item value="When the torch is enabled via {@link CameraControl#enableTorch(boolean)}, the torch * will remain enabled during photo capture regardless of flashMode setting. When * the torch is disabled, flash will function as specified by {@link #setFlashMode(int)}." />
-      <item value="Returns if flash unit is available or not." />
-      <item value="The flash control for the subsequent photo capture requests. Applications can check if * there is a flash unit via {@link CameraInfo#hasFlashUnit()} and update UI component if * necessary. If there is no flash unit, then calling this API will take no effect for the * subsequent photo capture requests and they will act like {@link #FLASH_MODE_OFF}." />
-      <item value="Auto flash. The flash will be used according to the camera system's determination when taking * a picture." />
-      <item value="Constant emission of light during preview, auto-focus and snapshot. * This can also be used for video recording." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1636" />
-        <entry key="ENGLISH" value="1637" />
+        <entry key="CHINESE" value="1640" />
+        <entry key="ENGLISH" value="1641" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
