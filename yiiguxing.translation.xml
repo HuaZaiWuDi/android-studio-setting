@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The aspect ratio is the ratio of width to height in the sensor orientation." />
+      <item value="It is not allowed to set both target aspect ratio and target resolution on the same * use case. Attempting so will throw an IllegalArgumentException when building the Config." />
+      <item value="The target aspect ratio is used as a hint when determining the resulting output aspect * ratio which may differ from the request, possibly due to device constraints. * Application code should check the resulting output's resolution and the resulting * aspect ratio may not be exactly as requested." />
+      <item value="If not set, resolutions with aspect ratio 4:3 will be considered in higher * priority." />
+      <item value="Sets the aspect ratio of the intended target for images from this configuration." />
+      <item value="If not set, the target rotation will default to the value of * {@link android.view.Display#getRotation()} of the default display at the time the * use case is created. The use case is fully created once it has been attached to a camera." />
+      <item value="This adjust the {@link ImageInfo#getRotationDegrees()} of the {@link ImageProxy} * passed to {@link Analyzer#analyze(ImageProxy)}. The rotation value of ImageInfo will * be the rotation, which if applied to the output image, will make the image match * target rotation specified here." />
+      <item value="Sets the rotation of the intended target for images from this configuration." />
+      <item value="The target resolution attempts to establish a minimum bound for the image resolution. * The actual image resolution will be the closest available resolution in size that is not * smaller than the target resolution, as determined by the Camera implementation. However, * if no resolution exists that is equal to or larger than the target resolution, the * nearest available resolution smaller than the target resolution will be chosen. * Resolutions with the same aspect ratio of the provided {@link Size} will be considered in * higher priority before resolutions of different aspect ratios." />
+      <item value="Sets the resolution of the intended target from this configuration." />
+      <item value="A unique string identifier for the instance of the class being * configured." />
+      <item value="The rotation of the intended target." />
+      <item value="Sets the default executor that will be used for background tasks." />
+      <item value="The maximum available resolution that could be selected for an {@link ImageAnalysis} * is limited to be under 1080p. The limitation of 1080p for {@link ImageAnalysis} has * considered both performance and quality factors so that users can obtain reasonable * quality and smooth output stream under 1080p." />
+      <item value="The resolution {@link Size} should be expressed in the coordinate frame after * rotating the supported sizes by the target rotation. For example, a device with * portrait natural orientation in natural target rotation requesting a portrait image * may specify 480x640, and the same device, rotated 90 degrees and targeting landscape * orientation may specify 640x480." />
       <item value="possible" />
       <item value="Point" />
       <item value="Possible" />
@@ -36,26 +51,11 @@
       <item value="Optimizes capture pipeline to prioritize latency over image quality. When the capture * mode is set to MIN_LATENCY, images may capture faster but the image quality may be * reduced." />
       <item value="The executor in which the callback methods will be run." />
       <item value="Returns the set capture mode." />
-      <item value="Adds a {@link CameraFilter} to the current set of filters. It can be used to select a * specific camera based on customized criteria like Camera2 characteristics." />
-      <item value="Requires a camera with the specified lens facing." />
-      <item value="Lens Facing" />
-      <item value="Waits if necessary for at most the given time for the computation * to complete, and then retrieves its result, if available." />
-      <item value="Unbinds all use cases from the lifecycle and removes them from CameraX. * * &lt;p&gt;This will initiate a close of every currently open camera." />
-      <item value="Allows shutting down this {@link ProcessCameraProvider} instance so a new instance can be * retrieved by {@link #getInstance(Context)}." />
-      <item value="Users can call {@link #createPoint(float, float)} to * create a {@link MeteringPoint} with x, y, default size. There is also another * variant, {@link #createPoint(float, float, float)} for apps that want to also specify size." />
-      <item value="x to be converted." />
-      <item value="The width/height is the width/height in surface orientation which defines an area (0, 0) * - (width, height) within which apps can specify metering points by * {@link #createPoint(float, float)}. Setting width and height to 1.0 will allow points to * be created by specifying normalized coordinates." />
-      <item value="Creates the {@link SurfaceOrientedMeteringPointFactory} by width and height" />
-      <item value="If more points are added than what current device supports for AF/AE/AWB, only the * first point and then in order up to the number of points supported on the device * will be enabled." />
-      <item value="The points added here will be appended in order after the point set in builder * constructor." />
-      <item value="&lt;p&gt;Metering mode is a combination of flags consisting of {@link #FLAG_AF}, * {@link #FLAG_AE}, and {@link #FLAG_AWB}. This combination indicates whether the * {@link MeteringPoint} is used to set AF(Auto Focus) region, AE(Auto Exposure) region * or AWB(Auto White Balance) region." />
-      <item value="Adds another {@link MeteringPoint} with specified meteringMode." />
-      <item value="A flag used in metering mode indicating the AF (Auto Focus) region is enabled. An autofocus * scan is also triggered when FLAG_AF is assigned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1601" />
-        <entry key="ENGLISH" value="1602" />
+        <entry key="CHINESE" value="1617" />
+        <entry key="ENGLISH" value="1618" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
