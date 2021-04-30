@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
+      <item value="Obtain the screen size." />
+      <item value="Obtain the screen density to calculate the viewfinder's rectangle." />
       <item value="CHARACTER SET" />
       <item value="quit Synchronously" />
       <item value="We're decoding as fast as possible, so when one decode fails, start another." />
@@ -48,14 +51,11 @@
       <item value="Unbinds all specified use cases from the lifecycle." />
       <item value="It modifies both current zoomRatio and linearZoom so if apps are observing * zoomRatio or linearZoom, they will get the update as well. If the ratio is * smaller than {@link ZoomState#getMinZoomRatio()} or larger than * {@link ZoomState#getMaxZoomRatio()}, the returned {@link ListenableFuture} will fail with * {@link IllegalArgumentException} and it won't modify current zoom ratio. It is the * applications' duty to clamp the ratio." />
       <item value="Sets current zoom by ratio." />
-      <item value="Set the exposure compensation value for the camera." />
-      <item value="Torch" />
-      <item value="When the torch is enabled via {@link CameraControl#enableTorch(boolean)}, the torch * will remain enabled during photo capture regardless of flashMode setting. When * the torch is disabled, flash will function as specified by {@link #setFlashMode(int)}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1640" />
-        <entry key="ENGLISH" value="1641" />
+        <entry key="CHINESE" value="1645" />
+        <entry key="ENGLISH" value="1646" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
