@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="possible" />
+      <item value="Point" />
+      <item value="Possible" />
       <item value="Demonstrates use of RenderScript to display a live HDR feed from camera frames using Camera2 API." />
       <item value="Adds another {@link MeteringPoint} with default metering mode {@link #FLAG_AF} | * {@link #FLAG_AE} | {@link #FLAG_AWB}." />
       <item value="When the torch is enabled, the torch will remain enabled during photo capture regardless * of the flashMode setting. When the torch is disabled, flash will function as the flash mode * set by either {@link ImageCapture#setFlashMode(int)} or * {@link ImageCapture.Builder#setFlashMode(int)}." />
@@ -48,14 +51,11 @@
       <item value="&lt;p&gt;Metering mode is a combination of flags consisting of {@link #FLAG_AF}, * {@link #FLAG_AE}, and {@link #FLAG_AWB}. This combination indicates whether the * {@link MeteringPoint} is used to set AF(Auto Focus) region, AE(Auto Exposure) region * or AWB(Auto White Balance) region." />
       <item value="Adds another {@link MeteringPoint} with specified meteringMode." />
       <item value="A flag used in metering mode indicating the AF (Auto Focus) region is enabled. An autofocus * scan is also triggered when FLAG_AF is assigned." />
-      <item value="A flag used in metering mode indicating the AWB (Auto White Balance) region is enabled." />
-      <item value="A flag used in metering mode indicating the AE (Auto Exposure) region is enabled." />
-      <item value="&lt;p&gt; This is used to apply additional configs that modifying the behavior of the camera and any attached {@link UseCase}. For example, this may limit the instances of CameraInternal that are used or configure the {@link ImageCapture} to use a {@link androidx.camera.core.impl.CaptureProcessor} in order to implement effects such as HDR or bokeh." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1598" />
-        <entry key="ENGLISH" value="1599" />
+        <entry key="CHINESE" value="1601" />
+        <entry key="ENGLISH" value="1602" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
