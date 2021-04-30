@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hybrid Binarizer" />
+      <item value="Hybrid" />
+      <item value="This class is the core bitmap class used by ZXing to represent 1 bit data. Reader objects * accept a BinaryBitmap and attempt to decode it." />
+      <item value="Allowed lengths of encoded data -- reject anything else. Maps to an {@code int[]}." />
+      <item value="The caller needs to be notified via callback when a possible {@link ResultPoint} * is found. Maps to a {@link ResultPointCallback}." />
+      <item value="Encapsulates a type of hint that a caller may pass to a barcode reader to help it * more quickly or accurately decode it. It is up to implementations to decide what, * if anything, to do with the information that is supplied." />
+      <item value="Unspecified, application-specific hint. Maps to an unspecified {@link Object}." />
       <item value="corner" />
       <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
       <item value="Sets the source information of the image being processed by detectors, including size and * whether it is flipped, which informs how to transform image coordinates later" />
@@ -44,18 +51,11 @@
       <item value="The flash control for the subsequent photo capture requests. Applications can check if * there is a flash unit via {@link CameraInfo#hasFlashUnit()} and update UI component if * necessary. If there is no flash unit, then calling this API will take no effect for the * subsequent photo capture requests and they will act like {@link #FLASH_MODE_OFF}." />
       <item value="Auto flash. The flash will be used according to the camera system's determination when taking * a picture." />
       <item value="Constant emission of light during preview, auto-focus and snapshot. * This can also be used for video recording." />
-      <item value="Always flash. The flash will always be used when taking a picture." />
-      <item value="UNAVAILABLE" />
-      <item value="重" />
-      <item value="重新扫描" />
-      <item value="rescan" />
-      <item value="InputImage width and height should be at least 32!" />
-      <item value="re Scan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1629" />
-        <entry key="ENGLISH" value="1630" />
+        <entry key="CHINESE" value="1636" />
+        <entry key="ENGLISH" value="1637" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
