@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the denominator of the rational" />
+      <item value="the numerator of the rational" />
+      <item value="The signs of the numerator and the denominator may be flipped such that the denominator * is always positive. Both the numerator and denominator will be converted to their reduced * forms (see {@link #equals} for more details).&lt;/p&gt;" />
+      <item value="Create a {@code Rational} with a given numerator and denominator.&lt;/p&gt;" />
       <item value="Sets the layout direction of the {@link ViewPort}." />
       <item value="The viewPort which represents the visible camera sensor rect." />
       <item value="val aspectRatio = Rational(viewFinder.width, viewFinder.height) * val viewport = ViewPort.Builder(aspectRatio, preview.getTargetRotation()).build()" />
@@ -47,15 +51,11 @@
       <item value="container" />
       <item value="If the folder selected is an external media directory, this is unnecessary but otherwise other apps will not be able to access our images unless we scan them using [MediaScannerConnection]" />
       <item value="Image capture scanned into media store" />
-      <item value="Callers should migrate to inserting items directly into * {@link MediaStore}, where they will be automatically scanned * after each mutation." />
-      <item value="Broadcast Action: Request the media scanner to scan a file and add it to * the media database." />
-      <item value="MediaScannerConnection provides a way for applications to pass a newly created or downloaded media file to the media scanner service The media scanner service will read metadata from the file and add the file to the media content provider. The MediaScannerConnectionClient provides an interface for the media scanner service to return the Uri for a newly scanned file to the client of the MediaScannerConnection class." />
-      <item value="LENS FACING FRONT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1621" />
-        <entry key="ENGLISH" value="1622" />
+        <entry key="CHINESE" value="1625" />
+        <entry key="ENGLISH" value="1626" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
