@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="策略" />
       <item value="transitive" />
       <item value="Obtain the screen density to calculate the viewfinder's rectangle." />
       <item value="Continuously" />
@@ -50,12 +51,11 @@
       <item value="possible" />
       <item value="Point" />
       <item value="Possible" />
-      <item value="Demonstrates use of RenderScript to display a live HDR feed from camera frames using Camera2 API." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1654" />
-        <entry key="ENGLISH" value="1655" />
+        <entry key="CHINESE" value="1655" />
+        <entry key="ENGLISH" value="1656" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
