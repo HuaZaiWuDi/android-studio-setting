@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Continuously" />
+      <item value="计算" />
+      <item value="container" />
       <item value="策略" />
       <item value="transitive" />
       <item value="Obtain the screen density to calculate the viewfinder's rectangle." />
-      <item value="Continuously" />
       <item value="Area" />
       <item value="3. Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
       <item value="Correction" />
@@ -49,13 +51,11 @@
       <item value="The maximum available resolution that could be selected for an {@link ImageAnalysis} * is limited to be under 1080p. The limitation of 1080p for {@link ImageAnalysis} has * considered both performance and quality factors so that users can obtain reasonable * quality and smooth output stream under 1080p." />
       <item value="The resolution {@link Size} should be expressed in the coordinate frame after * rotating the supported sizes by the target rotation. For example, a device with * portrait natural orientation in natural target rotation requesting a portrait image * may specify 480x640, and the same device, rotated 90 degrees and targeting landscape * orientation may specify 640x480." />
       <item value="possible" />
-      <item value="Point" />
-      <item value="Possible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1655" />
-        <entry key="ENGLISH" value="1656" />
+        <entry key="CHINESE" value="1658" />
+        <entry key="ENGLISH" value="1659" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
