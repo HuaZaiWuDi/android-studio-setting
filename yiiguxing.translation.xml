@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Obtain the screen density to calculate the viewfinder's rectangle." />
       <item value="Continuously" />
       <item value="Area" />
       <item value="3. Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
       <item value="Correction" />
-      <item value="Obtain the screen density to calculate the viewfinder's rectangle." />
       <item value="Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
       <item value="Obtain the screen size." />
       <item value="CHARACTER SET" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1652" />
-        <entry key="ENGLISH" value="1653" />
+        <entry key="CHINESE" value="1653" />
+        <entry key="ENGLISH" value="1654" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
