@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Area" />
+      <item value="3. Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
       <item value="Correction" />
       <item value="Continuously" />
       <item value="Obtain the screen density to calculate the viewfinder's rectangle." />
@@ -49,13 +51,11 @@
       <item value="Possible" />
       <item value="Demonstrates use of RenderScript to display a live HDR feed from camera frames using Camera2 API." />
       <item value="Adds another {@link MeteringPoint} with default metering mode {@link #FLAG_AF} | * {@link #FLAG_AE} | {@link #FLAG_AWB}." />
-      <item value="When the torch is enabled, the torch will remain enabled during photo capture regardless * of the flashMode setting. When the torch is disabled, flash will function as the flash mode * set by either {@link ImageCapture#setFlashMode(int)} or * {@link ImageCapture.Builder#setFlashMode(int)}." />
-      <item value="Unbinds all specified use cases from the lifecycle." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1649" />
-        <entry key="ENGLISH" value="1650" />
+        <entry key="CHINESE" value="1651" />
+        <entry key="ENGLISH" value="1652" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
