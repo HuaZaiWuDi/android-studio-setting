@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate" />
       <item value="The crop rectangle specifies the region of valid pixels in the image, * using coordinates in the largest-resolution plane." />
       <item value="Get the crop rectangle associated with this frame." />
       <item value="Return the arguments supplied when the fragment was instantiated." />
@@ -50,12 +51,11 @@
       <item value="Sets the resolution of the intended target from this configuration." />
       <item value="A unique string identifier for the instance of the class being * configured." />
       <item value="The rotation of the intended target." />
-      <item value="Sets the default executor that will be used for background tasks." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1661" />
-        <entry key="ENGLISH" value="1662" />
+        <entry key="CHINESE" value="1662" />
+        <entry key="ENGLISH" value="1663" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
