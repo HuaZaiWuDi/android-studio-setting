@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inferred type is ZXingScanFragment but Fragment was expected" />
       <item value="More than one file was found with OS independent path" />
       <item value="Duplicate" />
       <item value="The crop rectangle specifies the region of valid pixels in the image, * using coordinates in the largest-resolution plane." />
@@ -50,12 +51,11 @@
       <item value="Sets the rotation of the intended target for images from this configuration." />
       <item value="The target resolution attempts to establish a minimum bound for the image resolution. * The actual image resolution will be the closest available resolution in size that is not * smaller than the target resolution, as determined by the Camera implementation. However, * if no resolution exists that is equal to or larger than the target resolution, the * nearest available resolution smaller than the target resolution will be chosen. * Resolutions with the same aspect ratio of the provided {@link Size} will be considered in * higher priority before resolutions of different aspect ratios." />
       <item value="Sets the resolution of the intended target from this configuration." />
-      <item value="A unique string identifier for the instance of the class being * configured." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1663" />
-        <entry key="ENGLISH" value="1664" />
+        <entry key="CHINESE" value="1664" />
+        <entry key="ENGLISH" value="1665" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
