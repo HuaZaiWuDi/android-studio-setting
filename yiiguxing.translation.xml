@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ranging requests are triggered using * {@link #startRanging(RangingRequest, Executor, RangingResultCallback)}. Results (in case of * successful operation) are returned in the {@link RangingResultCallback#onRangingResults(List)} * callback." />
+      <item value="This class provides the primary API for measuring distance (range) to other devices using the * IEEE 802.11mc Wi-Fi Round Trip Time (RTT) technology." />
+      <item value="Wi-Fi RTT may not be usable at some points, e.g. when Wi-Fi is disabled. To validate that * the functionality is available use the {@link #isAvailable()} function. To track * changes in RTT usability register for the {@link #ACTION_WIFI_RTT_STATE_CHANGED} * broadcast. Note that this broadcast is not sticky - you should register for it and then * check the above API to avoid a race condition." />
       <item value="aware" />
       <item value="Neighbor Awareness Networking" />
       <item value="Glide" />
@@ -48,14 +51,11 @@
       <item value="Sets the layout direction of the {@link ViewPort}." />
       <item value="The viewPort which represents the visible camera sensor rect." />
       <item value="val aspectRatio = Rational(viewFinder.width, viewFinder.height) * val viewport = ViewPort.Builder(aspectRatio, preview.getTargetRotation()).build()" />
-      <item value="aspect ratio of the output crop rect if the scale type * is FILL_START, FILL_CENTER or FILL_END. This is usually the * width/height of the preview viewfinder that displays the camera * feed. The value is ignored if the scale type is FIT." />
-      <item value="The aspect ratio is the ratio of width to height in the sensor orientation." />
-      <item value="It is not allowed to set both target aspect ratio and target resolution on the same * use case. Attempting so will throw an IllegalArgumentException when building the Config." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1668" />
-        <entry key="ENGLISH" value="1668" />
+        <entry key="CHINESE" value="1670" />
+        <entry key="ENGLISH" value="1671" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
