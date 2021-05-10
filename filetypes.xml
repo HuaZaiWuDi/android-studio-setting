@@ -1,19 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="channel" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="test.py" type="PLAIN_TEXT" />
       <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="ecg" type="PLAIN_TEXT" />
+      <mapping ext="spl" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="rar" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="spl" type="PLAIN_TEXT" />
       <mapping pattern="progress_bg_blue" type="XML" />
     </extensionMap>
   </component>
