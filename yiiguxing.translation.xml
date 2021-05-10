@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lunarch" />
+      <item value="启动" />
+      <item value="跳转" />
+      <item value="lunch" />
+      <item value="lunach" />
       <item value="inferred type is ZXingScanFragment but Fragment was expected" />
       <item value="More than one file was found with OS independent path" />
       <item value="Duplicate" />
@@ -46,16 +51,11 @@
       <item value="The target aspect ratio is used as a hint when determining the resulting output aspect * ratio which may differ from the request, possibly due to device constraints. * Application code should check the resulting output's resolution and the resulting * aspect ratio may not be exactly as requested." />
       <item value="If not set, resolutions with aspect ratio 4:3 will be considered in higher * priority." />
       <item value="Sets the aspect ratio of the intended target for images from this configuration." />
-      <item value="If not set, the target rotation will default to the value of * {@link android.view.Display#getRotation()} of the default display at the time the * use case is created. The use case is fully created once it has been attached to a camera." />
-      <item value="This adjust the {@link ImageInfo#getRotationDegrees()} of the {@link ImageProxy} * passed to {@link Analyzer#analyze(ImageProxy)}. The rotation value of ImageInfo will * be the rotation, which if applied to the output image, will make the image match * target rotation specified here." />
-      <item value="Sets the rotation of the intended target for images from this configuration." />
-      <item value="The target resolution attempts to establish a minimum bound for the image resolution. * The actual image resolution will be the closest available resolution in size that is not * smaller than the target resolution, as determined by the Camera implementation. However, * if no resolution exists that is equal to or larger than the target resolution, the * nearest available resolution smaller than the target resolution will be chosen. * Resolutions with the same aspect ratio of the provided {@link Size} will be considered in * higher priority before resolutions of different aspect ratios." />
-      <item value="Sets the resolution of the intended target from this configuration." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1664" />
-        <entry key="ENGLISH" value="1665" />
+        <entry key="CHINESE" value="1667" />
+        <entry key="ENGLISH" value="1667" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
