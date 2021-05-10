@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Neighbor Awareness Networking" />
       <item value="aware" />
       <item value="Glide" />
       <item value="lunarch" />
@@ -50,7 +51,6 @@
       <item value="aspect ratio of the output crop rect if the scale type * is FILL_START, FILL_CENTER or FILL_END. This is usually the * width/height of the preview viewfinder that displays the camera * feed. The value is ignored if the scale type is FIT." />
       <item value="The aspect ratio is the ratio of width to height in the sensor orientation." />
       <item value="It is not allowed to set both target aspect ratio and target resolution on the same * use case. Attempting so will throw an IllegalArgumentException when building the Config." />
-      <item value="The target aspect ratio is used as a hint when determining the resulting output aspect * ratio which may differ from the request, possibly due to device constraints. * Application code should check the resulting output's resolution and the resulting * aspect ratio may not be exactly as requested." />
     </histories>
     <option name="languageScores">
       <map>
