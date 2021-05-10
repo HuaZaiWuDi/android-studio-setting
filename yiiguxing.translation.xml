@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aware" />
       <item value="Glide" />
       <item value="lunarch" />
       <item value="启动" />
@@ -50,11 +51,10 @@
       <item value="The aspect ratio is the ratio of width to height in the sensor orientation." />
       <item value="It is not allowed to set both target aspect ratio and target resolution on the same * use case. Attempting so will throw an IllegalArgumentException when building the Config." />
       <item value="The target aspect ratio is used as a hint when determining the resulting output aspect * ratio which may differ from the request, possibly due to device constraints. * Application code should check the resulting output's resolution and the resulting * aspect ratio may not be exactly as requested." />
-      <item value="If not set, resolutions with aspect ratio 4:3 will be considered in higher * priority." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1667" />
+        <entry key="CHINESE" value="1668" />
         <entry key="ENGLISH" value="1668" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
