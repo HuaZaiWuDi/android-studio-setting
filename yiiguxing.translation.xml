@@ -1,63 +1,69 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="This position is deleted or do not have permission for this operation" />
-      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
-      <item value="Curtain" />
-      <item value="Returns {@code true} if the FragmentManager's state has already been saved * by its host. Any operations that would change saved state should not be performed * if this method returns true. For example, any popBackStack() method, such as * {@link #popBackStackImmediate()} or any FragmentTransaction using * {@link FragmentTransaction#commit()} instead of * {@link FragmentTransaction#commitAllowingStateLoss()} will change * the state and will result in an error." />
-      <item value="Perform" />
-      <item value="This is dangerous because the action can * be lost if the activity needs to later be restored from its state." />
-      <item value="If you don't want to lost the action:" />
-      <item value="Perform the transaction action after onSaveInstanceState. * &lt;p&gt; * This is dangerous because the action can * be lost if the activity needs to later be restored from its state. * &lt;p&gt; * &lt;p&gt;" />
-      <item value="Warning: Perform this popTo() action after onSaveInstanceState!" />
-      <item value="在myguard 返回提示Tips中增加空格" />
-      <item value="Virtual" />
-      <item value="loading more or manual refresh" />
-      <item value="CORRESPONDING" />
-      <item value="Function of current event -&gt; target disposal event. ViewModel has a very simple lifecycle. * It is created and then later on cleared. So we only have two events and all subscriptions * will only be disposed at [ViewModelEvent.CLEARED]." />
-      <item value="and access prior to that will result in IllegalArgumentException." />
-      <item value="Returns a property delegate for a read/write property with a non-`null` value that is initialized not during * object construction time but at a later time. Trying to read the property before the initial value has been * assigned results in an exception." />
-      <item value="Wrapper around layoutChildren() that handles animating changes caused by layout. * Animations work on the assumption that there are five different kinds of items * in play: * PERSISTENT: items are visible before and after layout * REMOVED: items were visible before layout and were removed by the app * ADDED: items did not exist before layout and were added by the app * DISAPPEARING: items exist in the data set before/after, but changed from * visible to non-visible in the process of layout (they were moved off * screen as a side-effect of other changes) * APPEARING: items exist in the data set before/after, but changed from * non-visible to visible in the process of layout (they were moved on * screen as a side-effect of other changes) * The overall approach figures out what items exist before/after layout and * infers one of the five above states for each of the items. Then the animations * are set up accordingly: * PERSISTENT views are animated via * {@link ItemAnimator#animatePersistence(ViewHolder, ItemHolderInfo, ItemHolderInfo)} * DISAPPEARING views are animated via * {@link ItemAnimator#animateDisappearance(ViewHolder, ItemHolderInfo, ItemHolderInfo)} * APPEARING views are animated via * {@link ItemAnimator#animateAppearance(ViewHolder, ItemHolderInfo, ItemHolderInfo)} * and changed views are animated via * {@link ItemAnimator#animateChange(ViewHolder, ViewHolder, ItemHolderInfo, ItemHolderInfo)}." />
-      <item value="dispatch" />
-      <item value="설정한 요일/시간에만 실행됩니다." />
-      <item value="category" />
-      <item value="provides check for verifying if this element represents a null value or not." />
-      <item value="Signals success with 0L value after the given delay for each SingleObserver." />
-      <item value="Scenario" />
-      <item value="sealed" />
-      <item value="assign" />
-      <item value="Returns whether the given CharSequence contains only digits." />
-      <item value="Radio" />
-      <item value="重复" />
-      <item value="DURATION" />
-      <item value="현재 신호세기" />
-      <item value="현재" />
-      <item value="신호세기" />
-      <item value="강함" />
-      <item value="약함" />
-      <item value="현재 신호 강도" />
-      <item value="건물명" />
-      <item value="현재 신호 세기&lt;" />
-      <item value="스마트 허브를 업데이트 중입니다. 잠시 후 다시 시도해주세요." />
-      <item value="움직임 감지됨" />
-      <item value="업데이트 실패, 다시 시도해 주세요." />
-      <item value="업그레이드 실패，다시 시도해주세요." />
-      <item value="우리집 지킴이 모든 기기가 삭제되어 실행/해제할 수 없습니다." />
-      <item value="Helper class to manage a queue of pending tasks to send to notification side channel * listeners." />
-      <item value="Returns whether notifications from the calling package are not blocked." />
-      <item value="실행할 수 없는 조건이 있습니다. 다시 확인 후 저장해 주세요." />
-      <item value="certification path." />
-      <item value="An exception indicating one of a variety of problems encountered when * validating a certification path." />
-      <item value="This is the exception for invalid or inappropriate algorithm parameters." />
-      <item value="이름 설정" />
-      <item value="자동화 명칭으로 노출됨" />
+      <item value="Ranging requests are triggered using * {@link #startRanging(RangingRequest, Executor, RangingResultCallback)}. Results (in case of * successful operation) are returned in the {@link RangingResultCallback#onRangingResults(List)} * callback." />
+      <item value="This class provides the primary API for measuring distance (range) to other devices using the * IEEE 802.11mc Wi-Fi Round Trip Time (RTT) technology." />
+      <item value="Wi-Fi RTT may not be usable at some points, e.g. when Wi-Fi is disabled. To validate that * the functionality is available use the {@link #isAvailable()} function. To track * changes in RTT usability register for the {@link #ACTION_WIFI_RTT_STATE_CHANGED} * broadcast. Note that this broadcast is not sticky - you should register for it and then * check the above API to avoid a race condition." />
+      <item value="aware" />
+      <item value="Neighbor Awareness Networking" />
+      <item value="Glide" />
+      <item value="lunarch" />
+      <item value="启动" />
+      <item value="跳转" />
+      <item value="lunch" />
+      <item value="lunach" />
+      <item value="inferred type is ZXingScanFragment but Fragment was expected" />
+      <item value="More than one file was found with OS independent path" />
+      <item value="Duplicate" />
+      <item value="The crop rectangle specifies the region of valid pixels in the image, * using coordinates in the largest-resolution plane." />
+      <item value="Get the crop rectangle associated with this frame." />
+      <item value="Return the arguments supplied when the fragment was instantiated." />
+      <item value="Continuously" />
+      <item value="计算" />
+      <item value="container" />
+      <item value="策略" />
+      <item value="transitive" />
+      <item value="Obtain the screen density to calculate the viewfinder's rectangle." />
+      <item value="Area" />
+      <item value="3. Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
+      <item value="Correction" />
+      <item value="Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
+      <item value="Obtain the screen size." />
+      <item value="CHARACTER SET" />
+      <item value="quit Synchronously" />
+      <item value="We're decoding as fast as possible, so when one decode fails, start another." />
+      <item value="Got product query message" />
+      <item value="Hybrid Binarizer" />
+      <item value="Hybrid" />
+      <item value="This class is the core bitmap class used by ZXing to represent 1 bit data. Reader objects * accept a BinaryBitmap and attempt to decode it." />
+      <item value="Allowed lengths of encoded data -- reject anything else. Maps to an {@code int[]}." />
+      <item value="The caller needs to be notified via callback when a possible {@link ResultPoint} * is found. Maps to a {@link ResultPointCallback}." />
+      <item value="Encapsulates a type of hint that a caller may pass to a barcode reader to help it * more quickly or accurately decode it. It is up to implementations to decide what, * if anything, to do with the information that is supplied." />
+      <item value="Unspecified, application-specific hint. Maps to an unspecified {@link Object}." />
+      <item value="corner" />
+      <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
+      <item value="Sets the source information of the image being processed by detectors, including size and * whether it is flipped, which informs how to transform image coordinates later" />
+      <item value="Graphic" />
+      <item value="the denominator of the rational" />
+      <item value="the numerator of the rational" />
+      <item value="The signs of the numerator and the denominator may be flipped such that the denominator * is always positive. Both the numerator and denominator will be converted to their reduced * forms (see {@link #equals} for more details).&lt;/p&gt;" />
+      <item value="Create a {@code Rational} with a given numerator and denominator.&lt;/p&gt;" />
+      <item value="Sets the layout direction of the {@link ViewPort}." />
+      <item value="The viewPort which represents the visible camera sensor rect." />
+      <item value="val aspectRatio = Rational(viewFinder.width, viewFinder.height) * val viewport = ViewPort.Builder(aspectRatio, preview.getTargetRotation()).build()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="1670" />
+        <entry key="ENGLISH" value="1671" />
+        <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
+        <entry key="KURDISH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
