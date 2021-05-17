@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Token has expired" />
       <item value="is not specified." />
       <item value="wifi Name" />
       <item value="Classics" />
@@ -52,12 +53,11 @@
       <item value="Sets the source information of the image being processed by detectors, including size and * whether it is flipped, which informs how to transform image coordinates later" />
       <item value="Graphic" />
       <item value="the denominator of the rational" />
-      <item value="the numerator of the rational" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1673" />
-        <entry key="ENGLISH" value="1673" />
+        <entry key="ENGLISH" value="1674" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
