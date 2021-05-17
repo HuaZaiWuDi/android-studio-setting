@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="if request contains invalid network capabilities" />
+      <item value="if request limit per UID is exceeded" />
+      <item value="request Network" />
       <item value="Token has expired" />
       <item value="is not specified." />
       <item value="wifi Name" />
@@ -50,14 +53,11 @@
       <item value="Unspecified, application-specific hint. Maps to an unspecified {@link Object}." />
       <item value="corner" />
       <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
-      <item value="Sets the source information of the image being processed by detectors, including size and * whether it is flipped, which informs how to transform image coordinates later" />
-      <item value="Graphic" />
-      <item value="the denominator of the rational" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1673" />
-        <entry key="ENGLISH" value="1674" />
+        <entry key="CHINESE" value="1678" />
+        <entry key="ENGLISH" value="1677" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
