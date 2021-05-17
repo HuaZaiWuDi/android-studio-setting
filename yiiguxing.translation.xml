@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="网关可用" />
+      <item value="net" />
       <item value="if request contains invalid network capabilities" />
       <item value="if request limit per UID is exceeded" />
       <item value="request Network" />
@@ -51,13 +53,11 @@
       <item value="The caller needs to be notified via callback when a possible {@link ResultPoint} * is found. Maps to a {@link ResultPointCallback}." />
       <item value="Encapsulates a type of hint that a caller may pass to a barcode reader to help it * more quickly or accurately decode it. It is up to implementations to decide what, * if anything, to do with the information that is supplied." />
       <item value="Unspecified, application-specific hint. Maps to an unspecified {@link Object}." />
-      <item value="corner" />
-      <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1678" />
-        <entry key="ENGLISH" value="1677" />
+        <entry key="CHINESE" value="1688" />
+        <entry key="ENGLISH" value="1687" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
