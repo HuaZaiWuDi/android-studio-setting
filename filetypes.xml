@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <hashBang value="*.markdown" type="Markdown" />
-      <hashBang value="*.md" type="Markdown" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="test.py" type="PLAIN_TEXT" />
       <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
