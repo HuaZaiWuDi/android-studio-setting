@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Un Peek" />
       <item value="次要" />
       <item value="ci" />
       <item value="Expected performance impact from inlining is insignificant. Inlining works best for functions with parameters of functional type" />
@@ -52,13 +53,12 @@
       <item value="Got product query message" />
       <item value="Hybrid Binarizer" />
       <item value="Hybrid" />
-      <item value="This class is the core bitmap class used by ZXing to represent 1 bit data. Reader objects * accept a BinaryBitmap and attempt to decode it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1695" />
         <entry key="ENGLISH" value="1694" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
