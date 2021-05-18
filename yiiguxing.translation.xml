@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Expected performance impact from inlining is insignificant. Inlining works best for functions with parameters of functional type" />
+      <item value="internal" />
       <item value="网关可用" />
       <item value="net" />
       <item value="if request contains invalid network capabilities" />
@@ -51,13 +53,11 @@
       <item value="This class is the core bitmap class used by ZXing to represent 1 bit data. Reader objects * accept a BinaryBitmap and attempt to decode it." />
       <item value="Allowed lengths of encoded data -- reject anything else. Maps to an {@code int[]}." />
       <item value="The caller needs to be notified via callback when a possible {@link ResultPoint} * is found. Maps to a {@link ResultPointCallback}." />
-      <item value="Encapsulates a type of hint that a caller may pass to a barcode reader to help it * more quickly or accurately decode it. It is up to implementations to decide what, * if anything, to do with the information that is supplied." />
-      <item value="Unspecified, application-specific hint. Maps to an unspecified {@link Object}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1688" />
-        <entry key="ENGLISH" value="1687" />
+        <entry key="CHINESE" value="1689" />
+        <entry key="ENGLISH" value="1688" />
         <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
