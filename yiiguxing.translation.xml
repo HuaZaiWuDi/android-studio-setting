@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Starline" />
       <item value="Un Peek" />
       <item value="次要" />
       <item value="ci" />
@@ -52,11 +53,10 @@
       <item value="We're decoding as fast as possible, so when one decode fails, start another." />
       <item value="Got product query message" />
       <item value="Hybrid Binarizer" />
-      <item value="Hybrid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1695" />
+        <entry key="CHINESE" value="1696" />
         <entry key="ENGLISH" value="1694" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
