@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="undefined" />
       <item value="下拉浏览" />
       <item value="Starline" />
       <item value="Un Peek" />
@@ -52,12 +53,11 @@
       <item value="CHARACTER SET" />
       <item value="quit Synchronously" />
       <item value="We're decoding as fast as possible, so when one decode fails, start another." />
-      <item value="Got product query message" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1696" />
-        <entry key="ENGLISH" value="1694" />
+        <entry key="ENGLISH" value="1695" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
