@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Returns a set containing all elements that are contained by both this set and the specified collection" />
+      <item value="The elements in the resulting list are in the same order as they were in the source collection." />
+      <item value="Returns a list containing only elements from the given collection having distinct keys returned by the given selector function." />
+      <item value="Consider the following scenario: we have 2 instances of LiveData, let's name them liveData1 and liveData2, and we want to merge their emissions in one object: liveDataMerger. Then, liveData1 and liveData2 will become sources for the MediatorLiveData liveDataMerger and every time onChanged callback is called for either of them, we set a new value in liveDataMerger." />
+      <item value="Mediator Live Data" />
       <item value="undefined" />
       <item value="下拉浏览" />
       <item value="Starline" />
@@ -48,16 +53,11 @@
       <item value="Area" />
       <item value="3. Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
       <item value="Correction" />
-      <item value="Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
-      <item value="Obtain the screen size." />
-      <item value="CHARACTER SET" />
-      <item value="quit Synchronously" />
-      <item value="We're decoding as fast as possible, so when one decode fails, start another." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1696" />
-        <entry key="ENGLISH" value="1695" />
+        <entry key="CHINESE" value="1700" />
+        <entry key="ENGLISH" value="1697" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
