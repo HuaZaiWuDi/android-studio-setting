@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Nsd Manager" />
       <item value="Diagram attachment access error: cannot display diagram" />
       <item value="capability" />
       <item value="plugin" />
@@ -52,12 +53,11 @@
       <item value="lunarch" />
       <item value="启动" />
       <item value="跳转" />
-      <item value="lunch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1710" />
-        <entry key="ENGLISH" value="1700" />
+        <entry key="ENGLISH" value="1701" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
