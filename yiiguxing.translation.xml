@@ -3,13 +3,15 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="provisioned" />
+      <item value="provis" />
+      <item value="pr" />
       <item value="Nsd Manager" />
       <item value="Diagram attachment access error: cannot display diagram" />
       <item value="capability" />
       <item value="plugin" />
       <item value="plu" />
       <item value="prg" />
-      <item value="pr" />
       <item value="Caused by: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 1322 path $.androidAccessLink" />
       <item value="p" />
       <item value="canary&#10;" />
@@ -51,12 +53,10 @@
       <item value="Neighbor Awareness Networking" />
       <item value="Glide" />
       <item value="lunarch" />
-      <item value="启动" />
-      <item value="跳转" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1710" />
+        <entry key="CHINESE" value="1711" />
         <entry key="ENGLISH" value="1701" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
