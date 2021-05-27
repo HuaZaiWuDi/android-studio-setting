@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="on Terminate" />
       <item value="ACCESS" />
       <item value="provisioned" />
       <item value="provis" />
@@ -52,12 +53,11 @@
       <item value="Wi-Fi RTT may not be usable at some points, e.g. when Wi-Fi is disabled. To validate that * the functionality is available use the {@link #isAvailable()} function. To track * changes in RTT usability register for the {@link #ACTION_WIFI_RTT_STATE_CHANGED} * broadcast. Note that this broadcast is not sticky - you should register for it and then * check the above API to avoid a race condition." />
       <item value="aware" />
       <item value="Neighbor Awareness Networking" />
-      <item value="Glide" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1711" />
-        <entry key="ENGLISH" value="1702" />
+        <entry key="ENGLISH" value="1703" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
