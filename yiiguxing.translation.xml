@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="不支持" />
+      <item value="support" />
+      <item value="s" />
+      <item value="支持" />
       <item value="Supertypes of the following classes cannot be resolved." />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.lumi.module.module_ble.model.ble.AqaraBleManager, unresolved supertypes: no.nordicsemi.android.ble.livedata.ObservableBleManager" />
       <item value="on Terminate" />
@@ -49,15 +53,11 @@
       <item value="wifi Name" />
       <item value="Classics" />
       <item value="Could not initialize class org.codehaus.groovy.runtime.InvokerHelper" />
-      <item value="inspection" />
-      <item value="Ranging requests are triggered using * {@link #startRanging(RangingRequest, Executor, RangingResultCallback)}. Results (in case of * successful operation) are returned in the {@link RangingResultCallback#onRangingResults(List)} * callback." />
-      <item value="This class provides the primary API for measuring distance (range) to other devices using the * IEEE 802.11mc Wi-Fi Round Trip Time (RTT) technology." />
-      <item value="Wi-Fi RTT may not be usable at some points, e.g. when Wi-Fi is disabled. To validate that * the functionality is available use the {@link #isAvailable()} function. To track * changes in RTT usability register for the {@link #ACTION_WIFI_RTT_STATE_CHANGED} * broadcast. Note that this broadcast is not sticky - you should register for it and then * check the above API to avoid a race condition." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1711" />
-        <entry key="ENGLISH" value="1707" />
+        <entry key="CHINESE" value="1732" />
+        <entry key="ENGLISH" value="1728" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
