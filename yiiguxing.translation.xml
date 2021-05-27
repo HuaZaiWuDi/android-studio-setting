@@ -3,8 +3,8 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
-      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.lumi.module.module_ble.model.ble.AqaraBleManager, unresolved supertypes: no.nordicsemi.android.ble.livedata.ObservableBleManager" />
       <item value="Supertypes of the following classes cannot be resolved." />
+      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.lumi.module.module_ble.model.ble.AqaraBleManager, unresolved supertypes: no.nordicsemi.android.ble.livedata.ObservableBleManager" />
       <item value="on Terminate" />
       <item value="ACCESS" />
       <item value="provisioned" />
@@ -57,7 +57,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1711" />
-        <entry key="ENGLISH" value="1706" />
+        <entry key="ENGLISH" value="1707" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
