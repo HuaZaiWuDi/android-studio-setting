@@ -49,7 +49,13 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta alt f" />
@@ -111,9 +117,6 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="SendEOF" />
-  <action id="ShowLog">
-    <keyboard-shortcut first-keystroke="shift meta f" />
-  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>

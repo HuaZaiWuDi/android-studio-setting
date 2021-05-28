@@ -1,62 +1,64 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="471" />
+    <option name="newTranslationDialogY" value="-595" />
     <histories>
-      <item value="wifi Name" />
-      <item value="Classics" />
-      <item value="Could not initialize class org.codehaus.groovy.runtime.InvokerHelper" />
-      <item value="inspection" />
-      <item value="Ranging requests are triggered using * {@link #startRanging(RangingRequest, Executor, RangingResultCallback)}. Results (in case of * successful operation) are returned in the {@link RangingResultCallback#onRangingResults(List)} * callback." />
-      <item value="This class provides the primary API for measuring distance (range) to other devices using the * IEEE 802.11mc Wi-Fi Round Trip Time (RTT) technology." />
-      <item value="Wi-Fi RTT may not be usable at some points, e.g. when Wi-Fi is disabled. To validate that * the functionality is available use the {@link #isAvailable()} function. To track * changes in RTT usability register for the {@link #ACTION_WIFI_RTT_STATE_CHANGED} * broadcast. Note that this broadcast is not sticky - you should register for it and then * check the above API to avoid a race condition." />
-      <item value="aware" />
-      <item value="Neighbor Awareness Networking" />
-      <item value="Glide" />
-      <item value="lunarch" />
-      <item value="启动" />
-      <item value="跳转" />
-      <item value="lunch" />
-      <item value="lunach" />
-      <item value="inferred type is ZXingScanFragment but Fragment was expected" />
-      <item value="More than one file was found with OS independent path" />
-      <item value="Duplicate" />
-      <item value="The crop rectangle specifies the region of valid pixels in the image, * using coordinates in the largest-resolution plane." />
-      <item value="Get the crop rectangle associated with this frame." />
-      <item value="Return the arguments supplied when the fragment was instantiated." />
-      <item value="Continuously" />
-      <item value="计算" />
-      <item value="container" />
-      <item value="策略" />
-      <item value="transitive" />
-      <item value="Obtain the screen density to calculate the viewfinder's rectangle." />
-      <item value="Area" />
-      <item value="3. Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
-      <item value="Correction" />
-      <item value="Calculate the viewfinder's rectangle, which in the middle of the layout. //Set the scanning area. (Optional. Rect can be null. If no settings are specified, it will be located in the middle of the layout.)" />
-      <item value="Obtain the screen size." />
-      <item value="CHARACTER SET" />
-      <item value="quit Synchronously" />
-      <item value="We're decoding as fast as possible, so when one decode fails, start another." />
-      <item value="Got product query message" />
-      <item value="Hybrid Binarizer" />
-      <item value="Hybrid" />
-      <item value="This class is the core bitmap class used by ZXing to represent 1 bit data. Reader objects * accept a BinaryBitmap and attempt to decode it." />
-      <item value="Allowed lengths of encoded data -- reject anything else. Maps to an {@code int[]}." />
-      <item value="The caller needs to be notified via callback when a possible {@link ResultPoint} * is found. Maps to a {@link ResultPointCallback}." />
-      <item value="Encapsulates a type of hint that a caller may pass to a barcode reader to help it * more quickly or accurately decode it. It is up to implementations to decide what, * if anything, to do with the information that is supplied." />
-      <item value="Unspecified, application-specific hint. Maps to an unspecified {@link Object}." />
-      <item value="corner" />
-      <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
-      <item value="Sets the source information of the image being processed by detectors, including size and * whether it is flipped, which informs how to transform image coordinates later" />
-      <item value="Graphic" />
-      <item value="the denominator of the rational" />
-      <item value="the numerator of the rational" />
-      <item value="The signs of the numerator and the denominator may be flipped such that the denominator * is always positive. Both the numerator and denominator will be converted to their reduced * forms (see {@link #equals} for more details).&lt;/p&gt;" />
+      <item value="Internal" />
+      <item value="Add an input or output annotation." />
+      <item value="Type 'ImageOptimizationTask' property 'compressJpgTool' is missing an input or output annotation." />
+      <item value="capitalize" />
+      <item value="artifact" />
+      <item value="left Shift" />
+      <item value="Renderscript" />
+      <item value="Transform" />
+      <item value="不支持" />
+      <item value="support" />
+      <item value="s" />
+      <item value="支持" />
+      <item value="Supertypes of the following classes cannot be resolved." />
+      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.lumi.module.module_ble.model.ble.AqaraBleManager, unresolved supertypes: no.nordicsemi.android.ble.livedata.ObservableBleManager" />
+      <item value="on Terminate" />
+      <item value="ACCESS" />
+      <item value="provisioned" />
+      <item value="provis" />
+      <item value="pr" />
+      <item value="Nsd Manager" />
+      <item value="Diagram attachment access error: cannot display diagram" />
+      <item value="capability" />
+      <item value="plugin" />
+      <item value="plu" />
+      <item value="prg" />
+      <item value="Caused by: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 1322 path $.androidAccessLink" />
+      <item value="p" />
+      <item value="canary&#10;" />
+      <item value="canary" />
+      <item value="can" />
+      <item value="Matrix" />
+      <item value="onDraw" />
+      <item value="onMeasure" />
+      <item value="Barrier" />
+      <item value="Recognize" />
+      <item value="Returns a set containing all elements that are contained by both this set and the specified collection" />
+      <item value="The elements in the resulting list are in the same order as they were in the source collection." />
+      <item value="Returns a list containing only elements from the given collection having distinct keys returned by the given selector function." />
+      <item value="Consider the following scenario: we have 2 instances of LiveData, let's name them liveData1 and liveData2, and we want to merge their emissions in one object: liveDataMerger. Then, liveData1 and liveData2 will become sources for the MediatorLiveData liveDataMerger and every time onChanged callback is called for either of them, we set a new value in liveDataMerger." />
+      <item value="Mediator Live Data" />
+      <item value="undefined" />
+      <item value="下拉浏览" />
+      <item value="Starline" />
+      <item value="Un Peek" />
+      <item value="次要" />
+      <item value="ci" />
+      <item value="Expected performance impact from inlining is insignificant. Inlining works best for functions with parameters of functional type" />
+      <item value="internal" />
+      <item value="网关可用" />
+      <item value="net" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1672" />
-        <entry key="ENGLISH" value="1673" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="1735" />
+        <entry key="ENGLISH" value="1736" />
+        <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -68,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621217233437" />
+    <option name="lastTrimTime" value="1621823694379" />
   </component>
 </application>
