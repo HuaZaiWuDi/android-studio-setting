@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="left Shift" />
       <item value="Renderscript" />
       <item value="Transform" />
       <item value="不支持" />
@@ -52,12 +53,11 @@
       <item value="request Network" />
       <item value="Token has expired" />
       <item value="is not specified." />
-      <item value="wifi Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1733" />
-        <entry key="ENGLISH" value="1729" />
+        <entry key="ENGLISH" value="1730" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
