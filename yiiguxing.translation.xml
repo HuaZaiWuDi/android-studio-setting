@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="More than one file was found with OS independent path" />
+      <item value="Check your module classpath for missing or conflicting dependencies" />
       <item value="Cannot access 'com.lumi.arms.base.viewmodel.AutoDisposeViewModel' which is a supertype of 'com.lumiunited.aqara.viewmodel.VirtualAccessViewModel'. Check your module classpath for missing or conflicting dependencies" />
       <item value="Could not resolve all task dependencies for configuration" />
       <item value="compile" />
@@ -49,13 +51,11 @@
       <item value="Returns a list containing only elements from the given collection having distinct keys returned by the given selector function." />
       <item value="Consider the following scenario: we have 2 instances of LiveData, let's name them liveData1 and liveData2, and we want to merge their emissions in one object: liveDataMerger. Then, liveData1 and liveData2 will become sources for the MediatorLiveData liveDataMerger and every time onChanged callback is called for either of them, we set a new value in liveDataMerger." />
       <item value="Mediator Live Data" />
-      <item value="undefined" />
-      <item value="下拉浏览" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1744" />
-        <entry key="ENGLISH" value="1744" />
+        <entry key="CHINESE" value="1745" />
+        <entry key="ENGLISH" value="1746" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
