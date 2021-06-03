@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="This project uses AndroidX dependencies" />
+      <item value="The following" />
+      <item value="This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled. Set this property to true in the gradle.properties file and retry." />
       <item value="indeterminate" />
       <item value="Rationale(" />
       <item value="grant" />
@@ -50,14 +53,11 @@
       <item value="p" />
       <item value="canary&#10;" />
       <item value="canary" />
-      <item value="can" />
-      <item value="Matrix" />
-      <item value="onDraw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1759" />
-        <entry key="ENGLISH" value="1760" />
+        <entry key="CHINESE" value="1762" />
+        <entry key="ENGLISH" value="1763" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
