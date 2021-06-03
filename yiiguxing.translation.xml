@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Rationale(" />
       <item value="grant" />
       <item value="Negative" />
       <item value="Positive" />
@@ -52,12 +53,11 @@
       <item value="Matrix" />
       <item value="onDraw" />
       <item value="onMeasure" />
-      <item value="Barrier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1757" />
-        <entry key="ENGLISH" value="1758" />
+        <entry key="CHINESE" value="1758" />
+        <entry key="ENGLISH" value="1759" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
