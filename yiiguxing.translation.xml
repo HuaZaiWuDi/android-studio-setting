@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Coordinator" />
       <item value="前缀" />
       <item value="qian'zu" />
       <item value="More than one file was found with OS independent path" />
@@ -52,12 +53,11 @@
       <item value="Recognize" />
       <item value="Returns a set containing all elements that are contained by both this set and the specified collection" />
       <item value="The elements in the resulting list are in the same order as they were in the source collection." />
-      <item value="Returns a list containing only elements from the given collection having distinct keys returned by the given selector function." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1753" />
-        <entry key="ENGLISH" value="1754" />
+        <entry key="CHINESE" value="1754" />
+        <entry key="ENGLISH" value="1755" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
