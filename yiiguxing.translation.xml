@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="启动&#10;&#10;" />
+      <item value="启动&#10;" />
+      <item value="需要先调用 getAccessConfigLink&#10;" />
+      <item value="需要先调用 getAccessConfigLink" />
       <item value="Could not resolve all files for configuration" />
       <item value="This project uses AndroidX dependencies" />
       <item value="The following" />
@@ -49,15 +53,11 @@
       <item value="capability" />
       <item value="plugin" />
       <item value="plu" />
-      <item value="prg" />
-      <item value="Caused by: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 1322 path $.androidAccessLink" />
-      <item value="p" />
-      <item value="canary&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1763" />
-        <entry key="ENGLISH" value="1764" />
+        <entry key="CHINESE" value="1770" />
+        <entry key="ENGLISH" value="1771" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
