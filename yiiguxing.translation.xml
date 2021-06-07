@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="非法入网" />
+      <item value="非法" />
+      <item value="入网非法" />
       <item value="Composite" />
       <item value="Nest" />
       <item value="启动&#10;&#10;" />
@@ -50,14 +53,11 @@
       <item value="provisioned" />
       <item value="provis" />
       <item value="pr" />
-      <item value="Nsd Manager" />
-      <item value="Diagram attachment access error: cannot display diagram" />
-      <item value="capability" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1772" />
-        <entry key="ENGLISH" value="1773" />
+        <entry key="CHINESE" value="1779" />
+        <entry key="ENGLISH" value="1780" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
