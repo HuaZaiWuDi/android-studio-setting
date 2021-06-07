@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Flowable" />
+      <item value="buffer" />
       <item value="非法入网" />
       <item value="非法" />
       <item value="入网非法" />
@@ -51,13 +53,11 @@
       <item value="on Terminate" />
       <item value="ACCESS" />
       <item value="provisioned" />
-      <item value="provis" />
-      <item value="pr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1779" />
-        <entry key="ENGLISH" value="1780" />
+        <entry key="CHINESE" value="1781" />
+        <entry key="ENGLISH" value="1781" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
