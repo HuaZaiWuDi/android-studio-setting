@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Nest" />
       <item value="启动&#10;&#10;" />
       <item value="启动&#10;" />
       <item value="需要先调用 getAccessConfigLink&#10;" />
@@ -52,12 +53,11 @@
       <item value="Diagram attachment access error: cannot display diagram" />
       <item value="capability" />
       <item value="plugin" />
-      <item value="plu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1770" />
-        <entry key="ENGLISH" value="1771" />
+        <entry key="CHINESE" value="1771" />
+        <entry key="ENGLISH" value="1772" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622433522825" />
+    <option name="lastTrimTime" value="1623032386930" />
   </component>
 </application>
