@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="自定义" />
       <item value="has not been attached yet" />
       <item value="Least" />
       <item value="Rationale" />
@@ -52,12 +53,11 @@
       <item value="artifact" />
       <item value="left Shift" />
       <item value="Renderscript" />
-      <item value="Transform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1796" />
-        <entry key="ENGLISH" value="1797" />
+        <entry key="CHINESE" value="1803" />
+        <entry key="ENGLISH" value="1804" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
