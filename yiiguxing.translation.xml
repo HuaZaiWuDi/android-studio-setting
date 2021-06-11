@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="ARouter init logistics center exception" />
       <item value="Check your module classpath for missing or conflicting dependencie" />
       <item value="use post instead of set since this can be created on any thread" />
       <item value="Absent" />
@@ -52,12 +53,11 @@
       <item value="Internal" />
       <item value="Add an input or output annotation." />
       <item value="Type 'ImageOptimizationTask' property 'compressJpgTool' is missing an input or output annotation." />
-      <item value="capitalize" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1806" />
-        <entry key="ENGLISH" value="1806" />
+        <entry key="ENGLISH" value="1807" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
