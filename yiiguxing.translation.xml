@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="use post instead of set since this can be created on any thread" />
+      <item value="Absent" />
       <item value="自定义" />
       <item value="has not been attached yet" />
       <item value="Least" />
@@ -51,13 +53,11 @@
       <item value="Type 'ImageOptimizationTask' property 'compressJpgTool' is missing an input or output annotation." />
       <item value="capitalize" />
       <item value="artifact" />
-      <item value="left Shift" />
-      <item value="Renderscript" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1803" />
-        <entry key="ENGLISH" value="1804" />
+        <entry key="CHINESE" value="1805" />
+        <entry key="ENGLISH" value="1806" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
