@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="lease make sure you have the required dependencies in the classpath:" />
       <item value="ARouter init logistics center exception" />
       <item value="Check your module classpath for missing or conflicting dependencie" />
       <item value="use post instead of set since this can be created on any thread" />
@@ -52,12 +53,11 @@
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'Gradle Libs' was added by unknown code" />
       <item value="Internal" />
       <item value="Add an input or output annotation." />
-      <item value="Type 'ImageOptimizationTask' property 'compressJpgTool' is missing an input or output annotation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1806" />
-        <entry key="ENGLISH" value="1807" />
+        <entry key="CHINESE" value="1807" />
+        <entry key="ENGLISH" value="1808" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
