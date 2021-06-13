@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Property mAdapter should be initialized before get." />
       <item value="stream was reset: CANCEL" />
       <item value="unresolved supertypes" />
       <item value="lease make sure you have the required dependencies in the classpath:" />
@@ -52,12 +53,11 @@
       <item value="Possible solutions" />
       <item value="No signature of method" />
       <item value="This resource requires authentication" />
-      <item value="Build was configured to prefer settings repositories over project repositories but repository 'Gradle Libs' was added by unknown code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1809" />
-        <entry key="ENGLISH" value="1810" />
+        <entry key="CHINESE" value="1810" />
+        <entry key="ENGLISH" value="1811" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
