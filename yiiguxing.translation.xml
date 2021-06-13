@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="stream was reset: CANCEL" />
       <item value="unresolved supertypes" />
       <item value="lease make sure you have the required dependencies in the classpath:" />
       <item value="ARouter init logistics center exception" />
@@ -52,12 +53,11 @@
       <item value="No signature of method" />
       <item value="This resource requires authentication" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'Gradle Libs' was added by unknown code" />
-      <item value="Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1808" />
-        <entry key="ENGLISH" value="1809" />
+        <entry key="CHINESE" value="1809" />
+        <entry key="ENGLISH" value="1810" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623032386930" />
+    <option name="lastTrimTime" value="1623559157767" />
   </component>
 </application>
