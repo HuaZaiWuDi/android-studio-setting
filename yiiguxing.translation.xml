@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="java.io.IOException: Cleartext HTTP traffic to 192.168.5.1 not permitted" />
       <item value="Could not execute method for android:onClick" />
       <item value="server" />
       <item value="The android.permission.CHANGE_WIFI_STATE is not a dangerous permission or special permission" />
@@ -52,12 +53,11 @@
       <item value="Check your module classpath for missing or conflicting dependencies" />
       <item value="Cannot access 'com.lumi.arms.base.viewmodel.AutoDisposeViewModel' which is a supertype of 'com.lumiunited.aqara.viewmodel.VirtualAccessViewModel'. Check your module classpath for missing or conflicting dependencies" />
       <item value="Could not resolve all task dependencies for configuration" />
-      <item value="compile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1814" />
-        <entry key="ENGLISH" value="1815" />
+        <entry key="CHINESE" value="1815" />
+        <entry key="ENGLISH" value="1816" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
