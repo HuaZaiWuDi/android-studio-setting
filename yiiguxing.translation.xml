@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="The exception could not be delivered to the consumer because it has already canceleddisposed the flow or the exception has nowhere to go to begin with." />
       <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
       <item value="deprecation" />
       <item value="threetenabp" />
@@ -52,12 +53,11 @@
       <item value="Coordinator" />
       <item value="前缀" />
       <item value="qian'zu" />
-      <item value="More than one file was found with OS independent path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1818" />
-        <entry key="ENGLISH" value="1819" />
+        <entry key="CHINESE" value="1819" />
+        <entry key="ENGLISH" value="1820" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
