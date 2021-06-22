@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found. More informationSettings | Dismiss&#10; Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work." />
+      <item value="failed to push some refs to" />
+      <item value="remote rejected" />
+      <item value="refsheadsmaster:refsheadsmaster" />
+      <item value="pre-receive hook declined" />
+      <item value="A default branch (e.g. master) does not yet exist for aqara-appsdkandroidaccess remote: Ask a project Owner or Maintainer to create a default branch:" />
+      <item value="Ask a project Owner or Maintainer to create a default branch:" />
+      <item value="Push master to originmaster was rejected by remote" />
       <item value="Manufacture" />
       <item value="The exception could not be delivered to the consumer because it has already canceleddisposed the flow or the exception has nowhere to go to begin with." />
       <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
@@ -45,19 +53,11 @@
       <item value="Could not resolve all files for configuration" />
       <item value="This project uses AndroidX dependencies" />
       <item value="The following" />
-      <item value="This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled. Set this property to true in the gradle.properties file and retry." />
-      <item value="indeterminate" />
-      <item value="Rationale(" />
-      <item value="grant" />
-      <item value="Negative" />
-      <item value="Positive" />
-      <item value="Coordinator" />
-      <item value="前缀" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1820" />
-        <entry key="ENGLISH" value="1821" />
+        <entry key="CHINESE" value="1828" />
+        <entry key="ENGLISH" value="1828" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623559157767" />
+    <option name="lastTrimTime" value="1624355897223" />
   </component>
 </application>
