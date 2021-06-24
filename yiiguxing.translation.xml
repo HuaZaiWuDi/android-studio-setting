@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="on Failed" />
+      <item value="Faied" />
       <item value="The Auto DevOps pipeline has been enabled and will be used if no alternative CI configuration file is found. More informationSettings | Dismiss&#10; Container registry is not enabled on this GitLab instance. Ask an administrator to enable it in order for Auto DevOps to work." />
       <item value="failed to push some refs to" />
       <item value="remote rejected" />
@@ -51,13 +53,12 @@
       <item value="需要先调用 getAccessConfigLink&#10;" />
       <item value="需要先调用 getAccessConfigLink" />
       <item value="Could not resolve all files for configuration" />
-      <item value="This project uses AndroidX dependencies" />
-      <item value="The following" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1828" />
-        <entry key="ENGLISH" value="1828" />
+        <entry key="ENGLISH" value="1829" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
