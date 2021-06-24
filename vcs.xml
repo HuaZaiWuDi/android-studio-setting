@@ -866,6 +866,10 @@
           <option name="url" value="git@git.aqara.com:aqara-app/sdk/android/lumidevsdk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.aqara.com:aqara-app/sdk/android/access.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
