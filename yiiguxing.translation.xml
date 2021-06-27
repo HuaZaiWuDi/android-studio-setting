@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Tenet" />
       <item value="Batch" />
       <item value="on Failed" />
       <item value="Faied" />
@@ -52,11 +53,10 @@
       <item value="启动&#10;&#10;" />
       <item value="启动&#10;" />
       <item value="需要先调用 getAccessConfigLink&#10;" />
-      <item value="需要先调用 getAccessConfigLink" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1829" />
+        <entry key="CHINESE" value="1831" />
         <entry key="ENGLISH" value="1829" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
