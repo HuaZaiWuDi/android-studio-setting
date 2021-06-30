@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="good idea" />
       <item value="Tenet" />
       <item value="Batch" />
       <item value="on Failed" />
@@ -52,11 +53,10 @@
       <item value="Nest" />
       <item value="启动&#10;&#10;" />
       <item value="启动&#10;" />
-      <item value="需要先调用 getAccessConfigLink&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1831" />
+        <entry key="CHINESE" value="1832" />
         <entry key="ENGLISH" value="1829" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624355897223" />
+    <option name="lastTrimTime" value="1625024451115" />
   </component>
 </application>
