@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="A new Android Studio Arctic Fox | 2020.3.1 Beta 4 is available in the Beta channel." />
       <item value="good idea" />
       <item value="Tenet" />
       <item value="Batch" />
@@ -52,11 +53,10 @@
       <item value="Composite" />
       <item value="Nest" />
       <item value="启动&#10;&#10;" />
-      <item value="启动&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1832" />
+        <entry key="CHINESE" value="1833" />
         <entry key="ENGLISH" value="1829" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
