@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Incompatible" />
+      <item value="was expected to be of type static but instead was found to be of type virtual" />
       <item value="Invalid sign" />
       <item value="Duplicate" />
       <item value="Beta builds include all of our new features with additional testing. We try to release updates weekly to address bugs and introduce new features. They are still subject to bugs, but we want people to see what's new as soon as possible while limiting the risk of a regression." />
@@ -51,13 +53,11 @@
       <item value="use post instead of set since this can be created on any thread" />
       <item value="Absent" />
       <item value="自定义" />
-      <item value="has not been attached yet" />
-      <item value="Least" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1846" />
-        <entry key="ENGLISH" value="1847" />
+        <entry key="CHINESE" value="1848" />
+        <entry key="ENGLISH" value="1849" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
