@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="must be a public static class to be properly recreated from instance state." />
+      <item value="syntax error" />
       <item value="judge" />
       <item value="UNSUPPORT" />
       <item value="Incompatible" />
@@ -51,13 +53,11 @@
       <item value="unresolved supertypes" />
       <item value="lease make sure you have the required dependencies in the classpath:" />
       <item value="ARouter init logistics center exception" />
-      <item value="Check your module classpath for missing or conflicting dependencie" />
-      <item value="use post instead of set since this can be created on any thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1850" />
-        <entry key="ENGLISH" value="1851" />
+        <entry key="CHINESE" value="1853" />
+        <entry key="ENGLISH" value="1854" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
