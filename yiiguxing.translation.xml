@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="rust" />
       <item value="Looper" />
       <item value="TripleLooper" />
       <item value="Triple" />
@@ -52,11 +53,10 @@
       <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
       <item value="deprecation" />
       <item value="threetenabp" />
-      <item value="java.io.IOException: Cleartext HTTP traffic to 192.168.5.1 not permitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1857" />
+        <entry key="CHINESE" value="1858" />
         <entry key="ENGLISH" value="1856" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
