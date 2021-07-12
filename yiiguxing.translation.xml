@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="The project you were looking for could not be found." />
       <item value="Promiscuous" />
       <item value="Scan requests from apps with network settings will be of high accuracy type." />
       <item value="enforce" />
@@ -52,12 +53,11 @@
       <item value="A default branch (e.g. master) does not yet exist for aqara-appsdkandroidaccess remote: Ask a project Owner or Maintainer to create a default branch:" />
       <item value="Ask a project Owner or Maintainer to create a default branch:" />
       <item value="Push master to originmaster was rejected by remote" />
-      <item value="Manufacture" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1859" />
-        <entry key="ENGLISH" value="1859" />
+        <entry key="ENGLISH" value="1860" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625537186157" />
+    <option name="lastTrimTime" value="1626058046566" />
   </component>
 </application>
