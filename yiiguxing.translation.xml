@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="客户端&#10;" />
       <item value="Package private for synthetic accessor saving" />
       <item value="Atomic Reference" />
       <item value="Atomic" />
@@ -52,12 +53,11 @@
       <item value="网络请求&#10;" />
       <item value="Returns the Client Characteristic Config Descriptor if the characteristic has the required property. It may return null if the CCCD is not there." />
       <item value="A variant of connectGatt with Handled can't be used here. Check https:github.comNordicSemiconductorAndroid-BLE-Libraryissues54" />
-      <item value="connectRequest will never be null here." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1872" />
-        <entry key="ENGLISH" value="1873" />
+        <entry key="CHINESE" value="1881" />
+        <entry key="ENGLISH" value="1882" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
