@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="handle Lifecycle Event" />
+      <item value="Least" />
+      <item value="Absent" />
       <item value="pop Self" />
       <item value="获取当前网络的网关IP地址                  &#10;注：这是早期aqara AP入网类设备不支持mdns时使用的。" />
       <item value="获取当前网络的网关IP地址+端口                 &#10;注：这是早期aqara AP入网类设备不支持mdns时使用的。    " />
@@ -50,14 +53,11 @@
       <item value="The first connection will always be done with autoConnect = false to make the connection quick. If the shouldAutoConnect() method returned true, the manager will automatically try to reconnect to this device on link loss." />
       <item value="We will receive Link Loss events only when the device is connected with autoConnect=true." />
       <item value="This should not happen in normal circumstances, but may, when Bluetooth was turned off when retrying to create a connection." />
-      <item value="Is 200 ms enough?" />
-      <item value="There are 2 ways of reconnecting to the same device: 1. Reusing the same BluetoothGatt object and calling connect() - this will force the autoConnect flag to true 2. Closing it and reopening a new instance of BluetoothGatt object. The gatt.close() is an asynchronous method. It requires some time before it's finished and device.connectGatt(...) can't be called immediately or service discovery may never finish on some older devices (Nexus 4, Android 5.0.1). If shouldAutoConnect() method returned false we can't call gatt.connect() and have to close gatt and open it again." />
-      <item value="Ensure that we will not try to discover services for a lost connection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1866" />
-        <entry key="ENGLISH" value="1867" />
+        <entry key="CHINESE" value="1869" />
+        <entry key="ENGLISH" value="1870" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
