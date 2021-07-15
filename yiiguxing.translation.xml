@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="artifact Id" />
+      <item value="group Id" />
       <item value="Enabledisable SO_TIMEOUT with the specified timeout, in milliseconds. With this option set to a non-zero timeout, a call to receive() for this DatagramSocket will block for only this amount of time. If the timeout expires, a &lt;B&gt;java.net.SocketTimeoutException&lt;B&gt; is raised, though the DatagramSocket is still valid. The option &lt;B&gt;must&lt;B&gt; be enabled prior to entering the blocking operation to have effect. The timeout must be {@code &gt; 0}. A timeout of zero is interpreted as an infinite timeout." />
       <item value="客户端&#10;" />
       <item value="Package private for synthetic accessor saving" />
@@ -51,13 +53,11 @@
       <item value="Invalid sign" />
       <item value="Duplicate" />
       <item value="Beta builds include all of our new features with additional testing. We try to release updates weekly to address bugs and introduce new features. They are still subject to bugs, but we want people to see what's new as soon as possible while limiting the risk of a regression." />
-      <item value="网络请求&#10;" />
-      <item value="Returns the Client Characteristic Config Descriptor if the characteristic has the required property. It may return null if the CCCD is not there." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1882" />
-        <entry key="ENGLISH" value="1883" />
+        <entry key="CHINESE" value="1885" />
+        <entry key="ENGLISH" value="1886" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
