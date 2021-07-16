@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Algorithm" />
       <item value="Fetch fragment instance error" />
       <item value="Failed resolution of" />
       <item value="Circular dependency between the following tasks" />
@@ -52,12 +53,11 @@
       <item value="judge" />
       <item value="UNSUPPORT" />
       <item value="Incompatible" />
-      <item value="was expected to be of type static but instead was found to be of type virtual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1888" />
-        <entry key="ENGLISH" value="1889" />
+        <entry key="CHINESE" value="1889" />
+        <entry key="ENGLISH" value="1890" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
