@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="nine" />
+      <item value="palette" />
+      <item value="exclude" />
+      <item value="Dimensions" />
+      <item value="Flavors" />
+      <item value="Suffix" />
+      <item value="Daemon" />
+      <item value="aspectjrt" />
       <item value="peek" />
       <item value="Solution" />
       <item value="Algorithm" />
@@ -45,19 +53,11 @@
       <item value="TripleLooper" />
       <item value="Triple" />
       <item value="Flinger" />
-      <item value="eFlinger" />
-      <item value="SurfaceFlinger" />
-      <item value="SurfaceFlinger " />
-      <item value="ChoreographerSurfaceFlinger " />
-      <item value="Choreographer" />
-      <item value="must be a public static class to be properly recreated from instance state." />
-      <item value="syntax error" />
-      <item value="judge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1891" />
-        <entry key="ENGLISH" value="1892" />
+        <entry key="CHINESE" value="1899" />
+        <entry key="ENGLISH" value="1900" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
