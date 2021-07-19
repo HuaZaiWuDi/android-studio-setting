@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="The mapper function returned a null value." />
       <item value="Your team can have only 3 members on the Free plan. Upgrade your plan to collaborate with more people." />
       <item value="set Report Delay" />
       <item value="lateinit property logStrategy has not been initialized" />
@@ -52,12 +53,11 @@
       <item value="The project you were looking for could not be found." />
       <item value="Promiscuous" />
       <item value="Scan requests from apps with network settings will be of high accuracy type." />
-      <item value="enforce" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1911" />
-        <entry key="ENGLISH" value="1911" />
+        <entry key="ENGLISH" value="1912" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
