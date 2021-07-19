@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="响应&#10;" />
+      <item value="interval" />
       <item value="until" />
       <item value="nine" />
       <item value="palette" />
@@ -51,13 +53,11 @@
       <item value="The exception could not be delivered to the consumer because it has already canceleddisposed the flow or the exception has nowhere to go to begin with" />
       <item value="rust" />
       <item value="Looper" />
-      <item value="TripleLooper" />
-      <item value="Triple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1900" />
-        <entry key="ENGLISH" value="1901" />
+        <entry key="CHINESE" value="1908" />
+        <entry key="ENGLISH" value="1909" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626058046566" />
+    <option name="lastTrimTime" value="1626661325521" />
   </component>
 </application>
