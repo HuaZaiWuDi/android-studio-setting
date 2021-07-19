@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Your team can have only 3 members on the Free plan. Upgrade your plan to collaborate with more people." />
       <item value="set Report Delay" />
       <item value="lateinit property logStrategy has not been initialized" />
       <item value="响应&#10;" />
@@ -52,11 +53,10 @@
       <item value="Promiscuous" />
       <item value="Scan requests from apps with network settings will be of high accuracy type." />
       <item value="enforce" />
-      <item value="The exception could not be delivered to the consumer because it has already canceleddisposed the flow or the exception has nowhere to go to begin with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1910" />
+        <entry key="CHINESE" value="1911" />
         <entry key="ENGLISH" value="1911" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
