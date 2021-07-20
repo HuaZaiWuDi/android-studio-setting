@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="could not find callback wrapper" />
       <item value="serialize" />
       <item value="The mapper function returned a null value." />
       <item value="Your team can have only 3 members on the Free plan. Upgrade your plan to collaborate with more people." />
@@ -52,12 +53,11 @@
       <item value="使用MDNS 局域网发现设备时，Aqara 设备注册的service type" />
       <item value="非法&#10;" />
       <item value="The project you were looking for could not be found." />
-      <item value="Promiscuous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1912" />
-        <entry key="ENGLISH" value="1913" />
+        <entry key="CHINESE" value="1913" />
+        <entry key="ENGLISH" value="1914" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KOREAN" value="92" />
