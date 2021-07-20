@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="We're sorry but vue-cli3-simple doesn't work properly without JavaScript enabled. Please enable it to continue." />
       <item value="Expected a com.google.gson.JsonObject but was com.google.gson.JsonPrimitive" />
       <item value="Json Primitive" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
@@ -52,11 +53,10 @@
       <item value="从AIOT平台申请的bindkey" />
       <item value="路由器wifi密码" />
       <item value="路由器wifi名" />
-      <item value="获取设备入网信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1916" />
+        <entry key="CHINESE" value="1917" />
         <entry key="ENGLISH" value="1916" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
