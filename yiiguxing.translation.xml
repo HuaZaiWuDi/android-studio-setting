@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Expected a com.google.gson.JsonObject but was com.google.gson.JsonPrimitive" />
+      <item value="Json Primitive" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
       <item value="could not find callback wrapper" />
       <item value="serialize" />
       <item value="The mapper function returned a null value." />
@@ -50,16 +53,14 @@
       <item value="路由器wifi密码" />
       <item value="路由器wifi名" />
       <item value="获取设备入网信息" />
-      <item value="使用MDNS 局域网发现设备时，Aqara 设备注册的service type" />
-      <item value="非法&#10;" />
-      <item value="The project you were looking for could not be found." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1913" />
-        <entry key="ENGLISH" value="1914" />
+        <entry key="CHINESE" value="1916" />
+        <entry key="ENGLISH" value="1916" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
