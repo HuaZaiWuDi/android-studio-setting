@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="compile" />
+      <item value="implementation" />
       <item value="placeholder" />
       <item value="We're sorry but vue-cli3-simple doesn't work properly without JavaScript enabled. Please enable it to continue." />
       <item value="Expected a com.google.gson.JsonObject but was com.google.gson.JsonPrimitive" />
@@ -51,13 +53,11 @@
       <item value="摄像头入网生成二维码信息" />
       <item value="设备入网语言" />
       <item value="设备入网域名地址" />
-      <item value="从AIOT平台申请的bindkey" />
-      <item value="路由器wifi密码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1917" />
-        <entry key="ENGLISH" value="1917" />
+        <entry key="CHINESE" value="1919" />
+        <entry key="ENGLISH" value="1918" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
