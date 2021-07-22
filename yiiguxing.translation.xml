@@ -1,8 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="540" />
-    <option name="newTranslationDialogY" value="395" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogX" value="559" />
+    <option name="newTranslationDialogY" value="-576" />
     <histories>
+      <item value="compile" />
+      <item value="implementation" />
+      <item value="placeholder" />
+      <item value="We're sorry but vue-cli3-simple doesn't work properly without JavaScript enabled. Please enable it to continue." />
+      <item value="Expected a com.google.gson.JsonObject but was com.google.gson.JsonPrimitive" />
+      <item value="Json Primitive" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
+      <item value="could not find callback wrapper" />
+      <item value="serialize" />
       <item value="The mapper function returned a null value." />
       <item value="Your team can have only 3 members on the Free plan. Upgrade your plan to collaborate with more people." />
       <item value="set Report Delay" />
@@ -44,22 +54,14 @@
       <item value="摄像头入网生成二维码信息" />
       <item value="设备入网语言" />
       <item value="设备入网域名地址" />
-      <item value="从AIOT平台申请的bindkey" />
-      <item value="路由器wifi密码" />
-      <item value="路由器wifi名" />
-      <item value="获取设备入网信息" />
-      <item value="使用MDNS 局域网发现设备时，Aqara 设备注册的service type" />
-      <item value="非法&#10;" />
-      <item value="The project you were looking for could not be found." />
-      <item value="Promiscuous" />
-      <item value="Scan requests from apps with network settings will be of high accuracy type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1911" />
-        <entry key="ENGLISH" value="1912" />
+        <entry key="CHINESE" value="1919" />
+        <entry key="ENGLISH" value="1918" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="KOREAN" value="92" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
