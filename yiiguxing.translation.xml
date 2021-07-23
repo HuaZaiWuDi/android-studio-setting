@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="559" />
     <option name="newTranslationDialogY" value="-576" />
     <histories>
+      <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter downloadListener" />
+      <item value="ArrayMap is immutable" />
+      <item value="Prompt" />
       <item value="additional" />
       <item value="on Low Memory" />
       <item value="For more information, see https:code.google.compandroidissuesdetail?id=5497 To use this class, simply invoke assistActivity() on an Activity that already has its content view set." />
@@ -51,14 +54,11 @@
       <item value="handle Lifecycle Event" />
       <item value="Least" />
       <item value="Absent" />
-      <item value="pop Self" />
-      <item value="获取当前网络的网关IP地址                  &#10;注：这是早期aqara AP入网类设备不支持mdns时使用的。" />
-      <item value="获取当前网络的网关IP地址+端口                 &#10;注：这是早期aqara AP入网类设备不支持mdns时使用的。    " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1924" />
-        <entry key="ENGLISH" value="1925" />
+        <entry key="CHINESE" value="1927" />
+        <entry key="ENGLISH" value="1928" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
