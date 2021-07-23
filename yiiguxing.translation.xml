@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="559" />
     <option name="newTranslationDialogY" value="-576" />
     <histories>
+      <item value="permitted" />
+      <item value="permit" />
+      <item value="permi" />
+      <item value="p" />
+      <item value="CURRENT MAX UNIFORM SPEED DURATION 8000" />
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter downloadListener" />
       <item value="ArrayMap is immutable" />
       <item value="Prompt" />
@@ -49,16 +54,11 @@
       <item value="Enabledisable SO_TIMEOUT with the specified timeout, in milliseconds. With this option set to a non-zero timeout, a call to receive() for this DatagramSocket will block for only this amount of time. If the timeout expires, a &lt;B&gt;java.net.SocketTimeoutException&lt;B&gt; is raised, though the DatagramSocket is still valid. The option &lt;B&gt;must&lt;B&gt; be enabled prior to entering the blocking operation to have effect. The timeout must be {@code &gt; 0}. A timeout of zero is interpreted as an infinite timeout." />
       <item value="客户端&#10;" />
       <item value="Package private for synthetic accessor saving" />
-      <item value="Atomic Reference" />
-      <item value="Atomic" />
-      <item value="handle Lifecycle Event" />
-      <item value="Least" />
-      <item value="Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1927" />
-        <entry key="ENGLISH" value="1928" />
+        <entry key="CHINESE" value="1929" />
+        <entry key="ENGLISH" value="1929" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
