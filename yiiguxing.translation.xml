@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="559" />
     <option name="newTranslationDialogY" value="-576" />
     <histories>
+      <item value="桥" />
+      <item value="qiao" />
+      <item value="qia" />
       <item value="without Title" />
       <item value="Geolocation" />
       <item value="permitted" />
@@ -51,14 +54,11 @@
       <item value="Failed resolution of" />
       <item value="Circular dependency between the following tasks" />
       <item value="artifact Id" />
-      <item value="group Id" />
-      <item value="Enabledisable SO_TIMEOUT with the specified timeout, in milliseconds. With this option set to a non-zero timeout, a call to receive() for this DatagramSocket will block for only this amount of time. If the timeout expires, a &lt;B&gt;java.net.SocketTimeoutException&lt;B&gt; is raised, though the DatagramSocket is still valid. The option &lt;B&gt;must&lt;B&gt; be enabled prior to entering the blocking operation to have effect. The timeout must be {@code &gt; 0}. A timeout of zero is interpreted as an infinite timeout." />
-      <item value="客户端&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1930" />
-        <entry key="ENGLISH" value="1931" />
+        <entry key="CHINESE" value="1935" />
+        <entry key="ENGLISH" value="1936" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
