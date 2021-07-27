@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="559" />
     <option name="newTranslationDialogY" value="-576" />
     <histories>
+      <item value="query Transfer" />
+      <item value="Transfer" />
       <item value="NONE STATE" />
       <item value="STATE INVALID" />
       <item value="Check your module classpath for missing or conflicting dependencies" />
@@ -52,13 +54,11 @@
       <item value="nine" />
       <item value="palette" />
       <item value="exclude" />
-      <item value="Dimensions" />
-      <item value="Flavors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1945" />
-        <entry key="ENGLISH" value="1946" />
+        <entry key="CHINESE" value="1946" />
+        <entry key="ENGLISH" value="1947" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
