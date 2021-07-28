@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="559" />
     <option name="newTranslationDialogY" value="-576" />
     <histories>
+      <item value="A type annotation is required on a value parameter" />
+      <item value="request" />
+      <item value="请求&#10;" />
+      <item value="qing" />
+      <item value="动态" />
       <item value="set Over Scroll Mode" />
       <item value="Assistant" />
       <item value="Geolocation" />
@@ -49,16 +54,11 @@
       <item value="The mapper function returned a null value." />
       <item value="Your team can have only 3 members on the Free plan. Upgrade your plan to collaborate with more people." />
       <item value="set Report Delay" />
-      <item value="lateinit property logStrategy has not been initialized" />
-      <item value="响应&#10;" />
-      <item value="interval" />
-      <item value="until" />
-      <item value="nine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1949" />
-        <entry key="ENGLISH" value="1950" />
+        <entry key="CHINESE" value="1967" />
+        <entry key="ENGLISH" value="1967" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
