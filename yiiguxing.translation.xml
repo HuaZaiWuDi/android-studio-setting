@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="559" />
     <option name="newTranslationDialogY" value="-576" />
     <histories>
+      <item value="Geolocation" />
       <item value="query Transfer" />
       <item value="Transfer" />
       <item value="NONE STATE" />
@@ -20,7 +21,6 @@
       <item value="qiao" />
       <item value="qia" />
       <item value="without Title" />
-      <item value="Geolocation" />
       <item value="permitted" />
       <item value="permit" />
       <item value="permi" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1946" />
-        <entry key="ENGLISH" value="1947" />
+        <entry key="CHINESE" value="1947" />
+        <entry key="ENGLISH" value="1948" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
