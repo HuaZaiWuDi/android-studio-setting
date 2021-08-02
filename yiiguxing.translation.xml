@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="559" />
     <option name="newTranslationDialogY" value="-576" />
     <histories>
+      <item value="A type annotation is required on a value parameter" />
+      <item value="request" />
+      <item value="请求&#10;" />
+      <item value="qing" />
+      <item value="动态" />
+      <item value="set Over Scroll Mode" />
+      <item value="Assistant" />
+      <item value="Geolocation" />
+      <item value="query Transfer" />
+      <item value="Transfer" />
+      <item value="NONE STATE" />
+      <item value="STATE INVALID" />
+      <item value="Check your module classpath for missing or conflicting dependencies" />
+      <item value="Middleware" />
       <item value="turn" />
       <item value="should Override Url Loading" />
       <item value="enq" />
@@ -14,7 +28,6 @@
       <item value="qiao" />
       <item value="qia" />
       <item value="without Title" />
-      <item value="Geolocation" />
       <item value="permitted" />
       <item value="permit" />
       <item value="permi" />
@@ -41,24 +54,11 @@
       <item value="The mapper function returned a null value." />
       <item value="Your team can have only 3 members on the Free plan. Upgrade your plan to collaborate with more people." />
       <item value="set Report Delay" />
-      <item value="lateinit property logStrategy has not been initialized" />
-      <item value="响应&#10;" />
-      <item value="interval" />
-      <item value="until" />
-      <item value="nine" />
-      <item value="palette" />
-      <item value="exclude" />
-      <item value="Dimensions" />
-      <item value="Flavors" />
-      <item value="Suffix" />
-      <item value="Daemon" />
-      <item value="aspectjrt" />
-      <item value="peek" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1941" />
-        <entry key="ENGLISH" value="1942" />
+        <entry key="CHINESE" value="1967" />
+        <entry key="ENGLISH" value="1967" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
