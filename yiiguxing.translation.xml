@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogX" value="471" />
+    <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Batch" />
+      <item value="批量入网" />
+      <item value="批量" />
       <item value="Your environment does not support JCEF, cannot use Markdown Editor" />
       <item value="CONTROL" />
       <item value="is Indeterminate" />
@@ -49,14 +54,11 @@
       <item value="implementation" />
       <item value="placeholder" />
       <item value="We're sorry but vue-cli3-simple doesn't work properly without JavaScript enabled. Please enable it to continue." />
-      <item value="Expected a com.google.gson.JsonObject but was com.google.gson.JsonPrimitive" />
-      <item value="Json Primitive" />
-      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1971" />
-        <entry key="ENGLISH" value="1971" />
+        <entry key="CHINESE" value="1980" />
+        <entry key="ENGLISH" value="1979" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
