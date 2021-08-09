@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Enclosing" />
+      <item value="Returns an array of {@code Class} objects reflecting all the classes and interfaces declared as members of the class represented by this {@code Class} object. This includes public, protected, default (package) access, and private classes and interfaces declared by the class, but excludes inherited classes and interfaces. This method returns an array of length 0 if the class declares no classes or interfaces as members, or if this {@code Class} object represents a primitive type, an array class, or void." />
+      <item value="declared" />
       <item value="inner" />
       <item value="提供者" />
       <item value="Batch" />
@@ -51,14 +54,11 @@
       <item value="For more information, see https:code.google.compandroidissuesdetail?id=5497 To use this class, simply invoke assistActivity() on an Activity that already has its content view set." />
       <item value="Pressure" />
       <item value="Caption" />
-      <item value="is Hardware Accelerated" />
-      <item value="compile" />
-      <item value="implementation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1987" />
-        <entry key="ENGLISH" value="1987" />
+        <entry key="CHINESE" value="1989" />
+        <entry key="ENGLISH" value="1990" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
