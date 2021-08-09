@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="inner" />
       <item value="提供者" />
       <item value="Batch" />
       <item value="批量入网" />
@@ -53,12 +54,11 @@
       <item value="is Hardware Accelerated" />
       <item value="compile" />
       <item value="implementation" />
-      <item value="placeholder" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1987" />
-        <entry key="ENGLISH" value="1986" />
+        <entry key="ENGLISH" value="1987" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
