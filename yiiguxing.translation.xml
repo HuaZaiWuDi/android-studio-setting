@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="提供者" />
       <item value="Batch" />
       <item value="批量入网" />
       <item value="批量" />
@@ -53,12 +54,11 @@
       <item value="compile" />
       <item value="implementation" />
       <item value="placeholder" />
-      <item value="We're sorry but vue-cli3-simple doesn't work properly without JavaScript enabled. Please enable it to continue." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1980" />
-        <entry key="ENGLISH" value="1979" />
+        <entry key="CHINESE" value="1987" />
+        <entry key="ENGLISH" value="1986" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627886986538" />
+    <option name="lastTrimTime" value="1628475546815" />
   </component>
 </application>
