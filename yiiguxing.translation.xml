@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="二维码信息" />
+      <item value="获取请求头签名信息" />
+      <item value="加密数据" />
+      <item value="待加密数据" />
+      <item value="获取加密数据" />
+      <item value="待解密数据字节长度" />
+      <item value="待解密数据" />
+      <item value="获取解密数据" />
+      <item value="手机时区" />
+      <item value="获取手机时区" />
+      <item value="获取sdk版本" />
+      <item value="请求body信息" />
+      <item value="appId信息" />
       <item value="Application attempted to call on a destroyed WebView" />
       <item value="Expected" />
       <item value="Illegal Argument Exception" />
@@ -41,19 +54,6 @@
       <item value="Software" />
       <item value="compress" />
       <item value="sensorsdata" />
-      <item value="桥" />
-      <item value="qiao" />
-      <item value="qia" />
-      <item value="without Title" />
-      <item value="permitted" />
-      <item value="permit" />
-      <item value="permi" />
-      <item value="p" />
-      <item value="CURRENT MAX UNIFORM SPEED DURATION 8000" />
-      <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter downloadListener" />
-      <item value="ArrayMap is immutable" />
-      <item value="Prompt" />
-      <item value="additional" />
     </histories>
     <option name="languageScores">
       <map>
