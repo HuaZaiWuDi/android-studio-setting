@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Unused equals expression" />
       <item value="Data package has expired" />
       <item value="&quot;Data package has expired" />
       <item value="{&quot;code&quot;:105,&quot;message&quot;:&quot;请求异常，请稍后重试&quot;,&quot;msgDetails&quot;:&quot;Data package has expired&quot;}" />
@@ -54,11 +55,10 @@
       <item value="set Over Scroll Mode" />
       <item value="Assistant" />
       <item value="Geolocation" />
-      <item value="query Transfer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2007" />
+        <entry key="CHINESE" value="2008" />
         <entry key="ENGLISH" value="2007" />
         <entry key="BULGARIAN" value="1" />
         <entry key="RUSSIAN" value="2" />
