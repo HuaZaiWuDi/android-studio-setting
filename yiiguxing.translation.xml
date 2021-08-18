@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Handler" />
+      <item value="统一" />
+      <item value="统一&#10;" />
       <item value="Unused equals expression" />
       <item value="Data package has expired" />
       <item value="&quot;Data package has expired" />
@@ -52,15 +55,13 @@
       <item value="请求&#10;" />
       <item value="qing" />
       <item value="动态" />
-      <item value="set Over Scroll Mode" />
-      <item value="Assistant" />
-      <item value="Geolocation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2008" />
-        <entry key="ENGLISH" value="2007" />
+        <entry key="CHINESE" value="2016" />
+        <entry key="ENGLISH" value="2015" />
         <entry key="BULGARIAN" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
