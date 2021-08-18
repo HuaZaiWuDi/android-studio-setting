@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="tag" />
+      <item value="ASSERT" />
+      <item value="final" />
       <item value="全局&#10;" />
       <item value="专辑" />
       <item value="album" />
@@ -51,14 +54,11 @@
       <item value="Transfer" />
       <item value="NONE STATE" />
       <item value="STATE INVALID" />
-      <item value="Check your module classpath for missing or conflicting dependencies" />
-      <item value="Middleware" />
-      <item value="turn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2003" />
-        <entry key="ENGLISH" value="2004" />
+        <entry key="CHINESE" value="2006" />
+        <entry key="ENGLISH" value="2007" />
         <entry key="BULGARIAN" value="1" />
         <entry key="RUSSIAN" value="2" />
         <entry key="FRENCH" value="2" />
