@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="714" />
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Data package has expired" />
+      <item value="&quot;Data package has expired" />
+      <item value="{&quot;code&quot;:105,&quot;message&quot;:&quot;请求异常，请稍后重试&quot;,&quot;msgDetails&quot;:&quot;Data package has expired&quot;}" />
       <item value="tag" />
       <item value="ASSERT" />
       <item value="final" />
@@ -51,13 +55,10 @@
       <item value="Assistant" />
       <item value="Geolocation" />
       <item value="query Transfer" />
-      <item value="Transfer" />
-      <item value="NONE STATE" />
-      <item value="STATE INVALID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2006" />
+        <entry key="CHINESE" value="2007" />
         <entry key="ENGLISH" value="2007" />
         <entry key="BULGARIAN" value="1" />
         <entry key="RUSSIAN" value="2" />
