@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="更换其它Wi-Fi" />
+      <item value="Please select the device to be added" />
+      <item value="Place the installation code for your device or package in the box." />
+      <item value="Поместите установочный код для вашего устройства или пакета в коробку." />
+      <item value="장치 또는 패키지의 설치 코드를 상자에 넣습니다." />
+      <item value="将设备或包装上的Install Code放入框内" />
+      <item value="Put the Install Code on the device or package into the box" />
+      <item value="请选择要添加的设备" />
       <item value="Handler" />
       <item value="统一" />
       <item value="统一&#10;" />
@@ -47,25 +55,17 @@
       <item value="批量" />
       <item value="Your environment does not support JCEF, cannot use Markdown Editor" />
       <item value="CONTROL" />
-      <item value="is Indeterminate" />
-      <item value="on Js Prompt" />
-      <item value="The specified project directory" />
-      <item value="A type annotation is required on a value parameter" />
-      <item value="request" />
-      <item value="请求&#10;" />
-      <item value="qing" />
-      <item value="动态" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2016" />
+        <entry key="CHINESE" value="2019" />
         <entry key="ENGLISH" value="2015" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="2" />
+        <entry key="RUSSIAN" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="KOREAN" value="94" />
+        <entry key="KOREAN" value="95" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
