@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="139" />
     <histories>
+      <item value="accept" />
+      <item value="CAFEBABE" />
       <item value="Please select the device to be added" />
       <item value="未发现设备" />
       <item value="扫描失败" />
@@ -53,13 +55,11 @@
       <item value="待解密数据" />
       <item value="获取解密数据" />
       <item value="手机时区" />
-      <item value="获取手机时区" />
-      <item value="获取sdk版本" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2021" />
-        <entry key="ENGLISH" value="2023" />
+        <entry key="CHINESE" value="2023" />
+        <entry key="ENGLISH" value="2024" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629268403060" />
+    <option name="lastTrimTime" value="1629702288037" />
   </component>
 </application>
