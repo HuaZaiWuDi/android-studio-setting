@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="139" />
     <histories>
+      <item value="intergration" />
+      <item value="intergra" />
+      <item value="interg" />
+      <item value="inte" />
+      <item value="inter" />
+      <item value="in" />
+      <item value="i" />
+      <item value="ړ,QWHJUDWLRQ" />
+      <item value=",QWHJUDWLRQ" />
       <item value="accept" />
       <item value="CAFEBABE" />
       <item value="Please select the device to be added" />
@@ -46,20 +55,11 @@
       <item value="album" />
       <item value="添加" />
       <item value="Depends" />
-      <item value="二维码信息" />
-      <item value="获取请求头签名信息" />
-      <item value="加密数据" />
-      <item value="待加密数据" />
-      <item value="获取加密数据" />
-      <item value="待解密数据字节长度" />
-      <item value="待解密数据" />
-      <item value="获取解密数据" />
-      <item value="手机时区" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2023" />
-        <entry key="ENGLISH" value="2024" />
+        <entry key="CHINESE" value="2025" />
+        <entry key="ENGLISH" value="2026" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
