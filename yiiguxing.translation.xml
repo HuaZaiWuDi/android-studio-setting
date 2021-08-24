@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="139" />
     <histories>
+      <item value="xiu'cheng" />
+      <item value="xiu'c" />
       <item value="intergration" />
       <item value="intergra" />
       <item value="interg" />
@@ -53,13 +55,11 @@
       <item value="全局&#10;" />
       <item value="专辑" />
       <item value="album" />
-      <item value="添加" />
-      <item value="Depends" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2025" />
-        <entry key="ENGLISH" value="2026" />
+        <entry key="CHINESE" value="2033" />
+        <entry key="ENGLISH" value="2034" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
