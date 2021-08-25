@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="384" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="Quiet" />
       <item value="Weak" />
       <item value="Inheritable" />
       <item value="InheritableThreadLocal values pertaining to this thread. This map is maintained by the InheritableThreadLocal class." />
@@ -54,12 +55,11 @@
       <item value="&quot;Data package has expired" />
       <item value="{&quot;code&quot;:105,&quot;message&quot;:&quot;请求异常，请稍后重试&quot;,&quot;msgDetails&quot;:&quot;Data package has expired&quot;}" />
       <item value="tag" />
-      <item value="ASSERT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2037" />
-        <entry key="ENGLISH" value="2038" />
+        <entry key="CHINESE" value="2038" />
+        <entry key="ENGLISH" value="2039" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
