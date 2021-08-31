@@ -1,69 +1,71 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogX" value="471" />
-    <option name="newTranslationDialogY" value="-595" />
+    <option name="newTranslationDialogWidth" value="714" />
+    <option name="newTranslationDialogX" value="384" />
+    <option name="newTranslationDialogY" value="462" />
     <histories>
-      <item value="专辑" />
-      <item value="album" />
-      <item value="添加" />
-      <item value="Depends" />
-      <item value="二维码信息" />
-      <item value="获取请求头签名信息" />
-      <item value="加密数据" />
-      <item value="待加密数据" />
-      <item value="获取加密数据" />
-      <item value="待解密数据字节长度" />
-      <item value="待解密数据" />
-      <item value="获取解密数据" />
-      <item value="手机时区" />
-      <item value="获取手机时区" />
-      <item value="获取sdk版本" />
-      <item value="请求body信息" />
-      <item value="appId信息" />
-      <item value="Application attempted to call on a destroyed WebView" />
-      <item value="Expected" />
-      <item value="Illegal Argument Exception" />
-      <item value="Expected receiver of type com.example.module_web.Js, but got java.lang.String" />
-      <item value="Enclosing" />
-      <item value="Returns an array of {@code Class} objects reflecting all the classes and interfaces declared as members of the class represented by this {@code Class} object. This includes public, protected, default (package) access, and private classes and interfaces declared by the class, but excludes inherited classes and interfaces. This method returns an array of length 0 if the class declares no classes or interfaces as members, or if this {@code Class} object represents a primitive type, an array class, or void." />
-      <item value="declared" />
-      <item value="inner" />
-      <item value="提供者" />
-      <item value="Batch" />
-      <item value="批量入网" />
-      <item value="批量" />
-      <item value="Your environment does not support JCEF, cannot use Markdown Editor" />
-      <item value="CONTROL" />
-      <item value="is Indeterminate" />
-      <item value="on Js Prompt" />
-      <item value="The specified project directory" />
-      <item value="A type annotation is required on a value parameter" />
-      <item value="request" />
-      <item value="请求&#10;" />
-      <item value="qing" />
-      <item value="动态" />
-      <item value="set Over Scroll Mode" />
-      <item value="Assistant" />
-      <item value="Geolocation" />
-      <item value="query Transfer" />
-      <item value="Transfer" />
-      <item value="NONE STATE" />
-      <item value="STATE INVALID" />
-      <item value="Check your module classpath for missing or conflicting dependencies" />
-      <item value="Middleware" />
-      <item value="turn" />
-      <item value="should Override Url Loading" />
+      <item value="Grid Layout Manager" />
+      <item value="specified" />
+      <item value="首页配置化" />
+      <item value="首页poei'z" />
+      <item value="千人千面" />
+      <item value="千人qian'm" />
+      <item value="qian'ren'qian'm" />
+      <item value="Quiet" />
+      <item value="Weak" />
+      <item value="Inheritable" />
+      <item value="InheritableThreadLocal values pertaining to this thread. This map is maintained by the InheritableThreadLocal class." />
+      <item value="ThreadLocal values pertaining to this thread. This map is maintained by the ThreadLocal class." />
+      <item value="xiu'cheng" />
+      <item value="xiu'c" />
+      <item value="intergration" />
+      <item value="intergra" />
+      <item value="interg" />
+      <item value="inte" />
+      <item value="inter" />
+      <item value="in" />
+      <item value="i" />
+      <item value="ړ,QWHJUDWLRQ" />
+      <item value=",QWHJUDWLRQ" />
+      <item value="accept" />
+      <item value="CAFEBABE" />
+      <item value="Please select the device to be added" />
+      <item value="未发现设备" />
+      <item value="扫描失败" />
+      <item value="是否确定退出？" />
+      <item value="成功" />
+      <item value="不同意" />
+      <item value="暂不支持该设备" />
+      <item value="设备已绑定" />
+      <item value="相册" />
+      <item value="隐私政策" />
+      <item value="法律信息" />
+      <item value="同意，继续添加" />
+      <item value="此设备已离线，无法选择" />
+      <item value="添加配件" />
+      <item value="识别" />
+      <item value="搜索需要添加的设备" />
+      <item value="Search for the device that needs to be added" />
+      <item value="更换其它Wi-Fi" />
+      <item value="Place the installation code for your device or package in the box." />
+      <item value="Поместите установочный код для вашего устройства или пакета в коробку." />
+      <item value="장치 또는 패키지의 설치 코드를 상자에 넣습니다." />
+      <item value="将设备或包装上的Install Code放入框内" />
+      <item value="Put the Install Code on the device or package into the box" />
+      <item value="请选择要添加的设备" />
+      <item value="Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1996" />
-        <entry key="ENGLISH" value="1997" />
+        <entry key="CHINESE" value="2060" />
+        <entry key="ENGLISH" value="2061" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="2" />
+        <entry key="DANISH" value="1" />
+        <entry key="RUSSIAN" value="12" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="KOREAN" value="94" />
+        <entry key="KOREAN" value="108" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
@@ -74,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628475546815" />
+    <option name="lastTrimTime" value="1629702288037" />
   </component>
 </application>
