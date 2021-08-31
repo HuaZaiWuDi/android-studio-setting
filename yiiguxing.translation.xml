@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="384" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="is Swipe Enabled" />
       <item value="拖动" />
       <item value="tuo'c" />
       <item value="dagger" />
@@ -54,12 +55,11 @@
       <item value="隐私政策" />
       <item value="法律信息" />
       <item value="同意，继续添加" />
-      <item value="此设备已离线，无法选择" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2093" />
-        <entry key="ENGLISH" value="2094" />
+        <entry key="CHINESE" value="2094" />
+        <entry key="ENGLISH" value="2095" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
