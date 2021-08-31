@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="384" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="Grow" />
+      <item value="Shrink" />
       <item value="总览" />
       <item value="百分比" />
       <item value="百分bi" />
@@ -53,13 +55,11 @@
       <item value="识别" />
       <item value="搜索需要添加的设备" />
       <item value="Search for the device that needs to be added" />
-      <item value="更换其它Wi-Fi" />
-      <item value="Place the installation code for your device or package in the box." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2079" />
-        <entry key="ENGLISH" value="2080" />
+        <entry key="CHINESE" value="2081" />
+        <entry key="ENGLISH" value="2082" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
