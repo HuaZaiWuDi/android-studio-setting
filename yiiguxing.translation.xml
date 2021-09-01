@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="384" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="COLUMN" />
       <item value="unspecified" />
       <item value="A property without annotation isn't considered during up-to-date checking." />
       <item value="is Swipe Enabled" />
@@ -54,12 +55,11 @@
       <item value="暂不支持该设备" />
       <item value="设备已绑定" />
       <item value="相册" />
-      <item value="隐私政策" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2096" />
-        <entry key="ENGLISH" value="2097" />
+        <entry key="CHINESE" value="2097" />
+        <entry key="ENGLISH" value="2098" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
