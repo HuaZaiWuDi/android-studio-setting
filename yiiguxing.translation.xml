@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="384" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="自定义" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
       <item value="fraction" />
       <item value="总览" />
@@ -54,12 +55,11 @@
       <item value="CAFEBABE" />
       <item value="Please select the device to be added" />
       <item value="未发现设备" />
-      <item value="扫描失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2111" />
-        <entry key="ENGLISH" value="2112" />
+        <entry key="CHINESE" value="2127" />
+        <entry key="ENGLISH" value="2128" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
