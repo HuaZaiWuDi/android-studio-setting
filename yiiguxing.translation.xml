@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="384" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="filled" />
       <item value="get Sum Of Cross Size" />
       <item value="Largest" />
       <item value="More optimized set the click listener inside the view holder" />
@@ -54,12 +55,11 @@
       <item value="i" />
       <item value="ړ,QWHJUDWLRQ" />
       <item value=",QWHJUDWLRQ" />
-      <item value="accept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2130" />
-        <entry key="ENGLISH" value="2131" />
+        <entry key="CHINESE" value="2131" />
+        <entry key="ENGLISH" value="2132" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
