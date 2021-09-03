@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="384" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="get Sum Of Cross Size" />
+      <item value="Largest" />
       <item value="More optimized set the click listener inside the view holder" />
       <item value="自定义" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
@@ -53,13 +55,11 @@
       <item value="ړ,QWHJUDWLRQ" />
       <item value=",QWHJUDWLRQ" />
       <item value="accept" />
-      <item value="CAFEBABE" />
-      <item value="Please select the device to be added" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2128" />
-        <entry key="ENGLISH" value="2129" />
+        <entry key="CHINESE" value="2130" />
+        <entry key="ENGLISH" value="2131" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
