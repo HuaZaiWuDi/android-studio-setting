@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="water Heater" />
+      <item value="热水器" />
+      <item value="功能&#10;" />
+      <item value="方&#10;" />
+      <item value="方法&#10;" />
+      <item value="LANDSCAPE" />
       <item value="UNSPECIFIED" />
       <item value="对外" />
       <item value="下拉浏览" />
@@ -49,17 +55,11 @@
       <item value="dagger" />
       <item value="Using insecure protocols with repositories, without explicit opt-in, is unsupported. Switch Maven repository" />
       <item value="Grow" />
-      <item value="Shrink" />
-      <item value="百分比" />
-      <item value="百分bi" />
-      <item value="百分bai" />
-      <item value="Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'" />
-      <item value="Staggered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2185" />
-        <entry key="ENGLISH" value="2185" />
+        <entry key="CHINESE" value="2202" />
+        <entry key="ENGLISH" value="2203" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
