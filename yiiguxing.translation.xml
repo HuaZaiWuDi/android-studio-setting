@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="空调&#10;" />
       <item value="solid" />
       <item value="water Heater" />
       <item value="热水器" />
@@ -54,12 +55,11 @@
       <item value="拖动" />
       <item value="tuo'c" />
       <item value="dagger" />
-      <item value="Using insecure protocols with repositories, without explicit opt-in, is unsupported. Switch Maven repository" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2203" />
-        <entry key="ENGLISH" value="2204" />
+        <entry key="CHINESE" value="2208" />
+        <entry key="ENGLISH" value="2209" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
