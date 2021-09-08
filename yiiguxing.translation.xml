@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="biz Type" />
       <item value="PanelBoard" />
       <item value="panel" />
       <item value="看板" />
@@ -54,12 +55,11 @@
       <item value="You should let android do all that configuration switching for you! Don't do anything in &quot;onConfigurationChanged&quot;, remove all configuration changes from your manifest even!" />
       <item value="Swipe" />
       <item value="WRAP" />
-      <item value="Geolocation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2223" />
-        <entry key="ENGLISH" value="2223" />
+        <entry key="ENGLISH" value="2224" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
