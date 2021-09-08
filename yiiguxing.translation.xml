@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="PanelBoard" />
+      <item value="panel" />
+      <item value="看板" />
+      <item value="dashboard" />
       <item value="checked" />
       <item value="selected" />
       <item value="State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view (or one of its parents) is currently selected." />
@@ -51,15 +55,11 @@
       <item value="Swipe" />
       <item value="WRAP" />
       <item value="Geolocation" />
-      <item value="COLUMN" />
-      <item value="unspecified" />
-      <item value="A property without annotation isn't considered during up-to-date checking." />
-      <item value="is Swipe Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2211" />
-        <entry key="ENGLISH" value="2212" />
+        <entry key="CHINESE" value="2223" />
+        <entry key="ENGLISH" value="2223" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="12" />
