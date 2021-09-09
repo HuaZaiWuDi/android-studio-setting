@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="元件" />
       <item value="减" />
       <item value="减、" />
       <item value="jian" />
@@ -54,7 +55,6 @@
       <item value="百分百&#10;" />
       <item value="bai" />
       <item value="If the package id is 0x00 or 0x01, it's either an undefined package or a framework id" />
-      <item value="The key must be an application-specific &quot; + &quot;resource id." />
     </histories>
     <option name="languageScores">
       <map>
