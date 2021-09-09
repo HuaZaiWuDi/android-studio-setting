@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="湿" />
+      <item value="shi" />
+      <item value="风" />
       <item value="CN PREISSUE" />
       <item value="CLEARTEXT communication to rpc-debug.aqara.com not permitted by network security policy" />
       <item value="unspecified" />
@@ -52,14 +55,11 @@
       <item value="If the current child's right bound exceeds Flowlayout's max right bound and flowlayout is not confined to a single line, move this child to the next line and reset its left bound to flowlayout's left bound." />
       <item value="Bias" />
       <item value="get Sum Of Cross Size" />
-      <item value="filled" />
-      <item value="Largest" />
-      <item value="More optimized set the click listener inside the view holder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2237" />
-        <entry key="ENGLISH" value="2237" />
+        <entry key="CHINESE" value="2254" />
+        <entry key="ENGLISH" value="2254" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
