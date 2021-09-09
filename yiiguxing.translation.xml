@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="Negative Array Size Exception" />
+      <item value="Radio Group" />
+      <item value="radio Button" />
       <item value="湿" />
       <item value="shi" />
       <item value="风" />
@@ -52,14 +55,11 @@
       <item value="宽高比" />
       <item value="kuan'gao'b" />
       <item value="宽高逼" />
-      <item value="If the current child's right bound exceeds Flowlayout's max right bound and flowlayout is not confined to a single line, move this child to the next line and reset its left bound to flowlayout's left bound." />
-      <item value="Bias" />
-      <item value="get Sum Of Cross Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2254" />
-        <entry key="ENGLISH" value="2254" />
+        <entry key="CHINESE" value="2256" />
+        <entry key="ENGLISH" value="2257" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
