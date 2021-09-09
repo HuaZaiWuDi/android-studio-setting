@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="滑动&#10;" />
       <item value="元件" />
       <item value="减" />
       <item value="减、" />
@@ -54,12 +55,11 @@
       <item value="百分bi&#10;" />
       <item value="百分百&#10;" />
       <item value="bai" />
-      <item value="If the package id is 0x00 or 0x01, it's either an undefined package or a framework id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2262" />
-        <entry key="ENGLISH" value="2263" />
+        <entry key="CHINESE" value="2270" />
+        <entry key="ENGLISH" value="2271" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
