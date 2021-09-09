@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="upper" />
       <item value="Negative Array Size Exception" />
       <item value="Radio Group" />
       <item value="radio Button" />
@@ -54,12 +55,11 @@
       <item value="aspect Ratio" />
       <item value="宽高比" />
       <item value="kuan'gao'b" />
-      <item value="宽高逼" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2256" />
-        <entry key="ENGLISH" value="2257" />
+        <entry key="CHINESE" value="2257" />
+        <entry key="ENGLISH" value="2258" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
