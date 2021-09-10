@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="运算" />
+      <item value="运算&#10;" />
+      <item value="yun" />
+      <item value="加减" />
+      <item value="slide" />
       <item value="滑动&#10;" />
       <item value="元件" />
       <item value="减" />
@@ -50,16 +55,11 @@
       <item value="xia'l" />
       <item value="아래로 스크롤하여 %@ 로드" />
       <item value="아래로 스크롤하여 %@ 로드&#10;" />
-      <item value="아래로 스크롤하여 %@ 로드&#10;&#10;" />
-      <item value="百分比&#10;&#10;" />
-      <item value="百分bi&#10;" />
-      <item value="百分百&#10;" />
-      <item value="bai" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2270" />
-        <entry key="ENGLISH" value="2271" />
+        <entry key="CHINESE" value="2290" />
+        <entry key="ENGLISH" value="2291" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
