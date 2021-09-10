@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="geyser" />
+      <item value="热水器" />
+      <item value="插座" />
+      <item value="cha" />
       <item value="运算" />
       <item value="运算&#10;" />
       <item value="yun" />
@@ -40,7 +44,6 @@
       <item value="空调&#10;" />
       <item value="solid" />
       <item value="water Heater" />
-      <item value="热水器" />
       <item value="功能&#10;" />
       <item value="方&#10;" />
       <item value="方法&#10;" />
@@ -52,14 +55,11 @@
       <item value="下拉" />
       <item value="下拉加载" />
       <item value="下来" />
-      <item value="xia'l" />
-      <item value="아래로 스크롤하여 %@ 로드" />
-      <item value="아래로 스크롤하여 %@ 로드&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2290" />
-        <entry key="ENGLISH" value="2291" />
+        <entry key="CHINESE" value="2308" />
+        <entry key="ENGLISH" value="2309" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
