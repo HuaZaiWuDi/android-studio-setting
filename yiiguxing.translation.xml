@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="If false, no state will be saved for this view when it is being frozen. The default is true, allowing the view to be saved (however it also must have an ID assigned to it for its state to be saved). Setting this to false only disables the state for this view, not for its children which may still be saved." />
       <item value="integration" />
       <item value="geyser" />
       <item value="热水器" />
@@ -54,12 +55,11 @@
       <item value="下拉浏览" />
       <item value="下拉liu'lan" />
       <item value="下拉" />
-      <item value="下拉加载" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2309" />
-        <entry key="ENGLISH" value="2310" />
+        <entry key="CHINESE" value="2310" />
+        <entry key="ENGLISH" value="2311" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
