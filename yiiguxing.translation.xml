@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="Up Fetch" />
       <item value="枚举" />
       <item value="枚举&#10;" />
       <item value="温度" />
@@ -54,12 +55,11 @@
       <item value="方法&#10;" />
       <item value="LANDSCAPE" />
       <item value="UNSPECIFIED" />
-      <item value="对外" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2333" />
-        <entry key="ENGLISH" value="2334" />
+        <entry key="CHINESE" value="2334" />
+        <entry key="ENGLISH" value="2335" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630909810158" />
+    <option name="lastTrimTime" value="1631350436522" />
   </component>
 </application>
