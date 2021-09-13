@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="Can't deliver value 128 due to lack of requests" />
       <item value="Up Fetch" />
       <item value="枚举" />
       <item value="枚举&#10;" />
@@ -54,11 +55,10 @@
       <item value="方&#10;" />
       <item value="方法&#10;" />
       <item value="LANDSCAPE" />
-      <item value="UNSPECIFIED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2334" />
+        <entry key="CHINESE" value="2335" />
         <entry key="ENGLISH" value="2335" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
