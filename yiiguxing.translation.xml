@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="编辑" />
       <item value="Panel Board" />
       <item value="PORTRAIT" />
       <item value="Widget" />
@@ -54,12 +55,11 @@
       <item value="checked" />
       <item value="selected" />
       <item value="State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view (or one of its parents) is currently selected." />
-      <item value="空调&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2336" />
-        <entry key="ENGLISH" value="2335" />
+        <entry key="CHINESE" value="2342" />
+        <entry key="ENGLISH" value="2341" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
