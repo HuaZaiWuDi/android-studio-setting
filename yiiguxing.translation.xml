@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="Panel Board" />
       <item value="PORTRAIT" />
       <item value="Widget" />
       <item value="CompareAndSwap&#10;&#10;" />
@@ -54,7 +55,6 @@
       <item value="selected" />
       <item value="State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view (or one of its parents) is currently selected." />
       <item value="空调&#10;" />
-      <item value="solid" />
     </histories>
     <option name="languageScores">
       <map>
