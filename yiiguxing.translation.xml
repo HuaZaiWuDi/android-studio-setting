@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AAPT: error: '' is incompatible with attribute actionLayout (attr) reference." />
       <item value="An optional layout to be used as an action view. See {@link android.view.MenuItemsetActionView(android.view.View)} for more info." />
       <item value="How this item should display in the Action Bar, if present." />
       <item value="How this item should display in the Action Bar, if present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
