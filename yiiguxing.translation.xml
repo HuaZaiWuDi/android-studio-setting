@@ -1,82 +1,25 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="714" />
-    <option name="newTranslationDialogX" value="181" />
-    <option name="newTranslationDialogY" value="310" />
     <histories>
-      <item value="payload info." />
-      <item value="编辑" />
-      <item value="Panel Board" />
-      <item value="PORTRAIT" />
-      <item value="Widget" />
-      <item value="CompareAndSwap&#10;&#10;" />
-      <item value="CompareAndSwap&#10;" />
-      <item value="CompareAndSwap" />
-      <item value="Can't deliver value 128 due to lack of requests" />
-      <item value="Up Fetch" />
-      <item value="枚举" />
-      <item value="枚举&#10;" />
-      <item value="温度" />
-      <item value="If false, no state will be saved for this view when it is being frozen. The default is true, allowing the view to be saved (however it also must have an ID assigned to it for its state to be saved). Setting this to false only disables the state for this view, not for its children which may still be saved." />
-      <item value="integration" />
-      <item value="geyser" />
-      <item value="热水器" />
-      <item value="插座" />
-      <item value="cha" />
-      <item value="运算" />
-      <item value="运算&#10;" />
-      <item value="yun" />
-      <item value="加减" />
-      <item value="slide" />
-      <item value="滑动&#10;" />
-      <item value="元件" />
-      <item value="减" />
-      <item value="减、" />
-      <item value="jian" />
-      <item value="upper" />
-      <item value="Negative Array Size Exception" />
-      <item value="Radio Group" />
-      <item value="radio Button" />
-      <item value="湿" />
-      <item value="shi" />
-      <item value="风" />
-      <item value="CN PREISSUE" />
-      <item value="CLEARTEXT communication to rpc-debug.aqara.com not permitted by network security policy" />
-      <item value="unspecified" />
-      <item value="空调" />
-      <item value="kon" />
-      <item value="Failed resolution of: LcomalibabafastjsonJSONObject;" />
-      <item value="choose Value" />
-      <item value="biz Type" />
-      <item value="PanelBoard" />
-      <item value="panel" />
-      <item value="看板" />
-      <item value="dashboard" />
-      <item value="checked" />
-      <item value="selected" />
+      <item value="An optional layout to be used as an action view. See {@link android.view.MenuItemsetActionView(android.view.View)} for more info." />
+      <item value="How this item should display in the Action Bar, if present." />
+      <item value="How this item should display in the Action Bar, if present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2342" />
-        <entry key="ENGLISH" value="2341" />
-        <entry key="BULGARIAN" value="1" />
-        <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="12" />
-        <entry key="FRENCH" value="2" />
-        <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="KOREAN" value="109" />
-        <entry key="KURDISH" value="1" />
-        <entry key="ROMANIAN" value="1" />
-        <entry key="NORWEGIAN" value="2" />
-        <entry key="PORTUGUESE" value="2" />
-        <entry key="JAPANESE" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631851292511" />
+    <option name="lastTrimTime" value="1631932932114" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
