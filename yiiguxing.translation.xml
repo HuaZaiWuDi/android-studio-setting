@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="fill And Recycle View" />
+      <item value="End of network access" />
+      <item value="结束入网" />
+      <item value="切换后会清楚网关所有数据，并需要重新添加到Aqara Home" />
+      <item value="网关当前固件仅支持接入米家，是否切换为Aqara Home版固件？" />
       <item value="try Capture View" />
       <item value="同意并继续" />
       <item value="同意bing" />
@@ -26,11 +31,11 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="RUSSIAN" value="1" />
-        <entry key="KOREAN" value="1" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="RUSSIAN" value="3" />
+        <entry key="KOREAN" value="3" />
       </map>
     </option>
   </component>
