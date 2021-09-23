@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="Must be a no-op for backward compatibility: see the hidden constructor for reason." />
+      <item value="op" />
       <item value="实例" />
       <item value="Unsupported or unrecognized SSL message" />
       <item value="&#10;Cannot access 'com.uber.autodispose.lifecycle.LifecycleScopeProvider' which is a supertype of 'com.lumi.module.homeconfiguration.viewmodel.HomeCardViewModel'. Check your module classpath for missing or conflicting dependencies" />
@@ -34,16 +36,17 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
+        <entry key="DUTCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631932932114" />
+    <option name="lastTrimTime" value="1632369607897" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
