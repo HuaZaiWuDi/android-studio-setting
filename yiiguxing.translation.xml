@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="payload info." />
       <item value="推荐" />
       <item value="缩略图" />
       <item value="缩略" />
@@ -44,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
