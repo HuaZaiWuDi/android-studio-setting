@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="471" />
     <option name="newTranslationDialogY" value="-595" />
     <histories>
+      <item value="is Fake Dragging" />
       <item value="门锁" />
       <item value="doorclock" />
       <item value="Your team can have only 3 members on the Free plan. Upgrade your plan to collaborate with more people." />
@@ -52,12 +53,11 @@
       <item value="get Column Count Of Row" />
       <item value="scrap" />
       <item value="隐藏" />
-      <item value="SAVE SKIP COLLAPSED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
