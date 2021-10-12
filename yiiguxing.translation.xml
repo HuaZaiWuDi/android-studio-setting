@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="dashboard" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
       <item value="reorder&#10;" />
       <item value="reorder" />
@@ -52,12 +53,11 @@
       <item value="try Capture View" />
       <item value="同意并继续" />
       <item value="同意bing" />
-      <item value="tong'yi" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
