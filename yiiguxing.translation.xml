@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="hide Proxies" />
       <item value="Could not resolve type id \u0027\u0027 as a subtype of `com.lumi.aiot.cloud.aqarahome.domain.dashboard.view.Dashboard`: known type ids \u003d [dashboard, panel_group]" />
       <item value="dashboard" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
@@ -52,12 +53,11 @@
       <item value="切换后会清楚网关所有数据，并需要重新添加到Aqara Home" />
       <item value="网关当前固件仅支持接入米家，是否切换为Aqara Home版固件？" />
       <item value="try Capture View" />
-      <item value="同意并继续" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
