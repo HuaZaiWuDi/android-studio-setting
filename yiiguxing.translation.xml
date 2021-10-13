@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="多选" />
+      <item value="d" />
       <item value="resolver" />
       <item value="property" />
       <item value="hide Proxies" />
@@ -51,13 +53,11 @@
       <item value="&#10;Cannot access 'com.uber.autodispose.lifecycle.LifecycleScopeProvider' which is a supertype of 'com.lumi.module.homeconfiguration.viewmodel.HomeCardViewModel'. Check your module classpath for missing or conflicting dependencies" />
       <item value="fill And Recycle View" />
       <item value="End of network access" />
-      <item value="结束入网" />
-      <item value="切换后会清楚网关所有数据，并需要重新添加到Aqara Home" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="118" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
