@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="has not been attached yet" />
       <item value="CLAMP" />
       <item value="SRC IN" />
       <item value="solid" />
@@ -52,12 +53,11 @@
       <item value="The condensed title associated with the item. This is used in situations where the normal title may be too long to be displayed." />
       <item value="drag" />
       <item value="dagger" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
