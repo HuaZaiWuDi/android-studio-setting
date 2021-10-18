@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="If the background of the blurred view is a color drawable, we use it to clear the blurring canvas, which ensures that edges of the child views are blurred as well; otherwise we clear the blurring canvas with a transparent color." />
+      <item value="erase Color" />
       <item value="生成" />
       <item value="Flip the location to align the right sides of the popup and anchor instead of left." />
       <item value="An example implementation of an AutoDispose View with lifecycle handling and precondition checks using [LifecycleScopeProvider]. The precondition checks here are only different from what [ViewScopeProvider] provides in that it will check against subscription in the constructor." />
@@ -51,13 +53,11 @@
       <item value="This transaction is already being added to the back stack" />
       <item value="后缀" />
       <item value="hou'z" />
-      <item value="时区" />
-      <item value="Pressed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
