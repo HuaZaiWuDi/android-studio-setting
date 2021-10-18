@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="round" />
+      <item value="roundingRadius must be greater than 0" />
+      <item value="blur Corner Radius" />
       <item value="If the background of the blurred view is a color drawable, we use it to clear the blurring canvas, which ensures that edges of the child views are blurred as well; otherwise we clear the blurring canvas with a transparent color." />
       <item value="erase Color" />
       <item value="生成" />
@@ -50,14 +53,11 @@
       <item value="Your team can have only 3 members on the Free plan. Upgrade your plan to collaborate with more people." />
       <item value="告警" />
       <item value="layout Description" />
-      <item value="This transaction is already being added to the back stack" />
-      <item value="后缀" />
-      <item value="hou'z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
