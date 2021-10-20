@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="if fragment is shown but not resumed, ignore..." />
+      <item value="on Fragment Shown When Not Resumed" />
       <item value="dispatch Child On Fragment Shown When Not Resumed" />
       <item value="abnormal" />
       <item value="distinct By" />
@@ -51,13 +53,11 @@
       <item value="home red FF 0 C 061 C" />
       <item value="个性化" />
       <item value="is Fake Dragging" />
-      <item value="门锁" />
-      <item value="doorclock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
