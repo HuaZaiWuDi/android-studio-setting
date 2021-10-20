@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="dispatch Child On Fragment Shown When Not Resumed" />
       <item value="abnormal" />
       <item value="distinct By" />
       <item value="round" />
@@ -52,12 +53,11 @@
       <item value="is Fake Dragging" />
       <item value="门锁" />
       <item value="doorclock" />
-      <item value="Your team can have only 3 members on the Free plan. Upgrade your plan to collaborate with more people." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
