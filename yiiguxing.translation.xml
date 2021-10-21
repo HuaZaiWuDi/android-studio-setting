@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="More than one file was found with OS independent path 'AndroidManifest.xml'" />
       <item value="POP BACK STACK INCLUSIVE" />
       <item value="if fragment is shown but not resumed, ignore..." />
       <item value="on Fragment Shown When Not Resumed" />
@@ -52,12 +53,11 @@
       <item value="DATA NOT MULTIPLE OF BLOCK LENGTH" />
       <item value="FLAG DIM BEHIND" />
       <item value="home red FF 0 C 061 C" />
-      <item value="个性化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
