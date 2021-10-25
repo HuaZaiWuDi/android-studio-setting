@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="center Inside" />
       <item value="Serializable" />
       <item value="retain All" />
       <item value="f true, the field marked with this annotation is written out in the JSON while serializing. If false, the field marked with this annotation is skipped from the serialized output. Defaults to true.&#10;Since:&#10;1.4" />
@@ -52,12 +53,11 @@
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
       <item value="reorder&#10;" />
       <item value="reorder" />
-      <item value="/reorder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
