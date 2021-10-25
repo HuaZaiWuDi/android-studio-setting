@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Illegal Argument Exception" />
+      <item value="Called attach on a child which is not detached" />
       <item value="center Inside" />
       <item value="Serializable" />
       <item value="retain All" />
@@ -51,13 +53,11 @@
       <item value="Could not resolve type id \u0027\u0027 as a subtype of `com.lumi.aiot.cloud.aqarahome.domain.dashboard.view.Dashboard`: known type ids \u003d [dashboard, panel_group]" />
       <item value="dashboard" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
-      <item value="reorder&#10;" />
-      <item value="reorder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="166" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
