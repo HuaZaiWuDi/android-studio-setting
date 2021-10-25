@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="If this is a StateListDrawable, try to find and store the drawable to be used when the drop-down is placed above its anchor view, and the one to be used when the drop-down is placed below its anchor view. We extract the drawables ourselves to work around a problem with using refreshDrawableState that it will take into account the padding of all drawables specified in a StateListDrawable, thus adding superfluous padding to drop-down views. We assume a StateListDrawable will have a drawable for ABOVE_ANCHOR_STATE_SET and at least one other drawable, intended for the 'below-anchor state'." />
+      <item value="Below Anchor" />
+      <item value="Above Anchor" />
+      <item value="环境" />
       <item value="If the background of the blurred view is a color drawable, we use it to clear the blurring canvas, which ensures that edges of the child views are blurred as well; otherwise we clear the blurring canvas with a transparent color." />
       <item value="Illegal Thread State Exception" />
       <item value="interrupt" />
@@ -49,15 +53,11 @@
       <item value="Tab belongs to a different TabLayout." />
       <item value="多选" />
       <item value="d" />
-      <item value="resolver" />
-      <item value="property" />
-      <item value="hide Proxies" />
-      <item value="Could not resolve type id \u0027\u0027 as a subtype of `com.lumi.aiot.cloud.aqarahome.domain.dashboard.view.Dashboard`: known type ids \u003d [dashboard, panel_group]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
