@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="添加" />
+      <item value="Добавить" />
+      <item value="Добавить " />
+      <item value="Добавить повторно" />
+      <item value="추가" />
+      <item value="새로 추가" />
+      <item value="새로" />
       <item value="Текущие" />
       <item value="현재" />
       <item value="현재 장치" />
@@ -46,19 +53,12 @@
       <item value="快捷bao'c" />
       <item value="快捷报错" />
       <item value="kuai'j" />
-      <item value="The following manipulation is to avoid some RenderScript artifacts at the edge." />
-      <item value="overlay Color" />
-      <item value="downsamplefactor" />
-      <item value="Copyright (C) 2017 Wasabeef Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
-      <item value="sampling" />
-      <item value="elastic" />
-      <item value="Reference to a drawable to use as selection indicator for tabs. If this attribute is not specified, indicator defaults to a line along the bottom of the tab." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
-        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE_TRADITIONAL" value="4" />
         <entry key="RUSSIAN" value="3" />
         <entry key="KOREAN" value="3" />
         <entry key="DUTCH" value="1" />
