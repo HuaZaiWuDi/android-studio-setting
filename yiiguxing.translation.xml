@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Текущие" />
+      <item value="현재" />
+      <item value="현재 장치" />
+      <item value="장치" />
+      <item value="현재 " />
       <item value="If this is a StateListDrawable, try to find and store the drawable to be used when the drop-down is placed above its anchor view, and the one to be used when the drop-down is placed below its anchor view. We extract the drawables ourselves to work around a problem with using refreshDrawableState that it will take into account the padding of all drawables specified in a StateListDrawable, thus adding superfluous padding to drop-down views. We assume a StateListDrawable will have a drawable for ABOVE_ANCHOR_STATE_SET and at least one other drawable, intended for the 'below-anchor state'." />
       <item value="Below Anchor" />
       <item value="Above Anchor" />
@@ -48,11 +53,6 @@
       <item value="sampling" />
       <item value="elastic" />
       <item value="Reference to a drawable to use as selection indicator for tabs. If this attribute is not specified, indicator defaults to a line along the bottom of the tab." />
-      <item value="Whether to display tab labels horizontally inline with icons, or underneath icons." />
-      <item value="Whether to use unbounded ripple effect for tabs, or if ripple should instead be bound to tab item bounds." />
-      <item value="Tab belongs to a different TabLayout." />
-      <item value="多选" />
-      <item value="d" />
     </histories>
     <option name="languageScores">
       <map>
