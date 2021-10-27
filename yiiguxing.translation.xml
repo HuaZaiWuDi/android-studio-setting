@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="唯一" />
       <item value="前缀" />
       <item value="GRANTED" />
       <item value="newErrorAvailable application does not have sufficient geolocation permissions." />
@@ -52,12 +53,11 @@
       <item value="Flip the location to align the right sides of the popup and anchor instead of left." />
       <item value="An example implementation of an AutoDispose View with lifecycle handling and precondition checks using [LifecycleScopeProvider]. The precondition checks here are only different from what [ViewScopeProvider] provides in that it will check against subscription in the constructor." />
       <item value="has not been attached yet" />
-      <item value="CLAMP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
