@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="安防" />
+      <item value="an" />
+      <item value="统计" />
       <item value="SRC IN" />
       <item value="Corner" />
       <item value="roundingRadius must be greater than 0." />
@@ -50,14 +53,11 @@
       <item value="POP BACK STACK INCLUSIVE" />
       <item value="if fragment is shown but not resumed, ignore..." />
       <item value="on Fragment Shown When Not Resumed" />
-      <item value="dispatch Child On Fragment Shown When Not Resumed" />
-      <item value="abnormal" />
-      <item value="distinct By" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
