@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="清除" />
+      <item value="qing'chu" />
+      <item value="清楚" />
+      <item value="可删除" />
+      <item value="可" />
+      <item value="可清楚" />
+      <item value="可qing'q" />
+      <item value="ke" />
       <item value="Plain" />
       <item value="Plan" />
       <item value="P" />
@@ -45,19 +53,11 @@
       <item value="Above Anchor" />
       <item value="环境" />
       <item value="If the background of the blurred view is a color drawable, we use it to clear the blurring canvas, which ensures that edges of the child views are blurred as well; otherwise we clear the blurring canvas with a transparent color." />
-      <item value="Illegal Thread State Exception" />
-      <item value="interrupt" />
-      <item value="Illegal Argument Exception" />
-      <item value="Called attach on a child which is not detached" />
-      <item value="center Inside" />
-      <item value="Serializable" />
-      <item value="retain All" />
-      <item value="f true, the field marked with this annotation is written out in the JSON while serializing. If false, the field marked with this annotation is skipped from the serialized output. Defaults to true.&#10;Since:&#10;1.4" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="245" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
