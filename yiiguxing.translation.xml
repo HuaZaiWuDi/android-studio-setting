@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="temp" />
       <item value="event Added To Velocity Tracker" />
       <item value="蒙层" />
       <item value="meng'c" />
@@ -52,12 +53,11 @@
       <item value="Добавить " />
       <item value="Добавить повторно" />
       <item value="추가" />
-      <item value="새로 추가" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
