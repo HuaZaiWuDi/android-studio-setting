@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="purge" />
       <item value="清除" />
       <item value="qing'chu" />
       <item value="清楚" />
@@ -52,12 +53,11 @@
       <item value="Below Anchor" />
       <item value="Above Anchor" />
       <item value="环境" />
-      <item value="If the background of the blurred view is a color drawable, we use it to clear the blurring canvas, which ensures that edges of the child views are blurred as well; otherwise we clear the blurring canvas with a transparent color." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
