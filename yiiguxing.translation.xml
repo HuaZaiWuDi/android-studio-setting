@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="蒙层" />
+      <item value="meng'c" />
+      <item value="marking" />
+      <item value="iv marking" />
+      <item value="SIZE ORIGINAL" />
+      <item value="Already at the correct page" />
+      <item value="SCROLL STATE IDLE" />
       <item value="INPUT METHOD FROM FOCUSABLE" />
       <item value="SOFT INPUT STATE UNCHANGED" />
       <item value="m Clipping Enabled" />
@@ -28,7 +35,6 @@
       <item value="Remove the specified network from the list of configured networks. This may result in the asynchronous delivery of state change events." />
       <item value="remove" />
       <item value="fit XY" />
-      <item value="蒙层" />
       <item value="Unable to add window android.view.ViewRootImplW@36399d4 -- permission denied for window type 2010" />
       <item value="唯一" />
       <item value="前缀" />
@@ -47,17 +53,11 @@
       <item value="추가" />
       <item value="새로 추가" />
       <item value="새로" />
-      <item value="Текущие" />
-      <item value="현재" />
-      <item value="현재 장치" />
-      <item value="장치" />
-      <item value="현재 " />
-      <item value="If this is a StateListDrawable, try to find and store the drawable to be used when the drop-down is placed above its anchor view, and the one to be used when the drop-down is placed below its anchor view. We extract the drawables ourselves to work around a problem with using refreshDrawableState that it will take into account the padding of all drawables specified in a StateListDrawable, thus adding superfluous padding to drop-down views. We assume a StateListDrawable will have a drawable for ABOVE_ANCHOR_STATE_SET and at least one other drawable, intended for the 'below-anchor state'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
