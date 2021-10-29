@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Plain" />
+      <item value="Plan" />
+      <item value="P" />
       <item value="Custom view `HighLightLayout` has setOnTouchListener called on it but does not override performClick" />
       <item value="安防" />
       <item value="an" />
@@ -50,13 +53,10 @@
       <item value="Serializable" />
       <item value="retain All" />
       <item value="f true, the field marked with this annotation is written out in the JSON while serializing. If false, the field marked with this annotation is skipped from the serialized output. Defaults to true.&#10;Since:&#10;1.4" />
-      <item value="More than one file was found with OS independent path 'AndroidManifest.xml'" />
-      <item value="POP BACK STACK INCLUSIVE" />
-      <item value="if fragment is shown but not resumed, ignore..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
+        <entry key="CHINESE" value="232" />
         <entry key="ENGLISH" value="231" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
