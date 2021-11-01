@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="radial" />
+      <item value="sweep" />
       <item value="Pre View" />
       <item value="安防" />
       <item value="temp" />
@@ -51,13 +53,11 @@
       <item value="not attached to a context" />
       <item value="添加" />
       <item value="Добавить" />
-      <item value="Добавить " />
-      <item value="Добавить повторно" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
