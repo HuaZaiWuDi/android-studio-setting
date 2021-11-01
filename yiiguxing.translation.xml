@@ -3,12 +3,13 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="未启用&#10;" />
+      <item value="wei" />
       <item value="离家" />
       <item value="在家" />
       <item value="Evaluator" />
       <item value="interpolator" />
       <item value="未确认" />
-      <item value="wei" />
       <item value="CARD STATE WARN confirm" />
       <item value="确认&#10;" />
       <item value="告警中" />
@@ -52,12 +53,11 @@
       <item value="Unable to add window android.view.ViewRootImplW@36399d4 -- permission denied for window type 2010" />
       <item value="唯一" />
       <item value="前缀" />
-      <item value="GRANTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
