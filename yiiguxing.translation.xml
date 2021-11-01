@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="离家" />
+      <item value="在家" />
       <item value="Evaluator" />
       <item value="interpolator" />
       <item value="未确认" />
@@ -51,13 +53,11 @@
       <item value="唯一" />
       <item value="前缀" />
       <item value="GRANTED" />
-      <item value="newErrorAvailable application does not have sufficient geolocation permissions." />
-      <item value="Caught security exception while registering for location updates from the system. The application does not have sufficient geolocation permissions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
