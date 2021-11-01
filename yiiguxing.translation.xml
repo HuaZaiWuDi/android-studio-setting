@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Pre View" />
       <item value="安防" />
       <item value="temp" />
       <item value="event Added To Velocity Tracker" />
@@ -52,7 +53,6 @@
       <item value="Добавить" />
       <item value="Добавить " />
       <item value="Добавить повторно" />
-      <item value="추가" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635146058538" />
+    <option name="lastTrimTime" value="1635733745955" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
