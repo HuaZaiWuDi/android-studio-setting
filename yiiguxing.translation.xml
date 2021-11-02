@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Gradient Drawable" />
       <item value="Compulsory" />
       <item value="强制" />
       <item value="Ash" />
@@ -52,12 +53,11 @@
       <item value="统计" />
       <item value="SRC IN" />
       <item value="Corner" />
-      <item value="roundingRadius must be greater than 0." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
