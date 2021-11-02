@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Compulsory" />
+      <item value="强制" />
       <item value="Ash" />
       <item value="置灰" />
       <item value="has Abnormal" />
@@ -51,13 +53,11 @@
       <item value="SRC IN" />
       <item value="Corner" />
       <item value="roundingRadius must be greater than 0." />
-      <item value="Remove the specified network from the list of configured networks. This may result in the asynchronous delivery of state change events." />
-      <item value="remove" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="326" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
