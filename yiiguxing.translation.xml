@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="注册" />
+      <item value="Widget" />
       <item value="set Enabled Recursively" />
       <item value="Gradient Drawable" />
       <item value="Compulsory" />
@@ -51,13 +53,11 @@
       <item value="P" />
       <item value="Custom view `HighLightLayout` has setOnTouchListener called on it but does not override performClick" />
       <item value="an" />
-      <item value="统计" />
-      <item value="SRC IN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
