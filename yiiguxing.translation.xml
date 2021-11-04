@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="priority Of" />
+      <item value="Retrieve" />
+      <item value="downsample" />
       <item value="on Show Press" />
       <item value="on Single Tap Up" />
       <item value="Gesture Detector" />
@@ -50,14 +53,11 @@
       <item value="可删除" />
       <item value="可" />
       <item value="可清楚" />
-      <item value="可qing'q" />
-      <item value="ke" />
-      <item value="Plain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="344" />
+        <entry key="ENGLISH" value="345" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="4" />
