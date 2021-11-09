@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="isCasting false because IHwDistributedWindowManager is invalid." />
       <item value="Unable to resolve host &quot;aiot.aqara.com&quot;: No address associated with hostname" />
       <item value="Check your module classpath for missing or conflicting dependencies" />
       <item value="Not enough information to infer type variable T" />
@@ -52,12 +53,11 @@
       <item value="在家" />
       <item value="Evaluator" />
       <item value="interpolator" />
-      <item value="未确认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
