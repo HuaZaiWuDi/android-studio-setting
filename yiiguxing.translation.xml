@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="Check your module classpath for missing or conflicting dependencies" />
       <item value="Not enough information to infer type variable T" />
       <item value="色盘" />
       <item value="se" />
@@ -52,12 +53,11 @@
       <item value="interpolator" />
       <item value="未确认" />
       <item value="CARD STATE WARN confirm" />
-      <item value="确认&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
