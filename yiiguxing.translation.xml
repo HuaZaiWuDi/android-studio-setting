@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="色盘" />
+      <item value="se" />
       <item value="小" />
       <item value="Infrared" />
       <item value="红外" />
@@ -51,13 +53,11 @@
       <item value="CARD STATE WARN confirm" />
       <item value="确认&#10;" />
       <item value="告警中" />
-      <item value="radial" />
-      <item value="sweep" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="411" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
