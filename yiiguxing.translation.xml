@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="色温" />
       <item value="android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)" />
       <item value="isCasting false because IHwDistributedWindowManager is invalid." />
       <item value="Unable to resolve host &quot;aiot.aqara.com&quot;: No address associated with hostname" />
@@ -52,7 +53,6 @@
       <item value="wei" />
       <item value="离家" />
       <item value="在家" />
-      <item value="Evaluator" />
     </histories>
     <option name="languageScores">
       <map>
