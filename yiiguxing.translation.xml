@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="过载" />
+      <item value="过温" />
       <item value="Disallow" />
       <item value="冲突" />
       <item value="light" />
@@ -51,13 +53,11 @@
       <item value="注册" />
       <item value="Widget" />
       <item value="set Enabled Recursively" />
-      <item value="Gradient Drawable" />
-      <item value="Compulsory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="CHINESE" value="478" />
+        <entry key="ENGLISH" value="478" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
