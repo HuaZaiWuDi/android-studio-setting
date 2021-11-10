@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="亮度" />
       <item value="色温" />
       <item value="android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)" />
       <item value="isCasting false because IHwDistributedWindowManager is invalid." />
@@ -52,12 +53,11 @@
       <item value="未启用&#10;" />
       <item value="wei" />
       <item value="离家" />
-      <item value="在家" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
