@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="auto Size Preset Sizes" />
+      <item value="Resource array of dimensions to be used in conjunction with &lt;code&gt;autoSizeTextType&lt;code&gt; set to &lt;code&gt;uniform&lt;code&gt;. Overrides &lt;code&gt;autoSizeStepGranularity&lt;code&gt; if set." />
+      <item value="auto Size Step Granularity" />
+      <item value="Specify the auto-size step size if &lt;code&gt;autoSizeTextType&lt;code&gt; is set to &lt;code&gt;uniform&lt;code&gt;. The default is 1px. Overwrites &lt;code&gt;autoSizePresetSizes&lt;code&gt; if set. --&gt;" />
+      <item value="uniform" />
+      <item value="Uniform horizontal and vertical text size scaling to fit within the container." />
+      <item value="Specify the type of auto-size. Note that this feature is not supported by EditText, works only for TextView." />
       <item value="限制范围" />
       <item value="过载" />
       <item value="过温" />
@@ -46,18 +53,11 @@
       <item value="mkdirs" />
       <item value="priority Of" />
       <item value="Retrieve" />
-      <item value="downsample" />
-      <item value="on Show Press" />
-      <item value="on Single Tap Up" />
-      <item value="Gesture Detector" />
-      <item value="空白" />
-      <item value="注册" />
-      <item value="Widget" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="489" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
