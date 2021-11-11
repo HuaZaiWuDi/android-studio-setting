@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="check if a Fragment provided here is a new Fragment" />
       <item value="auto Size Preset Sizes" />
       <item value="Resource array of dimensions to be used in conjunction with &lt;code&gt;autoSizeTextType&lt;code&gt; set to &lt;code&gt;uniform&lt;code&gt;. Overrides &lt;code&gt;autoSizeStepGranularity&lt;code&gt; if set." />
       <item value="auto Size Step Granularity" />
@@ -52,12 +53,11 @@
       <item value="adjust View Bounds" />
       <item value="mkdirs" />
       <item value="priority Of" />
-      <item value="Retrieve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="497" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="498" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
