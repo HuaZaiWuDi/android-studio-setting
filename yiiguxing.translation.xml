@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="统一" />
       <item value="payloads" />
       <item value="PLATFORM SUPPORTS AUTOSIZE" />
       <item value="round Indicator" />
@@ -52,12 +53,11 @@
       <item value="yu" />
       <item value="雪" />
       <item value="多云" />
-      <item value="阴天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
