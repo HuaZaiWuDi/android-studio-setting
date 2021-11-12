@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="round Indicator" />
+      <item value="m Current Item Dirty" />
       <item value="is Changed Row" />
       <item value="Current row in the grid" />
       <item value="Current column in the grid" />
@@ -51,13 +53,11 @@
       <item value="阴天" />
       <item value="yin" />
       <item value="云" />
-      <item value="OVERVIEW" />
-      <item value="室内" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="CHINESE" value="510" />
+        <entry key="ENGLISH" value="511" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
