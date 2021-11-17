@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="Cannot deserialize value of type `java.lang.Integer` from String \&quot;S_Environment_Temperature\&quot;: not a valid Integer value" />
       <item value="Out Door" />
       <item value="optimize" />
       <item value="优化" />
@@ -52,12 +53,11 @@
       <item value="过温" />
       <item value="Disallow" />
       <item value="冲突" />
-      <item value="light" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="571" />
-        <entry key="ENGLISH" value="572" />
+        <entry key="CHINESE" value="572" />
+        <entry key="ENGLISH" value="573" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
