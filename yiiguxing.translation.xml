@@ -3,13 +3,13 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="human" />
       <item value="to Lower Case" />
       <item value="resource" />
       <item value="Cannot deserialize value of type `java.lang.Integer` from String \&quot;S_Environment_Temperature\&quot;: not a valid Integer value" />
       <item value="Out Door" />
       <item value="optimize" />
       <item value="优化" />
-      <item value="human" />
       <item value="multiple" />
       <item value="cloud" />
       <item value="c" />
@@ -56,7 +56,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
+        <entry key="CHINESE" value="575" />
         <entry key="ENGLISH" value="575" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
