@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="645" />
     <histories>
+      <item value="distinct By" />
       <item value="human" />
       <item value="to Lower Case" />
       <item value="resource" />
@@ -52,12 +53,11 @@
       <item value="Specify the type of auto-size. Note that this feature is not supported by EditText, works only for TextView." />
       <item value="限制范围" />
       <item value="过载" />
-      <item value="过温" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
