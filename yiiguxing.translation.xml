@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="373" />
     <option name="newTranslationDialogX" value="617" />
-    <option name="newTranslationDialogY" value="645" />
+    <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="Camera Hub G2H: We may use the &quot;remote audio and video monitoring&quot; feature to provide you with remote live streaming or video playback service. We only transmit monitoring data for providing our services for you, and the server will not store it. After the detection function is enabled, a 12-seconds video file will be recorded on the cloud server when the corresponding event (such as motion detection) is detected. And the video file will be stored on the cloud server for 7 days. After the video message function is enabled, a 15-seconds video file will be recorded on the cloud server. And the video file will be stored on the cloud server for 7 days. User can watch these audio and video files through his/her mobile phone, and they can delete such audio and video files on the app side." />
       <item value="distinct By" />
       <item value="human" />
       <item value="to Lower Case" />
@@ -52,11 +54,10 @@
       <item value="Uniform horizontal and vertical text size scaling to fit within the container." />
       <item value="Specify the type of auto-size. Note that this feature is not supported by EditText, works only for TextView." />
       <item value="限制范围" />
-      <item value="过载" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
+        <entry key="CHINESE" value="576" />
         <entry key="ENGLISH" value="576" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
@@ -67,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636961139143" />
+    <option name="lastTrimTime" value="1637397038721" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
