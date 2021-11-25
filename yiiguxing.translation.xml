@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="Struct" />
+      <item value="internal exception occurred from local api" />
       <item value="tab Inline Label" />
       <item value="Camera Hub G2H: We may use the &quot;remote audio and video monitoring&quot; feature to provide you with remote live streaming or video playback service. We only transmit monitoring data for providing our services for you, and the server will not store it. After the detection function is enabled, a 12-seconds video file will be recorded on the cloud server when the corresponding event (such as motion detection) is detected. And the video file will be stored on the cloud server for 7 days. After the video message function is enabled, a 15-seconds video file will be recorded on the cloud server. And the video file will be stored on the cloud server for 7 days. User can watch these audio and video files through his/her mobile phone, and they can delete such audio and video files on the app side." />
       <item value="distinct By" />
@@ -52,13 +54,11 @@
       <item value="auto Size Step Granularity" />
       <item value="Specify the auto-size step size if &lt;code&gt;autoSizeTextType&lt;code&gt; is set to &lt;code&gt;uniform&lt;code&gt;. The default is 1px. Overwrites &lt;code&gt;autoSizePresetSizes&lt;code&gt; if set. --&gt;" />
       <item value="uniform" />
-      <item value="Uniform horizontal and vertical text size scaling to fit within the container." />
-      <item value="Specify the type of auto-size. Note that this feature is not supported by EditText, works only for TextView." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="CHINESE" value="578" />
+        <entry key="ENGLISH" value="578" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
