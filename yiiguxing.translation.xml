@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="OmitStackTraceInFastThrow" />
+      <item value="to Immutable List" />
       <item value="限制" />
       <item value="为" />
       <item value="清" />
@@ -52,13 +54,11 @@
       <item value="Blank" />
       <item value="Blink" />
       <item value="Rect" />
-      <item value="Scrap" />
-      <item value="m Scrap Rects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="585" />
-        <entry key="ENGLISH" value="585" />
+        <entry key="CHINESE" value="586" />
+        <entry key="ENGLISH" value="586" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="5" />
