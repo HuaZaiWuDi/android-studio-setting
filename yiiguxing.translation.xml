@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="masking" />
       <item value="我已阅读" />
       <item value="wo'yi" />
       <item value="色温" />
@@ -53,12 +54,11 @@
       <item value="round Indicator" />
       <item value="m Current Item Dirty" />
       <item value="is Changed Row" />
-      <item value="Current row in the grid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="604" />
-        <entry key="ENGLISH" value="605" />
+        <entry key="CHINESE" value="605" />
+        <entry key="ENGLISH" value="606" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="6" />
