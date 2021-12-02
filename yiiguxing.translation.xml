@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="我已阅读" />
+      <item value="wo'yi" />
       <item value="色温" />
       <item value="accent" />
       <item value="regular 1" />
@@ -52,23 +54,21 @@
       <item value="m Current Item Dirty" />
       <item value="is Changed Row" />
       <item value="Current row in the grid" />
-      <item value="Current column in the grid" />
-      <item value="row" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="599" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="604" />
+        <entry key="ENGLISH" value="605" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
-        <entry key="KOREAN" value="5" />
+        <entry key="KOREAN" value="6" />
         <entry key="DUTCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637896061471" />
+    <option name="lastTrimTime" value="1638413557329" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
