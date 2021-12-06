@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="窗帘开合" />
+      <item value="窗帘he" />
       <item value="hollow" />
       <item value="PUSH TYPE ifttt app change" />
       <item value="scene execute result ultimately" />
@@ -52,13 +54,11 @@
       <item value="on Start Tracking Touch" />
       <item value="转换" />
       <item value="drop" />
-      <item value="retain All" />
-      <item value="local Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="626" />
+        <entry key="CHINESE" value="632" />
+        <entry key="ENGLISH" value="633" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="6" />
