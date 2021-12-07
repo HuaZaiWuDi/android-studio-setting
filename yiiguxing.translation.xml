@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="binary" />
       <item value="Abnomal" />
       <item value="解析" />
       <item value="F IR Control" />
@@ -53,12 +54,11 @@
       <item value="第二" />
       <item value="di'er" />
       <item value="di" />
-      <item value="hourly Forecasts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="646" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="6" />
