@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="Abnomal" />
+      <item value="解析" />
       <item value="F IR Control" />
       <item value="Infrared" />
       <item value="窗帘开合" />
@@ -52,13 +54,11 @@
       <item value="di'er" />
       <item value="di" />
       <item value="hourly Forecasts" />
-      <item value="on Stop Tracking Touch" />
-      <item value="on Start Tracking Touch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="634" />
-        <entry key="ENGLISH" value="635" />
+        <entry key="CHINESE" value="646" />
+        <entry key="ENGLISH" value="647" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="6" />
