@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="동의하고 계속" />
+      <item value="동의하고 계속 진행" />
+      <item value="진행" />
       <item value="Duplicate class" />
       <item value="binary" />
       <item value="Abnomal" />
@@ -51,17 +54,14 @@
       <item value="cloud" />
       <item value="c" />
       <item value="多云" />
-      <item value="阴天" />
-      <item value="第二" />
-      <item value="di'er" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="648" />
-        <entry key="ENGLISH" value="649" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="653" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
-        <entry key="KOREAN" value="6" />
+        <entry key="KOREAN" value="11" />
         <entry key="DUTCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
