@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="大气压单位" />
+      <item value="大气压" />
+      <item value="Atmospheri" />
+      <item value="pressure" />
+      <item value="da'qi" />
+      <item value="摄氏度" />
       <item value="duststorm" />
       <item value="abnormal" />
       <item value="overcast" />
@@ -48,17 +54,11 @@
       <item value="Camera Hub G2H: We may use the &quot;remote audio and video monitoring&quot; feature to provide you with remote live streaming or video playback service. We only transmit monitoring data for providing our services for you, and the server will not store it. After the detection function is enabled, a 12-seconds video file will be recorded on the cloud server when the corresponding event (such as motion detection) is detected. And the video file will be stored on the cloud server for 7 days. After the video message function is enabled, a 15-seconds video file will be recorded on the cloud server. And the video file will be stored on the cloud server for 7 days. User can watch these audio and video files through his/her mobile phone, and they can delete such audio and video files on the app side." />
       <item value="distinct By" />
       <item value="human" />
-      <item value="to Lower Case" />
-      <item value="resource" />
-      <item value="Cannot deserialize value of type `java.lang.Integer` from String \&quot;S_Environment_Temperature\&quot;: not a valid Integer value" />
-      <item value="Out Door" />
-      <item value="optimize" />
-      <item value="优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="654" />
-        <entry key="ENGLISH" value="655" />
+        <entry key="CHINESE" value="677" />
+        <entry key="ENGLISH" value="678" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="11" />
