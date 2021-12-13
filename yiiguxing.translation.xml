@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="RM Agent" />
       <item value="Temp" />
       <item value="大气压" />
       <item value="da'q" />
@@ -53,12 +54,11 @@
       <item value="限制" />
       <item value="为" />
       <item value="清" />
-      <item value="清楚" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="713" />
-        <entry key="ENGLISH" value="714" />
+        <entry key="CHINESE" value="714" />
+        <entry key="ENGLISH" value="715" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="11" />
