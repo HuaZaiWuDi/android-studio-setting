@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="过滤" />
       <item value="透明度" />
       <item value="Prefab" />
       <item value="create History Page Renderer" />
@@ -53,12 +54,11 @@
       <item value="regular 1" />
       <item value="精度" />
       <item value="outdoor Weather Meter" />
-      <item value="OmitStackTraceInFastThrow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="723" />
-        <entry key="ENGLISH" value="724" />
+        <entry key="CHINESE" value="728" />
+        <entry key="ENGLISH" value="729" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="KOREAN" value="11" />
