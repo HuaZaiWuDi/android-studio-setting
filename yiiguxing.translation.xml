@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="实例" />
+      <item value="instants" />
       <item value="v marking offline" />
       <item value="过滤" />
       <item value="透明度" />
@@ -52,15 +54,14 @@
       <item value="wo'yi" />
       <item value="色温" />
       <item value="accent" />
-      <item value="regular 1" />
-      <item value="精度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="729" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="CHINESE" value="736" />
+        <entry key="ENGLISH" value="736" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
+        <entry key="FRENCH" value="1" />
         <entry key="KOREAN" value="11" />
         <entry key="DUTCH" value="1" />
         <entry key="SPANISH" value="1" />
