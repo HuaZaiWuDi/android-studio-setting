@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="语音" />
+      <item value="总览" />
+      <item value="zong'lan" />
+      <item value="Overcast" />
       <item value="实例" />
       <item value="instants" />
       <item value="v marking offline" />
@@ -50,15 +54,11 @@
       <item value="chang'lian" />
       <item value="chang'l" />
       <item value="masking" />
-      <item value="我已阅读" />
-      <item value="wo'yi" />
-      <item value="色温" />
-      <item value="accent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="736" />
-        <entry key="ENGLISH" value="736" />
+        <entry key="CHINESE" value="748" />
+        <entry key="ENGLISH" value="749" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="1" />
