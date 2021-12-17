@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="创建者" />
+      <item value="chuang'j'z" />
+      <item value="chuang'j" />
+      <item value="chuan'j" />
+      <item value="建造者" />
+      <item value="jian'z'z" />
+      <item value="jian'z" />
       <item value="plurals" />
       <item value="Whether to split the track and leave a gap for the thumb drawable." />
       <item value="split Track" />
@@ -47,18 +54,11 @@
       <item value="over" />
       <item value="동의하고 계속" />
       <item value="동의하고 계속 진행" />
-      <item value="진행" />
-      <item value="Duplicate class" />
-      <item value="binary" />
-      <item value="Abnomal" />
-      <item value="解析" />
-      <item value="F IR Control" />
-      <item value="Infrared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="793" />
+        <entry key="ENGLISH" value="793" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="1" />
