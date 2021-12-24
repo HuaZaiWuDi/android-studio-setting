@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="TRANSPORT CELLULAR" />
+      <item value="TRANSPORT WIFI" />
+      <item value="NET CAPABILITY INTERNET" />
+      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed." />
       <item value="ORIENTATION LANDSCAPE" />
       <item value="ORIENTATION PORTRAIT" />
       <item value="LANDSCAPE" />
@@ -50,15 +54,11 @@
       <item value="UNIT TEMP Fahrenheit" />
       <item value="华氏度" />
       <item value="shi" />
-      <item value="conver" />
-      <item value="转换" />
-      <item value="抓n'h" />
-      <item value="大气压单位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="800" />
-        <entry key="ENGLISH" value="801" />
+        <entry key="CHINESE" value="806" />
+        <entry key="ENGLISH" value="807" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
