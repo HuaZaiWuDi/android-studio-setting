@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="用途" />
       <item value="use Purpose" />
       <item value="TRANSPORT CELLULAR" />
       <item value="TRANSPORT WIFI" />
@@ -53,12 +54,11 @@
       <item value="大气压" />
       <item value="da'q" />
       <item value="UNIT TEMP Fahrenheit" />
-      <item value="华氏度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="807" />
-        <entry key="ENGLISH" value="808" />
+        <entry key="CHINESE" value="813" />
+        <entry key="ENGLISH" value="814" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
