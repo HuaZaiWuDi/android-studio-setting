@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="SOFT INPUT STATE UNSPECIFIED" />
       <item value="overview" />
       <item value="用途" />
       <item value="use Purpose" />
@@ -53,12 +54,11 @@
       <item value="RM Agent" />
       <item value="Temp" />
       <item value="大气压" />
-      <item value="da'q" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="814" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="CHINESE" value="815" />
+        <entry key="ENGLISH" value="816" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
