@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="carry" />
+      <item value="c" />
+      <item value="crray" />
+      <item value="cr" />
       <item value="SOFT INPUT STATE UNSPECIFIED" />
       <item value="overview" />
       <item value="用途" />
@@ -50,14 +54,10 @@
       <item value="透明度" />
       <item value="Prefab" />
       <item value="create History Page Renderer" />
-      <item value="render" />
-      <item value="RM Agent" />
-      <item value="Temp" />
-      <item value="大气压" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
+        <entry key="CHINESE" value="816" />
         <entry key="ENGLISH" value="816" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
