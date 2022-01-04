@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="EXTRA MODEL" />
       <item value="is Disposed" />
       <item value="attach" />
       <item value="dispatch Transformed Touch Event" />
@@ -53,7 +54,6 @@
       <item value="实例" />
       <item value="instants" />
       <item value="v marking offline" />
-      <item value="过滤" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640577630879" />
+    <option name="lastTrimTime" value="1641262483093" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
