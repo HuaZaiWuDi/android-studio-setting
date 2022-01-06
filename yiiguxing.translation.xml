@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="un Support Json" />
       <item value="加密" />
       <item value="解密" />
       <item value="is Cross Fade Enabled" />
@@ -53,12 +54,11 @@
       <item value="An offset for the thumb that allows it to extend out of the range of the track." />
       <item value="setPrettyPrinting" />
       <item value="Gson Builder" />
-      <item value="transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="849" />
-        <entry key="ENGLISH" value="850" />
+        <entry key="CHINESE" value="850" />
+        <entry key="ENGLISH" value="851" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
