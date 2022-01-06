@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="is Floating" />
+      <item value="playback Ts" />
       <item value="get Detailed State" />
       <item value="get Signal Strength" />
       <item value="poll Switch Wifi" />
@@ -52,13 +54,11 @@
       <item value="Whether to split the track and leave a gap for the thumb drawable." />
       <item value="split Track" />
       <item value="千人千面" />
-      <item value="track" />
-      <item value="The max height does not incorporate padding, whereas the height parameter does" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="854" />
-        <entry key="ENGLISH" value="855" />
+        <entry key="CHINESE" value="857" />
+        <entry key="ENGLISH" value="858" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
