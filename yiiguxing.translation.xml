@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="Could not locate RequestBody converter for java.util.Map&lt;java.lang.String, java.lang.Object&gt;." />
       <item value="period" />
       <item value="is Floating" />
       <item value="playback Ts" />
@@ -53,12 +54,11 @@
       <item value="jian'z" />
       <item value="plurals" />
       <item value="Whether to split the track and leave a gap for the thumb drawable." />
-      <item value="split Track" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="858" />
-        <entry key="ENGLISH" value="859" />
+        <entry key="CHINESE" value="859" />
+        <entry key="ENGLISH" value="860" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
