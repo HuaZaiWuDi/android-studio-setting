@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="cameraDevice encountered an error" />
       <item value="Failed to find provider info for com.huawei.hms" />
       <item value="autoFocus failed" />
       <item value="Camera is being used after Camera.release() was called" />
@@ -53,12 +54,11 @@
       <item value="chuang'j" />
       <item value="chuan'j" />
       <item value="建造者" />
-      <item value="jian'z'z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="863" />
+        <entry key="ENGLISH" value="864" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
