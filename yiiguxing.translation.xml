@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="拖动悬停时间" />
+      <item value="拖动xuan'ting" />
+      <item value="拖动xuan't" />
+      <item value="拖动" />
+      <item value="half Width" />
+      <item value="DRAG DIFFERENCE VALUE" />
+      <item value="DRAG difference Value" />
+      <item value="误差值" />
+      <item value="正负值" />
+      <item value="zhneg'fu'zhi" />
+      <item value="zhneg'fu'z" />
+      <item value="zh" />
+      <item value="zheng" />
       <item value="winner" />
       <item value="swap" />
       <item value="gap" />
@@ -41,24 +54,11 @@
       <item value="dispatch Transformed Touch Event" />
       <item value="carry" />
       <item value="c" />
-      <item value="crray" />
-      <item value="cr" />
-      <item value="SOFT INPUT STATE UNSPECIFIED" />
-      <item value="overview" />
-      <item value="用途" />
-      <item value="use Purpose" />
-      <item value="TRANSPORT CELLULAR" />
-      <item value="TRANSPORT WIFI" />
-      <item value="NET CAPABILITY INTERNET" />
-      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed." />
-      <item value="ORIENTATION LANDSCAPE" />
-      <item value="ORIENTATION PORTRAIT" />
-      <item value="LANDSCAPE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="882" />
-        <entry key="ENGLISH" value="883" />
+        <entry key="CHINESE" value="909" />
+        <entry key="ENGLISH" value="910" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
