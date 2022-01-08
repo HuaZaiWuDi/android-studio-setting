@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="reverse" />
       <item value="闪烁" />
       <item value="shan's" />
       <item value="shan'c" />
@@ -53,7 +54,6 @@
       <item value="强制" />
       <item value="SQL SELECT Panel LIST" />
       <item value="EXTRA MODEL" />
-      <item value="is Disposed" />
     </histories>
     <option name="languageScores">
       <map>
