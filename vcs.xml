@@ -930,6 +930,10 @@
           <option name="url" value="http://git.aqara.com/aqara-app/sdk/android/lumi_sdk_core_android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zguop/banner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
