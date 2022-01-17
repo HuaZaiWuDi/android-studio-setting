@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="未添加&#10;" />
+      <item value="un Add" />
+      <item value="list un Add" />
       <item value="Home Mult Camera Card Widget" />
       <item value="多个" />
       <item value="widget" />
@@ -51,14 +54,11 @@
       <item value="zheng" />
       <item value="winner" />
       <item value="swap" />
-      <item value="gap" />
-      <item value="间隔" />
-      <item value="jian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="981" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="995" />
+        <entry key="ENGLISH" value="995" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
@@ -67,6 +67,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
