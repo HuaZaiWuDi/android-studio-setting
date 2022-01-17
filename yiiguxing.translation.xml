@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="Dispatch" />
+      <item value="Member" />
+      <item value="Member extension" />
+      <item value="Member extension&#10;&#10;" />
+      <item value="Member extension&#10;" />
+      <item value="inc" />
       <item value="expect" />
       <item value="drag Half" />
       <item value="winner Score" />
@@ -48,17 +54,11 @@
       <item value="Access denied finding property &quot;vendor.camera.hal1.packagelist&quot;" />
       <item value="cameraDevice encountered an error" />
       <item value="Failed to find provider info for com.huawei.hms" />
-      <item value="autoFocus failed" />
-      <item value="Camera is being used after Camera.release() was called" />
-      <item value="Could not locate RequestBody converter for java.util.Map&lt;java.lang.String, java.lang.Object&gt;." />
-      <item value="period" />
-      <item value="is Floating" />
-      <item value="playback Ts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="961" />
-        <entry key="ENGLISH" value="962" />
+        <entry key="CHINESE" value="965" />
+        <entry key="ENGLISH" value="963" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
