@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="Home Mult Camera Card Widget" />
+      <item value="多个" />
       <item value="widget" />
       <item value="展开&#10;" />
       <item value="zhan'k&#10;" />
@@ -52,13 +54,11 @@
       <item value="gap" />
       <item value="间隔" />
       <item value="jian" />
-      <item value="分割" />
-      <item value="Unsafe Opt In Usage Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="974" />
-        <entry key="ENGLISH" value="975" />
+        <entry key="CHINESE" value="981" />
+        <entry key="ENGLISH" value="982" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
