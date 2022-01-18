@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="前缀" />
       <item value="Un Added" />
       <item value="未添加&#10;" />
       <item value="un Add" />
@@ -53,12 +54,11 @@
       <item value="zhneg'fu'z" />
       <item value="zh" />
       <item value="zheng" />
-      <item value="winner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="995" />
-        <entry key="ENGLISH" value="996" />
+        <entry key="CHINESE" value="1000" />
+        <entry key="ENGLISH" value="1001" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
