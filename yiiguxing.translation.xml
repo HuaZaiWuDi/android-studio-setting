@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="617" />
     <option name="newTranslationDialogY" value="522" />
     <histories>
+      <item value="Theme Overlay" />
+      <item value="pop Back Stack Immediate" />
+      <item value="dont Add To Back Stack" />
       <item value="above Anchor" />
       <item value="SOFT INPUT IS FORWARD NAVIGATION" />
       <item value="选中" />
@@ -51,14 +54,11 @@
       <item value="shan's" />
       <item value="shan'c" />
       <item value="START ANIM" />
-      <item value="拖动悬停时间" />
-      <item value="拖动xuan'ting" />
-      <item value="拖动xuan't" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1024" />
-        <entry key="ENGLISH" value="1025" />
+        <entry key="CHINESE" value="1027" />
+        <entry key="ENGLISH" value="1028" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
