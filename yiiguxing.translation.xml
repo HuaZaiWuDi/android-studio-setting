@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="553" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="is Normal" />
       <item value="F Environmental Mode Stateless" />
       <item value="F Swing Setting" />
       <item value="F Wind Direction" />
@@ -53,12 +54,11 @@
       <item value="用途" />
       <item value="Purposes" />
       <item value="分组转平铺" />
-      <item value="This page is way off-screen to the left." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1042" />
-        <entry key="ENGLISH" value="1043" />
+        <entry key="CHINESE" value="1043" />
+        <entry key="ENGLISH" value="1044" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
