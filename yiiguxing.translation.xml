@@ -2,8 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="373" />
     <option name="newTranslationDialogX" value="553" />
-    <option name="newTranslationDialogY" value="625" />
+    <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="F Environmental Mode Stateless" />
+      <item value="F Swing Setting" />
+      <item value="F Wind Direction" />
+      <item value="F Wind Speed Setting" />
+      <item value="空调" />
       <item value="home Camera Monitor Carousel" />
       <item value="Repository does not allow updating assets: lumi-release" />
       <item value="MONITOR CAROUSEL PANEL" />
@@ -49,16 +54,11 @@
       <item value="Purposes" />
       <item value="分组转平铺" />
       <item value="This page is way off-screen to the left." />
-      <item value="方向" />
-      <item value="分组" />
-      <item value="Amount of time (in milliseconds) to display this frame." />
-      <item value="if layout manager cannot handle it, do some guesswork" />
-      <item value="reverse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1033" />
-        <entry key="ENGLISH" value="1034" />
+        <entry key="CHINESE" value="1042" />
+        <entry key="ENGLISH" value="1043" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
