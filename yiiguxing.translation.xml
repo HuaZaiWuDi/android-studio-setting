@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="553" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="reified" />
       <item value="Type parameter of a property must be used in its receiver type" />
       <item value="is Normal" />
       <item value="F Environmental Mode Stateless" />
@@ -53,12 +54,11 @@
       <item value="winner Score" />
       <item value="choose Drop Target" />
       <item value="用途" />
-      <item value="Purposes" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1044" />
-        <entry key="ENGLISH" value="1044" />
+        <entry key="ENGLISH" value="1045" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
