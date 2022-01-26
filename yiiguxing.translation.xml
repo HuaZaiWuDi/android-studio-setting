@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="553" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="Too many arguments for public/*package*/ constructor ScanResult() defined in android.net.wifi.ScanResult" />
       <item value="真实" />
       <item value="shixianz实现" />
       <item value="shixianz实现制" />
@@ -53,11 +54,10 @@
       <item value="展开&#10;" />
       <item value="zhan'k&#10;" />
       <item value="展开" />
-      <item value="tile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1062" />
+        <entry key="CHINESE" value="1063" />
         <entry key="ENGLISH" value="1062" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
