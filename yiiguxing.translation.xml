@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="553" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="真实" />
+      <item value="shixianz实现" />
+      <item value="shixianz实现制" />
       <item value="Returns a Flowable that mirrors the source Publisher but applies a timeout policy for each emitted item. If the next item isn't emitted within the specified timeout duration starting from its predecessor, the resulting Publisher terminates and notifies Subscribers of a TimeoutException" />
       <item value="未发现设备" />
       <item value="wei" />
@@ -51,14 +54,11 @@
       <item value="zhan'k&#10;" />
       <item value="展开" />
       <item value="tile" />
-      <item value="tile 2 Group" />
-      <item value="Program type already present" />
-      <item value="Dispatch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1053" />
-        <entry key="ENGLISH" value="1053" />
+        <entry key="CHINESE" value="1062" />
+        <entry key="ENGLISH" value="1062" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
