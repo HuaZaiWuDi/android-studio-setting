@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="553" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="减&#10;" />
+      <item value="减少" />
+      <item value="jian's" />
       <item value="Too many arguments for public/*package*/ constructor ScanResult() defined in android.net.wifi.ScanResult" />
       <item value="真实" />
       <item value="shixianz实现" />
@@ -51,14 +54,11 @@
       <item value="Home Mult Camera Card Widget" />
       <item value="多个" />
       <item value="widget" />
-      <item value="展开&#10;" />
-      <item value="zhan'k&#10;" />
-      <item value="展开" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1063" />
-        <entry key="ENGLISH" value="1062" />
+        <entry key="CHINESE" value="1069" />
+        <entry key="ENGLISH" value="1068" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642907324181" />
+    <option name="lastTrimTime" value="1644545319747" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
