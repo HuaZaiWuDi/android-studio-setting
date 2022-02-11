@@ -641,6 +641,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-editor" />
+              <option name="myPluginName" value="LeetCode Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.li">
           <value>
             <plugin>
@@ -1248,6 +1256,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-editor" />
+              <option name="myPluginName" value="LeetCode Editor" />
             </plugin>
           </value>
         </entry>
