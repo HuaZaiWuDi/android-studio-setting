@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="373" />
-    <option name="newTranslationDialogX" value="553" />
-    <option name="newTranslationDialogY" value="527" />
+    <option name="newTranslationDialogX" value="352" />
+    <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="暖色" />
+      <item value="暖色&#10;" />
+      <item value="nian'se" />
       <item value="减&#10;" />
       <item value="减少" />
       <item value="jian's" />
@@ -51,14 +54,11 @@
       <item value="未添加&#10;" />
       <item value="un Add" />
       <item value="list un Add" />
-      <item value="Home Mult Camera Card Widget" />
-      <item value="多个" />
-      <item value="widget" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1069" />
-        <entry key="ENGLISH" value="1068" />
+        <entry key="CHINESE" value="1094" />
+        <entry key="ENGLISH" value="1093" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
