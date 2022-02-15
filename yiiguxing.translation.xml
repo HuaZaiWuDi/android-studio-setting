@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Pulsing" />
+      <item value="Plays the ValueAnimator in reverse. If the animation is already running, it will stop itself and play backwards from the point reached when reverse was called. If the animation is not currently running, then it will start from the end and play backwards. This behavior is only set for the current animation; future playing of the animation will use the default behavior of playing forward." />
       <item value="heating" />
       <item value="_nor heating" />
       <item value="反射" />
@@ -52,13 +54,11 @@
       <item value="F Wind Speed Setting" />
       <item value="home Camera Monitor Carousel" />
       <item value="Repository does not allow updating assets: lumi-release" />
-      <item value="MONITOR CAROUSEL PANEL" />
-      <item value="monitor_carousel_panel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1114" />
-        <entry key="ENGLISH" value="1115" />
+        <entry key="CHINESE" value="1115" />
+        <entry key="ENGLISH" value="1116" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
