@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Implement this method to intercept all touch screen motion events. This allows you to watch events as they are dispatched to your children, and take ownership of the current gesture at any point." />
+      <item value="&#10;true if this OnItemTouchListener wishes to begin intercepting touch events, false to continue with the current behavior and continue observing future events in the gesture." />
+      <item value="find Intercepting On Item Touch Listener" />
       <item value="request Disallow Intercept Touch Event" />
       <item value="disable Touch" />
       <item value="禁止触摸" />
@@ -51,14 +54,11 @@
       <item value="wei" />
       <item value="unfind device" />
       <item value="not find device" />
-      <item value="distinct" />
-      <item value="A wrapper drawable to square the wrapped drawable so that it expands to fill a square with exactly the given side length. The goal of this drawable is to ensure that square thumbnail drawables always match the size of the view they will be displayed in to avoid a costly requestLayout call. This class should not be used with views or drawables that are not square." />
-      <item value="翻译文档失败: 翻译失败: 未知错误&#10;&#10;&gt;Plugin v3.1.1  &#10;&gt;Android Studio Arctic Fox | 2020.3.1  &#10;&gt;Build #AI-203.7717.56.2031.7583922, built on July 27, 2021  &#10;&gt;Runtime version: 11.0.10+0-b96-7249189 aarch64  &#10;&gt;VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.  &#10;&gt;OS: macOS 11.2&#10;&#10;```&#10;cn.yiiguxing.plugin.translate.trans.TranslateException: Google 翻译 :: 翻译失败: 未知错误&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translateDocumentation(AbstractTranslator.kt:135)&#10;&#9;at cn.yiiguxing.plugin.translate.documentation.HtmlTranslatorKt.getTranslatedDocumentation(HtmlTranslator.kt:110)&#10;&#9;at cn.yiiguxing.plugin.translate.documentation.HtmlTranslatorKt.getTranslatedDocumentation(HtmlTranslator.kt:47)&#10;&#9;at cn.yiiguxing.plugin.translate.documentation.TranslateDocumentationTask$special$$inlined$runAsync$1.run(promise.kt:402)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)&#10;&#9;at java.base/java.security.AccessController.doPrivileged(Native Method)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)&#10;&#9;at java.base/java.lang.Thread.run(Thread.java:834)&#10;Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1&#10;&#9;at cn.yiiguxing.plugin.translate.trans.GoogleTranslator.parserResult(GoogleTranslator.kt:105)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate$lambda-3(AbstractTranslator.kt:91)&#10;&#9;at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:541)&#10;&#9;at com.intellij.util.io.HttpRequests.process(HttpRequests.java:523)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:355)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate(AbstractTranslator.kt:88)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translateDocumentation(AbstractTranslator.kt:104)&#10;&#9;... 10 more&#10;```&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1128" />
-        <entry key="ENGLISH" value="1129" />
+        <entry key="CHINESE" value="1131" />
+        <entry key="ENGLISH" value="1130" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
