@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Sets the opacity of the view to a value from 0 to 1, where 0 means the view is completely transparent and 1 means the view is completely opaque.&#10;Note: setting alpha to a translucent value (0 &lt; alpha &lt; 1) can have significant performance implications, especially for large views. It is best to use the alpha property sparingly and transiently, as in the case of fading animations.&#10;For a view with a frequently changing alpha, such as during a fading animation, it is strongly recommended for performance reasons to either override hasOverlappingRendering() to return false if appropriate, or setting a layer type on the view for the duration of the animation. On versions Build.VERSION_CODES.M and below, the default path for rendering an unlayered View with alpha could add multiple milliseconds of rendering cost, even for simple or small views. Starting with Build.VERSION_CODES.M, LAYER_TYPE_HARDWARE is automatically applied to the view at the rendering level.&#10;If this view overrides onSetAlpha(int) to return true, then this view is responsible for applying the opacity itself.&#10;On versions Build.VERSION_CODES.LOLLIPOP_MR1 and below, note that if the view is backed by a layer and is associated with a layer paint, setting an alpha value less than 1.0 will supersede the alpha of the layer paint.&#10;Starting with Build.VERSION_CODES.M, setting a translucent alpha value will clip a View to its bounds, unless the View returns false from hasOverlappingRendering.&#10;Params:&#10;alpha – The opacity of the view." />
       <item value="Implement this method to intercept all touch screen motion events. This allows you to watch events as they are dispatched to your children, and take ownership of the current gesture at any point." />
       <item value="&#10;true if this OnItemTouchListener wishes to begin intercepting touch events, false to continue with the current behavior and continue observing future events in the gesture." />
       <item value="find Intercepting On Item Touch Listener" />
@@ -53,11 +54,10 @@
       <item value="未发现设备" />
       <item value="wei" />
       <item value="unfind device" />
-      <item value="not find device" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1131" />
+        <entry key="CHINESE" value="1132" />
         <entry key="ENGLISH" value="1130" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
