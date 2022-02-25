@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="is Cross Fade Enabled" />
       <item value="重启" />
       <item value="fu'qi" />
       <item value="unspecified" />
@@ -53,12 +54,11 @@
       <item value="空调" />
       <item value="k't" />
       <item value="k't'r" />
-      <item value="Transient" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1167" />
-        <entry key="ENGLISH" value="1155" />
+        <entry key="ENGLISH" value="1156" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
