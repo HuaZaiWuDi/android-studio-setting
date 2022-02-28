@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="getX(int) for the first pointer index (may be an arbitrary pointer identifier).&#10;See Also:&#10;AXIS_X" />
+      <item value="track Touch Event" />
       <item value="Returns the smallest range that includes this range and another range." />
       <item value="Clamps value to this range." />
       <item value="clamp" />
@@ -52,13 +54,11 @@
       <item value="Binds the specified DatagramSocket to this Network. All data traffic on the socket will be sent on this Network, irrespective of any process-wide network binding set by ConnectivityManager.bindProcessToNetwork. The socket must not be connected." />
       <item value="Returns a Network object corresponding to the currently active default data network. In the event that the current active default data network disconnects, the returned Network object will no longer be usable. This will return null when there is no default network.&#10;Returns:&#10;a Network object for the current default network or null if no default network is currently active" />
       <item value="unreachable" />
-      <item value="unre" />
-      <item value="Machine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1282" />
-        <entry key="ENGLISH" value="1271" />
+        <entry key="CHINESE" value="1283" />
+        <entry key="ENGLISH" value="1272" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
