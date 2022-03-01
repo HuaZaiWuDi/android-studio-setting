@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="The distance in pixels from the left edge of this view's parent to the left edge of this view." />
       <item value="Repeat the animation indefinitely." />
       <item value="Sets the horizontal location of this view relative to its left position. This effectively positions the object post-layout, in addition to wherever the object's layout placed it.&#10;Params:&#10;translationX – The horizontal position of this view relative to its left position, in pixels." />
       <item value="This method will cause the View's scaleX property to be animated to the specified value. Animations already running on the property will be canceled." />
@@ -53,11 +54,10 @@
       <item value="Indicates whether network connectivity is possible. A network is unavailable when a persistent or semi-persistent condition prevents the possibility of connecting to that network. Examples include&#10;The device is out of the coverage area for any network of this type.&#10;The device is on a network other than the home network (i.e., roaming), and data roaming has been disabled.&#10;The device's radio is turned off, e.g., because airplane mode is enabled.&#10;Since Android L, this always returns true, because the system only returns info for available networks." />
       <item value="ndicates whether network connectivity exists and it is possible to establish connections and pass data.&#10;Always call this before attempting to perform data transactions." />
       <item value="Indicates whether network connectivity exists or is in the process of being established. This is good for applications that need to do anything related to the network other than read or write data. For the latter, call isConnected() instead, which guarantees that the network is fully usable.&#10;" />
-      <item value="DNS resolver series jni method. Attempts to get network which resolver will use if no network is explicitly selected.Indicates whether network connectivity exists or is in the process of being established. This is good for applications that need to do anything related to the network other than read or write data. For the latter, call isConnected() instead, which guarantees that the network is fully usable.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1291" />
+        <entry key="CHINESE" value="1292" />
         <entry key="ENGLISH" value="1274" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
