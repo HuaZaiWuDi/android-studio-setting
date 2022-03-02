@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="A resizeable bitmap, with stretchable areas that you define. This type of image is defined in a .png file with a special format.&#10;Developer Guides&#10;For more information about how to use a NinePatchDrawable, read the Canvas and Drawables developer guide. For information about creating a NinePatch image file using the draw9patch tool, see the Draw 9-patch tool guide." />
+      <item value="validate Nine Patch Chunk" />
+      <item value="Performs a vignetting effect, fading out the image at the edges The directional intensity of the vignetting, with a default of x = 0.5, y = 0.5, start = 0, end = 0.75" />
+      <item value="翻译文档失败: 翻译失败: 未知错误&#10;&#10;&gt;Plugin v3.1.1  &#10;&gt;Android Studio Arctic Fox | 2020.3.1  &#10;&gt;Build #AI-203.7717.56.2031.7583922, built on July 27, 2021  &#10;&gt;Runtime version: 11.0.10+0-b96-7249189 aarch64  &#10;&gt;VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.  &#10;&gt;OS: macOS 11.2&#10;&#10;```&#10;cn.yiiguxing.plugin.translate.trans.TranslateException: Google 翻译 :: 翻译失败: 未知错误&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translateDocumentation(AbstractTranslator.kt:135)&#10;&#9;at cn.yiiguxing.plugin.translate.documentation.HtmlTranslatorKt.getTranslatedDocumentation(HtmlTranslator.kt:110)&#10;&#9;at cn.yiiguxing.plugin.translate.documentation.HtmlTranslatorKt.getTranslatedDocumentation(HtmlTranslator.kt:47)&#10;&#9;at cn.yiiguxing.plugin.translate.documentation.TranslateDocumentationTask$special$$inlined$runAsync$1.run(promise.kt:402)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)&#10;&#9;at java.base/java.security.AccessController.doPrivileged(Native Method)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)&#10;&#9;at java.base/java.lang.Thread.run(Thread.java:834)&#10;Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1&#10;&#9;at cn.yiiguxing.plugin.translate.trans.GoogleTranslator.parserResult(GoogleTranslator.kt:105)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate$lambda-3(AbstractTranslator.kt:91)&#10;&#9;at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:541)&#10;&#9;at com.intellij.util.io.HttpRequests.process(HttpRequests.java:523)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:355)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate(AbstractTranslator.kt:88)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translateDocumentation(AbstractTranslator.kt:104)&#10;&#9;... 10 more&#10;```&#10;" />
+      <item value="Nine Patch Chunk" />
       <item value="柔纱帘" />
       <item value="罗马帘" />
       <item value="百叶帘" />
@@ -49,16 +54,11 @@
       <item value="android la'sh" />
       <item value="android 部分拉" />
       <item value="android 部分拉伸" />
-      <item value="is Cross Fade Enabled" />
-      <item value="重启" />
-      <item value="fu'qi" />
-      <item value="unspecified" />
-      <item value="internal exception occurred from local api" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1302" />
-        <entry key="ENGLISH" value="1286" />
+        <entry key="CHINESE" value="1305" />
+        <entry key="ENGLISH" value="1288" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
