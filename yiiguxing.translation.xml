@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="两级" />
+      <item value="两ji" />
+      <item value="两" />
+      <item value="两次" />
       <item value="wrap" />
       <item value="Blend Mode" />
       <item value="This takes a mask, and blurs its edge by the specified radius. Whether or or not to include the original mask, and whether the blur goes outside, inside, or straddles, the original mask's border, is controlled by the Blur enum." />
@@ -50,15 +54,11 @@
       <item value="阈值" />
       <item value="yu'zhi" />
       <item value="yu'z'zhi" />
-      <item value="yu'z" />
-      <item value="误差" />
-      <item value="wu'c" />
-      <item value="垂直" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1316" />
-        <entry key="ENGLISH" value="1310" />
+        <entry key="CHINESE" value="1323" />
+        <entry key="ENGLISH" value="1317" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
