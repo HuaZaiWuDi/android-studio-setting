@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="router fragment target path" />
       <item value="Change the desired orientation of this activity. If the activity is currently in the foreground or otherwise impacting the screen orientation, the screen will immediately be changed (possibly causing the activity to be restarted). Otherwise, this will be used the next time the activity is visible." />
       <item value="&#10;You should not lock orientation of your activities, so that you can support a good user experience for any device or orientationChange the desired orientation of this activity. If the activity is currently in the foreground or otherwise impacting the screen orientation, the screen will immediately be changed (possibly causing the activity to be restarted). Otherwise, this will be used the next time the activity is visible." />
       <item value="&#10;You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
@@ -53,12 +54,11 @@
       <item value="card gradient cool" />
       <item value="A resizeable bitmap, with stretchable areas that you define. This type of image is defined in a .png file with a special format.&#10;Developer Guides&#10;For more information about how to use a NinePatchDrawable, read the Canvas and Drawables developer guide. For information about creating a NinePatch image file using the draw9patch tool, see the Draw 9-patch tool guide." />
       <item value="validate Nine Patch Chunk" />
-      <item value="Performs a vignetting effect, fading out the image at the edges The directional intensity of the vignetting, with a default of x = 0.5, y = 0.5, start = 0, end = 0.75" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1346" />
-        <entry key="ENGLISH" value="1346" />
+        <entry key="ENGLISH" value="1347" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
