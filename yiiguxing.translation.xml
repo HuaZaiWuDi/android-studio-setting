@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="The flex container is multi-line." />
+      <item value="Cross start to cross endThe flex container is multi-line." />
+      <item value="Cross start to cross end" />
+      <item value="Main axis direction -&gt; vertical. Main start to main end -&gt; Top to bottom. Cross start to cross end -&gt; Left to right (In LTR languages)." />
       <item value="快捷" />
       <item value="kuai'j" />
       <item value="Set the width and height layout parameters of the window. The default for both of these is MATCH_PARENT; you can change them to WRAP_CONTENT or an absolute value to make a window that is not full-screen.&#10;Params:&#10;width – The desired layout width of the window.&#10;height – The desired layout height of the window." />
@@ -50,15 +54,11 @@
       <item value="预览" />
       <item value="yu" />
       <item value="access" />
-      <item value="get Temp Selected Home" />
-      <item value="Request threw uncaught throwable" />
-      <item value="The NinePatch class permits drawing a bitmap in nine or more sections. Essentially, it allows the creation of custom graphics that will scale the way that you define, when content added within the image exceeds the normal bounds of the graphic. For a thorough explanation of a NinePatch image, read the discussion in the 2D Graphics document.&#10;The Draw 9-Patch tool offers an extremely handy way to create your NinePatch images, using a WYSIWYG graphics editor." />
-      <item value="descendants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1354" />
-        <entry key="ENGLISH" value="1354" />
+        <entry key="CHINESE" value="1357" />
+        <entry key="ENGLISH" value="1355" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
