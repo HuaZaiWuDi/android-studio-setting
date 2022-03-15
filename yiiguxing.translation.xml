@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Style for setStyle(int, int): don't draw any frame at all; the view hierarchy returned by onCreateView is entirely responsible for drawing the dialog." />
       <item value="coordinator" />
       <item value="Collapsed" />
       <item value="Sets whether this bottom sheet should skip the collapsed state when it is being hidden after it is expanded once. Setting this to true has no effect unless the sheet is hideable.&#10;Params:&#10;skipCollapsed – True if the bottom sheet should skip the collapsed state." />
@@ -53,11 +54,10 @@
       <item value="父辈" />
       <item value="Two Level Released" />
       <item value="Two Level Finish" />
-      <item value=" Floor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1393" />
+        <entry key="CHINESE" value="1394" />
         <entry key="ENGLISH" value="1383" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
