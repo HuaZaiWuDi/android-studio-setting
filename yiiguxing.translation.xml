@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="&#10;The horizontal extent of the scrollbar's thumb" />
+      <item value="compute Horizontal Scroll Range" />
+      <item value="compute Vertical Scroll Offset" />
       <item value="Starts the underlying Animator for a set of properties. We use a single animator that simply runs from 0 to 1, and then use that fractional value to set each property value accordingly." />
       <item value="the animation is no longer changing anything - cancel it" />
       <item value="Starts the currently pending property animations immediately. Calling start() is optional because all animations start automatically at the next opportunity. However, if the animations are needed to start immediately and synchronously (not at the time when the next event is processed by the hierarchy, which is when the animations would begin otherwise), then this method can be used." />
@@ -51,14 +54,11 @@
       <item value="Returns true if the final onDestroy() call has been made on the Activity, so this instance is now dead." />
       <item value="首页配置" />
       <item value="homeconfiguration" />
-      <item value="scale" />
-      <item value="&#10;pool – A BitmapPool that can be used to obtain and return intermediate Bitmaps used in this transformation. For every Bitmap obtained from the pool during this transformation, a Bitmap must also be returned.&#10;toTransform – The Bitmap to transform.&#10;outWidth – The ideal width of the transformed bitmap (the transformed width does not need to match exactly).&#10;outHeight – The ideal height of the transformed bitmap (the transformed height does not need to match exactly)." />
-      <item value="factor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1422" />
-        <entry key="ENGLISH" value="1409" />
+        <entry key="CHINESE" value="1423" />
+        <entry key="ENGLISH" value="1414" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
