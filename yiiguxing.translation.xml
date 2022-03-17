@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Sets a tag associated with this view and a key. A tag can be used to mark a view in its hierarchy and does not have to be unique within the hierarchy. Tags can also be used to store data within a view without resorting to another data structure. The specified key should be an id declared in the resources of the application to ensure it is unique (see the ID resource type). Keys identified as belonging to the Android framework or not associated with any package will cause an IllegalArgumentException to be thrown.&#10;Params:&#10;key – The key identifying the tag&#10;tag – An Object to tag the view with" />
+      <item value="The key must be an application-specific resource id." />
       <item value="remote Data" />
       <item value="local Data" />
       <item value="Sets the Drawables (if any) to appear to the left of, above, to the right of, and below the text. Use null if you do not want a Drawable there. The Drawables must already have had Drawable.setBounds called." />
@@ -52,12 +54,10 @@
       <item value="MISSING DEPENDENCY CLASS" />
       <item value="router fragment target path" />
       <item value="Change the desired orientation of this activity. If the activity is currently in the foreground or otherwise impacting the screen orientation, the screen will immediately be changed (possibly causing the activity to be restarted). Otherwise, this will be used the next time the activity is visible." />
-      <item value="&#10;You should not lock orientation of your activities, so that you can support a good user experience for any device or orientationChange the desired orientation of this activity. If the activity is currently in the foreground or otherwise impacting the screen orientation, the screen will immediately be changed (possibly causing the activity to be restarted). Otherwise, this will be used the next time the activity is visible." />
-      <item value="&#10;You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1428" />
+        <entry key="CHINESE" value="1430" />
         <entry key="ENGLISH" value="1415" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
