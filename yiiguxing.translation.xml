@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Dispatches the motion event to the intercepting OnItemTouchListener or provides opportunity for OnItemTouchListeners to intercept." />
       <item value="If some part of this view is not clipped by any of its parents, then return that area in r in global (root) coordinates. To convert r to local coordinates (without taking possible View rotations into account), offset it by -globalOffset (e.g. r.offset(-globalOffset.x, -globalOffset.y)). If the view is completely clipped or translated out, return false." />
       <item value="counter-clockwise" />
       <item value="Set the clip to the difference of the current clip and the specified rectangle, which is expressed in local coordinates." />
@@ -53,11 +54,10 @@
       <item value="cate" />
       <item value="种类" />
       <item value="zong'lei" />
-      <item value="宗磊" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1475" />
+        <entry key="CHINESE" value="1476" />
         <entry key="ENGLISH" value="1442" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
