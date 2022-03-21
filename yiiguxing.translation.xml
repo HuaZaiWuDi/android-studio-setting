@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="ACCESS CONFIG Main Fragment" />
       <item value="ringtone" />
       <item value="ENV PERVIEW Fragment" />
       <item value="Removes the entry for the specified key only if it is mapped to the specified value." />
@@ -53,12 +54,11 @@
       <item value="launch" />
       <item value="laun" />
       <item value="lu" />
-      <item value="启动" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1438" />
-        <entry key="ENGLISH" value="1417" />
+        <entry key="CHINESE" value="1439" />
+        <entry key="ENGLISH" value="1419" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
