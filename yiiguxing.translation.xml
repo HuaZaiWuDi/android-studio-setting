@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="This method will be invoked when the current page is scrolled, either as part of a programmatically initiated smooth scroll or a user initiated touch scroll.&#10;Params:&#10;position – Position index of the first page currently being displayed. Page position+1 will be visible if positionOffset is nonzero.&#10;positionOffset – Value from [0, 1) indicating the offset from the page at position.&#10;positionOffsetPixels – Value in pixels indicating the offset from position." />
       <item value="ACCESS CONFIG Main Fragment" />
       <item value="ringtone" />
       <item value="ENV PERVIEW Fragment" />
@@ -53,11 +54,10 @@
       <item value="g'c" />
       <item value="launch" />
       <item value="laun" />
-      <item value="lu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1439" />
+        <entry key="CHINESE" value="1440" />
         <entry key="ENGLISH" value="1419" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
