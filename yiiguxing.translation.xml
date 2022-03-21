@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="ringtone" />
       <item value="ENV PERVIEW Fragment" />
       <item value="Removes the entry for the specified key only if it is mapped to the specified value." />
       <item value="Removes the entry for the specified key only if it is mapped to the specified value.&#10;Returns:&#10;true if entry was removed" />
@@ -53,12 +54,11 @@
       <item value="laun" />
       <item value="lu" />
       <item value="启动" />
-      <item value="外部" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1438" />
-        <entry key="ENGLISH" value="1416" />
+        <entry key="ENGLISH" value="1417" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647252738382" />
+    <option name="lastTrimTime" value="1647828418109" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
