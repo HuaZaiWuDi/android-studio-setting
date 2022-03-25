@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="&#10;pivotX – The x location of the pivot point." />
+      <item value="Sets the x location of the point around which the view is rotated and scaled. By default, the pivot point is centered on the object. Setting this property disables this behavior and causes the view to use only the explicitly set pivotX and pivotY values." />
+      <item value="Returns the measured width of the given child, plus the additional size of any insets applied by ItemDecorations." />
+      <item value="Decorated" />
       <item value="The x location of the point around which the view is rotated and scaled." />
       <item value="Sets the amount that the view is scaled in x around the pivot point, as a proportion of the view's unscaled width. A value of 1 means that no scaling is applied." />
       <item value="Relative" />
@@ -50,15 +54,11 @@
       <item value=" if the key is of an inappropriate type for this map (optional)" />
       <item value="if the remove operation is not supported by this map" />
       <item value="if the specified key is null and this map does not permit null" />
-      <item value="cycle interpolator" />
-      <item value="Sets the opacity of the view to a value from 0 to 1, where 0 means the view is completely transparent and 1 means the view is completely opaque.&#10;Note: setting alpha to a translucent value (0 &lt; alpha &lt; 1) can have significant performance implications, especially for large views. It is best to use the alpha property sparingly and transiently, as in the case of fading animations." />
-      <item value="Sets a tag associated with this view and a key. A tag can be used to mark a view in its hierarchy and does not have to be unique within the hierarchy. Tags can also be used to store data within a view without resorting to another data structure. The specified key should be an id declared in the resources of the application to ensure it is unique (see the ID resource type). Keys identified as belonging to the Android framework or not associated with any package will cause an IllegalArgumentException to be thrown.&#10;Params:&#10;key – The key identifying the tag&#10;tag – An Object to tag the view with" />
-      <item value="The key must be an application-specific resource id." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1483" />
-        <entry key="ENGLISH" value="1452" />
+        <entry key="CHINESE" value="1486" />
+        <entry key="ENGLISH" value="1453" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
