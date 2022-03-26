@@ -8,8 +8,19 @@
             <value value="JCP6R21820001394" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-26T07:47:36.007036Z" />
         <name value="HUAWEI WGR-W09" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="a909734e" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-26T07:52:33.327509Z" />
+        <name value="Xiaomi MI 9" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
