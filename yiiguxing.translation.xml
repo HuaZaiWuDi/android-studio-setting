@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Never show over-scroll effects." />
+      <item value="Defines whether to fade out scrollbars when they are not in use" />
       <item value="Creates a new ColorStateList that has the same states and colors as this one but where each color has the specified alpha value (0-255)." />
       <item value="Performs resumeRequests() recursively for all managers that are contextually descendant to this manager based on the Activity/Fragment hierarchy. The hierarchical semantics are identical as for pauseRequestsRecursive()." />
       <item value="Create a helper object to create, open, and/or manage a database. This method always returns very quickly. The database is not actually created or opened until one of getWritableDatabase or getReadableDatabase is called." />
@@ -16,7 +18,6 @@
       <item value="Enables or disables the cross fade of the drawables. When cross fade is disabled, the first drawable is always drawn opaque. With cross fade enabled, the first drawable is drawn with the opposite alpha of the second drawable. Cross fade is disabled by default. Params: enabled – True to enable cross fading, false otherwise." />
       <item value="Edge of the view and inset." />
       <item value="over-scroll" />
-      <item value="Never show over-scroll effects." />
       <item value="Returns a substring after the last occurrence of delimiter. If the string does not contain the delimiter, returns missingDelimiterValue which defaults to the original string." />
       <item value="for some reason, you may want to ignore tinkerBuild, such as instant run debug build?" />
       <item value="Resource array of dimensions to be used in conjunction with &lt;code&gt;autoSizeTextType&lt;code&gt; set to &lt;code&gt;uniform&lt;code&gt;. Overrides &lt;code&gt;autoSizeStepGranularity&lt;code&gt; if set. --&gt;" />
@@ -53,12 +54,11 @@
       <item value="clip" />
       <item value="Intersect the current clip with the specified path.&#10;Params:&#10;path – The path to intersect with the current clip&#10;Returns:&#10;true if the resulting clip is non-empty" />
       <item value="Set the clip to the difference of the current clip and the specified path.&#10;Params:&#10;path – The path used in the difference operation&#10;Returns:&#10;true if the resulting clip is non-empty" />
-      <item value="clip Out" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1490" />
-        <entry key="ENGLISH" value="1468" />
+        <entry key="ENGLISH" value="1470" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
