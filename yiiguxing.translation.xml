@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="drying_clothe" />
+      <item value="drying_clothes" />
+      <item value="drying_clothes_guide_page" />
+      <item value="trip-setup-guidedrying_clothes_guide_page" />
+      <item value="trip-setup-guide" />
+      <item value="The RecyclerView is not currently scrolling." />
       <item value="Edge" />
       <item value="Edge Effec" />
       <item value="displacement – The displacement from the starting side of the effect of the point initiating the pull. In the case of touch this is the finger position. Values may be from 0-1." />
@@ -48,17 +54,11 @@
       <item value="Decorated" />
       <item value="The x location of the point around which the view is rotated and scaled." />
       <item value="Sets the amount that the view is scaled in x around the pivot point, as a proportion of the view's unscaled width. A value of 1 means that no scaling is applied." />
-      <item value="Relative" />
-      <item value="is defined multiple times" />
-      <item value="Error while merging dex archives" />
-      <item value="ACCESS SUCCESS Fragment" />
-      <item value="subject integration is illegal." />
-      <item value="Cannot perform this operation because the connection pool has been closed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1492" />
-        <entry key="ENGLISH" value="1493" />
+        <entry key="CHINESE" value="1496" />
+        <entry key="ENGLISH" value="1496" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
