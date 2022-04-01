@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="displacement – The displacement from the starting side of the effect of the point initiating the pull. In the case of touch this is the finger position. Values may be from 0-1." />
+      <item value="deltaDistance – Change in distance since the last call. Values may be 0 (no change) to 1.f (full length of the view) or negative values to express change back toward the edge reached to initiate the effect." />
       <item value="The displacement from the starting side of the effect of the point initiating the pull. In the case of touch this is the finger position. Values may be from 0-1." />
       <item value="Change in distance since the last call. Values may be 0 (no change) to 1.f (full length of the view) or negative values to express change back toward the edge" />
       <item value="deltaDistance – Change in distance since the last call. Values may be 0 (no change) to 1.f (full length of the view) or negative values to express change back toward the edge reached to initiate the effect. displacement – The displacement from the starting side of the effect of the point initiating the pull. In the case of touch this is the finger position. Values may be from 0-1." />
@@ -11,7 +13,6 @@
       <item value="When a new {@link EdgeEffectFactory} is set, any existing over-scroll effects are cleared and new effects are created as needed using {@link EdgeEffectFactorycreateEdgeEffect(RecyclerView, int)}" />
       <item value="consider Releasing Glows On Scroll" />
       <item value="delta Distance" />
-      <item value="deltaDistance – Change in distance since the last call. Values may be 0 (no change) to 1.f (full length of the view) or negative values to express change back toward the edge reached to initiate the effect." />
       <item value="A view should call this when content is pulled away from an edge by the user. This will update the state of the current visual effect and its associated animation. The host view should always android.view.View.invalidate() after call this method and draw the results accordingly." />
       <item value="EdgeEffectFactory lets you customize the over-scroll edge effect for RecyclerViews." />
       <item value="Set a {@link EdgeEffectFactory} for this {@link RecyclerView}." />
@@ -53,12 +54,11 @@
       <item value="Cannot perform this operation because the connection pool has been closed." />
       <item value="inaccessible" />
       <item value="A structure describing general information about a display, such as its size, density, and font scaling.&#10;To access the DisplayMetrics members, initialize an object like this:&#10; DisplayMetrics metrics = new DisplayMetrics();&#10;   getWindowManager().getDefaultDisplay().getMetrics(metrics);" />
-      <item value="The absolute height of the available display size in pixels.A structure describing general information about a display, such as its size, density, and font scaling.&#10;To access the DisplayMetrics members, initialize an object like this:&#10; DisplayMetrics metrics = new DisplayMetrics();&#10;   getWindowManager().getDefaultDisplay().getMetrics(metrics);" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1490" />
-        <entry key="ENGLISH" value="1489" />
+        <entry key="ENGLISH" value="1491" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
