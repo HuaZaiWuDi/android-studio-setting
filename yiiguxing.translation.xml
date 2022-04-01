@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Duplicate" />
+      <item value="Duplicate key in ArrayMap: router_fragment_target_path" />
+      <item value="You've configured an invalid url : EMPTY_OR_NULL_URL" />
+      <item value="Returns the current drawable being displayed in the view, or null if no such drawable exists (or one cannot be retrieved)." />
+      <item value="Reverses the transition, picking up where the transition currently is. If the transition is not currently running, this will start the transition with the specified duration. If the transition is already running, the last known duration will be used. Params: duration – The duration to use if no transition is running." />
+      <item value="Enables or disables the cross fade of the drawables. When cross fade is disabled, the first drawable is always drawn opaque. With cross fade enabled, the first drawable is drawn with the opposite alpha of the second drawable. Cross fade is disabled by default. Params: enabled – True to enable cross fading, false otherwise." />
+      <item value="Edge of the view and inset." />
+      <item value="over-scroll" />
+      <item value="Never show over-scroll effects." />
       <item value="Returns a substring after the last occurrence of delimiter. If the string does not contain the delimiter, returns missingDelimiterValue which defaults to the original string." />
       <item value="Performs resumeRequests() recursively for all managers that are contextually descendant to this manager based on the Activity/Fragment hierarchy. The hierarchical semantics are identical as for pauseRequestsRecursive()." />
       <item value="for some reason, you may want to ignore tinkerBuild, such as instant run debug build?" />
@@ -45,20 +54,11 @@
       <item value="threshold" />
       <item value="滑动阈值" />
       <item value="黄" />
-      <item value="Query if horizontal scrolling is currently supported. The default implementation returns false." />
-      <item value="direction – Negative to check scrolling left, positive to check scrolling right." />
-      <item value="Check if this view can be scrolled horizontally in a certain direction.&#10;Params:&#10;direction – Negative to check scrolling left, positive to check scrolling right.&#10;Returns:&#10;true if this view can be scrolled in the specified direction, false otherwise." />
-      <item value="Callback method to be invoked when the RecyclerView has been scrolled. This will be called after the scroll has completed.&#10;This callback will also be called if visible item range changes after a layout calculation. In that case, dx and dy will be 0.&#10;Params:&#10;recyclerView – The RecyclerView which scrolled.&#10;dx – The amount of horizontal scroll.&#10;dy – The amount of vertical scroll." />
-      <item value="This method will be invoked when the current page is scrolled, either as part of a programmatically initiated smooth scroll or a user initiated touch scroll.&#10;Params:&#10;position – Position index of the first page currently being displayed. Page position+1 will be visible if positionOffset is nonzero.&#10;positionOffset – Value from [0, 1) indicating the offset from the page at position.&#10;positionOffsetPixels – Value in pixels indicating the offset from position." />
-      <item value="ACCESS CONFIG Main Fragment" />
-      <item value="ringtone" />
-      <item value="ENV PERVIEW Fragment" />
-      <item value="Removes the entry for the specified key only if it is mapped to the specified value." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1488" />
-        <entry key="ENGLISH" value="1457" />
+        <entry key="ENGLISH" value="1467" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
