@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Extra is canceled" />
       <item value="Duplicate" />
       <item value="Duplicate key in ArrayMap: router_fragment_target_path" />
       <item value="You've configured an invalid url : EMPTY_OR_NULL_URL" />
@@ -53,7 +54,6 @@
       <item value="clip Out" />
       <item value="threshold" />
       <item value="滑动阈值" />
-      <item value="黄" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648285170971" />
+    <option name="lastTrimTime" value="1648793948753" />
   </component>
 </application>
