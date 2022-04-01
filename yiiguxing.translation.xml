@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Create a helper object to create, open, and/or manage a database. This method always returns very quickly. The database is not actually created or opened until one of getWritableDatabase or getReadableDatabase is called." />
       <item value="Extra is canceled" />
       <item value="Duplicate" />
       <item value="Duplicate key in ArrayMap: router_fragment_target_path" />
@@ -53,11 +54,10 @@
       <item value="Set the clip to the difference of the current clip and the specified path.&#10;Params:&#10;path – The path used in the difference operation&#10;Returns:&#10;true if the resulting clip is non-empty" />
       <item value="clip Out" />
       <item value="threshold" />
-      <item value="滑动阈值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1488" />
+        <entry key="CHINESE" value="1489" />
         <entry key="ENGLISH" value="1467" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
