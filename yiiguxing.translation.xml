@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Performs resumeRequests() recursively for all managers that are contextually descendant to this manager based on the Activity/Fragment hierarchy. The hierarchical semantics are identical as for pauseRequestsRecursive()." />
       <item value="Create a helper object to create, open, and/or manage a database. This method always returns very quickly. The database is not actually created or opened until one of getWritableDatabase or getReadableDatabase is called." />
       <item value="Extra is canceled" />
       <item value="Duplicate" />
@@ -16,7 +17,6 @@
       <item value="over-scroll" />
       <item value="Never show over-scroll effects." />
       <item value="Returns a substring after the last occurrence of delimiter. If the string does not contain the delimiter, returns missingDelimiterValue which defaults to the original string." />
-      <item value="Performs resumeRequests() recursively for all managers that are contextually descendant to this manager based on the Activity/Fragment hierarchy. The hierarchical semantics are identical as for pauseRequestsRecursive()." />
       <item value="for some reason, you may want to ignore tinkerBuild, such as instant run debug build?" />
       <item value="Resource array of dimensions to be used in conjunction with &lt;code&gt;autoSizeTextType&lt;code&gt; set to &lt;code&gt;uniform&lt;code&gt;. Overrides &lt;code&gt;autoSizeStepGranularity&lt;code&gt; if set. --&gt;" />
       <item value="The maximum text size constraint to be used when auto-sizing text." />
@@ -57,7 +57,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1489" />
+        <entry key="CHINESE" value="1490" />
         <entry key="ENGLISH" value="1467" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
