@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="A ListPopupWindow anchors itself to a host view and displays a list of choices. ListPopupWindow contains a number of tricky behaviors surrounding positioning, scrolling parents to fit the dropdown, interacting sanely with the IME if present, and others." />
       <item value="Returns the maximum height that is available for the popup to be completely shown. It is recommended that this height be the maximum for the popup's height, otherwise it is possible that the popup will be clipped." />
       <item value="drying_clothe" />
       <item value="drying_clothes" />
@@ -53,12 +54,11 @@
       <item value="Sets the x location of the point around which the view is rotated and scaled. By default, the pivot point is centered on the object. Setting this property disables this behavior and causes the view to use only the explicitly set pivotX and pivotY values." />
       <item value="Returns the measured width of the given child, plus the additional size of any insets applied by ItemDecorations." />
       <item value="Decorated" />
-      <item value="The x location of the point around which the view is rotated and scaled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1496" />
-        <entry key="ENGLISH" value="1497" />
+        <entry key="CHINESE" value="1498" />
+        <entry key="ENGLISH" value="1499" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
