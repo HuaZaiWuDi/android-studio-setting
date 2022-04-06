@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="配置表" />
+      <item value="配置l" />
+      <item value="配置" />
+      <item value="配置的" />
+      <item value="y配置的" />
+      <item value="可配置的" />
       <item value="creator" />
       <item value="bias" />
       <item value="percent" />
@@ -48,17 +54,11 @@
       <item value="Duplicate key in ArrayMap: router_fragment_target_path" />
       <item value="You've configured an invalid url : EMPTY_OR_NULL_URL" />
       <item value="Returns the current drawable being displayed in the view, or null if no such drawable exists (or one cannot be retrieved)." />
-      <item value="Reverses the transition, picking up where the transition currently is. If the transition is not currently running, this will start the transition with the specified duration. If the transition is already running, the last known duration will be used. Params: duration – The duration to use if no transition is running." />
-      <item value="Enables or disables the cross fade of the drawables. When cross fade is disabled, the first drawable is always drawn opaque. With cross fade enabled, the first drawable is drawn with the opposite alpha of the second drawable. Cross fade is disabled by default. Params: enabled – True to enable cross fading, false otherwise." />
-      <item value="Edge of the view and inset." />
-      <item value="over-scroll" />
-      <item value="Returns a substring after the last occurrence of delimiter. If the string does not contain the delimiter, returns missingDelimiterValue which defaults to the original string." />
-      <item value="for some reason, you may want to ignore tinkerBuild, such as instant run debug build?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1505" />
-        <entry key="ENGLISH" value="1506" />
+        <entry key="CHINESE" value="1509" />
+        <entry key="ENGLISH" value="1510" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
