@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Pull Down Canceled" />
+      <item value="Release To Two Level" />
       <item value="expect" />
       <item value="not match : - =" />
       <item value="Unexpected value at line 1 column 2371 path [0].functions[1].traitConfigList[6].defaultValue" />
@@ -52,13 +54,11 @@
       <item value="Item decorations are ordered. Decorations placed earlier in the list will be runquerieddrawn first for their effects on item views. Padding added to views will be nested; a padding added by an earlier decoration will mean further item decorations in the list will be asked to drawpad within the previous decoration's given area." />
       <item value="Never show over-scroll effects." />
       <item value="Defines whether to fade out scrollbars when they are not in use" />
-      <item value="Creates a new ColorStateList that has the same states and colors as this one but where each color has the specified alpha value (0-255)." />
-      <item value="Performs resumeRequests() recursively for all managers that are contextually descendant to this manager based on the Activity/Fragment hierarchy. The hierarchical semantics are identical as for pauseRequestsRecursive()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1518" />
-        <entry key="ENGLISH" value="1519" />
+        <entry key="CHINESE" value="1520" />
+        <entry key="ENGLISH" value="1521" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648793948753" />
+    <option name="lastTrimTime" value="1649248453813" />
   </component>
 </application>
