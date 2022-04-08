@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="the number of rows affected" />
       <item value="This method will return false if the cursor is already past the last entry in the result set." />
       <item value="Move the cursor to the next row." />
       <item value="This method will return false if the cursor is empty." />
@@ -53,12 +54,11 @@
       <item value="consider Releasing Glows On Scroll" />
       <item value="delta Distance" />
       <item value="A view should call this when content is pulled away from an edge by the user. This will update the state of the current visual effect and its associated animation. The host view should always android.view.View.invalidate() after call this method and draw the results accordingly." />
-      <item value="EdgeEffectFactory lets you customize the over-scroll edge effect for RecyclerViews." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1528" />
-        <entry key="ENGLISH" value="1529" />
+        <entry key="CHINESE" value="1529" />
+        <entry key="ENGLISH" value="1530" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
