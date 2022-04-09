@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="T Current Level" />
       <item value="Converts a color from CIE XYZ to its RGB representation. This method expects the XYZ representation to use the D65 illuminant and the CIE 2° Standard Observer (1931)." />
       <item value="Duplicate label in when" />
       <item value="When areItemsTheSame(T, T) returns true for two items and areContentsTheSame(T, T) returns false for them, this method is called to get a payload about the change. For example, if you are using DiffUtil with RecyclerView, you can return the particular field that changed in the item and your ItemAnimator can use that information to run the correct animation." />
@@ -53,12 +54,11 @@
       <item value="Indicates whether all the items in this adapter are enabled. If the value returned by this method changes over time, there is no guarantee it will take effect. If true, it means all items are selectable and clickable (there is no separator.)" />
       <item value="Returns true if the item at the specified position is not a separator. (A separator is a non-selectable, non-clickable item). The result is unspecified if position is invalid. An ArrayIndexOutOfBoundsException should be thrown in that case for fast failure." />
       <item value="A ListPopupWindow anchors itself to a host view and displays a list of choices. ListPopupWindow contains a number of tricky behaviors surrounding positioning, scrolling parents to fit the dropdown, interacting sanely with the IME if present, and others." />
-      <item value="Returns the maximum height that is available for the popup to be completely shown. It is recommended that this height be the maximum for the popup's height, otherwise it is possible that the popup will be clipped." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1571" />
-        <entry key="ENGLISH" value="1572" />
+        <entry key="CHINESE" value="1572" />
+        <entry key="ENGLISH" value="1573" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
