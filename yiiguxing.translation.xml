@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Returns true if all elements match the given predicate." />
       <item value="T Current Level" />
       <item value="Converts a color from CIE XYZ to its RGB representation. This method expects the XYZ representation to use the D65 illuminant and the CIE 2° Standard Observer (1931)." />
       <item value="Duplicate label in when" />
@@ -53,12 +54,11 @@
       <item value="spread" />
       <item value="Indicates whether all the items in this adapter are enabled. If the value returned by this method changes over time, there is no guarantee it will take effect. If true, it means all items are selectable and clickable (there is no separator.)" />
       <item value="Returns true if the item at the specified position is not a separator. (A separator is a non-selectable, non-clickable item). The result is unspecified if position is invalid. An ArrayIndexOutOfBoundsException should be thrown in that case for fast failure." />
-      <item value="A ListPopupWindow anchors itself to a host view and displays a list of choices. ListPopupWindow contains a number of tricky behaviors surrounding positioning, scrolling parents to fit the dropdown, interacting sanely with the IME if present, and others." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1572" />
-        <entry key="ENGLISH" value="1573" />
+        <entry key="CHINESE" value="1573" />
+        <entry key="ENGLISH" value="1574" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
