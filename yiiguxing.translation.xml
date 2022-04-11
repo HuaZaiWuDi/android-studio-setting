@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="可选" />
       <item value="This is called when the view is detached from a window. At this point it no longer has a surface for drawing." />
       <item value="Exception while computing database live data." />
       <item value="Returns true if all elements match the given predicate." />
@@ -53,12 +54,11 @@
       <item value="bias" />
       <item value="percent" />
       <item value="wrap" />
-      <item value="spread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1575" />
-        <entry key="ENGLISH" value="1576" />
+        <entry key="CHINESE" value="1581" />
+        <entry key="ENGLISH" value="1582" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
