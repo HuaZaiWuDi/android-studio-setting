@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="352" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="this is all ridiculous... you're constantly trying to find a way to make it not your issue..point is, your product should work on all Android devices..and all 2.4GHz routers.&#10;&#10;&#10;its a brand new AT&amp;T fiber router...1 Gig internet speed...2.4 GHz..&#10;&#10;your products shouldn't work with only some...plain and simple, your product is poorly designed...all you have to do is read your reviews..it's not just me..&#10;&#10;Facebook works on all... Alexa works on all...Samsung Smartthings works on all..Philips Hue works on all..Smart Life works on all...because they were developed correctly..yours does not" />
+      <item value="Product will not work over ethernet. It does work over wifi. I assume it has a defective ethernet • hardware. Some of the reviews say the same issue." />
+      <item value="dark" />
+      <item value="明亮" />
+      <item value="ming'l" />
+      <item value="亮" />
+      <item value="liang" />
+      <item value="light" />
+      <item value="ligh" />
       <item value="Converts this Float value to UInt. The fractional part, if any, is rounded down towards zero. Returns zero if this Float value is negative or NaN, UInt.MAX_VALUE if it's bigger than UInt.MAX_VALUE." />
       <item value="LANGUAGE" />
       <item value="F Smoke" />
@@ -45,20 +54,11 @@
       <item value="not match : - =" />
       <item value="Unexpected value at line 1 column 2371 path [0].functions[1].traitConfigList[6].defaultValue" />
       <item value="Unexpected value at line 1 column 1913 path [0].functions[1].traitConfigList[3].defaultValue" />
-      <item value="Unterminated array at line 1 column 2005 path [0].functions[1].traitConfigList[3].defaultValue[8]" />
-      <item value="Expected ':' at line 1 column 29 path [0].Button" />
-      <item value="配置表" />
-      <item value="配置l" />
-      <item value="配置" />
-      <item value="配置的" />
-      <item value="y配置的" />
-      <item value="可配置的" />
-      <item value="creator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1582" />
-        <entry key="ENGLISH" value="1583" />
+        <entry key="CHINESE" value="1597" />
+        <entry key="ENGLISH" value="1595" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
