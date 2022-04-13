@@ -8,7 +8,6 @@
             <value value="a909734e" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-13T08:17:38.678284Z" />
         <name value="Xiaomi MI 9" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -34,6 +33,17 @@
         <name value="Xiaomi M2105K81AC" />
         <target value="Android 11.0" />
         <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="55555" />
+          </Key>
+        </key>
+        <name value="Skyworth AIP10A" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
