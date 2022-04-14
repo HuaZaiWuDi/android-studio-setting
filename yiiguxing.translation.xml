@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="373" />
-    <option name="newTranslationDialogX" value="352" />
-    <option name="newTranslationDialogY" value="457" />
+    <option name="newTranslationDialogX" value="572" />
+    <option name="newTranslationDialogY" value="67" />
     <histories>
+      <item value="I selected a sensor as the first thing to connect to in the Aqara app. The app then told me I needed to have a connected. The app sent me to a different connection page then the one I saw when I try to connect the Hub directly. This connection page connected my Hub without problems. I don't know why the app has two different Hub connection pages, but the main one does not work correctly sometimes. The Hub connection page that the app uses when connecting a sensor worked perfectly" />
+      <item value="My hub doesn't seem to connect to the internet. I'm following the steps; wifi is set to 2.4ghz only, phone connected to the same, indicator light on hub flashes, the hub is found in the app, but the process does not continue past this step. See attached snapshot." />
+      <item value="I am located in the US region and my Hub will not bind. It will bind to the China Mainland Region. I am trying to link it with Alexa but will not. I have tried a M2 hub also but doesn't work. I have over 100+ smart accessories so my Internet is fine." />
       <item value="Why? Why, to give you a taste of your future, a preview of things to come. Con permiso, Capitan. The hall is rented, the orchestra engaged. It's now time to see if you can dance." />
       <item value="Random Access" />
       <item value="wrap" />
@@ -51,14 +54,11 @@
       <item value="to'm" />
       <item value="t" />
       <item value="附带" />
-      <item value="the number of rows affected" />
-      <item value="This method will return false if the cursor is already past the last entry in the result set." />
-      <item value="Move the cursor to the next row." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1607" />
-        <entry key="ENGLISH" value="1608" />
+        <entry key="CHINESE" value="1610" />
+        <entry key="ENGLISH" value="1609" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
