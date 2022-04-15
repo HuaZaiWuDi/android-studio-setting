@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="67" />
     <histories>
+      <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track." />
       <item value="Called if no network is found in the timeout time specified in requestNetwork(NetworkRequest, ConnectivityManager.NetworkCallback, int) call or if the requested network request cannot be fulfilled (whether or not a timeout was specified). When this callback is invoked the associated NetworkRequest will have already been removed and released, as if unregisterNetworkCallback(ConnectivityManager.NetworkCallback) had been called." />
       <item value="The time in milliseconds to attempt looking for a suitable network before ConnectivityManager.NetworkCallback.onUnavailable is called." />
       <item value="I selected a sensor as the first thing to connect to in the Aqara app. The app then told me I needed to have a connected. The app sent me to a different connection page then the one I saw when I try to connect the Hub directly. This connection page connected my Hub without problems. I don't know why the app has two different Hub connection pages, but the main one does not work correctly sometimes. The Hub connection page that the app uses when connecting a sensor worked perfectly" />
@@ -53,12 +54,11 @@
       <item value="Notify any registered observers that the itemCount items starting at position positionStart have changed. An optional payload can be passed to each changed item" />
       <item value="temp" />
       <item value="临时" />
-      <item value="to'm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1610" />
-        <entry key="ENGLISH" value="1611" />
+        <entry key="CHINESE" value="1611" />
+        <entry key="ENGLISH" value="1612" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
