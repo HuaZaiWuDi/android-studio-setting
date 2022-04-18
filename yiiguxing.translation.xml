@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="67" />
     <histories>
+      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed." />
+      <item value="DOWNGRADE" />
       <item value="Sets some additional data to be mixed in to the memory and disk cache keys allowing the caller more control over when cached data is invalidated." />
       <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track." />
       <item value="Called if no network is found in the timeout time specified in requestNetwork(NetworkRequest, ConnectivityManager.NetworkCallback, int) call or if the requested network request cannot be fulfilled (whether or not a timeout was specified). When this callback is invoked the associated NetworkRequest will have already been removed and released, as if unregisterNetworkCallback(ConnectivityManager.NetworkCallback) had been called." />
@@ -52,13 +54,11 @@
       <item value="Notify any registered observers that the itemCount items starting at position positionStart have changed. Equivalent to calling notifyItemRangeChanged(position, itemCount, null);. This is an item change event, not a structural change event. It indicates that any reflection of the data in the given position range is out of date and should be updated. The items in the given range retain the same identity." />
       <item value="positionStart – Position of the first item that has changed itemCount – Number of items that have changed payload – Optional parameter, use null to identify a &quot;full&quot; update" />
       <item value="This is an item change event, not a structural change event. It indicates that any reflection of the data in the given position range is out of date and should be updated. The items in the given range retain the same identity." />
-      <item value="Notify any registered observers that the itemCount items starting at position positionStart have changed. An optional payload can be passed to each changed item" />
-      <item value="temp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1612" />
-        <entry key="ENGLISH" value="1613" />
+        <entry key="CHINESE" value="1613" />
+        <entry key="ENGLISH" value="1614" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
