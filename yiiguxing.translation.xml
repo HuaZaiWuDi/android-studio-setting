@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="67" />
     <histories>
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 6 path" />
       <item value="StrictMode ThreadPolicy violation" />
       <item value="Both Sides" />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed." />
@@ -53,12 +54,11 @@
       <item value="on Upgrade" />
       <item value="on Downgrade" />
       <item value="no such table: db_qiaolink_config_data" />
-      <item value="Notify any registered observers that the itemCount items starting at position positionStart have changed. Equivalent to calling notifyItemRangeChanged(position, itemCount, null);. This is an item change event, not a structural change event. It indicates that any reflection of the data in the given position range is out of date and should be updated. The items in the given range retain the same identity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1615" />
-        <entry key="ENGLISH" value="1616" />
+        <entry key="CHINESE" value="1616" />
+        <entry key="ENGLISH" value="1617" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
