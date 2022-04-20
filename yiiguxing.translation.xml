@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="67" />
     <histories>
+      <item value="off of the main thread" />
       <item value="Note - get() and get(long, java.util.concurrent.TimeUnit) must be called off of the main thread or they will block forever." />
       <item value="Returns a directory with the given name in the private cache directory of the application to use to store retrieved media and thumbnails." />
       <item value="Waits if necessary for the computation to complete, and then retrieves its result. Returns: the computed result" />
@@ -53,12 +54,11 @@
       <item value="F Smoke" />
       <item value="可选" />
       <item value="This is called when the view is detached from a window. At this point it no longer has a surface for drawing." />
-      <item value="Exception while computing database live data." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1641" />
-        <entry key="ENGLISH" value="1642" />
+        <entry key="CHINESE" value="1642" />
+        <entry key="ENGLISH" value="1643" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
