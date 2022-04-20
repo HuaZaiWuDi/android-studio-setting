@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="67" />
     <histories>
+      <item value="THERMOSTAT" />
+      <item value="F THERMOSTAT" />
       <item value="off of the main thread" />
       <item value="Note - get() and get(long, java.util.concurrent.TimeUnit) must be called off of the main thread or they will block forever." />
       <item value="Returns a directory with the given name in the private cache directory of the application to use to store retrieved media and thumbnails." />
@@ -52,13 +54,11 @@
       <item value="Converts this Float value to UInt. The fractional part, if any, is rounded down towards zero. Returns zero if this Float value is negative or NaN, UInt.MAX_VALUE if it's bigger than UInt.MAX_VALUE." />
       <item value="LANGUAGE" />
       <item value="F Smoke" />
-      <item value="可选" />
-      <item value="This is called when the view is detached from a window. At this point it no longer has a surface for drawing." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1642" />
-        <entry key="ENGLISH" value="1643" />
+        <entry key="CHINESE" value="1644" />
+        <entry key="ENGLISH" value="1645" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
