@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="67" />
     <histories>
+      <item value="Contact" />
+      <item value="F Gas" />
+      <item value="Occupancy Sensing" />
       <item value="value of attribute or null if attribute with given name does not exist" />
       <item value="MATCH AC KEY DIRECT" />
       <item value="DIRECT" />
@@ -51,13 +54,10 @@
       <item value="明亮" />
       <item value="ming'l" />
       <item value="亮" />
-      <item value="liang" />
-      <item value="light" />
-      <item value="ligh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1647" />
+        <entry key="CHINESE" value="1649" />
         <entry key="ENGLISH" value="1648" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
