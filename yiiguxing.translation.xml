@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="67" />
     <histories>
+      <item value="hover State" />
       <item value="interval" />
       <item value="delay Time" />
       <item value="Shows a previously hidden fragment. This is only relevant for fragments whose views have been added to a container, as this will cause the view to be shown. Params: fragment – The fragment to be shown. Returns: Returns the same FragmentTransaction instance." />
@@ -53,12 +54,11 @@
       <item value="– Optional parameter, use null to identify a &quot;full&quot; updat" />
       <item value="Callback for calculating the diff between two non-null items in a list. DiffUtil.Callback serves two roles - list indexing, and item diffing. ItemCallback handles just the second of these, which allows separation of code that indexes into an array or List from the presentation-layer and content specific diffing code." />
       <item value="Callback for calculating the diff between two non-null items in a list. DiffUtil.Callback serves two roles - list indexing, and item diffing. ItemCallback handles just the second of these, which allows separation of code that indexes into an array or List from the presentation-layer and content specific diffing code. Type parameters: &lt;T&gt; – Type of items to compare." />
-      <item value="this is all ridiculous... you're constantly trying to find a way to make it not your issue..point is, your product should work on all Android devices..and all 2.4GHz routers.&#10;&#10;&#10;its a brand new AT&amp;T fiber router...1 Gig internet speed...2.4 GHz..&#10;&#10;your products shouldn't work with only some...plain and simple, your product is poorly designed...all you have to do is read your reviews..it's not just me..&#10;&#10;Facebook works on all... Alexa works on all...Samsung Smartthings works on all..Philips Hue works on all..Smart Life works on all...because they were developed correctly..yours does not" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1656" />
-        <entry key="ENGLISH" value="1657" />
+        <entry key="CHINESE" value="1657" />
+        <entry key="ENGLISH" value="1658" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
