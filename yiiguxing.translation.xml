@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="OCCUPANCYSENSING" />
+      <item value="OccupancySensing" />
+      <item value="sweepingrobot" />
       <item value="Returns an element at the given index or the result of calling the defaultValue function if the index is out of bounds of this list." />
       <item value="allow Anim" />
       <item value="首页" />
@@ -51,14 +54,11 @@
       <item value="晾衣机" />
       <item value="laing" />
       <item value="clothedrying" />
-      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 6 path" />
-      <item value="StrictMode ThreadPolicy violation" />
-      <item value="Both Sides" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1671" />
-        <entry key="ENGLISH" value="1672" />
+        <entry key="CHINESE" value="1673" />
+        <entry key="ENGLISH" value="1674" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
