@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="减" />
+      <item value="jian" />
       <item value="enterAnim – enter exitAnim – exit" />
       <item value="Call immediately after one of the flavors of startActivity(Intent) or finish to specify an explicit transition animation to perform next. As of Build.VERSION_CODES.JELLY_BEAN an alternative to using this with starting activities is to supply the desired animation information through a ActivityOptions bundle to startActivity(Intent, Bundle) or a related function. This allows you to specify a custom animation even when starting an activity from outside the context of the current top activity. Params: enterAnim – A resource ID of the animation resource to use for the incoming activity. Use 0 for no animation. exitAnim – A resource ID of the animation resource to use for the outgoing activity. Use 0 for no animation." />
       <item value="Set normal transition anim" />
@@ -52,13 +54,11 @@
       <item value="THERMOSTAT" />
       <item value="F THERMOSTAT" />
       <item value="off of the main thread" />
-      <item value="Note - get() and get(long, java.util.concurrent.TimeUnit) must be called off of the main thread or they will block forever." />
-      <item value="Returns a directory with the given name in the private cache directory of the application to use to store retrieved media and thumbnails." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1687" />
-        <entry key="ENGLISH" value="1687" />
+        <entry key="CHINESE" value="1691" />
+        <entry key="ENGLISH" value="1691" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
