@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="JAPANESE" />
+      <item value="KOREA" />
+      <item value="FRANCE" />
+      <item value="GERMAN" />
       <item value="减" />
       <item value="jian" />
       <item value="enterAnim – enter exitAnim – exit" />
@@ -50,15 +54,11 @@
       <item value="Occupancy Sensing" />
       <item value="value of attribute or null if attribute with given name does not exist" />
       <item value="MATCH AC KEY DIRECT" />
-      <item value="DIRECT" />
-      <item value="THERMOSTAT" />
-      <item value="F THERMOSTAT" />
-      <item value="off of the main thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1691" />
-        <entry key="ENGLISH" value="1691" />
+        <entry key="CHINESE" value="1694" />
+        <entry key="ENGLISH" value="1695" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
