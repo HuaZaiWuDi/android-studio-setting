@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="enterAnim – enter exitAnim – exit" />
+      <item value="Call immediately after one of the flavors of startActivity(Intent) or finish to specify an explicit transition animation to perform next. As of Build.VERSION_CODES.JELLY_BEAN an alternative to using this with starting activities is to supply the desired animation information through a ActivityOptions bundle to startActivity(Intent, Bundle) or a related function. This allows you to specify a custom animation even when starting an activity from outside the context of the current top activity. Params: enterAnim – A resource ID of the animation resource to use for the incoming activity. Use 0 for no animation. exitAnim – A resource ID of the animation resource to use for the outgoing activity. Use 0 for no animation." />
+      <item value="Set normal transition anim" />
       <item value="模拟" />
       <item value="模拟推送" />
       <item value="mo'ni" />
@@ -51,14 +54,11 @@
       <item value="off of the main thread" />
       <item value="Note - get() and get(long, java.util.concurrent.TimeUnit) must be called off of the main thread or they will block forever." />
       <item value="Returns a directory with the given name in the private cache directory of the application to use to store retrieved media and thumbnails." />
-      <item value="Waits if necessary for the computation to complete, and then retrieves its result. Returns: the computed result" />
-      <item value="allocate" />
-      <item value="Returns a future that can be used to do a blocking get on a background thread. This method defaults to Target.SIZE_ORIGINAL for the width and the height. However, since the width and height will be overridden by values passed to RequestOptions.override(int, int), this method can be used whenever RequestOptions with override values are applied, or whenever you want to retrieve the image in its original size. See Also: submit(int, int), into(Target)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1684" />
-        <entry key="ENGLISH" value="1685" />
+        <entry key="CHINESE" value="1687" />
+        <entry key="ENGLISH" value="1687" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
@@ -66,6 +66,7 @@
         <entry key="KOREAN" value="11" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
