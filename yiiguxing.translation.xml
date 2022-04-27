@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Failure from system" />
       <item value="data parcel size 613056 bytes" />
       <item value="开合" />
       <item value="开合帘" />
@@ -53,12 +54,11 @@
       <item value="设备iP地址，如果设备是有线连接时使用" />
       <item value="没有wifi权限" />
       <item value="需要手动切换设备热点" />
-      <item value="入网方式错误" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1715" />
-        <entry key="ENGLISH" value="1716" />
+        <entry key="CHINESE" value="1716" />
+        <entry key="ENGLISH" value="1717" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
