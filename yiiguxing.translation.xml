@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="card masking heat" />
       <item value="未配置" />
       <item value="wei" />
       <item value="F Cube" />
@@ -53,12 +54,11 @@
       <item value="delay Time" />
       <item value="Shows a previously hidden fragment. This is only relevant for fragments whose views have been added to a container, as this will cause the view to be shown. Params: fragment – The fragment to be shown. Returns: Returns the same FragmentTransaction instance." />
       <item value="结婚" />
-      <item value="merry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1703" />
-        <entry key="ENGLISH" value="1704" />
+        <entry key="CHINESE" value="1704" />
+        <entry key="ENGLISH" value="1705" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
