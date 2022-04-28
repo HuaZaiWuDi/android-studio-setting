@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Sets the next animation to play for this view. If you want the animation to play immediately, use startAnimation(Animation) instead. This method provides allows fine-grained control over the start time and invalidation, but you must make sure that 1) the animation has a start time set, and 2) the view's parent (which controls animations on its children) will be invalidated when the animation is supposed to start." />
       <item value="Row too big to fit into CursorWindow requiredPos=0, totalRows=1" />
       <item value="consumption home" />
       <item value="Classifier 'myObserver' does not have a companion object, and thus must be initialized here" />
@@ -53,12 +54,11 @@
       <item value="设备蓝牙断开连接" />
       <item value="设备蓝牙特性不支持" />
       <item value="入网信息" />
-      <item value="设备入网类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1719" />
-        <entry key="ENGLISH" value="1720" />
+        <entry key="CHINESE" value="1720" />
+        <entry key="ENGLISH" value="1721" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
