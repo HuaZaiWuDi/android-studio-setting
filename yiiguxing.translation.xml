@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="consumption home" />
       <item value="Classifier 'myObserver' does not have a companion object, and thus must be initialized here" />
       <item value="Failure from system" />
       <item value="data parcel size 613056 bytes" />
@@ -53,12 +54,11 @@
       <item value="入网信息" />
       <item value="设备入网类型" />
       <item value="设备iP地址，如果设备是有线连接时使用" />
-      <item value="没有wifi权限" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1717" />
-        <entry key="ENGLISH" value="1717" />
+        <entry key="ENGLISH" value="1718" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
