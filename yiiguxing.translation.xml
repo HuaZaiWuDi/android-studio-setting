@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="强制" />
       <item value="未知" />
       <item value="wei'zhi" />
       <item value="位置" />
@@ -53,12 +54,11 @@
       <item value="设备未配置" />
       <item value="网关入网超时" />
       <item value="APP 权限异常" />
-      <item value="连接设备蓝牙失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1732" />
-        <entry key="ENGLISH" value="1733" />
+        <entry key="CHINESE" value="1738" />
+        <entry key="ENGLISH" value="1739" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650786512297" />
+    <option name="lastTrimTime" value="1651228653513" />
   </component>
 </application>
