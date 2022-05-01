@@ -4,6 +4,21 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="dispatch" />
+      <item value="true if the event is consumed, else false" />
+      <item value="Notified when a tap occurs with the up MotionEvent that triggered it." />
+      <item value="Detects various gestures and events using the supplied MotionEvents. The GestureDetector.OnGestureListener callback will notify users when a particular motion event has occurred. This class should only be used with MotionEvents reported via touch (don't use for trackball events). To use this class:" />
+      <item value="The listener that is used to notify when gestures occur. If you want to listen for all the different gestures then implement this interface. If you only want to listen for a subset it might be easier to extend GestureDetector.SimpleOnGestureListener." />
+      <item value="Notified when a single-tap occurs. Unlike GestureDetector.OnGestureListener.onSingleTapUp(MotionEvent), this will only be called after the detector is confident that the user's first tap is not followed by a second tap leading to a double-tap gesture." />
+      <item value="Notified when a tap occurs with the down MotionEvent that triggered it. This will be triggered immediately for every down event. All other events should be preceded by this." />
+      <item value="The user has performed a down MotionEvent and not performed a move or up yet. This event is commonly used to provide visual feedback to the user to let them know that their action has been recognized i.e. highlight an element." />
+      <item value="on Single Tap Up" />
+      <item value="Notified when a tap occurs with the up MotionEvent that triggered it. Params: e – The up motion event that completed the first tap Returns: true if the event is consumed, else false" />
+      <item value="自定义" />
+      <item value="custom" />
+      <item value="模拟" />
+      <item value="The listener that is used to notify when a context click occurs. When listening for a context click ensure that you call onGenericMotionEvent(MotionEvent) in View.onGenericMotionEvent(MotionEvent)." />
+      <item value="Detects various gestures and events using the supplied MotionEvents. The GestureDetector.OnGestureListener callback will notify users when a particular motion event has occurred. This class should only be used with MotionEvents reported via touch (don't use for trackball events). To use this class: Create an instance of the GestureDetector for your View In the View.onTouchEvent(MotionEvent) method ensure you call onTouchEvent(MotionEvent). The methods defined in your callback will be executed when the events occur. If listening for GestureDetector.OnContextClickListener.onContextClick(MotionEvent) you must call onGenericMotionEvent(MotionEvent) in View.onGenericMotionEvent(MotionEvent)." />
       <item value="{@code true} if one of the above receivers consumed the event, {@code false} otherwise" />
       <item value="True if there was an assigned OnContextClickListener that consumed the event, false otherwise." />
       <item value="Calls this view's OnLongClickListener, if it is defined. Invokes the context menu if the OnLongClickListener did not consume the event, optionally anchoring it to an (x,y) coordinate." />
@@ -39,26 +54,11 @@
       <item value="pai'xu" />
       <item value="Whether to split the track and leave a gap for the thumb drawable." />
       <item value="split Track" />
-      <item value="强制" />
-      <item value="未知" />
-      <item value="wei'zhi" />
-      <item value="位置" />
-      <item value="Sets the next animation to play for this view. If you want the animation to play immediately, use startAnimation(Animation) instead. This method provides allows fine-grained control over the start time and invalidation, but you must make sure that 1) the animation has a start time set, and 2) the view's parent (which controls animations on its children) will be invalidated when the animation is supposed to start." />
-      <item value="Row too big to fit into CursorWindow requiredPos=0, totalRows=1" />
-      <item value="consumption home" />
-      <item value="Classifier 'myObserver' does not have a companion object, and thus must be initialized here" />
-      <item value="Failure from system" />
-      <item value="data parcel size 613056 bytes" />
-      <item value="开合" />
-      <item value="开合帘" />
-      <item value="Folding Blinds" />
-      <item value="Dream Blinds" />
-      <item value="Zebra Blinds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1799" />
-        <entry key="ENGLISH" value="1800" />
+        <entry key="CHINESE" value="1827" />
+        <entry key="ENGLISH" value="1828" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
