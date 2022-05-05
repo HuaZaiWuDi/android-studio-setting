@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Notified when a context click occurs. Params: e – The motion event that occurred during the context click. Returns: true if the event is consumed, else false" />
+      <item value="Sets the listener which will be called for context clicks. Params: onContextClickListener – the listener invoked for all the callbacks, or null to stop listening for context clicks." />
+      <item value="Set whether longpress is enabled, if this is enabled when a user presses and holds down you get a longpress event and nothing further. If it's disabled the user can press and hold down and then later moved their finger and you will get scroll events. By default longpress is enabled. Params: isLongpressEnabled – whether longpress should be enabled." />
       <item value="ALARMING" />
       <item value="compulsory" />
       <item value="dispatch" />
@@ -51,14 +54,11 @@
       <item value="requestLayout() was called during layout. If no layout-request flags are set on the requesting views, there is no problem. If some requests are still pending, then we need to clear those flags and do a full requestmeasurelayout pass to handle this situation." />
       <item value="Process fresh layout requests, then measure and layout" />
       <item value="during layout: running second layout pass" />
-      <item value="running second layout pass" />
-      <item value="排除" />
-      <item value="pai'xu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1829" />
-        <entry key="ENGLISH" value="1830" />
+        <entry key="CHINESE" value="1832" />
+        <entry key="ENGLISH" value="1833" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651228653513" />
+    <option name="lastTrimTime" value="1651718080112" />
   </component>
 </application>
