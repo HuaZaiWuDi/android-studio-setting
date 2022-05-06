@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Weather" />
       <item value="后一个" />
       <item value="hou" />
       <item value="bitLength – length of the new BigInteger in bits." />
@@ -53,7 +54,6 @@
       <item value="Returns an RecyclerView.ItemDecoration previously added to this RecyclerView. Params: index – The index position of the desired ItemDecoration. Returns: the ItemDecoration at index position Throws: IndexOutOfBoundsException – on invalid index" />
       <item value="ring" />
       <item value="环" />
-      <item value="huan" />
     </histories>
     <option name="languageScores">
       <map>
