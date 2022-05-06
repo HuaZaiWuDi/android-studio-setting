@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="功率" />
+      <item value="电量" />
+      <item value="点了" />
       <item value="默认" />
       <item value="Weather" />
       <item value="后一个" />
@@ -51,14 +54,11 @@
       <item value="Add an RecyclerView.ItemDecoration to this RecyclerView. Item decorations can affect both measurement and drawing of individual item views." />
       <item value="Position in the decoration chain to insert this decoration at. If this value is" />
       <item value="Add an RecyclerView.ItemDecoration to this RecyclerView. Item decorations can affect both measurement and drawing of individual item views. Item decorations are ordered. Decorations placed earlier in the list will be runquerieddrawn first for their effects on item views. Padding added to views will be nested; a padding added by an earlier decoration will mean further item decorations in the list will be asked to drawpad within the previous decoration's given area. Params: decor – Decoration to add" />
-      <item value="is Have" />
-      <item value="Returns an RecyclerView.ItemDecoration previously added to this RecyclerView. Params: index – The index position of the desired ItemDecoration. Returns: the ItemDecoration at index position Throws: IndexOutOfBoundsException – on invalid index" />
-      <item value="ring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1844" />
-        <entry key="ENGLISH" value="1845" />
+        <entry key="CHINESE" value="1854" />
+        <entry key="ENGLISH" value="1855" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
