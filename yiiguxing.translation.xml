@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="后一个" />
+      <item value="hou" />
       <item value="bitLength – length of the new BigInteger in bits." />
       <item value="Returns a random positive BigInteger instance in the range [0, pow(2, bitLength)-1] which is probably prime. The probability that the returned BigInteger is prime is greater than 1 - 12&lt;sup&gt;100&lt;sup&gt;)." />
       <item value="Overall orientation of the screen. May be one of ORIENTATION_LANDSCAPE, ORIENTATION_PORTRAIT." />
@@ -52,13 +54,11 @@
       <item value="ring" />
       <item value="环" />
       <item value="huan" />
-      <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
-      <item value="requestLayout() was called during layout." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1836" />
-        <entry key="ENGLISH" value="1837" />
+        <entry key="CHINESE" value="1839" />
+        <entry key="ENGLISH" value="1840" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
