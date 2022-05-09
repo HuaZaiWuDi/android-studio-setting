@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="true to prevent Target.onLoadFailed(Drawable) from being called on target, typically because the listener wants to update the target or the object the target wraps itself or false to allow Target.onLoadFailed(Drawable) to be called on target." />
       <item value="功率" />
       <item value="电量" />
       <item value="点了" />
@@ -53,12 +54,11 @@
       <item value="Position in the decoration chain to insert this decoration at. If this value is negative the decoration will be added at the end." />
       <item value="Add an RecyclerView.ItemDecoration to this RecyclerView. Item decorations can affect both measurement and drawing of individual item views." />
       <item value="Position in the decoration chain to insert this decoration at. If this value is" />
-      <item value="Add an RecyclerView.ItemDecoration to this RecyclerView. Item decorations can affect both measurement and drawing of individual item views. Item decorations are ordered. Decorations placed earlier in the list will be runquerieddrawn first for their effects on item views. Padding added to views will be nested; a padding added by an earlier decoration will mean further item decorations in the list will be asked to drawpad within the previous decoration's given area. Params: decor – Decoration to add" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1854" />
-        <entry key="ENGLISH" value="1855" />
+        <entry key="CHINESE" value="1855" />
+        <entry key="ENGLISH" value="1856" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
