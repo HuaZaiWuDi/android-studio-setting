@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Enforcer" />
+      <item value="m Fragment Max Lifecycle Enforcer" />
       <item value="Caused by: java.lang.IllegalStateException: Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="true to prevent Target.onLoadFailed(Drawable) from being called on target, typically because the listener wants to update the target or the object the target wraps itself or false to allow Target.onLoadFailed(Drawable) to be called on target." />
       <item value="功率" />
@@ -52,13 +54,11 @@
       <item value="on Intercept Touch Event" />
       <item value="质量" />
       <item value="Item decorations are ordered. Decorations placed earlier in the list will be runquerieddrawn first for their effects on item views. Padding added to views will be nested; a padding added by an earlier decoration will mean further item decorations in the list will be asked to drawpad within the previous decoration's given area." />
-      <item value="Position in the decoration chain to insert this decoration at. If this value is negative the decoration will be added at the end." />
-      <item value="Add an RecyclerView.ItemDecoration to this RecyclerView. Item decorations can affect both measurement and drawing of individual item views." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1856" />
-        <entry key="ENGLISH" value="1857" />
+        <entry key="CHINESE" value="1858" />
+        <entry key="ENGLISH" value="1859" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
