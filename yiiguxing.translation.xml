@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Sites" />
       <item value="has no zero argument constructor" />
       <item value="Enforcer" />
       <item value="m Fragment Max Lifecycle Enforcer" />
@@ -53,12 +54,11 @@
       <item value="Implement this method to intercept all touch screen motion events. This allows you to watch events as they are dispatched to your children, and take ownership of the current gesture at any point." />
       <item value="Indicates this view can be context clicked. When context clickable, a View reacts to a context click (e.g. a primary stylus button press or right mouse click) by notifying the OnContextClickListener." />
       <item value="on Intercept Touch Event" />
-      <item value="质量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1859" />
-        <entry key="ENGLISH" value="1860" />
+        <entry key="CHINESE" value="1860" />
+        <entry key="ENGLISH" value="1861" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
