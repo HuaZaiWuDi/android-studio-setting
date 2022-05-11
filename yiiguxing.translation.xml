@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="has no zero argument constructor" />
       <item value="Enforcer" />
       <item value="m Fragment Max Lifecycle Enforcer" />
       <item value="Caused by: java.lang.IllegalStateException: Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
@@ -53,12 +54,11 @@
       <item value="Indicates this view can be context clicked. When context clickable, a View reacts to a context click (e.g. a primary stylus button press or right mouse click) by notifying the OnContextClickListener." />
       <item value="on Intercept Touch Event" />
       <item value="质量" />
-      <item value="Item decorations are ordered. Decorations placed earlier in the list will be runquerieddrawn first for their effects on item views. Padding added to views will be nested; a padding added by an earlier decoration will mean further item decorations in the list will be asked to drawpad within the previous decoration's given area." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1858" />
-        <entry key="ENGLISH" value="1859" />
+        <entry key="CHINESE" value="1859" />
+        <entry key="ENGLISH" value="1860" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
