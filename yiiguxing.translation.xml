@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="touchModal – true to sent all outside touches to this window, false to other windows behind it" />
+      <item value="enabled – true if the split touches should be enabled, false otherwise" />
+      <item value="Allows the popup window to split touches across other windows that also support split touch. When this flag is false, the first pointer that goes down determines the window to which all subsequent touches go until all pointers go up. When this flag is true, each pointer (not necessarily the first) that goes down determines the window to which all subsequent touches of that pointer will go until that pointer goes up thereby enabling touches with multiple pointers to be split across multiple windows." />
+      <item value="Indicates whether the popup window supports splitting touches. Returns: true if the touch splitting is enabled, false otherwise" />
+      <item value="Set whether this window is touch modal or if outside touches will be sent to other windows behind it." />
+      <item value="Indicates whether the popup window will be forced into using absolute screen coordinates for positioning." />
+      <item value="ndicates whether the popup is showing above (the y coordinate of the popup's bottom is less than the y coordinate of the anchor) or below the anchor view (the y coordinate of the popup is greater than y coordinate of the anchor's bottom). The value returned by this method is meaningful only after showAsDropDown(View) or showAsDropDown(View, int, int) was invoked." />
+      <item value="Mode for setInputMethodMode(int): this popup always needs to work with an input method, regardless of whether it is focusable. This means that it will always be displayed so that the user can also operate the input method while it is shown." />
+      <item value="Control how the popup operates with an input method: one of INPUT_METHOD_FROM_FOCUSABLE, INPUT_METHOD_NEEDED, or INPUT_METHOD_NOT_NEEDED." />
+      <item value="overlapAnchor – Whether the popup should overlap its anchor." />
+      <item value="Sets whether the popup window should overlap its anchor view when displayed as a drop-down. If the popup is showing, calling this method will take effect only the next time the popup is shown." />
+      <item value="Sets whether the popup window should overlap its anchor view when displayed as a drop-down. Params: overlapAnchor – Whether the popup should overlap its anchor." />
       <item value="orientation" />
       <item value="Sites" />
       <item value="has no zero argument constructor" />
@@ -42,23 +54,11 @@
       <item value="模拟" />
       <item value="The listener that is used to notify when a context click occurs. When listening for a context click ensure that you call onGenericMotionEvent(MotionEvent) in View.onGenericMotionEvent(MotionEvent)." />
       <item value="Detects various gestures and events using the supplied MotionEvents. The GestureDetector.OnGestureListener callback will notify users when a particular motion event has occurred. This class should only be used with MotionEvents reported via touch (don't use for trackball events). To use this class: Create an instance of the GestureDetector for your View In the View.onTouchEvent(MotionEvent) method ensure you call onTouchEvent(MotionEvent). The methods defined in your callback will be executed when the events occur. If listening for GestureDetector.OnContextClickListener.onContextClick(MotionEvent) you must call onGenericMotionEvent(MotionEvent) in View.onGenericMotionEvent(MotionEvent)." />
-      <item value="{@code true} if one of the above receivers consumed the event, {@code false} otherwise" />
-      <item value="True if there was an assigned OnContextClickListener that consumed the event, false otherwise." />
-      <item value="Calls this view's OnLongClickListener, if it is defined. Invokes the context menu if the OnLongClickListener did not consume the event, optionally anchoring it to an (x,y) coordinate." />
-      <item value="intercepted" />
-      <item value="dispatch Touch Event" />
-      <item value="disallow Intercept" />
-      <item value="Implement this method to intercept all touch screen motion events. This allows you to watch events as they are dispatched to your children, and take ownership of the current gesture at any point. Using this function takes some care, as it has a fairly complicated interaction with View.onTouchEvent(MotionEvent), and using it requires implementing that method as well as this one in the correct way. Events will be received in the following order: You will receive the down event here. The down event will be handled either by a child of this view group, or given to your own onTouchEvent() method to handle; this means you should implement onTouchEvent() to return true, so you will continue to see the rest of the gesture (instead of looking for a parent view to handle it). Also, by returning true from onTouchEvent(), you will not receive any following events in onInterceptTouchEvent() and all touch processing must happen in onTouchEvent() like normal. For as long as you return false from this function, each following event (up to and including the final up) will be delivered first here and then to the target's onTouchEvent(). If you return true from here, you will not receive any following events: the target view will receive the same event but with the action MotionEvent.ACTION_CANCEL, and all further events will be delivered to your onTouchEvent() method and no longer appear here. Params: ev – The motion event being dispatched down the hierarchy. Returns: Return true to steal motion events from the children and have them dispatched to this ViewGroup through onTouchEvent(). The current target will receive an ACTION_CANCEL event, and no further messages will be delivered here." />
-      <item value="Implement this method to handle touch screen motion events. If this method is used to detect click actions, it is recommended that the actions be performed by implementing and calling performClick(). This will ensure consistent system behavior, including:" />
-      <item value="mplement this method to handle touch screen motion events. If this method is used to detect click actions, it is recommended that the actions be performed by implementing and calling performClick(). This will ensure consistent system behavior, including:" />
-      <item value="Remove the tap detection timer." />
-      <item value="Implement this method to intercept all touch screen motion events. This allows you to watch events as they are dispatched to your children, and take ownership of the current gesture at any point." />
-      <item value="Indicates this view can be context clicked. When context clickable, a View reacts to a context click (e.g. a primary stylus button press or right mouse click) by notifying the OnContextClickListener." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1861" />
-        <entry key="ENGLISH" value="1861" />
+        <entry key="CHINESE" value="1872" />
+        <entry key="ENGLISH" value="1873" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
