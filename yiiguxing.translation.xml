@@ -4,9 +4,19 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
-      <item value="touchModal – true to sent all outside touches to this window, false to other windows behind it" />
+      <item value="Window flag: intended for windows that will often be used when the user is holding the screen against their face, it will aggressively filter the event stream to prevent unintended presses in this situation that may not be desired for a particular window, when such an event stream is detected, the application will receive a CANCEL motion event to indicate this so applications can handle this accordingly by taking no action on the event until the finger is released." />
+      <item value="Cheek" />
+      <item value="Press" />
+      <item value="Ignore Cheek Press" />
+      <item value="Set the flag on popup to ignore cheek press events; by default this flag is set to false which means the popup will not ignore cheek press dispatch events. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods." />
+      <item value="Set whether this window is touch modal or if outside touches will be sent to other windows behind it. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods. Params: touchModal – true to sent all outside touches to this window, false to other windows behind it" />
+      <item value="Indicates whether outside touches will be sent to this window or other windows behind it" />
+      <item value="This will attach the popup window to the decor frame of the parent window to avoid overlaping with screen decorations like the navigation bar. Overrides the default behavior of the flag WindowManager.LayoutParams.FLAG_LAYOUT_ATTACHED_IN_DECOR." />
       <item value="enabled – true if the split touches should be enabled, false otherwise" />
       <item value="Allows the popup window to split touches across other windows that also support split touch. When this flag is false, the first pointer that goes down determines the window to which all subsequent touches go until all pointers go up. When this flag is true, each pointer (not necessarily the first) that goes down determines the window to which all subsequent touches of that pointer will go until that pointer goes up thereby enabling touches with multiple pointers to be split across multiple windows." />
+      <item value="Allow PopupWindow to scroll the anchor's parent to provide more room for the popup. Enabled by default." />
+      <item value="Indicates whether clipping of the popup window is enabled. Returns: true if the clipping is enabled, false otherwise" />
+      <item value="touchModal – true to sent all outside touches to this window, false to other windows behind it" />
       <item value="Indicates whether the popup window supports splitting touches. Returns: true if the touch splitting is enabled, false otherwise" />
       <item value="Set whether this window is touch modal or if outside touches will be sent to other windows behind it." />
       <item value="Indicates whether the popup window will be forced into using absolute screen coordinates for positioning." />
@@ -44,21 +54,11 @@
       <item value="Notified when a tap occurs with the up MotionEvent that triggered it." />
       <item value="Detects various gestures and events using the supplied MotionEvents. The GestureDetector.OnGestureListener callback will notify users when a particular motion event has occurred. This class should only be used with MotionEvents reported via touch (don't use for trackball events). To use this class:" />
       <item value="The listener that is used to notify when gestures occur. If you want to listen for all the different gestures then implement this interface. If you only want to listen for a subset it might be easier to extend GestureDetector.SimpleOnGestureListener." />
-      <item value="Notified when a single-tap occurs. Unlike GestureDetector.OnGestureListener.onSingleTapUp(MotionEvent), this will only be called after the detector is confident that the user's first tap is not followed by a second tap leading to a double-tap gesture." />
-      <item value="Notified when a tap occurs with the down MotionEvent that triggered it. This will be triggered immediately for every down event. All other events should be preceded by this." />
-      <item value="The user has performed a down MotionEvent and not performed a move or up yet. This event is commonly used to provide visual feedback to the user to let them know that their action has been recognized i.e. highlight an element." />
-      <item value="on Single Tap Up" />
-      <item value="Notified when a tap occurs with the up MotionEvent that triggered it. Params: e – The up motion event that completed the first tap Returns: true if the event is consumed, else false" />
-      <item value="自定义" />
-      <item value="custom" />
-      <item value="模拟" />
-      <item value="The listener that is used to notify when a context click occurs. When listening for a context click ensure that you call onGenericMotionEvent(MotionEvent) in View.onGenericMotionEvent(MotionEvent)." />
-      <item value="Detects various gestures and events using the supplied MotionEvents. The GestureDetector.OnGestureListener callback will notify users when a particular motion event has occurred. This class should only be used with MotionEvents reported via touch (don't use for trackball events). To use this class: Create an instance of the GestureDetector for your View In the View.onTouchEvent(MotionEvent) method ensure you call onTouchEvent(MotionEvent). The methods defined in your callback will be executed when the events occur. If listening for GestureDetector.OnContextClickListener.onContextClick(MotionEvent) you must call onGenericMotionEvent(MotionEvent) in View.onGenericMotionEvent(MotionEvent)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1872" />
-        <entry key="ENGLISH" value="1873" />
+        <entry key="CHINESE" value="1885" />
+        <entry key="ENGLISH" value="1886" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
