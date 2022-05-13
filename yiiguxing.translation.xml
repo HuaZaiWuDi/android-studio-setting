@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="shortCut" />
       <item value="点击传递长按" />
       <item value="点击传递" />
       <item value="点击" />
@@ -53,11 +54,10 @@
       <item value="后一个" />
       <item value="hou" />
       <item value="bitLength – length of the new BigInteger in bits." />
-      <item value="Returns a random positive BigInteger instance in the range [0, pow(2, bitLength)-1] which is probably prime. The probability that the returned BigInteger is prime is greater than 1 - 12&lt;sup&gt;100&lt;sup&gt;)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1914" />
+        <entry key="CHINESE" value="1915" />
         <entry key="ENGLISH" value="1915" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
