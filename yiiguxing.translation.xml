@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Hit rectangle in parent's coordinates Params: outRect – The hit rectangle of the view." />
+      <item value="it rectangle in parent's coordinates Params: outRect – The hit rectangle of the view." />
       <item value="Speaker" />
       <item value="Sweeping Robot" />
       <item value="Returns if the specified attribute was not in input was declared in XML. If parser is non-validating it MUST always return false. This information is part of XML infoset: Params: index – zero-based index of attribute Returns: false if attribute was in input" />
@@ -52,13 +54,11 @@
       <item value="Sets whether the popup window should overlap its anchor view when displayed as a drop-down. If the popup is showing, calling this method will take effect only the next time the popup is shown." />
       <item value="Sets whether the popup window should overlap its anchor view when displayed as a drop-down. Params: overlapAnchor – Whether the popup should overlap its anchor." />
       <item value="orientation" />
-      <item value="Sites" />
-      <item value="has no zero argument constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1933" />
-        <entry key="ENGLISH" value="1934" />
+        <entry key="CHINESE" value="1935" />
+        <entry key="ENGLISH" value="1936" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
