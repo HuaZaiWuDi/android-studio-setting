@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Diagnostic" />
+      <item value="Infer" />
+      <item value="reason" />
+      <item value="electric" />
       <item value="need Separate" />
       <item value="分隔" />
       <item value="fen'ge" />
@@ -50,15 +54,11 @@
       <item value="Allow PopupWindow to scroll the anchor's parent to provide more room for the popup. Enabled by default." />
       <item value="Indicates whether clipping of the popup window is enabled. Returns: true if the clipping is enabled, false otherwise" />
       <item value="touchModal – true to sent all outside touches to this window, false to other windows behind it" />
-      <item value="Indicates whether the popup window supports splitting touches. Returns: true if the touch splitting is enabled, false otherwise" />
-      <item value="Set whether this window is touch modal or if outside touches will be sent to other windows behind it." />
-      <item value="Indicates whether the popup window will be forced into using absolute screen coordinates for positioning." />
-      <item value="ndicates whether the popup is showing above (the y coordinate of the popup's bottom is less than the y coordinate of the anchor) or below the anchor view (the y coordinate of the popup is greater than y coordinate of the anchor's bottom). The value returned by this method is meaningful only after showAsDropDown(View) or showAsDropDown(View, int, int) was invoked." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1948" />
-        <entry key="ENGLISH" value="1949" />
+        <entry key="CHINESE" value="1952" />
+        <entry key="ENGLISH" value="1953" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
