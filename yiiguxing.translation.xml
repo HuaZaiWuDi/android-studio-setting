@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="模拟量" />
+      <item value="模拟量qu" />
+      <item value="mo'ni'l" />
+      <item value="support Chart" />
+      <item value="Motion Sensor" />
+      <item value="Presence Detector" />
+      <item value="模拟量曲线" />
       <item value="Pressure" />
       <item value="curve" />
       <item value="Similar" />
@@ -47,18 +54,11 @@
       <item value="Window flag: intended for windows that will often be used when the user is holding the screen against their face, it will aggressively filter the event stream to prevent unintended presses in this situation that may not be desired for a particular window, when such an event stream is detected, the application will receive a CANCEL motion event to indicate this so applications can handle this accordingly by taking no action on the event until the finger is released." />
       <item value="Cheek" />
       <item value="Press" />
-      <item value="Ignore Cheek Press" />
-      <item value="Set the flag on popup to ignore cheek press events; by default this flag is set to false which means the popup will not ignore cheek press dispatch events. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods." />
-      <item value="Set whether this window is touch modal or if outside touches will be sent to other windows behind it. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods. Params: touchModal – true to sent all outside touches to this window, false to other windows behind it" />
-      <item value="Indicates whether outside touches will be sent to this window or other windows behind it" />
-      <item value="This will attach the popup window to the decor frame of the parent window to avoid overlaping with screen decorations like the navigation bar. Overrides the default behavior of the flag WindowManager.LayoutParams.FLAG_LAYOUT_ATTACHED_IN_DECOR." />
-      <item value="enabled – true if the split touches should be enabled, false otherwise" />
-      <item value="Allows the popup window to split touches across other windows that also support split touch. When this flag is false, the first pointer that goes down determines the window to which all subsequent touches go until all pointers go up. When this flag is true, each pointer (not necessarily the first) that goes down determines the window to which all subsequent touches of that pointer will go until that pointer goes up thereby enabling touches with multiple pointers to be split across multiple windows." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1955" />
-        <entry key="ENGLISH" value="1956" />
+        <entry key="CHINESE" value="1964" />
+        <entry key="ENGLISH" value="1965" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
