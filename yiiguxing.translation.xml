@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="need Separate" />
+      <item value="分隔" />
+      <item value="fen'ge" />
+      <item value="f" />
+      <item value="分割" />
+      <item value="j" />
       <item value="Hit rectangle in parent's coordinates Params: outRect – The hit rectangle of the view." />
       <item value="it rectangle in parent's coordinates Params: outRect – The hit rectangle of the view." />
       <item value="Speaker" />
@@ -48,17 +54,11 @@
       <item value="Set whether this window is touch modal or if outside touches will be sent to other windows behind it." />
       <item value="Indicates whether the popup window will be forced into using absolute screen coordinates for positioning." />
       <item value="ndicates whether the popup is showing above (the y coordinate of the popup's bottom is less than the y coordinate of the anchor) or below the anchor view (the y coordinate of the popup is greater than y coordinate of the anchor's bottom). The value returned by this method is meaningful only after showAsDropDown(View) or showAsDropDown(View, int, int) was invoked." />
-      <item value="Mode for setInputMethodMode(int): this popup always needs to work with an input method, regardless of whether it is focusable. This means that it will always be displayed so that the user can also operate the input method while it is shown." />
-      <item value="Control how the popup operates with an input method: one of INPUT_METHOD_FROM_FOCUSABLE, INPUT_METHOD_NEEDED, or INPUT_METHOD_NOT_NEEDED." />
-      <item value="overlapAnchor – Whether the popup should overlap its anchor." />
-      <item value="Sets whether the popup window should overlap its anchor view when displayed as a drop-down. If the popup is showing, calling this method will take effect only the next time the popup is shown." />
-      <item value="Sets whether the popup window should overlap its anchor view when displayed as a drop-down. Params: overlapAnchor – Whether the popup should overlap its anchor." />
-      <item value="orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1935" />
-        <entry key="ENGLISH" value="1936" />
+        <entry key="CHINESE" value="1948" />
+        <entry key="ENGLISH" value="1949" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
