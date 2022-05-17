@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="curve" />
       <item value="Similar" />
       <item value="Diagnostic" />
       <item value="Infer" />
@@ -53,12 +54,11 @@
       <item value="enabled – true if the split touches should be enabled, false otherwise" />
       <item value="Allows the popup window to split touches across other windows that also support split touch. When this flag is false, the first pointer that goes down determines the window to which all subsequent touches go until all pointers go up. When this flag is true, each pointer (not necessarily the first) that goes down determines the window to which all subsequent touches of that pointer will go until that pointer goes up thereby enabling touches with multiple pointers to be split across multiple windows." />
       <item value="Allow PopupWindow to scroll the anchor's parent to provide more room for the popup. Enabled by default." />
-      <item value="Indicates whether clipping of the popup window is enabled. Returns: true if the clipping is enabled, false otherwise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1953" />
-        <entry key="ENGLISH" value="1954" />
+        <entry key="CHINESE" value="1954" />
+        <entry key="ENGLISH" value="1955" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
