@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Motion Sensor" />
       <item value="S SENSOR WLEAK" />
       <item value="WLEAK" />
       <item value="Occupancy" />
@@ -14,7 +15,6 @@
       <item value="模拟量qu" />
       <item value="mo'ni'l" />
       <item value="support Chart" />
-      <item value="Motion Sensor" />
       <item value="Presence Detector" />
       <item value="模拟量曲线" />
       <item value="Pressure" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1968" />
-        <entry key="ENGLISH" value="1969" />
+        <entry key="CHINESE" value="1969" />
+        <entry key="ENGLISH" value="1970" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
