@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Serializable" />
       <item value="模拟量" />
       <item value="模拟量qu" />
       <item value="mo'ni'l" />
@@ -53,12 +54,11 @@
       <item value="is Delete Or Un Permission" />
       <item value="Window flag: intended for windows that will often be used when the user is holding the screen against their face, it will aggressively filter the event stream to prevent unintended presses in this situation that may not be desired for a particular window, when such an event stream is detected, the application will receive a CANCEL motion event to indicate this so applications can handle this accordingly by taking no action on the event until the finger is released." />
       <item value="Cheek" />
-      <item value="Press" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1964" />
-        <entry key="ENGLISH" value="1965" />
+        <entry key="CHINESE" value="1965" />
+        <entry key="ENGLISH" value="1966" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="2" />
