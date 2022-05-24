@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Canvas: trying to use a recycled bitmap android.graphics.Bitmap@71965bc" />
+      <item value="Unterminated object at line 1 column 82 path [2].key" />
       <item value="上报长按" />
       <item value="上报" />
       <item value="shang" />
@@ -52,13 +54,11 @@
       <item value="音箱" />
       <item value="Parcelable encountered IOException writing serializable object" />
       <item value="Called when a fragment is attached as a child of this fragment. This is called after the attached fragment's onAttach and before the attached fragment's onCreate if the fragment has not yet had a previous call to onCreate. Params: childFragment – child fragment being attached" />
-      <item value="shortCut" />
-      <item value="点击传递长按" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1980" />
-        <entry key="ENGLISH" value="1981" />
+        <entry key="CHINESE" value="1982" />
+        <entry key="ENGLISH" value="1983" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
@@ -74,6 +74,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652672785641" />
+    <option name="lastTrimTime" value="1653386698075" />
   </component>
 </application>
