@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Kuwahara" />
+      <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
+      <item value="Params: maskId – If you change the mask file, please also rename the mask file, or Glide will get the cache with the old mask. Because key() return the same values if using the same make file name. If you have a good idea please tell us, thanks." />
+      <item value="Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
+      <item value="Adds the given Bitmap if it is eligible to be re-used and the pool can fit it, or calls Bitmap.recycle() on the Bitmap and discards it. Callers must not continue to use the Bitmap after calling this method. Params: bitmap – The Bitmap to attempt to add. See Also: Bitmap.isMutable(), Bitmap.recycle()" />
       <item value="bias" />
       <item value="layout constraint Horizontal bias" />
       <item value="The move motion event that triggered the current onScroll." />
@@ -49,16 +54,11 @@
       <item value="fen'ge" />
       <item value="f" />
       <item value="分割" />
-      <item value="j" />
-      <item value="Hit rectangle in parent's coordinates Params: outRect – The hit rectangle of the view." />
-      <item value="it rectangle in parent's coordinates Params: outRect – The hit rectangle of the view." />
-      <item value="Speaker" />
-      <item value="Sweeping Robot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1991" />
-        <entry key="ENGLISH" value="1992" />
+        <entry key="CHINESE" value="1996" />
+        <entry key="ENGLISH" value="1996" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
@@ -70,6 +70,7 @@
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
