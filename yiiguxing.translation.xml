@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Presence Detector" />
+      <item value="DT OCCUPANCY SENSOR" />
+      <item value="DT PRESENCE DETECTOR" />
+      <item value="Occupancy" />
+      <item value="Occupancy Sensor" />
       <item value="Kuwahara" />
       <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
       <item value="Params: maskId – If you change the mask file, please also rename the mask file, or Glide will get the cache with the old mask. Because key() return the same values if using the same make file name. If you have a good idea please tell us, thanks." />
@@ -32,7 +37,6 @@
       <item value="Motion Sensor" />
       <item value="S SENSOR WLEAK" />
       <item value="WLEAK" />
-      <item value="Occupancy" />
       <item value="DT Light" />
       <item value="Reachable" />
       <item value="Serializable" />
@@ -40,7 +44,6 @@
       <item value="模拟量qu" />
       <item value="mo'ni'l" />
       <item value="support Chart" />
-      <item value="Presence Detector" />
       <item value="模拟量曲线" />
       <item value="Pressure" />
       <item value="curve" />
@@ -51,14 +54,11 @@
       <item value="electric" />
       <item value="need Separate" />
       <item value="分隔" />
-      <item value="fen'ge" />
-      <item value="f" />
-      <item value="分割" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1996" />
-        <entry key="ENGLISH" value="1996" />
+        <entry key="CHINESE" value="2003" />
+        <entry key="ENGLISH" value="2004" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
