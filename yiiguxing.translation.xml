@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="compute" />
       <item value="Location Sensor" />
       <item value="Water Heater" />
       <item value="Presence Detector" />
@@ -53,12 +54,11 @@
       <item value="Diagnostic" />
       <item value="Infer" />
       <item value="reason" />
-      <item value="electric" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2006" />
-        <entry key="ENGLISH" value="2007" />
+        <entry key="CHINESE" value="2007" />
+        <entry key="ENGLISH" value="2008" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
