@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="The list of Primary Key column names. If you would like to define an auto generated primary key, you can use PrimaryKey annotation on the field with PrimaryKey.autoGenerate() set to true. Returns: The primary key of this Entity. Can be empty if the class has a field annotated with PrimaryKey." />
       <item value="组合&#10;" />
       <item value="组合" />
@@ -53,12 +54,11 @@
       <item value="batch Subscribe Prop" />
       <item value="Precision" />
       <item value="text – text to be appended to the already displayed text start – the index of the first character in the text end – the index of the character following the last character in the text" />
-      <item value="alert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2023" />
-        <entry key="ENGLISH" value="2024" />
+        <entry key="CHINESE" value="2024" />
+        <entry key="ENGLISH" value="2025" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
