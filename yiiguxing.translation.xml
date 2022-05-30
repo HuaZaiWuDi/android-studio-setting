@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="格式" />
+      <item value="转换" />
       <item value="high Light masking" />
       <item value="Particulate Matter Sensor" />
       <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
@@ -52,13 +54,11 @@
       <item value="Unterminated object at line 1 column 82 path [2].key" />
       <item value="上报长按" />
       <item value="上报" />
-      <item value="shang" />
-      <item value="batch Subscribe Prop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2026" />
-        <entry key="ENGLISH" value="2027" />
+        <entry key="CHINESE" value="2038" />
+        <entry key="ENGLISH" value="2039" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
