@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Occupancy Sensor" />
       <item value="Create a new non focusable popup window which can display the contentView. The dimension of the window are (0,0). The popup does not provide any background. This should be handled by the content view. Params: contentView – the popup's content" />
       <item value="Recommend Panel" />
       <item value="格式" />
@@ -36,7 +37,6 @@
       <item value="DT OCCUPANCY SENSOR" />
       <item value="DT PRESENCE DETECTOR" />
       <item value="Occupancy" />
-      <item value="Occupancy Sensor" />
       <item value="Kuwahara" />
       <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
       <item value="Params: maskId – If you change the mask file, please also rename the mask file, or Glide will get the cache with the old mask. Because key() return the same values if using the same make file name. If you have a good idea please tell us, thanks." />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2041" />
-        <entry key="ENGLISH" value="2042" />
+        <entry key="CHINESE" value="2042" />
+        <entry key="ENGLISH" value="2043" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
