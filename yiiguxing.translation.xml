@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Create a new non focusable popup window which can display the contentView. The dimension of the window are (0,0). The popup does not provide any background. This should be handled by the content view. Params: contentView – the popup's content" />
       <item value="Recommend Panel" />
       <item value="格式" />
       <item value="转换" />
@@ -53,12 +54,11 @@
       <item value="solid" />
       <item value="Canvas: trying to use a recycled bitmap android.graphics.Bitmap@71965bc" />
       <item value="Unterminated object at line 1 column 82 path [2].key" />
-      <item value="上报长按" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2039" />
-        <entry key="ENGLISH" value="2040" />
+        <entry key="CHINESE" value="2040" />
+        <entry key="ENGLISH" value="2041" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
