@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="fading Edge" />
+      <item value="requires Fading Edge" />
+      <item value="Boolean that controls whether a view should have sound effects enabled for events such as clicking and touching." />
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="Occupancy Sensor" />
       <item value="Create a new non focusable popup window which can display the contentView. The dimension of the window are (0,0). The popup does not provide any background. This should be handled by the content view. Params: contentView – the popup's content" />
@@ -51,14 +54,11 @@
       <item value="Notified when a scroll occurs with the initial on down MotionEvent and the current move MotionEvent. The distance in x and y is also supplied for convenience. Params: e1 – The first down motion event that started the scrolling. e2 – The move motion event that triggered the current onScroll. distanceX – The distance along the X axis that has been scrolled since the last call to onScroll. This is NOT the distance between e1 and e2. distanceY – The distance along the Y axis that has been scrolled since the last call to onScroll. This is NOT the distance between e1 and e2. Returns: true if the event is consumed, else false" />
       <item value="Set whether longpress is enabled, if this is enabled when a user presses and holds down you get a longpress event and nothing further. If it's disabled the user can press and hold down and then later moved their finger and you will get scroll events. By default longpress is enabled. Params: isLongpressEnabled – whether longpress should be enabled." />
       <item value="Set" />
-      <item value="com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 82 path [2].key" />
-      <item value="solid" />
-      <item value="Canvas: trying to use a recycled bitmap android.graphics.Bitmap@71965bc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2043" />
-        <entry key="ENGLISH" value="2044" />
+        <entry key="CHINESE" value="2046" />
+        <entry key="ENGLISH" value="2047" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
