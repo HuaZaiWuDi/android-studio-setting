@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="转换" />
+      <item value="zha" />
+      <item value="后一个" />
+      <item value="前一个" />
       <item value="fading Edge" />
       <item value="requires Fading Edge" />
       <item value="Boolean that controls whether a view should have sound effects enabled for events such as clicking and touching." />
@@ -12,7 +16,6 @@
       <item value="Create a new non focusable popup window which can display the contentView. The dimension of the window are (0,0). The popup does not provide any background. This should be handled by the content view. Params: contentView – the popup's content" />
       <item value="Recommend Panel" />
       <item value="格式" />
-      <item value="转换" />
       <item value="high Light masking" />
       <item value="Particulate Matter Sensor" />
       <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
@@ -51,14 +54,11 @@
       <item value="The move motion event that triggered the current onScroll." />
       <item value="The first down motion event that started the scrolling." />
       <item value="Notified when a scroll occurs with the initial on down MotionEvent and the current move MotionEvent. The distance in x and y is also supplied for convenience. Params: e1 – The first down motion event that started the scrolling. e2 – The move motion event that triggered the current onScroll. distanceX – The distance along the X axis that has been scrolled since the last call to onScroll. This is NOT the distance between e1 and e2. distanceY – The distance along the Y axis that has been scrolled since the last call to onScroll. This is NOT the distance between e1 and e2. Returns: true if the event is consumed, else fals" />
-      <item value="Notified when a scroll occurs with the initial on down MotionEvent and the current move MotionEvent. The distance in x and y is also supplied for convenience. Params: e1 – The first down motion event that started the scrolling. e2 – The move motion event that triggered the current onScroll. distanceX – The distance along the X axis that has been scrolled since the last call to onScroll. This is NOT the distance between e1 and e2. distanceY – The distance along the Y axis that has been scrolled since the last call to onScroll. This is NOT the distance between e1 and e2. Returns: true if the event is consumed, else false" />
-      <item value="Set whether longpress is enabled, if this is enabled when a user presses and holds down you get a longpress event and nothing further. If it's disabled the user can press and hold down and then later moved their finger and you will get scroll events. By default longpress is enabled. Params: isLongpressEnabled – whether longpress should be enabled." />
-      <item value="Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2046" />
-        <entry key="ENGLISH" value="2047" />
+        <entry key="CHINESE" value="2068" />
+        <entry key="ENGLISH" value="2069" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
