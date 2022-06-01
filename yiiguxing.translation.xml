@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="预览" />
+      <item value="yu'lan" />
+      <item value="yuyu'lan" />
       <item value="重复" />
       <item value="转换" />
       <item value="zha" />
@@ -51,14 +54,11 @@
       <item value="Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
       <item value="Adds the given Bitmap if it is eligible to be re-used and the pool can fit it, or calls Bitmap.recycle() on the Bitmap and discards it. Callers must not continue to use the Bitmap after calling this method. Params: bitmap – The Bitmap to attempt to add. See Also: Bitmap.isMutable(), Bitmap.recycle()" />
       <item value="bias" />
-      <item value="layout constraint Horizontal bias" />
-      <item value="The move motion event that triggered the current onScroll." />
-      <item value="The first down motion event that started the scrolling." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2075" />
-        <entry key="ENGLISH" value="2076" />
+        <entry key="CHINESE" value="2081" />
+        <entry key="ENGLISH" value="2082" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
