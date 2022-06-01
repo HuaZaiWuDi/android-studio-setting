@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="重复" />
       <item value="转换" />
       <item value="zha" />
       <item value="后一个" />
@@ -53,12 +54,11 @@
       <item value="layout constraint Horizontal bias" />
       <item value="The move motion event that triggered the current onScroll." />
       <item value="The first down motion event that started the scrolling." />
-      <item value="Notified when a scroll occurs with the initial on down MotionEvent and the current move MotionEvent. The distance in x and y is also supplied for convenience. Params: e1 – The first down motion event that started the scrolling. e2 – The move motion event that triggered the current onScroll. distanceX – The distance along the X axis that has been scrolled since the last call to onScroll. This is NOT the distance between e1 and e2. distanceY – The distance along the Y axis that has been scrolled since the last call to onScroll. This is NOT the distance between e1 and e2. Returns: true if the event is consumed, else fals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2068" />
-        <entry key="ENGLISH" value="2069" />
+        <entry key="CHINESE" value="2075" />
+        <entry key="ENGLISH" value="2076" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
