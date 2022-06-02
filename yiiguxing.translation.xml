@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="context - the context of the coroutine. The default value is an event loop on the current thread. block - the coroutine code." />
+      <item value="Runs a new coroutine and blocks the current thread interruptibly until its completion. This function should not be used from a coroutine. It is designed to bridge regular blocking code to libraries that are written in suspending style, to be used in main functions and in tests." />
+      <item value="autofill Client Run On Ui Thread" />
+      <item value="Runs the specified action on the UI thread. If the current thread is the UI thread, then the action is executed immediately. If the current thread is not the UI thread, the action is posted to the event queue of the UI thread. Params: action – the action to run on the UI thread" />
+      <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
+      <item value="Attempt to invoke interface method 'void java.util.concurrent.Executor.execute(java.lang.Runnable)' on a null object reference" />
       <item value="device Info Ready" />
       <item value="sign sensor setting" />
       <item value="sign sensor gesture setting" />
@@ -22,7 +28,6 @@
       <item value="fading Edge" />
       <item value="requires Fading Edge" />
       <item value="Boolean that controls whether a view should have sound effects enabled for events such as clicking and touching." />
-      <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="Occupancy Sensor" />
       <item value="Create a new non focusable popup window which can display the contentView. The dimension of the window are (0,0). The popup does not provide any background. This should be handled by the content view. Params: contentView – the popup's content" />
       <item value="Recommend Panel" />
@@ -49,16 +54,11 @@
       <item value="Exceeded limit on max bytes to buffer : 1048576" />
       <item value="local" />
       <item value="compute" />
-      <item value="Location Sensor" />
-      <item value="Water Heater" />
-      <item value="Presence Detector" />
-      <item value="DT OCCUPANCY SENSOR" />
-      <item value="DT PRESENCE DETECTOR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2092" />
-        <entry key="ENGLISH" value="2093" />
+        <entry key="CHINESE" value="2098" />
+        <entry key="ENGLISH" value="2099" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
