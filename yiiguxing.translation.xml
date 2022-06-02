@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="device Info Ready" />
       <item value="sign sensor setting" />
       <item value="sign sensor gesture setting" />
       <item value="自检" />
@@ -53,12 +54,11 @@
       <item value="Presence Detector" />
       <item value="DT OCCUPANCY SENSOR" />
       <item value="DT PRESENCE DETECTOR" />
-      <item value="Occupancy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2091" />
-        <entry key="ENGLISH" value="2092" />
+        <entry key="CHINESE" value="2092" />
+        <entry key="ENGLISH" value="2093" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
