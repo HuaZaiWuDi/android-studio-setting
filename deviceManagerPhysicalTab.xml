@@ -20,7 +20,7 @@
             <value value="a909734e" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-02T09:16:08.666105Z" />
+        <lastOnlineTime value="2022-06-02T10:00:54.208415Z" />
         <name value="Xiaomi MI 9" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -79,6 +79,17 @@
         <name value="LGE LM-G710N" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6b80a9ae" />
+          </Key>
+        </key>
+        <name value="OPPO PEEM00" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
