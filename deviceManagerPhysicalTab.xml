@@ -20,9 +20,10 @@
             <value value="a909734e" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-06-02T08:39:24.111095Z" />
         <name value="Xiaomi MI 9" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -64,8 +65,18 @@
             <value value="2MGBB22209200200" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-02T07:55:34.769810Z" />
         <name value="HUAWEI DBY-W09" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="LMG710Na22ae633" />
+          </Key>
+        </key>
+        <name value="LGE LM-G710N" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
