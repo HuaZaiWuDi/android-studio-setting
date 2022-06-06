@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns a new BigDecimal instance with the specified scale. If the new scale is greater than the old scale, then additional zeros are added to the unscaled value. In this case no rounding is necessary. If the new scale is smaller than the old scale, then trailing digits are removed. If these trailing digits are not zero, then the remaining unscaled value has to be rounded. For this rounding operation the specified rounding mode is used. Params: newScale – scale of the result returned. roundingMode – rounding mode to be used to round the result. Returns: a new BigDecimal instance with the specified scale." />
       <item value="Cannot add the same observer with different lifecycles" />
       <item value="Scroll vertically by dy pixels in screen coordinates and return the distance traveled. The default implementation does nothing and returns 0." />
       <item value="Horizontal start direction. Resolved to LEFT or RIGHT depending on RecyclerView's layout direction. Used for swipe &amp; drag control." />
@@ -53,12 +54,11 @@
       <item value="IGNORE" />
       <item value="OnConflict strategy constant to ignore the conflict. An Insert DAO method that returns the inserted rows ids will return -1 for rows that are not inserted since this strategy will ignore the row if there is a conflict." />
       <item value="OnConflict strategy constant to abort the transaction. The transaction is rolled back." />
-      <item value="OnConflict strategy constant to rollback the transaction. Deprecated Does not work with Android's current SQLite bindings. Use ABORT to roll back the transaction." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2103" />
-        <entry key="ENGLISH" value="2104" />
+        <entry key="CHINESE" value="2104" />
+        <entry key="ENGLISH" value="2105" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
