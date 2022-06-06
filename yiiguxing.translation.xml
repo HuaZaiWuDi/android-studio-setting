@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Horizontal start direction. Resolved to LEFT or RIGHT depending on RecyclerView's layout direction. Used for swipe &amp; drag control." />
       <item value="Notify the widget that refresh state has changed. Do not call this when refresh is triggered by a swipe gesture." />
       <item value="Whether or not the view should show refresh progress." />
       <item value="context - the context of the coroutine. The default value is an event loop on the current thread. block - the coroutine code." />
@@ -53,12 +54,11 @@
       <item value="OnConflict strategy constant to rollback the transaction. Deprecated Does not work with Android's current SQLite bindings. Use ABORT to roll back the transaction." />
       <item value="OnConflict strategy constant to replace the old data and continue the transaction. An Insert DAO method that returns the inserted rows ids will never return -1 since this strategy will always insert a row even if there is a conflict." />
       <item value="Releases a reference to the object, closing the object if the last reference was released. Calling this method is equivalent to calling releaseReference. See Also: releaseReference(), onAllReferencesReleased()" />
-      <item value="Exceeded limit on max bytes to buffer : 1048576" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2100" />
-        <entry key="ENGLISH" value="2101" />
+        <entry key="CHINESE" value="2101" />
+        <entry key="ENGLISH" value="2102" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
@@ -75,6 +75,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653895083042" />
+    <option name="lastTrimTime" value="1654481277778" />
   </component>
 </application>
