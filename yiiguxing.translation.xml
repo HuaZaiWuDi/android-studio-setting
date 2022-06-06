@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Cannot add the same observer with different lifecycles" />
       <item value="Scroll vertically by dy pixels in screen coordinates and return the distance traveled. The default implementation does nothing and returns 0." />
       <item value="Horizontal start direction. Resolved to LEFT or RIGHT depending on RecyclerView's layout direction. Used for swipe &amp; drag control." />
       <item value="Notify the widget that refresh state has changed. Do not call this when refresh is triggered by a swipe gesture." />
@@ -53,12 +54,11 @@
       <item value="OnConflict strategy constant to ignore the conflict. An Insert DAO method that returns the inserted rows ids will return -1 for rows that are not inserted since this strategy will ignore the row if there is a conflict." />
       <item value="OnConflict strategy constant to abort the transaction. The transaction is rolled back." />
       <item value="OnConflict strategy constant to rollback the transaction. Deprecated Does not work with Android's current SQLite bindings. Use ABORT to roll back the transaction." />
-      <item value="OnConflict strategy constant to replace the old data and continue the transaction. An Insert DAO method that returns the inserted rows ids will never return -1 since this strategy will always insert a row even if there is a conflict." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2102" />
-        <entry key="ENGLISH" value="2103" />
+        <entry key="CHINESE" value="2103" />
+        <entry key="ENGLISH" value="2104" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
