@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="有效" />
       <item value="Concurrent Modification Exception" />
       <item value="sizeMultiplier – The multiplier to apply to the Target's dimensions when loading the thumbnail." />
       <item value="Loads and displays the resource retrieved by the given thumbnail request if it finishes before this request. Best used for loading thumbnail resources that are smaller and will be loaded more quickly than the full size resource. There are no guarantees about the order in which the requests will actually finish. However, if the thumb request completes after the full request, the thumb resource will never replace the full resource. Recursive calls to thumbnail are supported." />
@@ -53,12 +54,11 @@
       <item value="Indicates that a drawer is in the process of settling to a final position." />
       <item value="预览" />
       <item value="yu'lan" />
-      <item value="yuyu'lan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2133" />
-        <entry key="ENGLISH" value="2134" />
+        <entry key="CHINESE" value="2140" />
+        <entry key="ENGLISH" value="2141" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
