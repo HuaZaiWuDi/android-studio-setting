@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Key for passing a URL to the captive portal login activity." />
+      <item value="The reason code if there was a wrong password while authenticating." />
+      <item value="Start Easy Connect (DPP) in Configurator-Initiator role. The current device will initiate Easy Connect bootstrapping with a peer, and configure the peer with the SSID and password of the specified network using the Easy Connect protocol on an encrypted link." />
       <item value="The reason code if there is no error during authentication. It could also imply that there no authentication in progress, this reason code also serves as a reset value. @deprecated This is no longer supported." />
       <item value="The reason code if there was a timeout authenticating. Deprecated This is no longer supported." />
       <item value="The error code if there was a problem authenticating. Deprecated This is no longer supported." />
@@ -51,14 +54,11 @@
       <item value="转换" />
       <item value="zha" />
       <item value="后一个" />
-      <item value="前一个" />
-      <item value="fading Edge" />
-      <item value="requires Fading Edge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2126" />
-        <entry key="ENGLISH" value="2127" />
+        <entry key="CHINESE" value="2129" />
+        <entry key="ENGLISH" value="2130" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
