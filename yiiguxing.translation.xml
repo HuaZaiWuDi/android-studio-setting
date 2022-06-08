@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Enable or disable interaction with all drawers. This allows the application to restrict the user's ability to open or close any drawer within this layout. DrawerLayout will still respond to calls to openDrawer(int), closeDrawer(int) and friends if a drawer is locked." />
+      <item value="Open the specified drawer by animating it out of view. Params: gravity – Gravity.LEFT to move the left drawer or Gravity.RIGHT for the right. GravityCompat.START or GravityCompat.END may also be used." />
       <item value="Like commit but allows the commit to be executed after an activity's state is saved. This is dangerous because the commit can be lost if the activity needs to later be restored from its state, so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user." />
       <item value="Called when the drawer motion state changes. The new state will be one of STATE_IDLE, STATE_DRAGGING or STATE_SETTLING." />
       <item value="Called when a drawer's position changes." />
@@ -52,13 +54,11 @@
       <item value="Attempt to invoke interface method 'void java.util.concurrent.Executor.execute(java.lang.Runnable)' on a null object reference" />
       <item value="device Info Ready" />
       <item value="sign sensor setting" />
-      <item value="sign sensor gesture setting" />
-      <item value="自检" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2145" />
-        <entry key="ENGLISH" value="2146" />
+        <entry key="CHINESE" value="2147" />
+        <entry key="ENGLISH" value="2148" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
