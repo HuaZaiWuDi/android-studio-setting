@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Optional" />
       <item value="Called attach on a child which is not detached" />
       <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
       <item value="重启" />
@@ -53,12 +54,11 @@
       <item value="context - the context of the coroutine. The default value is an event loop on the current thread. block - the coroutine code." />
       <item value="Runs a new coroutine and blocks the current thread interruptibly until its completion. This function should not be used from a coroutine. It is designed to bridge regular blocking code to libraries that are written in suspending style, to be used in main functions and in tests." />
       <item value="autofill Client Run On Ui Thread" />
-      <item value="Runs the specified action on the UI thread. If the current thread is the UI thread, then the action is executed immediately. If the current thread is not the UI thread, the action is posted to the event queue of the UI thread. Params: action – the action to run on the UI thread" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2157" />
-        <entry key="ENGLISH" value="2157" />
+        <entry key="ENGLISH" value="2158" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
