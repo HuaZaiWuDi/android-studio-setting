@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Called attach on a child which is not detached" />
+      <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
       <item value="重启" />
       <item value="allow Animation" />
       <item value="Enable or disable interaction with all drawers. This allows the application to restrict the user's ability to open or close any drawer within this layout. DrawerLayout will still respond to calls to openDrawer(int), closeDrawer(int) and friends if a drawer is locked." />
@@ -52,13 +54,11 @@
       <item value="Runs a new coroutine and blocks the current thread interruptibly until its completion. This function should not be used from a coroutine. It is designed to bridge regular blocking code to libraries that are written in suspending style, to be used in main functions and in tests." />
       <item value="autofill Client Run On Ui Thread" />
       <item value="Runs the specified action on the UI thread. If the current thread is the UI thread, then the action is executed immediately. If the current thread is not the UI thread, the action is posted to the event queue of the UI thread. Params: action – the action to run on the UI thread" />
-      <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
-      <item value="Attempt to invoke interface method 'void java.util.concurrent.Executor.execute(java.lang.Runnable)' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2155" />
-        <entry key="ENGLISH" value="2156" />
+        <entry key="CHINESE" value="2157" />
+        <entry key="ENGLISH" value="2157" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
