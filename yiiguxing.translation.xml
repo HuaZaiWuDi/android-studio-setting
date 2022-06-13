@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="tv float error" />
+      <item value="flo" />
+      <item value="悬浮" />
       <item value="Cannot add the same observer with different lifecycles" />
       <item value="The drawer is locked closed. The user may not open it, though the app may open it programmatically." />
       <item value="The drawer is locked open. The user may not close it, though the app may close it programmatically." />
@@ -51,14 +54,11 @@
       <item value="Set the NetworkCapabilities for this builder instance, overriding any capabilities that had been previously set." />
       <item value="Add the given capability requirement to this builder. These represent the requested network's required capabilities. Note that when searching for a network to satisfy a request, all capabilities requested must be satisfied. Params: capability – The capability to add." />
       <item value="add Capability" />
-      <item value="A NetworkRequest as used by the system can be one of the following types: - LISTEN, for which the framework will issue callbacks about any and all networks that match the specified NetworkCapabilities, - REQUEST, capable of causing a specific network to be created first (e.g. a telephony DUN request), the framework will issue callbacks about the single, highest scoring current network (if any) that matches the specified NetworkCapabilities, or - TRACK_DEFAULT, a hybrid of the two designed such that the framework will issue callbacks for the single, highest scoring current network (if any) that matches the capabilities of the default Internet request (mDefaultRequest), but which cannot cause the framework to either create or retain the existence of any specific network. Note that from the point of view of the request matching code, TRACK_DEFAULT is identical to REQUEST: its special behaviour is not due to different semantics, but to the fact that the system will only ever create a TRACK_DEFAULT with capabilities that are identical to the default request's capabilities, thus causing it to share fate in every way with the default request. - BACKGROUND_REQUEST, like REQUEST but does not cause any networks to retain the NET_CAPABILITY_FOREGROUND capability. A network with no foreground requests is in the background. A network that has one or more background requests and loses its last foreground request to a higher-scoring network will not go into the background immediately, but will linger and go into the background after the linger timeout. - The value NONE is used only by applications. When an application creates a NetworkRequest, it does not have a type; the type is set by the system depending on the method used to file the request (requestNetwork, registerNetworkCallback, etc.)." />
-      <item value="Create a specifier object used to request a local Wi-Fi network. The generated NetworkSpecifier should be used in NetworkRequest.Builder.setNetworkSpecifier(NetworkSpecifier) when building the NetworkRequest. These specifiers can only be used to request a local wifi network (i.e no internet capability). So, the device will not switch it's default route to wifi if there are other transports (cellular for example) available. Note: Apps can set a combination of network match params: SSID Pattern using setSsidPattern(PatternMatcher) OR Specific SSID using setSsid(String). ANDOR BSSID Pattern using setBssidPattern(MacAddress, MacAddress) OR Specific BSSID using setBssid(MacAddress) to trigger connection to a network that matches the set params. The system will find the set of networks matching the request and present the user with a system dialog which will allow the user to select a specific Wi-Fi network to connect to or to deny the request. For example: To connect to an open network with a SSID prefix of &quot;test&quot; and a BSSID OUI of &quot;10:03:23&quot;: final NetworkSpecifier specifier = new Builder() .setSsidPattern(new PatternMatcher(&quot;test&quot;, PatterMatcher.PATTERN_PREFIX)) .setBssidPattern(MacAddress.fromString(&quot;10:03:23:00:00:00&quot;), MacAddress.fromString(&quot;ff:ff:ff:00:00:00&quot;)) .build() final NetworkRequest request = new NetworkRequest.Builder() .addTransportType(NetworkCapabilities.TRANSPORT_WIFI) .removeCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET) .setNetworkSpecifier(specifier) .build(); final ConnectivityManager connectivityManager = context.getSystemService(Context.CONNECTIVITY_SERVICE); final NetworkCallback networkCallback = new NetworkCallback() { ... {@literal @}Override void onAvailable(...) {} etc. }; connectivityManager.requestNetwork(request, networkCallback);" />
-      <item value="indeterminate Only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2184" />
-        <entry key="ENGLISH" value="2185" />
+        <entry key="CHINESE" value="2196" />
+        <entry key="ENGLISH" value="2197" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
@@ -75,6 +75,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654481277778" />
+    <option name="lastTrimTime" value="1655091842203" />
   </component>
 </application>
