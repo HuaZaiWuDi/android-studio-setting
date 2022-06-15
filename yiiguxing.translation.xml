@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The drawer is locked open. The user may not close it, though the app may close it programmatically." />
+      <item value="The drawer is locked closed. The user may not open it, though the app may open it programmatically." />
       <item value="Returns: The horizontal offset of the scrollbar's thumb" />
       <item value="If you want to support scroll bars, override RecyclerView.LayoutManager.computeHorizontalScrollOffset(RecyclerView.State) in your LayoutManager." />
       <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track. The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollExtent()." />
@@ -16,8 +18,6 @@
       <item value="flo" />
       <item value="悬浮" />
       <item value="Cannot add the same observer with different lifecycles" />
-      <item value="The drawer is locked closed. The user may not open it, though the app may open it programmatically." />
-      <item value="The drawer is locked open. The user may not close it, though the app may close it programmatically." />
       <item value="One of LOCK_MODE_UNLOCKED, LOCK_MODE_LOCKED_CLOSED or LOCK_MODE_LOCKED_OPEN." />
       <item value="aspect Ratio" />
       <item value="宽高比" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2214" />
-        <entry key="ENGLISH" value="2215" />
+        <entry key="CHINESE" value="2216" />
+        <entry key="ENGLISH" value="2217" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
