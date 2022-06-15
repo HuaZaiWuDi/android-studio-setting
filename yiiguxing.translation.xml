@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="反转" />
+      <item value="反正" />
+      <item value="fanz" />
       <item value="tv float error" />
       <item value="flo" />
       <item value="悬浮" />
@@ -51,14 +54,11 @@
       <item value="Called when the network the framework connected to for this request changes capabilities but still satisfies the stated need." />
       <item value="Called when the framework connects to a new network to evaluate whether it satisfies this request. If evaluation succeeds, this callback may be followed by an onAvailable callback. There is no guarantee that this new network will satisfy any requests, or that the network will stay connected for longer than the time necessary to evaluate it. Most applications should not act on this callback, and should instead use onAvailable. This callback is intended for use by applications that can assist the framework in properly evaluating the network — for example, an application that can automatically log in to a captive portal without user intervention." />
       <item value="Adds the given transport requirement to this builder. These represent the set of allowed transports for the request. Only networks using one of these transports will satisfy the request. If no particular transports are required, none should be specified here. Params: transportType – The transport type to add." />
-      <item value="Set the NetworkCapabilities for this builder instance, overriding any capabilities that had been previously set." />
-      <item value="Add the given capability requirement to this builder. These represent the requested network's required capabilities. Note that when searching for a network to satisfy a request, all capabilities requested must be satisfied. Params: capability – The capability to add." />
-      <item value="add Capability" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2196" />
-        <entry key="ENGLISH" value="2197" />
+        <entry key="CHINESE" value="2209" />
+        <entry key="ENGLISH" value="2210" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
