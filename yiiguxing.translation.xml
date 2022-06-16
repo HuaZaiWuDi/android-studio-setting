@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Sets some additional data to be mixed in to the memory and disk cache keys allowing the caller more control over when cached data is invalidated. Note - The signature does not replace the cache key, it is purely additive. Params: signature – A unique non-null Key representing the current state of the model that will be mixed in to the cache key. Returns: This request builder." />
+      <item value="Caches remote data with both DATA and RESOURCE, and local data with RESOURCE only." />
+      <item value="Tries to intelligently choose a strategy based on the data source of the com.bumptech.glide.load.data.DataFetcher and the EncodeStrategy of the com.bumptech.glide.load.ResourceEncoder (if an com.bumptech.glide.load.ResourceEncoder is available)." />
+      <item value="Writes resources to disk after they've been decoded." />
+      <item value="Writes retrieved data directly to the disk cache before it's decoded." />
       <item value="The drawer is locked open. The user may not close it, though the app may close it programmatically." />
       <item value="The drawer is locked closed. The user may not open it, though the app may open it programmatically." />
       <item value="Returns: The horizontal offset of the scrollbar's thumb" />
@@ -49,16 +54,11 @@
       <item value="The reason code if there was a timeout authenticating. Deprecated This is no longer supported." />
       <item value="The error code if there was a problem authenticating. Deprecated This is no longer supported." />
       <item value="This class provides the primary API for managing all aspects of Wi-Fi connectivity. On releases before Build.VERSION_CODES.N, this object should only be obtained from an application context, and not from any other derived context to avoid memory leaks within the calling process. It deals with several categories of items: The list of configured networks. The list can be viewed and updated, and attributes of individual entries can be modified. The currently active Wi-Fi network, if any. Connectivity can be established or torn down, and dynamic information about the state of the network can be queried. Results of access point scans, containing enough information to make decisions about what access point to connect to. It defines the names of various Intent actions that are broadcast upon any sort of change in Wi-Fi state. This is the API to use when performing Wi-Fi specific operations. To perform operations that pertain to network connectivity at an abstract level, use ConnectivityManager." />
-      <item value="The lookup key for a SupplicantState describing the supplicant error code if any Retrieve with android.content.Intent.getIntExtra(String, int). Deprecated This is no longer supported." />
-      <item value="Base class for NetworkRequest callbacks. Used for notifications about network changes. Should be extended by applications wanting notifications. A NetworkCallback is registered by calling requestNetwork(NetworkRequest, ConnectivityManager.NetworkCallback), registerNetworkCallback(NetworkRequest, ConnectivityManager.NetworkCallback), or registerDefaultNetworkCallback(ConnectivityManager.NetworkCallback). A NetworkCallback is unregistered by calling unregisterNetworkCallback(ConnectivityManager.NetworkCallback). A NetworkCallback should be registered at most once at any time. A NetworkCallback that has been unregistered can be registered again." />
-      <item value="Called when the framework has a hard loss of the network or when the graceful failure ends. Params: network – The Network lost." />
-      <item value="Called when access to the specified network is blocked or unblocked. Params: network – The Network whose blocked status has changed. blocked – The blocked status of this Network." />
-      <item value="Called when the network the framework connected to for this request returns from a NetworkInfo.State.SUSPENDED state. This should always be preceded by a matching onNetworkSuspended call." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2216" />
-        <entry key="ENGLISH" value="2217" />
+        <entry key="CHINESE" value="2221" />
+        <entry key="ENGLISH" value="2222" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
