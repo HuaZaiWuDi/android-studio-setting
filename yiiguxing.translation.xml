@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Called when a view created by this BaseItemProvider has been attached to a window. 当此BaseItemProvider出现在屏幕上的时候，会调用此方法" />
       <item value="command" />
       <item value="联动" />
       <item value="re" />
@@ -53,11 +54,10 @@
       <item value="Returns: The horizontal offset of the scrollbar's thumb" />
       <item value="If you want to support scroll bars, override RecyclerView.LayoutManager.computeHorizontalScrollOffset(RecyclerView.State) in your LayoutManager." />
       <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track. The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollExtent()." />
-      <item value="Offset the bounds of all child views by dx pixels. Useful for implementing simple scrolling in LayoutManagers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2272" />
+        <entry key="CHINESE" value="2273" />
         <entry key="ENGLISH" value="2273" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
