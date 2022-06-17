@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="command" />
       <item value="联动" />
       <item value="re" />
       <item value="Returns the adapter position of the first visible view. This position does not include adapter changes that were dispatched after the last layout pass. Note that, this value is not affected by layout orientation or item order traversal. (setReverseLayout(boolean)). Views are sorted by their positions in the adapter, not in the layout." />
@@ -53,12 +54,11 @@
       <item value="If you want to support scroll bars, override RecyclerView.LayoutManager.computeHorizontalScrollOffset(RecyclerView.State) in your LayoutManager." />
       <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track. The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollExtent()." />
       <item value="Offset the bounds of all child views by dx pixels. Useful for implementing simple scrolling in LayoutManagers." />
-      <item value="compute Horizontal Scroll Offset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2271" />
-        <entry key="ENGLISH" value="2272" />
+        <entry key="CHINESE" value="2272" />
+        <entry key="ENGLISH" value="2273" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
