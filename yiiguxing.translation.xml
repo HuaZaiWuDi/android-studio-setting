@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns true if the RecyclerView is in the pre-layout step where it is having its RecyclerView.LayoutManager layout items where they will be at the beginning of a set of predictive item animations." />
+      <item value="Views that did not measure the maxSize has to be re-measured We will stop doing this once we introduce Gravity in the GLM layout params" />
+      <item value="ensure Anchor Is In Correct Span" />
       <item value="色温" />
       <item value="se'ewn" />
       <item value="Strict Mode" />
@@ -51,14 +54,11 @@
       <item value="Called when a drawer's position changes." />
       <item value="Called when a drawer has settled in a completely open state. The drawer is interactive at this point." />
       <item value="Shows a previously hidden fragment. This is only relevant for fragments whose views have been added to a container, as this will cause the view to be shown. Params: fragment – The fragment to be shown. Returns: Returns the same FragmentTransaction instance." />
-      <item value="有效" />
-      <item value="Concurrent Modification Exception" />
-      <item value="sizeMultiplier – The multiplier to apply to the Target's dimensions when loading the thumbnail." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2235" />
-        <entry key="ENGLISH" value="2236" />
+        <entry key="CHINESE" value="2238" />
+        <entry key="ENGLISH" value="2239" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
