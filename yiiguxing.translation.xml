@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="略过" />
+      <item value="nue'guo" />
+      <item value="luo'guo" />
+      <item value="luo" />
+      <item value="跳" />
+      <item value="跳过" />
       <item value="the delay amount" />
       <item value="Applies FitCenter and to all default types, DownsampleStrategy.FIT_CENTER to image types, and throws an exception if asked to transform an unknown type. This will override previous calls to dontTransform() and previous calls to downsample(DownsampleStrategy). See Also: transform(Class, Transformation), optionalFitCenter()" />
       <item value="Applies CenterCrop to all default types, and ignores unknown types. This will override previous calls to dontTransform(). See Also: optionalTransform(Class, Transformation), centerCrop()" />
@@ -48,17 +54,11 @@
       <item value="Received invalid resource id: 0" />
       <item value="eturns a mutable bitmap with the specified width and height. Its initial density is as per getDensity. The newly created bitmap is in the sRGB color space. Params:" />
       <item value="Bitmaps in the pool contain random data that in some cases must be cleared for an image to be rendered correctly. we shouldn't force all consumers to independently erase the contents individually, so we do so here. See issue 131." />
-      <item value="An interface for a pool that allows users to reuse Bitmap objects." />
-      <item value="Sets some additional data to be mixed in to the memory and disk cache keys allowing the caller more control over when cached data is invalidated. Note - The signature does not replace the cache key, it is purely additive. Params: signature – A unique non-null Key representing the current state of the model that will be mixed in to the cache key. Returns: This request builder." />
-      <item value="Caches remote data with both DATA and RESOURCE, and local data with RESOURCE only." />
-      <item value="Tries to intelligently choose a strategy based on the data source of the com.bumptech.glide.load.data.DataFetcher and the EncodeStrategy of the com.bumptech.glide.load.ResourceEncoder (if an com.bumptech.glide.load.ResourceEncoder is available)." />
-      <item value="The drawer is locked open. The user may not close it, though the app may close it programmatically." />
-      <item value="The drawer is locked closed. The user may not open it, though the app may open it programmatically." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2275" />
-        <entry key="ENGLISH" value="2276" />
+        <entry key="CHINESE" value="2320" />
+        <entry key="ENGLISH" value="2321" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
