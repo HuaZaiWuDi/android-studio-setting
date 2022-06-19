@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Applies FitCenter and to all default types, DownsampleStrategy.FIT_CENTER to image types, and throws an exception if asked to transform an unknown type. This will override previous calls to dontTransform() and previous calls to downsample(DownsampleStrategy). See Also: transform(Class, Transformation), optionalFitCenter()" />
+      <item value="Applies CenterCrop to all default types, and ignores unknown types. This will override previous calls to dontTransform(). See Also: optionalTransform(Class, Transformation), centerCrop()" />
       <item value="Called when a view created by this BaseItemProvider has been attached to a window. 当此BaseItemProvider出现在屏幕上的时候，会调用此方法" />
       <item value="command" />
       <item value="联动" />
@@ -52,13 +54,11 @@
       <item value="The drawer is locked open. The user may not close it, though the app may close it programmatically." />
       <item value="The drawer is locked closed. The user may not open it, though the app may open it programmatically." />
       <item value="Returns: The horizontal offset of the scrollbar's thumb" />
-      <item value="If you want to support scroll bars, override RecyclerView.LayoutManager.computeHorizontalScrollOffset(RecyclerView.State) in your LayoutManager." />
-      <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track. The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollExtent()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2273" />
-        <entry key="ENGLISH" value="2273" />
+        <entry key="CHINESE" value="2274" />
+        <entry key="ENGLISH" value="2275" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
@@ -75,6 +75,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655091842203" />
+    <option name="lastTrimTime" value="1655609326580" />
   </component>
 </application>
