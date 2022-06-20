@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="圆角" />
+      <item value="yun" />
+      <item value="quan'j" />
+      <item value="second Progress Color" />
+      <item value="jump Drawables To Current State" />
       <item value="crash wasn't handled by all associated webviews, triggering application crash." />
       <item value="fault addr " />
       <item value="Return true if the fragment is currently added to its activity." />
@@ -49,16 +54,11 @@
       <item value="This method is called whenever the view in the ViewHolder is recycled. RecyclerView calls this method right before clearing ViewHolder's internal data and sending it to RecycledViewPool. This way, if ViewHolder was holding valid information before being recycled, you can call RecyclerView.ViewHolder.getBindingAdapterPosition() to get its adapter position. Params: holder – The ViewHolder containing the view that was recycled" />
       <item value="The child view under (x, y) or null if no matching child is found" />
       <item value="Find the topmost view under the given point." />
-      <item value="Returns true if the RecyclerView is in the pre-layout step where it is having its RecyclerView.LayoutManager layout items where they will be at the beginning of a set of predictive item animations." />
-      <item value="Views that did not measure the maxSize has to be re-measured We will stop doing this once we introduce Gravity in the GLM layout params" />
-      <item value="ensure Anchor Is In Correct Span" />
-      <item value="色温" />
-      <item value="se'ewn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2335" />
-        <entry key="ENGLISH" value="2334" />
+        <entry key="CHINESE" value="2354" />
+        <entry key="ENGLISH" value="2355" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
