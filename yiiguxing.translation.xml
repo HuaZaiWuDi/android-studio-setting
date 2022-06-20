@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="reverse" />
       <item value="略过" />
       <item value="nue'guo" />
       <item value="luo'guo" />
@@ -53,12 +54,11 @@
       <item value="Writes retrieved data directly to the disk cache before it's decoded." />
       <item value="Received invalid resource id: 0" />
       <item value="eturns a mutable bitmap with the specified width and height. Its initial density is as per getDensity. The newly created bitmap is in the sRGB color space. Params:" />
-      <item value="Bitmaps in the pool contain random data that in some cases must be cleared for an image to be rendered correctly. we shouldn't force all consumers to independently erase the contents individually, so we do so here. See issue 131." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2320" />
-        <entry key="ENGLISH" value="2321" />
+        <entry key="CHINESE" value="2321" />
+        <entry key="ENGLISH" value="2322" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
