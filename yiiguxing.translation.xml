@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Roller Shade" />
       <item value="Called when a view created by this holder has been attached to a window. simple to solve item will layout using all setFullSpan Params: holder -" />
       <item value="This is a function of current event -&gt; target disposal event. That is to say that if event &quot;Attach&quot; returns &quot;Detach&quot;, then any stream subscribed to during Attach will autodispose on Detach." />
       <item value="Destroyed state for a LifecycleOwner. After this event, this Lifecycle will not dispatch any more events. For instance, for an android.app.Activity, this state is reached right before Activity's onDestroy call." />
@@ -53,12 +54,11 @@
       <item value="Offset the bounds of all child views by dy pixels. Useful for implementing simple scrolling in LayoutManagers." />
       <item value="Called when a view is attached to the RecyclerView. Params: view – The View which is attached to the RecyclerView" />
       <item value="This callback will also be called if visible item range changes after a layout calculation. In that case, dx and dy will be 0." />
-      <item value="Callback method to be invoked when the RecyclerView has been scrolled. This will be called after the scroll has completed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2363" />
-        <entry key="ENGLISH" value="2364" />
+        <entry key="CHINESE" value="2364" />
+        <entry key="ENGLISH" value="2365" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
