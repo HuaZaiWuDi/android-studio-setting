@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="allow Root Fragment Anim" />
       <item value="distinct By" />
       <item value="Roller Shade" />
       <item value="Called when a view created by this holder has been attached to a window. simple to solve item will layout using all setFullSpan Params: holder -" />
@@ -53,12 +54,11 @@
       <item value="Returns the adapter position of the last fully visible view. This position does not include adapter changes that were dispatched after the last layout pass. Note that bounds check is only performed in the current orientation. That means, if LayoutManager is horizontal, it will only check the view's left and right edges. Returns: The adapter position of the last fully visible view or RecyclerView.NO_POSITION if there aren't any visible items." />
       <item value="Returns the first child that is visible in the provided index range, i.e. either partially or fully visible depending on the arguments provided. Completely invisible children are not acceptable by this method, but could be returned using findOnePartiallyOrCompletelyInvisibleChild" />
       <item value="Offset the bounds of all child views by dy pixels. Useful for implementing simple scrolling in LayoutManagers." />
-      <item value="Called when a view is attached to the RecyclerView. Params: view – The View which is attached to the RecyclerView" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2365" />
-        <entry key="ENGLISH" value="2366" />
+        <entry key="CHINESE" value="2366" />
+        <entry key="ENGLISH" value="2367" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
