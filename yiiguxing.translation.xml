@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="point In View" />
       <item value="Inconsistency detected. Invalid view holder adapter" />
       <item value="end Inclusive" />
       <item value="Gets the current value of the default locale for this instance of the Java Virtual Machine. The Java Virtual Machine sets the default locale during startup based on the host environment. It is used by many locale-sensitive methods if no locale is explicitly specified. It can be changed using the setDefault method. Returns: the default locale for this instance of the Java Virtual Machine" />
@@ -53,12 +54,11 @@
       <item value="command" />
       <item value="联动" />
       <item value="re" />
-      <item value="Returns the adapter position of the first visible view. This position does not include adapter changes that were dispatched after the last layout pass. Note that, this value is not affected by layout orientation or item order traversal. (setReverseLayout(boolean)). Views are sorted by their positions in the adapter, not in the layout." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2376" />
-        <entry key="ENGLISH" value="2377" />
+        <entry key="CHINESE" value="2377" />
+        <entry key="ENGLISH" value="2378" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
