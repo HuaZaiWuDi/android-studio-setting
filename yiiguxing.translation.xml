@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="warning: redirecting to" />
       <item value="sign In With Code Result" />
       <item value="全屋" />
       <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified selector function. The sort is stable. It means that equal elements preserve their order relative to each other after sorting. Samples: samples.collections.Collections.Sorting.sortedBy Unresolved" />
@@ -53,11 +54,10 @@
       <item value="Called when the window containing has change its visibility (between GONE, INVISIBLE, and VISIBLE). Note that this tells you whether or not your window is being made visible to the window manager; this does not tell you whether or not your window is obscured by other windows on the screen, even if it is itself visible. Params: visibility – The new visibility of the window." />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed." />
       <item value="T Current PLAYBACK STATE" />
-      <item value="set Shadow Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2414" />
+        <entry key="CHINESE" value="2415" />
         <entry key="ENGLISH" value="2415" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
