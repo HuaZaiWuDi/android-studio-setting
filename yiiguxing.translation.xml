@@ -4,6 +4,23 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Whether to stop monitoring when in debug mode. Returns: true if stop, false otherwise" />
+      <item value="Block interceptor, developer may provide their own actions." />
+      <item value="Whether to delete files whose stack is in white list, used with white-list. Returns: true if delete, false it not." />
+      <item value="Filter stack without any in concern package, used with @{code concernPackages}. Returns: true if filter, false it not." />
+      <item value="Packages that developer concern, by default it uses process name, put high priority one in pre-order. Returns: null if simply concern only package with process name." />
+      <item value="Implement in your project, bundled log files. Params: zippedFile – zipped file" />
+      <item value="Implement in your project, bundle files into a zip file. Params: src – files before compress dest – files compressed Returns: true if compression is successful" />
+      <item value="Thread stack dump interval, use when block happens, BlockCanary will dump on main thread stack according to current sample cycle. Because the implementation mechanism of Looper, real dump interval would be longer than the period specified here (especially when cpu is busier). Returns: dump interval (in millis)" />
+      <item value="Config monitor duration, after this time BlockCanary will stop, use with BlockCanary's isMonitorDurationEnd Returns: monitor last duration (in hour)" />
+      <item value="Config block threshold (in millis), dispatch over this duration is regarded as a BLOCK. You may set it from performance of device. Returns: threshold in mills" />
+      <item value="Network type Returns: String like 2G, 3G, 4G, wifi, etc." />
+      <item value="Implement in your project. Returns: user id" />
+      <item value="Implement in your project. Returns: Qualifier which can specify this installation, like version + flavor." />
+      <item value="1 exception was raised by workers" />
+      <item value="provide Block Threshold" />
+      <item value="provide Monitor Duration" />
+      <item value="provide Qualifier" />
       <item value="Creates a centered bitmap of the desired size. Params: source – original bitmap source width – targeted width height – targeted height options – options used during thumbnail extraction" />
       <item value="Set the number of pages that should be retained to either side of the currently visible page(s). Pages beyond this limit will be recreated from the adapter when needed. Set this to OFFSCREEN_PAGE_LIMIT_DEFAULT to use RecyclerView's caching strategy. The given value must either be larger than 0, or OFFSCREEN_PAGE_LIMIT_DEFAULT. Pages within limit pages away from the current page are created and added to the view hierarchy, even though they are not visible on the screen. Pages outside this limit will be removed from the view hierarchy, but the ViewHolders will be recycled as usual by RecyclerView. This is offered as an optimization. If you know in advance the number of pages you will need to support or have lazy-loading mechanisms in place on your pages, tweaking this setting can have benefits in perceived smoothness of paging animations and interaction. If you have a small number of pages (3-4) that you can keep active all at once, less time will be spent in layout for newly created view subtrees as the user pages back and forth. You should keep this limit low, especially if your pages have complex layouts. By default it is set to OFFSCREEN_PAGE_LIMIT_DEFAULT. Params: limit – How many pages will be kept offscreen on either side. Valid values are all values &gt;= 1 and OFFSCREEN_PAGE_LIMIT_DEFAULT Throws:" />
       <item value="point In View" />
@@ -37,28 +54,11 @@
       <item value="jump Drawables To Current State" />
       <item value="crash wasn't handled by all associated webviews, triggering application crash." />
       <item value="fault addr " />
-      <item value="Return true if the fragment is currently added to its activity." />
-      <item value="Return true if the fragment has been explicitly detached from the UI. That is, FragmentTransaction.detach(Fragment) has been used on it." />
-      <item value="旋转" />
-      <item value="xuan'z" />
-      <item value="选择" />
-      <item value="reverse" />
-      <item value="略过" />
-      <item value="nue'guo" />
-      <item value="luo'guo" />
-      <item value="luo" />
-      <item value="跳" />
-      <item value="跳过" />
-      <item value="the delay amount" />
-      <item value="Applies FitCenter and to all default types, DownsampleStrategy.FIT_CENTER to image types, and throws an exception if asked to transform an unknown type. This will override previous calls to dontTransform() and previous calls to downsample(DownsampleStrategy). See Also: transform(Class, Transformation), optionalFitCenter()" />
-      <item value="Applies CenterCrop to all default types, and ignores unknown types. This will override previous calls to dontTransform(). See Also: optionalTransform(Class, Transformation), centerCrop()" />
-      <item value="Called when a view created by this BaseItemProvider has been attached to a window. 当此BaseItemProvider出现在屏幕上的时候，会调用此方法" />
-      <item value="command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2379" />
-        <entry key="ENGLISH" value="2380" />
+        <entry key="CHINESE" value="2399" />
+        <entry key="ENGLISH" value="2400" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
