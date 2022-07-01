@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="全屋" />
+      <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified selector function. The sort is stable. It means that equal elements preserve their order relative to each other after sorting. Samples: samples.collections.Collections.Sorting.sortedBy Unresolved" />
       <item value="Inserts an element into the list at the specified index." />
       <item value="Environment.get External Storage Directory().can Write()" />
       <item value="Storage state if the media is present and mounted at its mount point with readwrite access. See Also: getExternalStorageState(File)" />
@@ -52,13 +54,11 @@
       <item value="T Current PLAYBACK STATE" />
       <item value="set Shadow Color" />
       <item value="set Scrim Color" />
-      <item value="Inconsistency detected" />
-      <item value="圆角" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2405" />
-        <entry key="ENGLISH" value="2406" />
+        <entry key="CHINESE" value="2413" />
+        <entry key="ENGLISH" value="2414" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
