@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Not enough memory to allocate buffers for rehashing: 2097152 -&gt; 4194304" />
+      <item value="Note: Two {@code null} items are assumed to represent the same contents. This callback will not be invoked for this case." />
+      <item value="True if the contents of the items are the same or false if they are different." />
+      <item value="Called to check whether two items have the same data." />
+      <item value="This information is used to detect if the contents of an item have changed." />
+      <item value="This method to check equality instead of {@link Objectequals(Object)} so that you can change its behavior depending on your UI." />
+      <item value="For example, if you are using DiffUtil with a {@link RecyclerView.Adapter RecyclerView.Adapter}, you should return whether the items' visual representations are the same." />
+      <item value="This method is called only if {@link areItemsTheSame(T, T)} returns {@code true} for these items." />
+      <item value="For example, if you are using DiffUtil with {@link RecyclerView}, you can return the particular field that changed in the item and your {@link RecyclerView.ItemAnimator ItemAnimator} can use that information to run the correct animation." />
+      <item value="When {@link areItemsTheSame(T, T)} returns {@code true} for two items and {@link areContentsTheSame(T, T)} returns false for them, this method is called to get a payload about the change." />
       <item value="This class holds the information about the result of a calculateDiff(DiffUtil.Callback, boolean) call." />
       <item value="This class holds the information about the result of a calculateDiff(DiffUtil.Callback, boolean) call. You can consume the updates in a DiffResult via dispatchUpdatesTo(ListUpdateCallback) or directly stream the results into a RecyclerView.Adapter via dispatchUpdatesTo(RecyclerView.Adapter)." />
       <item value="commit Callback" />
@@ -44,21 +54,11 @@
       <item value="Returns the drawable currently used to draw the progress bar. This will be either getProgressDrawable() or getIndeterminateDrawable() depending on whether the progress bar is in determinate or indeterminate mode. Returns: the drawable currently used to draw the progress bar" />
       <item value="Outside the framework, instead of accessing this directly, please use getCurrentDrawable(), setProgressDrawable(Drawable), setIndeterminateDrawable(Drawable) and their tiled versions." />
       <item value="pecifies the hotspot's location within the drawable. Params: x – The X coordinate of the center of the hotspot y – The Y coordinate of the center of the hotspot" />
-      <item value="drawable Hotspot Changed" />
-      <item value="draw Tick Marks" />
-      <item value="allow Root Fragment Anim" />
-      <item value="distinct By" />
-      <item value="Roller Shade" />
-      <item value="Called when a view created by this holder has been attached to a window. simple to solve item will layout using all setFullSpan Params: holder -" />
-      <item value="This is a function of current event -&gt; target disposal event. That is to say that if event &quot;Attach&quot; returns &quot;Detach&quot;, then any stream subscribed to during Attach will autodispose on Detach." />
-      <item value="Destroyed state for a LifecycleOwner. After this event, this Lifecycle will not dispatch any more events. For instance, for an android.app.Activity, this state is reached right before Activity's onDestroy call." />
-      <item value="Sets the current state and notifies the observers. Note that if the currentState is the same state as the last call to this method, calling this method has no effect. Params: event – The event that was received" />
-      <item value="Dispatch a window visibility change down the view hierarchy. ViewGroups should override to route to their children. Params: visibility – The new visibility of the window. See Also: onWindowVisibilityChanged(int)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2417" />
-        <entry key="ENGLISH" value="2418" />
+        <entry key="CHINESE" value="2428" />
+        <entry key="ENGLISH" value="2429" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
