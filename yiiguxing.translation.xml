@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="This class holds the information about the result of a calculateDiff(DiffUtil.Callback, boolean) call." />
+      <item value="This class holds the information about the result of a calculateDiff(DiffUtil.Callback, boolean) call. You can consume the updates in a DiffResult via dispatchUpdatesTo(ListUpdateCallback) or directly stream the results into a RecyclerView.Adapter via dispatchUpdatesTo(RecyclerView.Adapter)." />
       <item value="commit Callback" />
       <item value="warning: redirecting to" />
       <item value="sign In With Code Result" />
@@ -52,13 +54,11 @@
       <item value="Destroyed state for a LifecycleOwner. After this event, this Lifecycle will not dispatch any more events. For instance, for an android.app.Activity, this state is reached right before Activity's onDestroy call." />
       <item value="Sets the current state and notifies the observers. Note that if the currentState is the same state as the last call to this method, calling this method has no effect. Params: event – The event that was received" />
       <item value="Dispatch a window visibility change down the view hierarchy. ViewGroups should override to route to their children. Params: visibility – The new visibility of the window. See Also: onWindowVisibilityChanged(int)" />
-      <item value="Called when the window containing has change its visibility (between GONE, INVISIBLE, and VISIBLE). Note that this tells you whether or not your window is being made visible to the window manager; this does not tell you whether or not your window is obscured by other windows on the screen, even if it is itself visible. Params: visibility – The new visibility of the window." />
-      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2415" />
-        <entry key="ENGLISH" value="2416" />
+        <entry key="CHINESE" value="2417" />
+        <entry key="ENGLISH" value="2418" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
