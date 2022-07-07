@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Stack" />
       <item value="Contains the calculateExtraLayoutSpace(RecyclerView.State, int[]) extra layout space} that should be excluded for recycling when cleaning up the tail of the list during a smooth scroll." />
       <item value="m No Recycle Space" />
       <item value="get Transformed Start With Decoration" />
@@ -53,11 +54,10 @@
       <item value="Creates a RefWatcher that works out of the box, and starts watching activity references (on ICS+)" />
       <item value="Whether to stop monitoring when in debug mode. Returns: true if stop, false otherwise" />
       <item value="Block interceptor, developer may provide their own actions." />
-      <item value="Whether to delete files whose stack is in white list, used with white-list. Returns: true if delete, false it not." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2453" />
+        <entry key="CHINESE" value="2454" />
         <entry key="ENGLISH" value="2454" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
