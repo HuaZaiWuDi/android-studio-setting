@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="RecyclerView calls this method right before clearing ViewHolder's internal data and sending it to RecycledViewPool. This way, if ViewHolder was holding valid information before being recycled, you can call RecyclerView.ViewHolder.getBindingAdapterPosition() to get its adapter position." />
+      <item value="A view is recycled when a RecyclerView.LayoutManager decides that it no longer needs to be attached to its parent RecyclerView. This can be because it has fallen out of visibility or a set of cached views represented by views still attached to the parent RecyclerView. If an item view has large or expensive data bound to it such as large bitmaps, this may be a good place to release those resources. RecyclerView calls this method right before clearing ViewHolder's internal data and sending it to RecycledViewPool. This way, if ViewHolder was holding valid information before being recycled, you can call RecyclerView.ViewHolder.getBindingAdapterPosition() to get its adapter position." />
+      <item value="Called when a view created by this adapter has been recycled." />
       <item value="The provider that owns this Lifecycle. Only WeakReference on LifecycleOwner is kept, so if somebody leaks Lifecycle, they won't leak the whole Fragment Activity. However, to leak Lifecycle object isn't great idea neither, because it keeps strong references on all other listeners, so you'll leak all of them as well." />
       <item value="m New Event Occurred" />
       <item value="backward Pass" />
@@ -51,14 +54,11 @@
       <item value="For example, if you are using DiffUtil with {@link RecyclerView}, you can return the particular field that changed in the item and your {@link RecyclerView.ItemAnimator ItemAnimator} can use that information to run the correct animation." />
       <item value="When {@link areItemsTheSame(T, T)} returns {@code true} for two items and {@link areContentsTheSame(T, T)} returns false for them, this method is called to get a payload about the change." />
       <item value="This class holds the information about the result of a calculateDiff(DiffUtil.Callback, boolean) call." />
-      <item value="This class holds the information about the result of a calculateDiff(DiffUtil.Callback, boolean) call. You can consume the updates in a DiffResult via dispatchUpdatesTo(ListUpdateCallback) or directly stream the results into a RecyclerView.Adapter via dispatchUpdatesTo(RecyclerView.Adapter)." />
-      <item value="commit Callback" />
-      <item value="warning: redirecting to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2466" />
-        <entry key="ENGLISH" value="2467" />
+        <entry key="CHINESE" value="2469" />
+        <entry key="ENGLISH" value="2470" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
