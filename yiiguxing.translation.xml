@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The provider that owns this Lifecycle. Only WeakReference on LifecycleOwner is kept, so if somebody leaks Lifecycle, they won't leak the whole Fragment Activity. However, to leak Lifecycle object isn't great idea neither, because it keeps strong references on all other listeners, so you'll leak all of them as well." />
       <item value="m New Event Occurred" />
       <item value="backward Pass" />
       <item value="newest" />
@@ -53,12 +54,11 @@
       <item value="This class holds the information about the result of a calculateDiff(DiffUtil.Callback, boolean) call. You can consume the updates in a DiffResult via dispatchUpdatesTo(ListUpdateCallback) or directly stream the results into a RecyclerView.Adapter via dispatchUpdatesTo(RecyclerView.Adapter)." />
       <item value="commit Callback" />
       <item value="warning: redirecting to" />
-      <item value="sign In With Code Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2465" />
-        <entry key="ENGLISH" value="2466" />
+        <entry key="CHINESE" value="2466" />
+        <entry key="ENGLISH" value="2467" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657018924070" />
+    <option name="lastTrimTime" value="1657530776017" />
   </component>
 </application>
