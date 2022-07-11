@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="If this object has changed, as indicated by the hasChanged method, then notify all of its observers and then call the clearChanged method to indicate that this object has no longer changed. Each observer has its update method called with two arguments: this observable object and null. In other words, this method is equivalent to: notifyObservers(null)" />
+      <item value="Marks this Observable object as having been changed; the hasChanged method will now return true." />
+      <item value="Tests if this object has changed. Returns: true if and only if the setChanged method has been called more recently than the clearChanged method on this object; false otherwise. See Also: clearChanged(), setChanged()" />
+      <item value="This method is called whenever the observed object is changed. An application calls an Observable object's notifyObservers method to have all the object's observers notified of the change. Params: o – the observable object. arg – an argument passed to the notifyObservers method." />
+      <item value="Observable" />
+      <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and &lt;code&gt;null&lt;code&gt;. In other words, this method is equivalent to:" />
+      <item value="We don't want the Observer doing callbacks into arbitrary code while holding its own Monitor. The code where we extract each Observable from the Vector and store the state of the Observer needs synchronization, but notifying observers does not (should not). The worst result of any potential race-condition here is that: 1) a newly-added Observer will miss a notification in progress 2) a recently unregistered Observer will be wrongly notified when it doesn't care Android-changed: Call out to hasChanged() to figure out if something changes. Upstream code avoids calling the nonfinal hasChanged() from the synchronized block, but that would break compatibility for apps that override that method. if (!changed)" />
+      <item value="This class represents an observable object, or &quot;data&quot; in the model-view paradigm. It can be subclassed to represent an object that the application wants to have observed. An observable object can have one or more observers. An observer may be any object that implements interface Observer. After an observable instance changes, an application calling the Observable's notifyObservers method causes all of its observers to be notified of the change by a call to their update method. The order in which notifications will be delivered is unspecified. The default implementation provided in the Observable class will notify Observers in the order in which they registered interest, but subclasses may change this order, use no guaranteed order, deliver notifications on separate threads, or may guarantee that their subclass follows this order, as they choose. Note that this notification mechanism has nothing to do with threads and is completely separate from the wait and notify mechanism of class Object. When an observable object is newly created, its set of observers is empty. Two observers are considered the same if and only if the equals method returns true for them. Since: JDK1.0 See Also: notifyObservers(), notifyObservers(Object), Observer, Observer.update(Observable, Object) Author: Chris Warth" />
+      <item value="This method is called whenever the observed object is changed. An application calls an Observable object's notifyObservers method to have all the object's observers notified of the change." />
       <item value="RecyclerView calls this method right before clearing ViewHolder's internal data and sending it to RecycledViewPool. This way, if ViewHolder was holding valid information before being recycled, you can call RecyclerView.ViewHolder.getBindingAdapterPosition() to get its adapter position." />
       <item value="A view is recycled when a RecyclerView.LayoutManager decides that it no longer needs to be attached to its parent RecyclerView. This can be because it has fallen out of visibility or a set of cached views represented by views still attached to the parent RecyclerView. If an item view has large or expensive data bound to it such as large bitmaps, this may be a good place to release those resources. RecyclerView calls this method right before clearing ViewHolder's internal data and sending it to RecycledViewPool. This way, if ViewHolder was holding valid information before being recycled, you can call RecyclerView.ViewHolder.getBindingAdapterPosition() to get its adapter position." />
       <item value="Called when a view created by this adapter has been recycled." />
@@ -45,20 +54,11 @@
       <item value="position – Position of ViewHolder to be returned. dryRun – True if the ViewHolder should not be removed from scrapcache deadlineNs – Time, relative to getNanoTime(), by which bindcreate work should complete. If FOREVER_NS is passed, this method will not fail to createbind the holder if needed." />
       <item value="deadline Ns" />
       <item value="Not enough memory to allocate buffers for rehashing: 2097152 -&gt; 4194304" />
-      <item value="Note: Two {@code null} items are assumed to represent the same contents. This callback will not be invoked for this case." />
-      <item value="Called to check whether two items have the same data." />
-      <item value="This information is used to detect if the contents of an item have changed." />
-      <item value="This method to check equality instead of {@link Objectequals(Object)} so that you can change its behavior depending on your UI." />
-      <item value="For example, if you are using DiffUtil with a {@link RecyclerView.Adapter RecyclerView.Adapter}, you should return whether the items' visual representations are the same." />
-      <item value="This method is called only if {@link areItemsTheSame(T, T)} returns {@code true} for these items." />
-      <item value="For example, if you are using DiffUtil with {@link RecyclerView}, you can return the particular field that changed in the item and your {@link RecyclerView.ItemAnimator ItemAnimator} can use that information to run the correct animation." />
-      <item value="When {@link areItemsTheSame(T, T)} returns {@code true} for two items and {@link areContentsTheSame(T, T)} returns false for them, this method is called to get a payload about the change." />
-      <item value="This class holds the information about the result of a calculateDiff(DiffUtil.Callback, boolean) call." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2469" />
-        <entry key="ENGLISH" value="2470" />
+        <entry key="CHINESE" value="2478" />
+        <entry key="ENGLISH" value="2479" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
