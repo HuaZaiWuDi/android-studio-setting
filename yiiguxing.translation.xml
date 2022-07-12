@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Manually render this view (and all of its children) to the given Canvas. The view must have already done a full layout before this function is called. When implementing a view, implement onDraw(Canvas) instead of overriding this method. If you do need to override this method, call the superclass version." />
+      <item value="erase Color" />
       <item value="m Drawing Cache" />
       <item value="Indicates the activation state of this view. Returns: true if the view is activated, false otherwise" />
       <item value="If this object has changed, as indicated by the hasChanged method, then notify all of its observers and then call the clearChanged method to indicate that this object has no longer changed. Each observer has its update method called with two arguments: this observable object and null. In other words, this method is equivalent to: notifyObservers(null)" />
@@ -52,13 +54,11 @@
       <item value="Modifies the source Publisher so that it invokes the given action when it is subscribed from its subscribers. Each subscription will result in an invocation of the given action except when the source Publisher is reference counted, in which case the source Publisher will invoke the given action for the first subscription." />
       <item value="Modifies the source Publisher so that it invokes the given action when it receives a request for more items. Note: This operator is for tracing the internal behavior of back-pressure request patterns and generally intended for debugging use." />
       <item value="No Op" />
-      <item value="Attempts to get the ViewHolder for the given position, either from the Recycler scrap, cache, the RecycledViewPool, or creating it directly." />
-      <item value="position – Position of ViewHolder to be returned. dryRun – True if the ViewHolder should not be removed from scrapcache deadlineNs – Time, relative to getNanoTime(), by which bindcreate work should complete. If FOREVER_NS is passed, this method will not fail to createbind the holder if needed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2480" />
-        <entry key="ENGLISH" value="2481" />
+        <entry key="CHINESE" value="2482" />
+        <entry key="ENGLISH" value="2483" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
