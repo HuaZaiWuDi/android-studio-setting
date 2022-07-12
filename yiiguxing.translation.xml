@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="m Drawing Cache" />
       <item value="Indicates the activation state of this view. Returns: true if the view is activated, false otherwise" />
       <item value="If this object has changed, as indicated by the hasChanged method, then notify all of its observers and then call the clearChanged method to indicate that this object has no longer changed. Each observer has its update method called with two arguments: this observable object and null. In other words, this method is equivalent to: notifyObservers(null)" />
       <item value="Marks this Observable object as having been changed; the hasChanged method will now return true." />
@@ -53,12 +54,11 @@
       <item value="No Op" />
       <item value="Attempts to get the ViewHolder for the given position, either from the Recycler scrap, cache, the RecycledViewPool, or creating it directly." />
       <item value="position – Position of ViewHolder to be returned. dryRun – True if the ViewHolder should not be removed from scrapcache deadlineNs – Time, relative to getNanoTime(), by which bindcreate work should complete. If FOREVER_NS is passed, this method will not fail to createbind the holder if needed." />
-      <item value="deadline Ns" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2479" />
-        <entry key="ENGLISH" value="2480" />
+        <entry key="CHINESE" value="2480" />
+        <entry key="ENGLISH" value="2481" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
