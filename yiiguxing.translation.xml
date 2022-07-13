@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Air Conditioner Without State" />
       <item value="RING" />
       <item value="LINE" />
       <item value="OVAL" />
@@ -53,12 +54,11 @@
       <item value="oldItem – The item in the old list. newItem – The item in the new list." />
       <item value="Called to check whether two items have the same data. This information is used to detect if the contents of an item have changed. This method to check equality instead of Object.equals(Object) so that you can change its behavior depending on your UI. For example, if you are using DiffUtil with a RecyclerView.Adapter, you should return whether the items' visual representations are the same. This method is called only if areItemsTheSame(T, T) returns true for these items. Note: Two null items are assumed to represent the same contents. This callback will not be invoked for this case." />
       <item value="Temporarily detach and scrap all currently attached child views. Views will be scrapped into the given Recycler. The Recycler may prefer to reuse scrap views before other views that were previously recycled. Params: recycler – Recycler to scrap views into" />
-      <item value="detach And Scrap Attached Views(recycler);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2486" />
-        <entry key="ENGLISH" value="2487" />
+        <entry key="CHINESE" value="2487" />
+        <entry key="ENGLISH" value="2488" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
