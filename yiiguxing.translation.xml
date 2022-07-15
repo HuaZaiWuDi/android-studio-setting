@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="ViewType: 9 no such provider found，please use addItemProvider() first!" />
       <item value="HOLE" />
       <item value="This call will save the initial leftright drawables" />
       <item value="Query if horizontal scrolling is currently supported. The default implementation returns false. Returns: True if this LayoutManager can scroll the current contents horizontally" />
@@ -53,12 +54,11 @@
       <item value="Helper class for LayoutManagers to abstract measurements depending on the View's orientation. It is developed to easily support vertical and horizontal orientations in a LayoutManager but can also be used to abstract calls around view bounds and child measurements with margins and decorations. See Also: createHorizontalHelper(RecyclerView.LayoutManager), createVerticalHelper(RecyclerView.LayoutManager)" />
       <item value="Payload info. if return null, the entire item will be refreshed." />
       <item value="When areItemsTheSame(T, T) returns true for two items and areContentsTheSame(T, T) returns false for them, this method is called to get a payload about the change. For example, if you are using DiffUtil with RecyclerView, you can return the particular field that changed in the item and your ItemAnimator can use that information to run the correct animation." />
-      <item value="Called by the DiffUtil when it wants to check whether two items have the same data. DiffUtil uses this information to detect if the contents of an item has changed. DiffUtil uses this method to check equality instead of Object.equals(Object) so that you can change its behavior depending on your UI. For example, if you are using DiffUtil with a RecyclerView.Adapter, you should return whether the items' visual representations are the same." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2491" />
-        <entry key="ENGLISH" value="2492" />
+        <entry key="CHINESE" value="2492" />
+        <entry key="ENGLISH" value="2493" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
