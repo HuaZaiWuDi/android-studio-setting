@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="HOLE" />
       <item value="This call will save the initial leftright drawables" />
       <item value="Query if horizontal scrolling is currently supported. The default implementation returns false. Returns: True if this LayoutManager can scroll the current contents horizontally" />
       <item value="Called when a child does not want this parent and its ancestors to intercept touch events with ViewGroup.onInterceptTouchEvent(MotionEvent). This parent should pass this call onto its parents. This parent must obey this request for the duration of the touch (that is, only clear the flag after this parent has received an up or a cancel. Params: disallowIntercept – True if the child does not want the parent to intercept touch events." />
@@ -53,12 +54,11 @@
       <item value="Payload info. if return null, the entire item will be refreshed." />
       <item value="When areItemsTheSame(T, T) returns true for two items and areContentsTheSame(T, T) returns false for them, this method is called to get a payload about the change. For example, if you are using DiffUtil with RecyclerView, you can return the particular field that changed in the item and your ItemAnimator can use that information to run the correct animation." />
       <item value="Called by the DiffUtil when it wants to check whether two items have the same data. DiffUtil uses this information to detect if the contents of an item has changed. DiffUtil uses this method to check equality instead of Object.equals(Object) so that you can change its behavior depending on your UI. For example, if you are using DiffUtil with a RecyclerView.Adapter, you should return whether the items' visual representations are the same." />
-      <item value="True if the contents of the items are the same or false if they are different." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2490" />
-        <entry key="ENGLISH" value="2491" />
+        <entry key="CHINESE" value="2491" />
+        <entry key="ENGLISH" value="2492" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
