@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Create a scheduler with pool size equal to the available processor count and using least-recent worker selection policy." />
+      <item value="Schedules work on the current thread but does not execute immediately. Work is put in a queue and executed after the current unit of work is completed." />
+      <item value="rx2.purge-period-seconds (int): specifies the periodic purge interval of all Scheduler's backing thread pools, default is 1 second" />
+      <item value="rx2.computation-threads (int): sets the number of threads in the computation() Scheduler, default is the number of available CPUs" />
+      <item value="rx2.computation-priority (int): sets the thread priority of the computation() Scheduler, default is Thread.NORM_PRIORITY" />
+      <item value="TRAMPOLINE" />
+      <item value="COMPUTATION" />
+      <item value="Static factory methods for returning standard Scheduler instances. The initial and runtime values of the various scheduler types can be overridden via the RxJavaPlugins.setInit(scheduler name)SchedulerHandler() and RxJavaPlugins.set(scheduler name)SchedulerHandler() respectively. Supported system properties (System.getProperty()): rx2.io-keep-alive-time (long): sets the keep-alive time of the io() Scheduler workers, default is IoScheduler.KEEP_ALIVE_TIME_DEFAULT rx2.io-priority (int): sets the thread priority of the io() Scheduler, default is Thread.NORM_PRIORITY rx2.computation-threads (int): sets the number of threads in the computation() Scheduler, default is the number of available CPUs rx2.computation-priority (int): sets the thread priority of the computation() Scheduler, default is Thread.NORM_PRIORITY rx2.newthread-priority (int): sets the thread priority of the newThread() Scheduler, default is Thread.NORM_PRIORITY rx2.single-priority (int): sets the thread priority of the single() Scheduler, default is Thread.NORM_PRIORITY rx2.purge-enabled (boolean): enables periodic purging of all Scheduler's backing thread pools, default is false rx2.purge-period-seconds (int): specifies the periodic purge interval of all Scheduler's backing thread pools, default is 1 second" />
+      <item value="computation" />
+      <item value="trampoline" />
       <item value="ViewType: 9 no such provider found，please use addItemProvider() first!" />
       <item value="HOLE" />
       <item value="This call will save the initial leftright drawables" />
@@ -44,21 +54,11 @@
       <item value="Stack" />
       <item value="Contains the calculateExtraLayoutSpace(RecyclerView.State, int[]) extra layout space} that should be excluded for recycling when cleaning up the tail of the list during a smooth scroll." />
       <item value="m No Recycle Space" />
-      <item value="get Transformed Start With Decoration" />
-      <item value="Recycles views that went out of bounds after scrolling towards the start of the layout. Checks both layout position and visible position to guarantee that the view is not visible." />
-      <item value="ecycles views that went out of bounds after scrolling towards the start of the layout. Checks both layout position and visible position to guarantee that the view is not visible." />
-      <item value="Current layout state. Right now, this object does not change but we may consider moving it out of this view so passing around as a parameter for now, rather than accessing mLayoutState" />
-      <item value="Helper method to call appropriate recycle method depending on current layout direction Params: recycler – Current recycler that is attached to RecyclerView layoutState – Current layout state. Right now, this object does not change but we may consider moving it out of this view so passing around as a parameter for now, rather than accessing mLayoutState" />
-      <item value="amount" />
-      <item value="Decorated" />
-      <item value="Helper class for LayoutManagers to abstract measurements depending on the View's orientation. It is developed to easily support vertical and horizontal orientations in a LayoutManager but can also be used to abstract calls around view bounds and child measurements with margins and decorations. See Also: createHorizontalHelper(RecyclerView.LayoutManager), createVerticalHelper(RecyclerView.LayoutManager)" />
-      <item value="Payload info. if return null, the entire item will be refreshed." />
-      <item value="When areItemsTheSame(T, T) returns true for two items and areContentsTheSame(T, T) returns false for them, this method is called to get a payload about the change. For example, if you are using DiffUtil with RecyclerView, you can return the particular field that changed in the item and your ItemAnimator can use that information to run the correct animation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2492" />
-        <entry key="ENGLISH" value="2493" />
+        <entry key="CHINESE" value="2502" />
+        <entry key="ENGLISH" value="2503" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
