@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Called whenever the contents of the back stack change." />
       <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down. This method does not wait for previously submitted tasks to complete execution. Use awaitTermination to do that." />
       <item value="shutdown" />
       <item value="Create a scheduler with pool size equal to the available processor count and using least-recent worker selection policy." />
@@ -53,12 +54,11 @@
       <item value="TODO: Consider the case mFlexWrap is set to nowrap and view is recycled individually" />
       <item value="Echelon" />
       <item value="Skid Right" />
-      <item value="Stack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2504" />
-        <entry key="ENGLISH" value="2505" />
+        <entry key="CHINESE" value="2505" />
+        <entry key="ENGLISH" value="2506" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
