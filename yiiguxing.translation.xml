@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Request abbreviated scan results which contain the device, rssi and scan timestamp. Note: It is possible for an application to get more scan results than it asked for, if there are multiple apps using this type." />
       <item value="if any thread has interrupted the current thread. The interrupted status of the current thread is cleared when this exception is thrown." />
       <item value="if the value of millis is negative" />
       <item value="ReentrantLock" />
@@ -53,12 +54,11 @@
       <item value="RECTANGLE" />
       <item value="Manually render this view (and all of its children) to the given Canvas. The view must have already done a full layout before this function is called. When implementing a view, implement onDraw(Canvas) instead of overriding this method. If you do need to override this method, call the superclass version." />
       <item value="erase Color" />
-      <item value="m Drawing Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2531" />
-        <entry key="ENGLISH" value="2532" />
+        <entry key="CHINESE" value="2532" />
+        <entry key="ENGLISH" value="2533" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
