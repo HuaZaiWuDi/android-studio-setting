@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="ReentrantLock" />
       <item value="Removes a single instance of the specified element from this queue, if it is present. More formally, removes an element e such that o.equals(e), if this queue contains one or more such elements. Returns true if this queue contained the specified element (or equivalently, if this queue changed as a result of the call). Params: o – element to be removed from this queue, if present Returns: true if this queue changed as a result of the call" />
       <item value="Removes a node from head of queue. Returns: the node" />
       <item value="Condition" />
@@ -53,11 +54,10 @@
       <item value="m Drawing Cache" />
       <item value="Indicates the activation state of this view. Returns: true if the view is activated, false otherwise" />
       <item value="If this object has changed, as indicated by the hasChanged method, then notify all of its observers and then call the clearChanged method to indicate that this object has no longer changed. Each observer has its update method called with two arguments: this observable object and null. In other words, this method is equivalent to: notifyObservers(null)" />
-      <item value="Marks this Observable object as having been changed; the hasChanged method will now return true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2529" />
+        <entry key="CHINESE" value="2530" />
         <entry key="ENGLISH" value="2530" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
