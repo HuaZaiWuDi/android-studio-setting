@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Called after migrations execute to perform additional work. Params: database – The SQLite database." />
       <item value="Set of conflict handling strategies for various Dao methods." />
       <item value="OnConflict strategy constant to abort the transaction. The transaction is rolled back." />
       <item value="OnConflict strategy constant to ignore the conflict. An Insert DAO method that returns the inserted rows ids will return -1 for rows that are not inserted since this strategy will ignore the row if there is a conflict." />
@@ -53,12 +54,11 @@
       <item value="Static factory methods for returning standard Scheduler instances. The initial and runtime values of the various scheduler types can be overridden via the RxJavaPlugins.setInit(scheduler name)SchedulerHandler() and RxJavaPlugins.set(scheduler name)SchedulerHandler() respectively. Supported system properties (System.getProperty()): rx2.io-keep-alive-time (long): sets the keep-alive time of the io() Scheduler workers, default is IoScheduler.KEEP_ALIVE_TIME_DEFAULT rx2.io-priority (int): sets the thread priority of the io() Scheduler, default is Thread.NORM_PRIORITY rx2.computation-threads (int): sets the number of threads in the computation() Scheduler, default is the number of available CPUs rx2.computation-priority (int): sets the thread priority of the computation() Scheduler, default is Thread.NORM_PRIORITY rx2.newthread-priority (int): sets the thread priority of the newThread() Scheduler, default is Thread.NORM_PRIORITY rx2.single-priority (int): sets the thread priority of the single() Scheduler, default is Thread.NORM_PRIORITY rx2.purge-enabled (boolean): enables periodic purging of all Scheduler's backing thread pools, default is false rx2.purge-period-seconds (int): specifies the periodic purge interval of all Scheduler's backing thread pools, default is 1 second" />
       <item value="computation" />
       <item value="trampoline" />
-      <item value="ViewType: 9 no such provider found，please use addItemProvider() first!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2543" />
-        <entry key="ENGLISH" value="2544" />
+        <entry key="CHINESE" value="2544" />
+        <entry key="ENGLISH" value="2545" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
