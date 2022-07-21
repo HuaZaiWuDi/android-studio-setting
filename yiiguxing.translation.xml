@@ -4,6 +4,25 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The RecyclerView is currently animating to a final position while not under outside control. See Also: getScrollState()" />
+      <item value="SCROLL STATE SETTLING" />
+      <item value="Scroll has initiated, prevent parents from intercepting" />
+      <item value="find Intercepting On Item Touch Listener" />
+      <item value="The adapter position of the first visible item or RecyclerView.NO_POSITION if there aren't any visible items." />
+      <item value="Returns the adapter position of the first visible view. This position does not include adapter changes that were dispatched after the last layout pass." />
+      <item value="laid Out Range" />
+      <item value="laid Out Area" />
+      <item value="smooth scrollbar enabled. try to estimate better." />
+      <item value="The total horizontal range represented by the vertical scrollbar" />
+      <item value="verride this method if you want to support scroll bars." />
+      <item value="The total vertical range represented by the vertical scrollbar" />
+      <item value="The vertical offset of the scrollbar's thumb" />
+      <item value="The horizontal extent of the scrollbar's thumb" />
+      <item value="We're already in this state, assume our ancestors are too" />
+      <item value="True if the child does not want the parent to intercept touch events." />
+      <item value="The horizontal offset of the scrollbar's thumb" />
+      <item value="The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollExtent()." />
+      <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track." />
       <item value="SCROLL STATE DRAGGING" />
       <item value="Check if this view can be scrolled horizontally in a certain direction. Params: direction – Negative to check scrolling left, positive to check scrolling right. Returns: true if this view can be scrolled in the specified direction, false otherwise." />
       <item value="has Queued Predecessors" />
@@ -35,30 +54,11 @@
       <item value="Returns the current value of synchronization state. This operation has memory semantics of a volatile read." />
       <item value="nonfair Try Acquire" />
       <item value="Acquire" />
-      <item value="Return the last value given to setDebugUnregister." />
-      <item value="swap" />
-      <item value="Atomically sets the value to the given updated value if the current value == the expected value." />
-      <item value="compare And Set" />
-      <item value="Subscribes to the source Flowable on the specified Scheduler and makes sure downstream requests are scheduled there as well." />
-      <item value="Atomic Reference" />
-      <item value="Asynchronously subscribes Subscribers to this Publisher on the specified Scheduler. If there is a create(FlowableOnSubscribe, BackpressureStrategy) type source up in the chain, it is recommended to use subscribeOn(scheduler, false) instead to avoid same-pool deadlock because requests may pile up behind an eagerblocking emitter." />
-      <item value="scheduler – the Scheduler to perform subscription actions on Returns: the source Publisher modified so that its subscriptions happen on the specified Scheduler" />
-      <item value="Backpressure: The operator doesn't interfere with backpressure which is determined by the source Publisher's backpressure behavior. Scheduler: You specify which Scheduler this operator will use." />
-      <item value="Called after migrations execute to perform additional work. Params: database – The SQLite database." />
-      <item value="Set of conflict handling strategies for various Dao methods." />
-      <item value="OnConflict strategy constant to abort the transaction. The transaction is rolled back." />
-      <item value="OnConflict strategy constant to ignore the conflict. An Insert DAO method that returns the inserted rows ids will return -1 for rows that are not inserted since this strategy will ignore the row if there is a conflict." />
-      <item value="IGNORE" />
-      <item value="detect Moves" />
-      <item value="new Item Statuses" />
-      <item value="Convenience for Selection.extendSelection." />
-      <item value="If non-null, this is the name of a previous back state to look for; if found, all states up to that state will be popped. The POP_BACK_STACK_INCLUSIVE flag can be used to control whether the named state itself is popped. If null, only the top state is popped." />
-      <item value="returns the position of the y-labels" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2578" />
-        <entry key="ENGLISH" value="2579" />
+        <entry key="CHINESE" value="2599" />
+        <entry key="ENGLISH" value="2600" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
