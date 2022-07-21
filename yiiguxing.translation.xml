@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Return the last value given to setDebugUnregister." />
+      <item value="swap" />
+      <item value="Atomically sets the value to the given updated value if the current value == the expected value." />
+      <item value="compare And Set" />
       <item value="Subscribes to the source Flowable on the specified Scheduler and makes sure downstream requests are scheduled there as well." />
       <item value="Atomic Reference" />
       <item value="Asynchronously subscribes Subscribers to this Publisher on the specified Scheduler. If there is a create(FlowableOnSubscribe, BackpressureStrategy) type source up in the chain, it is recommended to use subscribeOn(scheduler, false) instead to avoid same-pool deadlock because requests may pile up behind an eagerblocking emitter." />
@@ -50,15 +54,11 @@
       <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down. This method does not wait for previously submitted tasks to complete execution. Use awaitTermination to do that." />
       <item value="shutdown" />
       <item value="Create a scheduler with pool size equal to the available processor count and using least-recent worker selection policy." />
-      <item value="Schedules work on the current thread but does not execute immediately. Work is put in a queue and executed after the current unit of work is completed." />
-      <item value="rx2.purge-period-seconds (int): specifies the periodic purge interval of all Scheduler's backing thread pools, default is 1 second" />
-      <item value="rx2.computation-threads (int): sets the number of threads in the computation() Scheduler, default is the number of available CPUs" />
-      <item value="rx2.computation-priority (int): sets the thread priority of the computation() Scheduler, default is Thread.NORM_PRIORITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2549" />
-        <entry key="ENGLISH" value="2550" />
+        <entry key="CHINESE" value="2552" />
+        <entry key="ENGLISH" value="2553" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
