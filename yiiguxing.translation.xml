@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="SCROLL STATE DRAGGING" />
+      <item value="Check if this view can be scrolled horizontally in a certain direction. Params: direction – Negative to check scrolling left, positive to check scrolling right. Returns: true if this view can be scrolled in the specified direction, false otherwise." />
       <item value="has Queued Predecessors" />
       <item value="SIGNAL" />
       <item value="value to indicate the next acquireShared should unconditionally propagate." />
@@ -52,13 +54,11 @@
       <item value="Convenience for Selection.extendSelection." />
       <item value="If non-null, this is the name of a previous back state to look for; if found, all states up to that state will be popped. The POP_BACK_STACK_INCLUSIVE flag can be used to control whether the named state itself is popped. If null, only the top state is popped." />
       <item value="returns the position of the y-labels" />
-      <item value="If this is set to true, the y-axis is inverted which means that low values are on top of the chart, high values on bottom. Params: enabled –" />
-      <item value="returns true if drawing the bottom y-axis label entry is enabled Returns:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2577" />
-        <entry key="ENGLISH" value="2578" />
+        <entry key="CHINESE" value="2578" />
+        <entry key="ENGLISH" value="2579" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
