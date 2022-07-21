@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Queued" />
+      <item value="Abstract Queued Synchronizer" />
+      <item value="old Tail" />
+      <item value="set Exclusive Owner Thread" />
+      <item value="Returns the current value of synchronization state. This operation has memory semantics of a volatile read." />
+      <item value="nonfair Try Acquire" />
+      <item value="Acquire" />
       <item value="Return the last value given to setDebugUnregister." />
       <item value="swap" />
       <item value="Atomically sets the value to the given updated value if the current value == the expected value." />
@@ -47,18 +54,11 @@
       <item value="Retrieves and removes the head of this queue, waiting up to the specified wait time if necessary for an element to become available." />
       <item value="Retrieves and removes the head of this queue, waiting if necessary until an element becomes available." />
       <item value="Inserts the specified element into this queue, waiting up to the specified wait time if necessary for space to become available." />
-      <item value="Inserts the specified element into this queue, waiting if necessary for space to become available. Params: e – the element to add" />
-      <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning true upon success and throwing an IllegalStateException if no space is currently available. When using a capacity-restricted queue, it is generally preferable to use offer." />
-      <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning true upon success and false if no space is currently available. When using a capacity-restricted queue, this method is generally preferable to add, which can fail to insert an element only by throwing an exception." />
-      <item value="Called whenever the contents of the back stack change." />
-      <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down. This method does not wait for previously submitted tasks to complete execution. Use awaitTermination to do that." />
-      <item value="shutdown" />
-      <item value="Create a scheduler with pool size equal to the available processor count and using least-recent worker selection policy." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2552" />
-        <entry key="ENGLISH" value="2553" />
+        <entry key="CHINESE" value="2560" />
+        <entry key="ENGLISH" value="2561" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
