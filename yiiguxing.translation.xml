@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="a new BigDecimal instance equivalent to this where the trailing zeros of the unscaled value have been removed." />
+      <item value="Returns a new BigDecimal instance with the same value as this but with a unscaled value where the trailing zeros have been removed. If the unscaled value of this has n trailing zeros, then the scale and the precision of the result has been reduced by n. Returns: a new BigDecimal instance equivalent to this where the trailing zeros of the unscaled value have been removed." />
       <item value="Queued" />
       <item value="Abstract Queued Synchronizer" />
       <item value="old Tail" />
@@ -52,13 +54,11 @@
       <item value="Examine" />
       <item value="not applicable not applicable" />
       <item value="Retrieves and removes the head of this queue, waiting up to the specified wait time if necessary for an element to become available." />
-      <item value="Retrieves and removes the head of this queue, waiting if necessary until an element becomes available." />
-      <item value="Inserts the specified element into this queue, waiting up to the specified wait time if necessary for space to become available." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2560" />
-        <entry key="ENGLISH" value="2561" />
+        <entry key="CHINESE" value="2562" />
+        <entry key="ENGLISH" value="2563" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
