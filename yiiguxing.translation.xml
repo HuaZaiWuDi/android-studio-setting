@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="load Factor" />
+      <item value="The load factor for the hash table." />
+      <item value="zero initial threshold signifies using defaults" />
+      <item value="initial capacity was placed in threshold" />
+      <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
       <item value="replacement Tree Node" />
       <item value="treeify Bin" />
       <item value="only If Absent" />
@@ -49,16 +54,11 @@
       <item value="strip Trailing Zeros" />
       <item value="Returns a string having leading and trailing whitespace removed." />
       <item value="Returns a string having trailing characters matching the predicate removed." />
-      <item value="trim End" />
-      <item value="a new BigDecimal instance equivalent to this where the trailing zeros of the unscaled value have been removed." />
-      <item value="Returns a new BigDecimal instance with the same value as this but with a unscaled value where the trailing zeros have been removed. If the unscaled value of this has n trailing zeros, then the scale and the precision of the result has been reduced by n. Returns: a new BigDecimal instance equivalent to this where the trailing zeros of the unscaled value have been removed." />
-      <item value="Queued" />
-      <item value="Abstract Queued Synchronizer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2604" />
-        <entry key="ENGLISH" value="2605" />
+        <entry key="CHINESE" value="2609" />
+        <entry key="ENGLISH" value="2610" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
