@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Replace part of string after the last occurrence of given delimiter with the replacement string. If the string does not contain the delimiter, returns missingDelimiterValue which defaults to the original string." />
+      <item value="Removes the given [delimiter] string from both the start and the end of this string if and only if it starts with and ends with the [delimiter]. Otherwise returns this string unchanged." />
+      <item value="remove Surrounding" />
       <item value="The maximum number of substrings to return. Zero by default means no limit is set. To avoid ambiguous results when strings in delimiters have characters in common, this method proceeds from the beginning to the end of this string, and matches at each position the first element in delimiters that is equal to a delimiter in this instance at that position." />
       <item value="a new BigDecimal instance equivalent to this where the trailing zeros of the unscaled value have been removed." />
       <item value="strip Trailing Zeros" />
@@ -51,14 +54,11 @@
       <item value="The horizontal extent of the scrollbar's thumb" />
       <item value="We're already in this state, assume our ancestors are too" />
       <item value="True if the child does not want the parent to intercept touch events." />
-      <item value="The horizontal offset of the scrollbar's thumb" />
-      <item value="The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollExtent()." />
-      <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2643" />
-        <entry key="ENGLISH" value="2644" />
+        <entry key="CHINESE" value="2646" />
+        <entry key="ENGLISH" value="2647" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
