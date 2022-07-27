@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The maximum number of substrings to return. Zero by default means no limit is set. To avoid ambiguous results when strings in delimiters have characters in common, this method proceeds from the beginning to the end of this string, and matches at each position the first element in delimiters that is equal to a delimiter in this instance at that position." />
+      <item value="a new BigDecimal instance equivalent to this where the trailing zeros of the unscaled value have been removed." />
+      <item value="strip Trailing Zeros" />
+      <item value="missing Delimiter Value" />
+      <item value="If this string ends with the given suffix, returns a copy of this string with the suffix removed. Otherwise, returns this string." />
+      <item value="remove Suffix" />
+      <item value="eturns a char sequence with content of this char sequence padded at the beginning to the specified length with the specified character or space." />
       <item value="Getter visibility must be the same as property visibility" />
       <item value="正常" />
       <item value="独立" />
@@ -47,18 +54,11 @@
       <item value="The horizontal offset of the scrollbar's thumb" />
       <item value="The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollExtent()." />
       <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track." />
-      <item value="SCROLL STATE DRAGGING" />
-      <item value="Check if this view can be scrolled horizontally in a certain direction. Params: direction – Negative to check scrolling left, positive to check scrolling right. Returns: true if this view can be scrolled in the specified direction, false otherwise." />
-      <item value="has Queued Predecessors" />
-      <item value="SIGNAL" />
-      <item value="value to indicate the next acquireShared should unconditionally propagate." />
-      <item value="cquireShared should unconditionally propagat" />
-      <item value="condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2638" />
-        <entry key="ENGLISH" value="2637" />
+        <entry key="CHINESE" value="2643" />
+        <entry key="ENGLISH" value="2644" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="4" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658395529321" />
+    <option name="lastTrimTime" value="1658903898882" />
   </component>
 </application>
