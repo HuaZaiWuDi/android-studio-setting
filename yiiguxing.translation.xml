@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="perm" />
       <item value="Minor GC" />
       <item value="及Minor GC" />
       <item value="Rescheduling" />
@@ -53,12 +54,11 @@
       <item value="Vector" />
       <item value="Deprecated Use java.util.GregorianCalendar instead." />
       <item value="An alternative to the java.util.Calendar and java.util.GregorianCalendar classes. An instance of the Time class represents a moment in time, specified with second precision. It is modelled after struct tm. This class is not thread-safe and does not consider leap seconds. This class has a number of issues and it is recommended that java.util.GregorianCalendar is used instead. Known issues: For historical reasons when performing time calculations all arithmetic currently takes place using 32-bit integers. This limits the reliable time range representable from 1902 until 2037.See the wikipedia article on the Year 2038 problem for details. Do not rely on this behavior; it may change in the future. Calling switchTimezone(String) on a date that cannot exist, such as a wall time that was skipped due to a DST transition, will result in a date in 1969 (i.e. -1, or 1 second before 1st Jan 1970 UTC). Much of the formatting parsing assumes ASCII text and is therefore not suitable for use with non-ASCII scripts. No support for pseudo-zones like &quot;GMT-07:00&quot;." />
-      <item value="Splits nodes in a tree bin into lower and upper tree bins, or untreeifies if now too small. Called only from resize; see above discussion about split bits and indices." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2667" />
-        <entry key="ENGLISH" value="2668" />
+        <entry key="CHINESE" value="2668" />
+        <entry key="ENGLISH" value="2669" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
