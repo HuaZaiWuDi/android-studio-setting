@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Rescheduling" />
+      <item value="(&lt; 5 while app visible)" />
+      <item value="Rescheduling check for retained objects in 2000ms because found only 1 retained objects (&lt; 5 while app visible)" />
       <item value="reachability Fence" />
       <item value="END Android-changed: Reimplemented to accommodate a different GC and compiler." />
       <item value="This code is usually replaced by much faster intrinsic implementations. It will be executed for tests run with the access checks interpreter in ART, e.g. with --verify-soft-fail. Since this is a volatile store, it cannot easily be moved up past prior accesses, even if this method is inlined." />
@@ -51,14 +54,11 @@
       <item value="Splits nodes in a tree bin into lower and upper tree bins, or untreeifies if now too small. Called only from resize; see above discussion about split bits and indices." />
       <item value="load Factor" />
       <item value="The load factor for the hash table." />
-      <item value="zero initial threshold signifies using defaults" />
-      <item value="initial capacity was placed in threshold" />
-      <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2662" />
-        <entry key="ENGLISH" value="2663" />
+        <entry key="CHINESE" value="2666" />
+        <entry key="ENGLISH" value="2667" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
