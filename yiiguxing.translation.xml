@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="reachability Fence" />
+      <item value="END Android-changed: Reimplemented to accommodate a different GC and compiler." />
+      <item value="This code is usually replaced by much faster intrinsic implementations. It will be executed for tests run with the access checks interpreter in ART, e.g. with --verify-soft-fail. Since this is a volatile store, it cannot easily be moved up past prior accesses, even if this method is inlined." />
+      <item value="finalize count" />
+      <item value="Leaving SinkHolder set to ref is unpleasant, since it keeps ref live until the next reachabilityFence call. This causes e.g. 036-finalizer to fail. Clear it again in a way that's unlikely to be optimizable. The fact that finalize_count is volatile makes it hard to move the test up." />
+      <item value="Ensure that sink looks live to even a reasonably clever compiler." />
+      <item value="Clears this reference object. Invoking this method will not cause this object to be enqueued." />
+      <item value="referent – the object the new phantom reference will refer to q – the queue with which the reference is to be registered, or null if registration is not required" />
+      <item value="It is possible to create a phantom reference with a null queue, but such a reference is completely useless: Its get method will always return null and, since it does not have a queue, it will never be enqueued." />
+      <item value="Creates a new phantom reference that refers to the given object and is registered with the given queue." />
+      <item value="In order to ensure that a reclaimable object remains so, the referent of a phantom reference may not be retrieved: The get method of a phantom reference always returns null. Unlike soft and weak references, phantom references are not automatically cleared by the garbage collector as they are enqueued. An object that is reachable via phantom references will remain so until all such references are cleared or themselves become unreachable." />
+      <item value="If the garbage collector determines at a certain point in time that the referent of a phantom reference is phantom reachable, then at that time or at some later time it will enqueue the reference." />
+      <item value="Phantom reference objects, which are enqueued after the collector determines that their referents may otherwise be reclaimed. Phantom references are most often used for scheduling pre-mortem cleanup actions in a more flexible way than is possible with the Java finalization mechanism." />
       <item value="Gabage Collection" />
       <item value="Gabage " />
       <item value="Collection" />
@@ -41,24 +54,11 @@
       <item value="zero initial threshold signifies using defaults" />
       <item value="initial capacity was placed in threshold" />
       <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
-      <item value="replacement Tree Node" />
-      <item value="treeify Bin" />
-      <item value="only If Absent" />
-      <item value="existing mapping for key" />
-      <item value="Replaces all linked nodes in bin at index for given hash unless table is too small, in which case resizes instead." />
-      <item value="The RecyclerView is currently animating to a final position while not under outside control. See Also: getScrollState()" />
-      <item value="SCROLL STATE SETTLING" />
-      <item value="Scroll has initiated, prevent parents from intercepting" />
-      <item value="find Intercepting On Item Touch Listener" />
-      <item value="The adapter position of the first visible item or RecyclerView.NO_POSITION if there aren't any visible items." />
-      <item value="Returns the adapter position of the first visible view. This position does not include adapter changes that were dispatched after the last layout pass." />
-      <item value="laid Out Range" />
-      <item value="laid Out Area" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2652" />
-        <entry key="ENGLISH" value="2649" />
+        <entry key="CHINESE" value="2662" />
+        <entry key="ENGLISH" value="2663" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
