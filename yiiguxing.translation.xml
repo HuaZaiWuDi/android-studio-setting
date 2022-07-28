@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="무인 존재" />
+      <item value="безлюдный" />
       <item value="Replace part of string after the last occurrence of given delimiter with the replacement string. If the string does not contain the delimiter, returns missingDelimiterValue which defaults to the original string." />
       <item value="Removes the given [delimiter] string from both the start and the end of this string if and only if it starts with and ends with the [delimiter]. Otherwise returns this string unchanged." />
       <item value="remove Surrounding" />
@@ -52,19 +54,17 @@
       <item value="The total vertical range represented by the vertical scrollbar" />
       <item value="The vertical offset of the scrollbar's thumb" />
       <item value="The horizontal extent of the scrollbar's thumb" />
-      <item value="We're already in this state, assume our ancestors are too" />
-      <item value="True if the child does not want the parent to intercept touch events." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2646" />
-        <entry key="ENGLISH" value="2647" />
+        <entry key="CHINESE" value="2649" />
+        <entry key="ENGLISH" value="2649" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
-        <entry key="RUSSIAN" value="4" />
+        <entry key="RUSSIAN" value="6" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="KOREAN" value="11" />
+        <entry key="KOREAN" value="12" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="1" />
