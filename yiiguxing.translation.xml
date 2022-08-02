@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns the index within this string of the first occurrence of the specified character, starting from the specified startIndex." />
       <item value="Specifies whether this represents a hidden network." />
       <item value="Specifies whether this represents an Enhanced Open (OWE) network." />
       <item value="is Enhanced Open" />
@@ -53,12 +54,11 @@
       <item value="END Android-changed: Reimplemented to accommodate a different GC and compiler." />
       <item value="This code is usually replaced by much faster intrinsic implementations. It will be executed for tests run with the access checks interpreter in ART, e.g. with --verify-soft-fail. Since this is a volatile store, it cannot easily be moved up past prior accesses, even if this method is inlined." />
       <item value="finalize count" />
-      <item value="Leaving SinkHolder set to ref is unpleasant, since it keeps ref live until the next reachabilityFence call. This causes e.g. 036-finalizer to fail. Clear it again in a way that's unlikely to be optimizable. The fact that finalize_count is volatile makes it hard to move the test up." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2706" />
-        <entry key="ENGLISH" value="2707" />
+        <entry key="CHINESE" value="2707" />
+        <entry key="ENGLISH" value="2708" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
