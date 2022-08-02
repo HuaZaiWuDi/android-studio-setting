@@ -4,6 +4,35 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Specifies whether this represents a hidden network." />
+      <item value="Specifies whether this represents an Enhanced Open (OWE) network." />
+      <item value="is Enhanced Open" />
+      <item value="Set the BSSID to use for filtering networks from scan results. Will only match network whose BSSID is identical to the specified value." />
+      <item value="Sets the SSID to use for filtering networks from scan results. Will only match networks whose SSID is identical to the UTF-8 encoding of the specified value. Overrides any previous value set using setSsid(String) or setSsidPattern(PatternMatcher)." />
+      <item value="Set the unicode SSID match pattern to use for filtering networks from scan results." />
+      <item value="set Signal Strength" />
+      <item value="set Link Upstream Bandwidth Kbps" />
+      <item value="Indicates this network uses a LoWPAN transport." />
+      <item value="Indicates this network uses a Wi-Fi Aware transport." />
+      <item value="Set the watched UIDs for this request. This will be reset and wiped out unless the calling app holds the CHANGE_NETWORK_STATE permission. Params: uids – The watched UIDs as a set of UidRanges, or null for everything. Returns: The builder to facilitate chaining." />
+      <item value="Indicates that connectivity on this network was successfully validated. For example, for a network with NET_CAPABILITY_INTERNET, it means that Internet connectivity was successfully detected." />
+      <item value="Indicates that this network should be able to reach the internet." />
+      <item value="Indicates this is a network that has the ability to reach a carrier's Initial Attach servers." />
+      <item value="Initial Attach" />
+      <item value="Indicates this is a network that has the ability to reach a Wi-Fi direct peer." />
+      <item value="Indicates this is a network that has the ability to reach the carrier's MMSC for sending and receiving MMS messages." />
+      <item value="The type of the request. This is only used by the system and is always NONE elsewhere." />
+      <item value="BACKGROUND REQUEST" />
+      <item value="TRACK DEFAULT" />
+      <item value="LISTEN" />
+      <item value="A NetworkRequest as used by the system can be one of the following types: - LISTEN, for which the framework will issue callbacks about any and all networks that match the specified NetworkCapabilities, - REQUEST, capable of causing a specific network to be created first (e.g. a telephony DUN request), the framework will issue callbacks about the single, highest scoring current network (if any) that matches the specified NetworkCapabilities, or - TRACK_DEFAULT, a hybrid of the two designed such that the framework will issue callbacks for the single, highest scoring current network (if any) that matches the capabilities of the default Internet request (mDefaultRequest), but which cannot cause the framework to either create or retain the existence of any specific network. Note that from the point of view of the request matching code, TRACK_DEFAULT is identical to REQUEST: its special behaviour is not due to different semantics, but to the fact that the system will only ever create a TRACK_DEFAULT with capabilities that are identical to the default request's capabilities, thus causing it to share fate in every way with the default request. - BACKGROUND_REQUEST, like REQUEST but does not cause any networks to retain the NET_CAPABILITY_FOREGROUND capability. A network with no foreground requests is in the background. A network that has one or more background requests and loses its last foreground request to a higher-scoring network will not go into the background immediately, but will linger and go into the background after the linger timeout. - The value NONE is used only by applications. When an application creates a NetworkRequest, it does not have a type; the type is set by the system depending on the method used to file the request (requestNetwork," />
+      <item value="Indicates that this network is unmetered." />
+      <item value="TRANSPORT WIFI" />
+      <item value="TRANSPORT CELLULAR" />
+      <item value="remove Transport Type" />
+      <item value="remove Capability" />
+      <item value="NET CAPABILITY INTERNET" />
+      <item value="The SDK version of the software currently running on this hardware device. This value never changes while a device is booted, but it may increase when the hardware manufacturer provides an OTA update." />
       <item value="Returns a well-formed IETF BCP 47 language tag representing this locale. If this Locale has a language, country, or variant that does not satisfy the IETF BCP 47 language tag syntax requirements, this method handles these fields as described below: Language: If language is empty, or not well-formed (for example &quot;a&quot; or &quot;e2&quot;), it will be emitted as &quot;und&quot; (Undetermined). Country: If country is not well-formed (for example &quot;12&quot; or &quot;USA&quot;), it will be omitted. Variant: If variant is well-formed, each sub-segment (delimited by '-' or '_') is emitted as a subtag. Otherwise:" />
       <item value="a BCP47 language tag representing the locale" />
       <item value="will return &quot;xx-YY&quot;, but the language subtag &quot;xx&quot; and the region subtag &quot;YY&quot; are invalid because they are not registered in the IANA Language Subtag Registry. Returns: a BCP47 language tag representing the locale" />
@@ -25,40 +54,11 @@
       <item value="This code is usually replaced by much faster intrinsic implementations. It will be executed for tests run with the access checks interpreter in ART, e.g. with --verify-soft-fail. Since this is a volatile store, it cannot easily be moved up past prior accesses, even if this method is inlined." />
       <item value="finalize count" />
       <item value="Leaving SinkHolder set to ref is unpleasant, since it keeps ref live until the next reachabilityFence call. This causes e.g. 036-finalizer to fail. Clear it again in a way that's unlikely to be optimizable. The fact that finalize_count is volatile makes it hard to move the test up." />
-      <item value="Ensure that sink looks live to even a reasonably clever compiler." />
-      <item value="Clears this reference object. Invoking this method will not cause this object to be enqueued." />
-      <item value="referent – the object the new phantom reference will refer to q – the queue with which the reference is to be registered, or null if registration is not required" />
-      <item value="It is possible to create a phantom reference with a null queue, but such a reference is completely useless: Its get method will always return null and, since it does not have a queue, it will never be enqueued." />
-      <item value="Creates a new phantom reference that refers to the given object and is registered with the given queue." />
-      <item value="In order to ensure that a reclaimable object remains so, the referent of a phantom reference may not be retrieved: The get method of a phantom reference always returns null. Unlike soft and weak references, phantom references are not automatically cleared by the garbage collector as they are enqueued. An object that is reachable via phantom references will remain so until all such references are cleared or themselves become unreachable." />
-      <item value="If the garbage collector determines at a certain point in time that the referent of a phantom reference is phantom reachable, then at that time or at some later time it will enqueue the reference." />
-      <item value="Phantom reference objects, which are enqueued after the collector determines that their referents may otherwise be reclaimed. Phantom references are most often used for scheduling pre-mortem cleanup actions in a more flexible way than is possible with the Java finalization mechanism." />
-      <item value="Gabage Collection" />
-      <item value="Gabage " />
-      <item value="Collection" />
-      <item value="Gabage Collectio" />
-      <item value="Gabage" />
-      <item value="HotSpot" />
-      <item value="무인 존재" />
-      <item value="безлюдный" />
-      <item value="Replace part of string after the last occurrence of given delimiter with the replacement string. If the string does not contain the delimiter, returns missingDelimiterValue which defaults to the original string." />
-      <item value="Removes the given [delimiter] string from both the start and the end of this string if and only if it starts with and ends with the [delimiter]. Otherwise returns this string unchanged." />
-      <item value="remove Surrounding" />
-      <item value="The maximum number of substrings to return. Zero by default means no limit is set. To avoid ambiguous results when strings in delimiters have characters in common, this method proceeds from the beginning to the end of this string, and matches at each position the first element in delimiters that is equal to a delimiter in this instance at that position." />
-      <item value="a new BigDecimal instance equivalent to this where the trailing zeros of the unscaled value have been removed." />
-      <item value="strip Trailing Zeros" />
-      <item value="missing Delimiter Value" />
-      <item value="If this string ends with the given suffix, returns a copy of this string with the suffix removed. Otherwise, returns this string." />
-      <item value="remove Suffix" />
-      <item value="eturns a char sequence with content of this char sequence padded at the beginning to the specified length with the specified character or space." />
-      <item value="Getter visibility must be the same as property visibility" />
-      <item value="正常" />
-      <item value="独立" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2677" />
-        <entry key="ENGLISH" value="2678" />
+        <entry key="CHINESE" value="2706" />
+        <entry key="ENGLISH" value="2707" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
