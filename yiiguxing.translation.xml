@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="is Primitive" />
       <item value="Returns a Set containing the Strings used as keys in this Bundle." />
       <item value="Received status code 400 from server: Repository does not allow updating assets: lumi-release" />
       <item value="query Transfer" />
@@ -53,12 +54,11 @@
       <item value="COLLATE NOCASE" />
       <item value="NOCASE" />
       <item value="binary" />
-      <item value="Android Studio Chipmunk | 2021.2.1 Patch 1 is a major new release and includes performance improvements, bug fixes and new features." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2722" />
-        <entry key="ENGLISH" value="2723" />
+        <entry key="CHINESE" value="2723" />
+        <entry key="ENGLISH" value="2724" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
