@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Calculates the list of update operations that can covert one list into the other one. If your old and new lists are sorted by the same constraint and items never move (swap positions), you can disable move detection which takes O(N^2) time where N is the number of added, moved, removed items." />
+      <item value="detect Moves" />
+      <item value="cb – The callback that acts as a gateway to the backing list data" />
       <item value="is Primitive" />
       <item value="Returns a Set containing the Strings used as keys in this Bundle." />
       <item value="Received status code 400 from server: Repository does not allow updating assets: lumi-release" />
@@ -51,14 +54,11 @@
       <item value="Returns a well-formed IETF BCP 47 language tag representing this locale. If this Locale has a language, country, or variant that does not satisfy the IETF BCP 47 language tag syntax requirements, this method handles these fields as described below: Language: If language is empty, or not well-formed (for example &quot;a&quot; or &quot;e2&quot;), it will be emitted as &quot;und&quot; (Undetermined). Country: If country is not well-formed (for example &quot;12&quot; or &quot;USA&quot;), it will be omitted. Variant: If variant is well-formed, each sub-segment (delimited by '-' or '_') is emitted as a subtag. Otherwise:" />
       <item value="a BCP47 language tag representing the locale" />
       <item value="will return &quot;xx-YY&quot;, but the language subtag &quot;xx&quot; and the region subtag &quot;YY&quot; are invalid because they are not registered in the IANA Language Subtag Registry. Returns: a BCP47 language tag representing the locale" />
-      <item value="COLLATE NOCASE" />
-      <item value="NOCASE" />
-      <item value="binary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2723" />
-        <entry key="ENGLISH" value="2724" />
+        <entry key="CHINESE" value="2726" />
+        <entry key="ENGLISH" value="2727" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
