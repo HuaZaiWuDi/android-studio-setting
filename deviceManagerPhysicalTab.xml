@@ -8,7 +8,6 @@
             <value value="a909734e" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-08-10T11:33:55.346867Z" />
         <name value="Xiaomi MI 9" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -88,6 +87,17 @@
           </Key>
         </key>
         <name value="OPPO PEEM00" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R52R901WYGZ" />
+          </Key>
+        </key>
+        <name value="samsung SM-T733" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
