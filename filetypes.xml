@@ -16,6 +16,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping pattern="progress_bg_blue" type="XML" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
