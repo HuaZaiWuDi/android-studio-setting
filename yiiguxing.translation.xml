@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="插座" />
+      <item value="插zuo" />
+      <item value="插头" />
+      <item value="插tpu" />
+      <item value="监测有人" />
+      <item value="jian'c" />
+      <item value="门窗" />
+      <item value="men'c" />
       <item value="统计" />
       <item value="The top edge of the displayed part of your view, in pixels." />
       <item value="Return the scrolled top position of this view. This is the top edge of the displayed part of your view. You do not need to draw any pixels above it, since those are outside of the frame of your view on screen." />
@@ -46,19 +54,11 @@
       <item value="set Signal Strength" />
       <item value="set Link Upstream Bandwidth Kbps" />
       <item value="Indicates this network uses a LoWPAN transport." />
-      <item value="Indicates this network uses a Wi-Fi Aware transport." />
-      <item value="Set the watched UIDs for this request. This will be reset and wiped out unless the calling app holds the CHANGE_NETWORK_STATE permission. Params: uids – The watched UIDs as a set of UidRanges, or null for everything. Returns: The builder to facilitate chaining." />
-      <item value="Indicates that connectivity on this network was successfully validated. For example, for a network with NET_CAPABILITY_INTERNET, it means that Internet connectivity was successfully detected." />
-      <item value="Indicates that this network should be able to reach the internet." />
-      <item value="Indicates this is a network that has the ability to reach a carrier's Initial Attach servers." />
-      <item value="Initial Attach" />
-      <item value="Indicates this is a network that has the ability to reach a Wi-Fi direct peer." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's MMSC for sending and receiving MMS messages." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2760" />
-        <entry key="ENGLISH" value="2761" />
+        <entry key="CHINESE" value="2788" />
+        <entry key="ENGLISH" value="2789" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
