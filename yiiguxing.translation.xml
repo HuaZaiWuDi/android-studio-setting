@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="统计" />
       <item value="The top edge of the displayed part of your view, in pixels." />
       <item value="Return the scrolled top position of this view. This is the top edge of the displayed part of your view. You do not need to draw any pixels above it, since those are outside of the frame of your view on screen." />
       <item value="Register a callback to be invoked when the scroll X or Y positions of this view change." />
@@ -12,7 +13,6 @@
       <item value="总共" />
       <item value="t" />
       <item value="The amount of horizontal scroll." />
-      <item value="统计" />
       <item value="tji" />
       <item value="REASON TIMEOUT" />
       <item value="device Confirm" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2754" />
-        <entry key="ENGLISH" value="2755" />
+        <entry key="CHINESE" value="2760" />
+        <entry key="ENGLISH" value="2761" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
