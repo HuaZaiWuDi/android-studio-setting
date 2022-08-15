@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The top edge of the displayed part of your view, in pixels." />
+      <item value="Return the scrolled top position of this view. This is the top edge of the displayed part of your view. You do not need to draw any pixels above it, since those are outside of the frame of your view on screen." />
+      <item value="Register a callback to be invoked when the scroll X or Y positions of this view change." />
+      <item value="Callback method to be invoked when the RecyclerView has been scrolled. This will be called after the scroll has completed." />
+      <item value="This callback will also be called if visible item range changes after a layout calculation. In that case, dx and dy will be 0." />
+      <item value="总共" />
+      <item value="t" />
+      <item value="The amount of horizontal scroll." />
       <item value="统计" />
       <item value="tji" />
       <item value="REASON TIMEOUT" />
@@ -46,19 +54,11 @@
       <item value="Initial Attach" />
       <item value="Indicates this is a network that has the ability to reach a Wi-Fi direct peer." />
       <item value="Indicates this is a network that has the ability to reach the carrier's MMSC for sending and receiving MMS messages." />
-      <item value="The type of the request. This is only used by the system and is always NONE elsewhere." />
-      <item value="BACKGROUND REQUEST" />
-      <item value="TRACK DEFAULT" />
-      <item value="LISTEN" />
-      <item value="A NetworkRequest as used by the system can be one of the following types: - LISTEN, for which the framework will issue callbacks about any and all networks that match the specified NetworkCapabilities, - REQUEST, capable of causing a specific network to be created first (e.g. a telephony DUN request), the framework will issue callbacks about the single, highest scoring current network (if any) that matches the specified NetworkCapabilities, or - TRACK_DEFAULT, a hybrid of the two designed such that the framework will issue callbacks for the single, highest scoring current network (if any) that matches the capabilities of the default Internet request (mDefaultRequest), but which cannot cause the framework to either create or retain the existence of any specific network. Note that from the point of view of the request matching code, TRACK_DEFAULT is identical to REQUEST: its special behaviour is not due to different semantics, but to the fact that the system will only ever create a TRACK_DEFAULT with capabilities that are identical to the default request's capabilities, thus causing it to share fate in every way with the default request. - BACKGROUND_REQUEST, like REQUEST but does not cause any networks to retain the NET_CAPABILITY_FOREGROUND capability. A network with no foreground requests is in the background. A network that has one or more background requests and loses its last foreground request to a higher-scoring network will not go into the background immediately, but will linger and go into the background after the linger timeout. - The value NONE is used only by applications. When an application creates a NetworkRequest, it does not have a type; the type is set by the system depending on the method used to file the request (requestNetwork," />
-      <item value="Indicates that this network is unmetered." />
-      <item value="TRANSPORT WIFI" />
-      <item value="TRANSPORT CELLULAR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2742" />
-        <entry key="ENGLISH" value="2743" />
+        <entry key="CHINESE" value="2754" />
+        <entry key="ENGLISH" value="2755" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
