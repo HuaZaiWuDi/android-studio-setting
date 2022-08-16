@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Structural changes in the base list make the behavior of the view undefined." />
+      <item value="Returns a view of the portion of this list between the specified fromIndex (inclusive) and toIndex (exclusive). The returned list is backed by this list, so non-structural changes in the returned list are reflected in this list, and vice-versa." />
       <item value="MODEL VASSISTANT" />
       <item value="list – The list in which to swap elements. i – the index of one element to be swapped. j – the index of the other element to be swapped." />
       <item value="插座" />
@@ -52,13 +54,11 @@
       <item value="is Enhanced Open" />
       <item value="Set the BSSID to use for filtering networks from scan results. Will only match network whose BSSID is identical to the specified value." />
       <item value="Sets the SSID to use for filtering networks from scan results. Will only match networks whose SSID is identical to the UTF-8 encoding of the specified value. Overrides any previous value set using setSsid(String) or setSsidPattern(PatternMatcher)." />
-      <item value="Set the unicode SSID match pattern to use for filtering networks from scan results." />
-      <item value="set Signal Strength" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2789" />
-        <entry key="ENGLISH" value="2790" />
+        <entry key="CHINESE" value="2791" />
+        <entry key="ENGLISH" value="2792" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
