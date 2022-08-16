@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="MODEL VASSISTANT" />
       <item value="list – The list in which to swap elements. i – the index of one element to be swapped. j – the index of the other element to be swapped." />
       <item value="插座" />
       <item value="插zuo" />
@@ -53,7 +54,6 @@
       <item value="Sets the SSID to use for filtering networks from scan results. Will only match networks whose SSID is identical to the UTF-8 encoding of the specified value. Overrides any previous value set using setSsid(String) or setSsidPattern(PatternMatcher)." />
       <item value="Set the unicode SSID match pattern to use for filtering networks from scan results." />
       <item value="set Signal Strength" />
-      <item value="set Link Upstream Bandwidth Kbps" />
     </histories>
     <option name="languageScores">
       <map>
