@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="list – The list in which to swap elements. i – the index of one element to be swapped. j – the index of the other element to be swapped." />
       <item value="插座" />
       <item value="插zuo" />
       <item value="插头" />
@@ -53,12 +54,11 @@
       <item value="Set the unicode SSID match pattern to use for filtering networks from scan results." />
       <item value="set Signal Strength" />
       <item value="set Link Upstream Bandwidth Kbps" />
-      <item value="Indicates this network uses a LoWPAN transport." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2788" />
-        <entry key="ENGLISH" value="2789" />
+        <entry key="CHINESE" value="2789" />
+        <entry key="ENGLISH" value="2790" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
