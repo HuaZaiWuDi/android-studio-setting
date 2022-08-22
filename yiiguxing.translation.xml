@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Adds the specified element to this set if it is not already present. More formally, adds the specified element e to this set if this set contains no element e2 such that (e==null ? e2==null : e.equals(e2)). If this set already contains the element, the call leaves the set unchanged and returns false. Params: e – element to be added to this set Returns: true if this set did not already contain the specified element" />
+      <item value="Dummy value to associate with an Object in the backing Map" />
+      <item value="PRESENT" />
+      <item value="retain All" />
       <item value="Adds all of the elements in the specified collection to this collection (optional operation). The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this collection, and this collection is nonempty.) This implementation iterates over the specified collection, and adds each object returned by the iterator to this collection, in turn." />
       <item value="Note that this implementation will throw an UnsupportedOperationException unless add is overridden (assuming the specified collection is non-empty)." />
       <item value="比较" />
@@ -50,15 +54,11 @@
       <item value="Comfirm" />
       <item value="Confirm" />
       <item value="amb" />
-      <item value="Calculates the list of update operations that can covert one list into the other one. If your old and new lists are sorted by the same constraint and items never move (swap positions), you can disable move detection which takes O(N^2) time where N is the number of added, moved, removed items." />
-      <item value="detect Moves" />
-      <item value="cb – The callback that acts as a gateway to the backing list data" />
-      <item value="is Primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2839" />
-        <entry key="ENGLISH" value="2840" />
+        <entry key="CHINESE" value="2843" />
+        <entry key="ENGLISH" value="2844" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
