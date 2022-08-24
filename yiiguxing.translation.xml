@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Operation not permitted" />
       <item value="origin Data" />
       <item value="Air Cleaner" />
       <item value="get the specific view by position,e.g. getViewByPosition(2, R.id.textView) bind RecyclerView.setAdapter before use!" />
@@ -53,11 +54,10 @@
       <item value="This callback will also be called if visible item range changes after a layout calculation. In that case, dx and dy will be 0." />
       <item value="总共" />
       <item value="t" />
-      <item value="The amount of horizontal scroll." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2848" />
+        <entry key="CHINESE" value="2849" />
         <entry key="ENGLISH" value="2849" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
