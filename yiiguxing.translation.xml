@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="origin Data" />
       <item value="Air Cleaner" />
       <item value="get the specific view by position,e.g. getViewByPosition(2, R.id.textView) bind RecyclerView.setAdapter before use!" />
       <item value="Safe call on a non-null receiver will have nullable type in future releases Right now safe call on non nullable receiver has not null type: `&quot;hello&quot;?.length` has type Int In future releases all safe calls will have nullable type: `&quot;hello&quot;?.length` will have type Int?" />
@@ -53,12 +54,11 @@
       <item value="总共" />
       <item value="t" />
       <item value="The amount of horizontal scroll." />
-      <item value="tji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2847" />
-        <entry key="ENGLISH" value="2848" />
+        <entry key="CHINESE" value="2848" />
+        <entry key="ENGLISH" value="2849" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
