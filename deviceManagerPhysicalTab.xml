@@ -19,7 +19,6 @@
             <value value="JCP6R21820001394" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-22T07:56:56.808728Z" />
         <name value="HUAWEI WGR-W09" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -100,6 +99,17 @@
         <name value="samsung SM-T733" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="e1f2b26869f5431e" />
+          </Key>
+        </key>
+        <name value="rockchip rk3568_r" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
