@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="is Selecting" />
       <item value="Operation not permitted" />
       <item value="origin Data" />
       <item value="Air Cleaner" />
@@ -53,7 +54,6 @@
       <item value="Callback method to be invoked when the RecyclerView has been scrolled. This will be called after the scroll has completed." />
       <item value="This callback will also be called if visible item range changes after a layout calculation. In that case, dx and dy will be 0." />
       <item value="总共" />
-      <item value="t" />
     </histories>
     <option name="languageScores">
       <map>
