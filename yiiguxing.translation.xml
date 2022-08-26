@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Contact is detected" />
       <item value="Returns a list of all elements sorted according to their natural sort order." />
       <item value="特殊统计" />
       <item value="Indicates whether this animation has started or not. Returns: true if the animation has started, false otherwise" />
@@ -53,11 +54,10 @@
       <item value="门窗" />
       <item value="men'c" />
       <item value="统计" />
-      <item value="The top edge of the displayed part of your view, in pixels." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2857" />
+        <entry key="CHINESE" value="2858" />
         <entry key="ENGLISH" value="2858" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
