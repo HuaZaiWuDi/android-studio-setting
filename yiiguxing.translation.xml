@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="consumed – Output. If not null, consumed[0] will contain the consumed component of dx and consumed[1] the consumed dy." />
+      <item value="Dispatch one step of a nested scroll in progress before this view consumes any portion of it. Nested pre-scroll events are to nested scroll events what touch intercept is to touch. dispatchNestedPreScroll offers an opportunity for the parent view in a nested scrolling operation to consume some or all of the scroll operation before the child view consumes it. Params: dx – Horizontal scroll distance in pixels dy – Vertical scroll distance in pixels consumed – Output. If not null, consumed[0] will contain the consumed component of dx and consumed[1] the consumed dy. offsetInWindow – Optional. If not null, on return this will contain the offset in local view coordinates of this view from before this operation to after it completes. View implementations may use this to adjust expected input coordinate tracking. type – the type of input which cause this scroll event Returns: true if the parent consumed some or all of the scroll delta" />
+      <item value="Returns: true if the event was dispatched, false if it could not be dispatched." />
+      <item value="Dispatch one step of a nested scroll in progress before this view consumes any portion of it. Nested pre-scroll events are to nested scroll events what touch intercept is to touch. dispatchNestedPreScroll offers an opportunity for the parent view in a nested scrolling operation to consume some or all of the scroll operation before the child view consumes it." />
+      <item value="Dispatch one step of a nested scroll in progress. Implementations of views that support nested scrolling should call this to report info about a scroll in progress to the current nested scrolling parent. If a nested scroll is not currently in progress or nested scrolling is not enabled for this view this method does nothing. Compatible View implementations should also call dispatchNestedPreScroll before consuming a component of the scroll event themselves." />
+      <item value="axes – Flags consisting of a combination of ViewCompat.SCROLL_AXIS_HORIZONTAL andor ViewCompat.SCROLL_AXIS_VERTICAL. type – the type of input which cause this scroll event" />
+      <item value="The original nested scrolling child (where the input events were received to start the scroll) must provide a non-null consumed parameter with values {0, 0}." />
+      <item value="Dispatch one step of a nested scroll in progress. Implementations of views that support nested scrolling should call this to report info about a scroll in progress to the current nested scrolling parent. If a nested scroll is not currently in progress or nested scrolling is not enabled for this view this method does nothing. Compatible View implementations should also call dispatchNestedPreScroll before consuming a component of the scroll event themselves. The original nested scrolling child (where the input events were received to start the scroll) must provide a non-null consumed parameter with values {0, 0}." />
+      <item value="true if the parent consumed some or all of the scroll delta" />
       <item value="clamp" />
       <item value="Set the scrolled position of your view. This will cause a call to onScrollChanged(int, int, int, int) and the view will be invalidated." />
       <item value="Dispatch one step of a nested scroll in progress before this view consumes any portion of it. Nested pre-scroll events are to nested scroll events what touch intercept is to touch. dispatchNestedPreScroll offers an opportunity for the parent view in a nested scrolling operation to consume some or all of the scroll operation before the child view consumes it. Params: dx – Horizontal scroll distance in pixels dy – Vertical scroll distance in pixels consumed – Output. If not null, consumed[0] will contain the consumed component of dx and consumed[1] the consumed dy. offsetInWindow – Optional. If not null, on return this will contain the offset in local view coordinates of this view from before this operation to after it completes. View implementations may use this to adjust expected input coordinate tracking. type – the type of input which cause this scroll event Returns: true if the parent consumed some or all of the scroll delta See Also: dispatchNestedScroll(int, int, int, int, int[], int)" />
@@ -45,20 +54,11 @@
       <item value="Adds all of the elements in the specified collection to this collection (optional operation). The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this collection, and this collection is nonempty.) This implementation iterates over the specified collection, and adds each object returned by the iterator to this collection, in turn." />
       <item value="Note that this implementation will throw an UnsupportedOperationException unless add is overridden (assuming the specified collection is non-empty)." />
       <item value="比较" />
-      <item value="batch Control" />
-      <item value="Option" />
-      <item value="operate" />
-      <item value="操作" />
-      <item value="batch Option" />
-      <item value="batch" />
-      <item value="批量" />
-      <item value="qi'liang" />
-      <item value="qi'p" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2876" />
-        <entry key="ENGLISH" value="2877" />
+        <entry key="CHINESE" value="2885" />
+        <entry key="ENGLISH" value="2886" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
