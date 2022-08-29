@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Width as measured during measure pass." />
+      <item value="Like getMeasuredWidthAndState(), but only returns the raw width component (that is the result is masked by MEASURED_SIZE_MASK). Returns: The raw measured width of this view." />
+      <item value="MEASURED SIZE MASK" />
       <item value="Total space occupied by this view in the perpendicular orientation to current one" />
       <item value="Returns the space occupied by this View in the perpendicular orientation including decorations and margins." />
       <item value="Returns the space occupied by this View in the current orientation including decorations and margins." />
@@ -51,14 +54,11 @@
       <item value="is Selecting" />
       <item value="Operation not permitted" />
       <item value="origin Data" />
-      <item value="Air Cleaner" />
-      <item value="get the specific view by position,e.g. getViewByPosition(2, R.id.textView) bind RecyclerView.setAdapter before use!" />
-      <item value="Safe call on a non-null receiver will have nullable type in future releases Right now safe call on non nullable receiver has not null type: `&quot;hello&quot;?.length` has type Int In future releases all safe calls will have nullable type: `&quot;hello&quot;?.length` will have type Int?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2902" />
-        <entry key="ENGLISH" value="2903" />
+        <entry key="CHINESE" value="2906" />
+        <entry key="ENGLISH" value="2907" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
