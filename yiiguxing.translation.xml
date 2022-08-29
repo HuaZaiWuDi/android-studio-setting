@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Total space occupied by this view in the perpendicular orientation to current one" />
+      <item value="Returns the space occupied by this View in the perpendicular orientation including decorations and margins." />
+      <item value="Returns the space occupied by this View in the current orientation including decorations and margins." />
       <item value="百分比" />
       <item value="bai'fen'b" />
       <item value="baifenb" />
@@ -51,14 +54,11 @@
       <item value="Air Cleaner" />
       <item value="get the specific view by position,e.g. getViewByPosition(2, R.id.textView) bind RecyclerView.setAdapter before use!" />
       <item value="Safe call on a non-null receiver will have nullable type in future releases Right now safe call on non nullable receiver has not null type: `&quot;hello&quot;?.length` has type Int In future releases all safe calls will have nullable type: `&quot;hello&quot;?.length` will have type Int?" />
-      <item value="Returns the value for the given key. If the key is not found in the map, calls the defaultValue function, puts its result into the map under the given key and returns it." />
-      <item value="Replaces the element at the specified position in this list with the specified element. Returns: the element previously at the specified position." />
-      <item value="Adds the specified element to this set if it is not already present. More formally, adds the specified element e to this set if this set contains no element e2 such that (e==null ? e2==null : e.equals(e2)). If this set already contains the element, the call leaves the set unchanged and returns false. Params: e – element to be added to this set Returns: true if this set did not already contain the specified element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2898" />
-        <entry key="ENGLISH" value="2899" />
+        <entry key="CHINESE" value="2902" />
+        <entry key="ENGLISH" value="2903" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
