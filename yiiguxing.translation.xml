@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="百分比" />
+      <item value="bai'fen'b" />
+      <item value="baifenb" />
+      <item value="baifbai'fen'b" />
       <item value="Returns: true if the animation has started, false otherwise" />
       <item value="commit Callback" />
       <item value="consumed – Output. If not null, consumed[0] will contain the consumed component of dx and consumed[1] the consumed dy." />
@@ -50,15 +54,11 @@
       <item value="Returns the value for the given key. If the key is not found in the map, calls the defaultValue function, puts its result into the map under the given key and returns it." />
       <item value="Replaces the element at the specified position in this list with the specified element. Returns: the element previously at the specified position." />
       <item value="Adds the specified element to this set if it is not already present. More formally, adds the specified element e to this set if this set contains no element e2 such that (e==null ? e2==null : e.equals(e2)). If this set already contains the element, the call leaves the set unchanged and returns false. Params: e – element to be added to this set Returns: true if this set did not already contain the specified element" />
-      <item value="Dummy value to associate with an Object in the backing Map" />
-      <item value="PRESENT" />
-      <item value="retain All" />
-      <item value="Adds all of the elements in the specified collection to this collection (optional operation). The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this collection, and this collection is nonempty.) This implementation iterates over the specified collection, and adds each object returned by the iterator to this collection, in turn." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2887" />
-        <entry key="ENGLISH" value="2888" />
+        <entry key="CHINESE" value="2898" />
+        <entry key="ENGLISH" value="2899" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
