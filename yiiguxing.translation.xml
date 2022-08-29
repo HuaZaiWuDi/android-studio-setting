@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="available Space In Other" />
+      <item value="Measures a child with currently known information. This is not necessarily the child's final measurement. (see fillChunk for details). Params: view – The child view to be measured otherDirParentSpecMode – The RV measure spec that should be used in the secondary orientation alreadyMeasured – True if we've already measured this view once" />
+      <item value="Calculate a MeasureSpec value for measuring a child view in one dimension. Params: parentSize – Size of the parent view where the child will be placed parentMode – The measurement spec mode of the parent padding – Total space currently consumed by other elements of parent childDimension – Desired size of the child view, or MATCH_PARENTWRAP_CONTENT. Generally obtained from the child view's LayoutParams canScroll – true if the parent RecyclerView can scroll in this dimension Returns: a MeasureSpec value for the child view" />
+      <item value="Creates a measure specification based on the supplied size and mode. The mode must always be one of the following: UNSPECIFIED EXACTLY AT_MOST Note: On API level 17 and lower, makeMeasureSpec's implementation was such that the order of arguments did not matter and overflow in either value could impact the resulting MeasureSpec. android.widget.RelativeLayout was affected by this bug. Apps targeting API levels greater than 17 will get the fixed, more strict behavior. Params: size – the size of the measure specification mode – the mode of the measure specification Returns: the measure specification based on size and mode" />
+      <item value="Views that did not measure the maxSize has to be re-measured We will stop doing this once we introduce Gravity in the GLM layout params" />
       <item value="The background owner should be elevated so that it casts a shadow." />
       <item value="Specifies the elevation for this popup window. Params: elevation – the popup's elevation in pixels" />
       <item value="on Intercept Touch Event" />
@@ -49,16 +54,11 @@
       <item value="NestedScrollView is just like ScrollView, but it supports acting as both a nested scrolling parent and child on both new and old versions of Android. Nested scrolling is enabled by default." />
       <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
       <item value="Contact is detected" />
-      <item value="Returns a list of all elements sorted according to their natural sort order." />
-      <item value="特殊统计" />
-      <item value="Indicates whether this animation has started or not. Returns: true if the animation has started, false otherwise" />
-      <item value="ndicates whether this animation has ended or not. Returns: true if the animation has ended, false otherwise" />
-      <item value="If fillEnabled is true, this animation will apply the value of fillBefore. Returns: true if the animation will take fillBefore into account" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2909" />
-        <entry key="ENGLISH" value="2910" />
+        <entry key="CHINESE" value="2914" />
+        <entry key="ENGLISH" value="2915" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
