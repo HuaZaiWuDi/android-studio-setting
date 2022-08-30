@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="&lt;!-- card容器--&gt; &lt;FrameLayout android:id=&quot;@+idlayout_container&quot; android:layout_width=&quot;wrap_content&quot; android:layout_height=&quot;wrap_content&quot; app:layout_constraintBottom_toBottomOf=&quot;parent&quot; app:layout_constraintEnd_toEndOf=&quot;parent&quot; app:layout_constraintStart_toStartOf=&quot;parent&quot; app:layout_constraintTop_toTopOf=&quot;parent&quot; tools:layout_height=&quot;300dp&quot; tools:layout_width=&quot;300dp&quot; &gt;" />
       <item value="Returns the height that is currently relevant to the LayoutManager. This value is usually equal to the laid out height of the RecyclerView but may reflect the current View.MeasureSpec height if the RecyclerView.LayoutManager is using AutoMeasure and the RecyclerView is in the process of measuring. The LayoutManager must always use this method to retrieve the height relevant to it at any given time. Returns: Height in pixels" />
       <item value="Return the width measurement spec mode that is currently relevant to the LayoutManager. This value is set only if the LayoutManager opts into the AutoMeasure api via setAutoMeasureEnabled(boolean)." />
       <item value="When RecyclerView is running a layout, this value is always set to View.MeasureSpec.EXACTLY even if it was measured with a different spec mode." />
@@ -53,7 +54,6 @@
       <item value="Dispatch one step of a nested scroll in progress. Implementations of views that support nested scrolling should call this to report info about a scroll in progress to the current nested scrolling parent. If a nested scroll is not currently in progress or nested scrolling is not enabled for this view this method does nothing. Compatible View implementations should also call dispatchNestedPreScroll before consuming a component of the scroll event themselves. The original nested scrolling child (where the input events were received to start the scroll) must provide a non-null consumed parameter with values {0, 0}." />
       <item value="true if the parent consumed some or all of the scroll delta" />
       <item value="clamp" />
-      <item value="Set the scrolled position of your view. This will cause a call to onScrollChanged(int, int, int, int) and the view will be invalidated." />
     </histories>
     <option name="languageScores">
       <map>
