@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int). This method returns false by default (it actually returns the value passed to the deprecated setAutoMeasureEnabled(boolean)) and should be overridden to return true if a LayoutManager wants to be auto measured by the RecyclerView. If this method is overridden to return true, onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int) should not be overridden. AutoMeasure is a RecyclerView mechanism that handles the measuring pass of layout in a simple and contract satisfying way, including the wrapping of children laid out by LayoutManager. Simply put, it handles wrapping children by calling onLayoutChildren(RecyclerView.Recycler, RecyclerView.State) during a call to onMeasure(int, int), and then calculating desired dimensions based on children's dimensions and positions. It does this while supporting all existing animation capabilities of the RecyclerView. More specifically:" />
+      <item value="Defines whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int). Deprecated Implementors of LayoutManager should define whether or not it uses AutoMeasure by overriding isAutoMeasureEnabled(). Params: enabled – True if layout measurement should be done by the RecyclerView, false if it should be done by this LayoutManager. See Also: isAutoMeasureEnabled()" />
+      <item value="Return the width measurement spec mode that is currently relevant to the LayoutManager. This value is set only if the LayoutManager opts into the AutoMeasure api via setAutoMeasureEnabled(boolean). When RecyclerView is running a layout, this value is always set to View.MeasureSpec.EXACTLY even if it was measured with a different spec mode. Returns: Width measure spec mode See Also: View.MeasureSpec.getMode(int)" />
+      <item value="Returns the MeasureSpec mode for the perpendicular orientation from the LayoutManager. Returns: The current measure spec mode. See Also: View.MeasureSpec, RecyclerView.LayoutManager.getWidthMode(), RecyclerView.LayoutManager.getHeightMode()" />
       <item value="Returns the MeasureSpec mode for the perpendicular orientation from the LayoutManager. Returns: The current measure spec mode." />
       <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
       <item value="Calculate a MeasureSpec value for measuring a child view in one dimension. Params: parentSize – Size of the parent view where the child will be placed parentMode – The measurement spec mode of the parent padding – Total space currently consumed by other elements of parent childDimension – Desired size of the child view, or MATCH_PARENTWRAP_CONTENT. Generally obtained from the child view's LayoutParams canScroll – true if the parent RecyclerView can scroll in this dimension Returns: a MeasureSpec value for the child view" />
@@ -50,15 +54,11 @@
       <item value="Dispatch one step of a nested scroll in progress before this view consumes any portion of it." />
       <item value="Set whether arrow scrolling will animate its transition. Params: smoothScrollingEnabled – whether arrow scrolling will animate its transition" />
       <item value="Set whether this ScrollView should stretch its content height to fill the viewport or not. Params: fillViewport – True to stretch the content's height to the viewport's boundaries, false otherwise." />
-      <item value="set Fill Viewport" />
-      <item value="on Nested Scroll" />
-      <item value="offset In Window" />
-      <item value="dx Unconsumed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2923" />
-        <entry key="ENGLISH" value="2924" />
+        <entry key="CHINESE" value="2927" />
+        <entry key="ENGLISH" value="2928" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
