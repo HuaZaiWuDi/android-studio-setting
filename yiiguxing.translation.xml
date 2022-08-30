@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="EXACTLY" />
+      <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
+      <item value="Measure specification mode: The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
+      <item value="Measure specification mode: The parent has not imposed any constraint on the child. It can be whatever size it wants." />
       <item value="available Space In Other" />
       <item value="Measures a child with currently known information. This is not necessarily the child's final measurement. (see fillChunk for details). Params: view – The child view to be measured otherDirParentSpecMode – The RV measure spec that should be used in the secondary orientation alreadyMeasured – True if we've already measured this view once" />
       <item value="Calculate a MeasureSpec value for measuring a child view in one dimension. Params: parentSize – Size of the parent view where the child will be placed parentMode – The measurement spec mode of the parent padding – Total space currently consumed by other elements of parent childDimension – Desired size of the child view, or MATCH_PARENTWRAP_CONTENT. Generally obtained from the child view's LayoutParams canScroll – true if the parent RecyclerView can scroll in this dimension Returns: a MeasureSpec value for the child view" />
@@ -50,15 +54,11 @@
       <item value="dx Unconsumed" />
       <item value="dx Consumed" />
       <item value="dispatch Nested Scroll" />
-      <item value="Interface definition for a callback to be invoked when the scroll X or Y positions of a view change. This version of the interface works on all versions of Android, back to API v4." />
-      <item value="NestedScrollView is just like ScrollView, but it supports acting as both a nested scrolling parent and child on both new and old versions of Android. Nested scrolling is enabled by default." />
-      <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
-      <item value="Contact is detected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2914" />
-        <entry key="ENGLISH" value="2915" />
+        <entry key="CHINESE" value="2918" />
+        <entry key="ENGLISH" value="2919" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
