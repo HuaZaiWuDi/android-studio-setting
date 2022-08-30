@@ -4,13 +4,14 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Calculate a MeasureSpec value for measuring a child view in one dimension. Params: parentSize – Size of the parent view where the child will be placed parentMode – The measurement spec mode of the parent padding – Total space currently consumed by other elements of parent childDimension – Desired size of the child view, or MATCH_PARENTWRAP_CONTENT. Generally obtained from the child view's LayoutParams canScroll – true if the parent RecyclerView can scroll in this dimension Returns: a MeasureSpec value for the child view" />
+      <item value="A MeasureSpec encapsulates the layout requirements passed from parent to child. Each MeasureSpec represents a requirement for either the width or the height. A MeasureSpec is comprised of a size and a mode. There are three possible modes: UNSPECIFIED The parent has not imposed any constraint on the child. It can be whatever size it wants. EXACTLY The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be. AT_MOST The child can be as large as it wants up to the specified size. MeasureSpecs are implemented as ints to reduce object allocation. This class is provided to pack and unpack the &lt;size, mode&gt; tuple into the int." />
+      <item value="Measure specification mode: The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
       <item value="EXACTLY" />
       <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
-      <item value="Measure specification mode: The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
       <item value="Measure specification mode: The parent has not imposed any constraint on the child. It can be whatever size it wants." />
       <item value="available Space In Other" />
       <item value="Measures a child with currently known information. This is not necessarily the child's final measurement. (see fillChunk for details). Params: view – The child view to be measured otherDirParentSpecMode – The RV measure spec that should be used in the secondary orientation alreadyMeasured – True if we've already measured this view once" />
-      <item value="Calculate a MeasureSpec value for measuring a child view in one dimension. Params: parentSize – Size of the parent view where the child will be placed parentMode – The measurement spec mode of the parent padding – Total space currently consumed by other elements of parent childDimension – Desired size of the child view, or MATCH_PARENTWRAP_CONTENT. Generally obtained from the child view's LayoutParams canScroll – true if the parent RecyclerView can scroll in this dimension Returns: a MeasureSpec value for the child view" />
       <item value="Creates a measure specification based on the supplied size and mode. The mode must always be one of the following: UNSPECIFIED EXACTLY AT_MOST Note: On API level 17 and lower, makeMeasureSpec's implementation was such that the order of arguments did not matter and overflow in either value could impact the resulting MeasureSpec. android.widget.RelativeLayout was affected by this bug. Apps targeting API levels greater than 17 will get the fixed, more strict behavior. Params: size – the size of the measure specification mode – the mode of the measure specification Returns: the measure specification based on size and mode" />
       <item value="Views that did not measure the maxSize has to be re-measured We will stop doing this once we introduce Gravity in the GLM layout params" />
       <item value="The background owner should be elevated so that it casts a shadow." />
@@ -53,12 +54,11 @@
       <item value="offset In Window" />
       <item value="dx Unconsumed" />
       <item value="dx Consumed" />
-      <item value="dispatch Nested Scroll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2918" />
-        <entry key="ENGLISH" value="2919" />
+        <entry key="CHINESE" value="2921" />
+        <entry key="ENGLISH" value="2922" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
