@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="align To Anchor" />
+      <item value="above Anchor" />
+      <item value="Display the content view in a popup window at the specified location. If the popup window cannot fit on screen, it will be clipped. See WindowManager.LayoutParams for more information on how gravity and the x and y parameters are related. Specifying a gravity of Gravity.NO_GRAVITY is similar to specifying Gravity.LEFT | Gravity.TOP." />
+      <item value="parent – a parent view to get the View.getWindowToken() token from gravity – the gravity which controls the placement of the popup window x – the popup's x location offset y – the popup's y location offset" />
       <item value="request Disallow Intercept Touch Event" />
       <item value="&lt;!-- card容器--&gt; &lt;FrameLayout android:id=&quot;@+idlayout_container&quot; android:layout_width=&quot;wrap_content&quot; android:layout_height=&quot;wrap_content&quot; app:layout_constraintBottom_toBottomOf=&quot;parent&quot; app:layout_constraintEnd_toEndOf=&quot;parent&quot; app:layout_constraintStart_toStartOf=&quot;parent&quot; app:layout_constraintTop_toTopOf=&quot;parent&quot; tools:layout_height=&quot;300dp&quot; tools:layout_width=&quot;300dp&quot; &gt;" />
       <item value="Returns the height that is currently relevant to the LayoutManager. This value is usually equal to the laid out height of the RecyclerView but may reflect the current View.MeasureSpec height if the RecyclerView.LayoutManager is using AutoMeasure and the RecyclerView is in the process of measuring. The LayoutManager must always use this method to retrieve the height relevant to it at any given time. Returns: Height in pixels" />
@@ -50,15 +54,11 @@
       <item value="Returns: true if the event was dispatched, false if it could not be dispatched." />
       <item value="Dispatch one step of a nested scroll in progress before this view consumes any portion of it. Nested pre-scroll events are to nested scroll events what touch intercept is to touch. dispatchNestedPreScroll offers an opportunity for the parent view in a nested scrolling operation to consume some or all of the scroll operation before the child view consumes it." />
       <item value="Dispatch one step of a nested scroll in progress. Implementations of views that support nested scrolling should call this to report info about a scroll in progress to the current nested scrolling parent. If a nested scroll is not currently in progress or nested scrolling is not enabled for this view this method does nothing. Compatible View implementations should also call dispatchNestedPreScroll before consuming a component of the scroll event themselves." />
-      <item value="axes – Flags consisting of a combination of ViewCompat.SCROLL_AXIS_HORIZONTAL andor ViewCompat.SCROLL_AXIS_VERTICAL. type – the type of input which cause this scroll event" />
-      <item value="The original nested scrolling child (where the input events were received to start the scroll) must provide a non-null consumed parameter with values {0, 0}." />
-      <item value="Dispatch one step of a nested scroll in progress. Implementations of views that support nested scrolling should call this to report info about a scroll in progress to the current nested scrolling parent. If a nested scroll is not currently in progress or nested scrolling is not enabled for this view this method does nothing. Compatible View implementations should also call dispatchNestedPreScroll before consuming a component of the scroll event themselves. The original nested scrolling child (where the input events were received to start the scroll) must provide a non-null consumed parameter with values {0, 0}." />
-      <item value="true if the parent consumed some or all of the scroll delta" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2938" />
-        <entry key="ENGLISH" value="2939" />
+        <entry key="CHINESE" value="2942" />
+        <entry key="ENGLISH" value="2943" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
