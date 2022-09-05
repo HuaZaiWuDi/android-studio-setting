@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="全屋服务" />
+      <item value="全屋" />
       <item value="离线" />
       <item value="Attach类型的列表弹窗" />
       <item value="the popup's x location offset" />
@@ -52,13 +54,11 @@
       <item value="baifbai'fen'b" />
       <item value="Returns: true if the animation has started, false otherwise" />
       <item value="commit Callback" />
-      <item value="consumed – Output. If not null, consumed[0] will contain the consumed component of dx and consumed[1] the consumed dy." />
-      <item value="Dispatch one step of a nested scroll in progress before this view consumes any portion of it. Nested pre-scroll events are to nested scroll events what touch intercept is to touch. dispatchNestedPreScroll offers an opportunity for the parent view in a nested scrolling operation to consume some or all of the scroll operation before the child view consumes it. Params: dx – Horizontal scroll distance in pixels dy – Vertical scroll distance in pixels consumed – Output. If not null, consumed[0] will contain the consumed component of dx and consumed[1] the consumed dy. offsetInWindow – Optional. If not null, on return this will contain the offset in local view coordinates of this view from before this operation to after it completes. View implementations may use this to adjust expected input coordinate tracking. type – the type of input which cause this scroll event Returns: true if the parent consumed some or all of the scroll delta" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2950" />
-        <entry key="ENGLISH" value="2950" />
+        <entry key="CHINESE" value="2957" />
+        <entry key="ENGLISH" value="2957" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661741742603" />
+    <option name="lastTrimTime" value="1662365525245" />
   </component>
 </application>
