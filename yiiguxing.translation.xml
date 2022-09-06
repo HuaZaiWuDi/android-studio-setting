@@ -4,8 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
-      <item value="全屋服务" />
+      <item value="houseservice" />
       <item value="全屋" />
+      <item value="全屋服务" />
       <item value="离线" />
       <item value="Attach类型的列表弹窗" />
       <item value="the popup's x location offset" />
@@ -53,12 +54,11 @@
       <item value="baifenb" />
       <item value="baifbai'fen'b" />
       <item value="Returns: true if the animation has started, false otherwise" />
-      <item value="commit Callback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2957" />
-        <entry key="ENGLISH" value="2957" />
+        <entry key="CHINESE" value="2964" />
+        <entry key="ENGLISH" value="2963" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
