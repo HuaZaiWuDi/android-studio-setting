@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="sin" />
       <item value="houseservice" />
       <item value="全屋" />
       <item value="全屋服务" />
@@ -53,11 +54,10 @@
       <item value="bai'fen'b" />
       <item value="baifenb" />
       <item value="baifbai'fen'b" />
-      <item value="Returns: true if the animation has started, false otherwise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2964" />
+        <entry key="CHINESE" value="2965" />
         <entry key="ENGLISH" value="2963" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
