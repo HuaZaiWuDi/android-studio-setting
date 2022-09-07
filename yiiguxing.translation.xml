@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="is Parent Invisible" />
       <item value="is Support Visible" />
       <item value="m Is First Visible" />
       <item value="m Abort Init Visible" />
@@ -53,12 +54,11 @@
       <item value="Measure specification mode: The parent has not imposed any constraint on the child. It can be whatever size it wants." />
       <item value="available Space In Other" />
       <item value="Measures a child with currently known information. This is not necessarily the child's final measurement. (see fillChunk for details). Params: view – The child view to be measured otherDirParentSpecMode – The RV measure spec that should be used in the secondary orientation alreadyMeasured – True if we've already measured this view once" />
-      <item value="Creates a measure specification based on the supplied size and mode. The mode must always be one of the following: UNSPECIFIED EXACTLY AT_MOST Note: On API level 17 and lower, makeMeasureSpec's implementation was such that the order of arguments did not matter and overflow in either value could impact the resulting MeasureSpec. android.widget.RelativeLayout was affected by this bug. Apps targeting API levels greater than 17 will get the fixed, more strict behavior. Params: size – the size of the measure specification mode – the mode of the measure specification Returns: the measure specification based on size and mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2988" />
-        <entry key="ENGLISH" value="2989" />
+        <entry key="CHINESE" value="2989" />
+        <entry key="ENGLISH" value="2990" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
