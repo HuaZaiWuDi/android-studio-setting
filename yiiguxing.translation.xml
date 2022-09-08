@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="get Current User Auth Value" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
       <item value="You can choose one of the three unpopular units of pt, in, mm as the subunits, the subunits is used to avoid the adverse effects caused by modifying DisplayMetrics#density, after using the subunits, you can write the pixel size on the design, you don't need to convert it to dp" />
       <item value="is Parent Invisible" />
@@ -53,12 +54,11 @@
       <item value="A MeasureSpec encapsulates the layout requirements passed from parent to child. Each MeasureSpec represents a requirement for either the width or the height. A MeasureSpec is comprised of a size and a mode. There are three possible modes: UNSPECIFIED The parent has not imposed any constraint on the child. It can be whatever size it wants. EXACTLY The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be. AT_MOST The child can be as large as it wants up to the specified size. MeasureSpecs are implemented as ints to reduce object allocation. This class is provided to pack and unpack the &lt;size, mode&gt; tuple into the int." />
       <item value="Measure specification mode: The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
       <item value="EXACTLY" />
-      <item value="Measure specification mode: The parent has not imposed any constraint on the child. It can be whatever size it wants." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2990" />
-        <entry key="ENGLISH" value="2991" />
+        <entry key="CHINESE" value="2991" />
+        <entry key="ENGLISH" value="2992" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="6" />
