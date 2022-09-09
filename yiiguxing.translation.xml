@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Conversion" />
       <item value="西班牙语" />
       <item value="意大利语" />
       <item value="法语" />
@@ -53,12 +54,11 @@
       <item value="When RecyclerView is running a layout, this value is always set to View.MeasureSpec.EXACTLY even if it was measured with a different spec mode." />
       <item value="other Dir Spec Mode" />
       <item value="Returns the space occupied by this View in the current orientation including decorations and margins." />
-      <item value="flexible In Other Dir" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3050" />
-        <entry key="ENGLISH" value="3050" />
+        <entry key="ENGLISH" value="3051" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="2" />
