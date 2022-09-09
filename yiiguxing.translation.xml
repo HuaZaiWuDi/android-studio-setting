@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="西班牙语" />
+      <item value="意大利语" />
+      <item value="法语" />
+      <item value="德语" />
+      <item value="意大利u'yi" />
+      <item value="yi'd" />
+      <item value="西班牙" />
+      <item value="xi'ban'y" />
+      <item value="fayu" />
+      <item value="de'yu" />
+      <item value="den" />
+      <item value="Erneute Übereinstimmung" />
+      <item value="No hay datos de configuración del hub sustituido en la Nube, o el hub no admite la sustitución." />
+      <item value="deng'yu" />
       <item value="get Current User Auth Value" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
       <item value="You can choose one of the three unpopular units of pt, in, mm as the subunits, the subunits is used to avoid the adverse effects caused by modifying DisplayMetrics#density, after using the subunits, you can write the pixel size on the design, you don't need to convert it to dp" />
@@ -40,37 +54,24 @@
       <item value="other Dir Spec Mode" />
       <item value="Returns the space occupied by this View in the current orientation including decorations and margins." />
       <item value="flexible In Other Dir" />
-      <item value="m Infinite" />
-      <item value="remaining Space" />
-      <item value="desired" />
-      <item value="Chooses a size from the given specs and parameters that is closest to the desired size and also complies with the spec. Params: spec – The measureSpec desired – The preferred measurement min – The minimum value Returns: A size that fits to the given specs" />
-      <item value="Returns whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int). This method returns false by default (it actually returns the value passed to the deprecated setAutoMeasureEnabled(boolean)) and should be overridden to return true if a LayoutManager wants to be auto measured by the RecyclerView. If this method is overridden to return true, onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int) should not be overridden. AutoMeasure is a RecyclerView mechanism that handles the measuring pass of layout in a simple and contract satisfying way, including the wrapping of children laid out by LayoutManager. Simply put, it handles wrapping children by calling onLayoutChildren(RecyclerView.Recycler, RecyclerView.State) during a call to onMeasure(int, int), and then calculating desired dimensions based on children's dimensions and positions. It does this while supporting all existing animation capabilities of the RecyclerView. More specifically:" />
-      <item value="Defines whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int). Deprecated Implementors of LayoutManager should define whether or not it uses AutoMeasure by overriding isAutoMeasureEnabled(). Params: enabled – True if layout measurement should be done by the RecyclerView, false if it should be done by this LayoutManager. See Also: isAutoMeasureEnabled()" />
-      <item value="Return the width measurement spec mode that is currently relevant to the LayoutManager. This value is set only if the LayoutManager opts into the AutoMeasure api via setAutoMeasureEnabled(boolean). When RecyclerView is running a layout, this value is always set to View.MeasureSpec.EXACTLY even if it was measured with a different spec mode. Returns: Width measure spec mode See Also: View.MeasureSpec.getMode(int)" />
-      <item value="Returns the MeasureSpec mode for the perpendicular orientation from the LayoutManager. Returns: The current measure spec mode. See Also: View.MeasureSpec, RecyclerView.LayoutManager.getWidthMode(), RecyclerView.LayoutManager.getHeightMode()" />
-      <item value="Returns the MeasureSpec mode for the perpendicular orientation from the LayoutManager. Returns: The current measure spec mode." />
-      <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
-      <item value="Calculate a MeasureSpec value for measuring a child view in one dimension. Params: parentSize – Size of the parent view where the child will be placed parentMode – The measurement spec mode of the parent padding – Total space currently consumed by other elements of parent childDimension – Desired size of the child view, or MATCH_PARENTWRAP_CONTENT. Generally obtained from the child view's LayoutParams canScroll – true if the parent RecyclerView can scroll in this dimension Returns: a MeasureSpec value for the child view" />
-      <item value="A MeasureSpec encapsulates the layout requirements passed from parent to child. Each MeasureSpec represents a requirement for either the width or the height. A MeasureSpec is comprised of a size and a mode. There are three possible modes: UNSPECIFIED The parent has not imposed any constraint on the child. It can be whatever size it wants. EXACTLY The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be. AT_MOST The child can be as large as it wants up to the specified size. MeasureSpecs are implemented as ints to reduce object allocation. This class is provided to pack and unpack the &lt;size, mode&gt; tuple into the int." />
-      <item value="Measure specification mode: The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
-      <item value="EXACTLY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2991" />
-        <entry key="ENGLISH" value="2992" />
+        <entry key="CHINESE" value="3050" />
+        <entry key="ENGLISH" value="3050" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="6" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="KOREAN" value="13" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="SPANISH" value="3" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="SPANISH" value="6" />
+        <entry key="ITALIAN" value="3" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
