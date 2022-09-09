@@ -4,13 +4,29 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="特殊字符（中文字符 仅需要 逗号、括号、顿号，英文字符：括号，双引号，逗号，句号（点），下划线、斜杠，短横杠，空格）" />
+      <item value="、特殊字符（中文字符 仅需要 逗号、括号、顿号，英文字符：括号，双引号，逗号，句号（点），下划线、斜杠，短横杠，空格）" />
+      <item value="Special characters (Chinese characters only require commas, brackets, commas, English characters: brackets, double quotation marks, commas, periods (dots), underscores, slashes, dashes, spaces)" />
+      <item value="这句话是用来验证正则,看看没有特殊符号" />
+      <item value="这句话是用来验证正则,看看没有" />
+      <item value="这句话是用来验证正则" />
+      <item value="这句话是用来验证正则ssssdgsgdfhgsd" />
+      <item value="这句话是用来验证曾真" />
+      <item value="zhe'ju" />
+      <item value="这是一句" />
+      <item value="Dies ist ein deutscher Satz, überprüfen Sie das regelmäßig" />
+      <item value="这是一句德语，验证正则" />
+      <item value="这是一句德语，验证zheng'c" />
+      <item value="这是一句德语，" />
+      <item value="zhe's" />
+      <item value="德语" />
+      <item value="de" />
+      <item value="法语" />
       <item value="西班牙" />
       <item value="ss" />
       <item value="意大利语" />
       <item value="意大利" />
       <item value="yi'da" />
-      <item value="德语" />
-      <item value="法语" />
       <item value="Opacity" />
       <item value="Conversion" />
       <item value="西班牙语" />
@@ -38,40 +54,24 @@
       <item value="Gets the real size of the display without subtracting any window decor or applying any compatibility scale factors. The size is adjusted based on the current rotation of the display. The real size may be smaller than the physical size of the screen when the window manager is emulating a smaller display (using adb shell wm size). Params: outSize – Set to the real size of the display." />
       <item value="view Ratio" />
       <item value="animate – true to animate between the current and target values or false to not animate" />
-      <item value="反转" />
-      <item value="fan'z" />
-      <item value="sin" />
-      <item value="houseservice" />
-      <item value="全屋" />
-      <item value="全屋服务" />
-      <item value="离线" />
-      <item value="Attach类型的列表弹窗" />
-      <item value="the popup's x location offset" />
-      <item value="align To Anchor" />
-      <item value="above Anchor" />
-      <item value="Display the content view in a popup window at the specified location. If the popup window cannot fit on screen, it will be clipped. See WindowManager.LayoutParams for more information on how gravity and the x and y parameters are related. Specifying a gravity of Gravity.NO_GRAVITY is similar to specifying Gravity.LEFT | Gravity.TOP." />
-      <item value="parent – a parent view to get the View.getWindowToken() token from gravity – the gravity which controls the placement of the popup window x – the popup's x location offset y – the popup's y location offset" />
-      <item value="request Disallow Intercept Touch Event" />
-      <item value="&lt;!-- card容器--&gt; &lt;FrameLayout android:id=&quot;@+idlayout_container&quot; android:layout_width=&quot;wrap_content&quot; android:layout_height=&quot;wrap_content&quot; app:layout_constraintBottom_toBottomOf=&quot;parent&quot; app:layout_constraintEnd_toEndOf=&quot;parent&quot; app:layout_constraintStart_toStartOf=&quot;parent&quot; app:layout_constraintTop_toTopOf=&quot;parent&quot; tools:layout_height=&quot;300dp&quot; tools:layout_width=&quot;300dp&quot; &gt;" />
-      <item value="Returns the height that is currently relevant to the LayoutManager. This value is usually equal to the laid out height of the RecyclerView but may reflect the current View.MeasureSpec height if the RecyclerView.LayoutManager is using AutoMeasure and the RecyclerView is in the process of measuring. The LayoutManager must always use this method to retrieve the height relevant to it at any given time. Returns: Height in pixels" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3076" />
-        <entry key="ENGLISH" value="3076" />
+        <entry key="CHINESE" value="3102" />
+        <entry key="ENGLISH" value="3101" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
-        <entry key="GERMAN" value="4" />
+        <entry key="GERMAN" value="5" />
         <entry key="RUSSIAN" value="6" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="6" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="KOREAN" value="13" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="SPANISH" value="7" />
-        <entry key="ITALIAN" value="5" />
+        <entry key="SPANISH" value="8" />
+        <entry key="ITALIAN" value="6" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
