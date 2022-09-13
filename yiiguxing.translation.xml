@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Pattern Run" />
       <item value="推荐" />
       <item value="PatternRun" />
       <item value="特殊字符（中文字符 仅需要 逗号、括号、顿号，英文字符：括号，双引号，逗号，句号（点），下划线、斜杠，短横杠，空格）" />
@@ -53,12 +54,11 @@
       <item value="shan'ge" />
       <item value="单元" />
       <item value="Gets the size of the display, in pixels. Value returned by this method does not necessarily represent the actual raw size (native resolution) of the display. 1. The returned size may be adjusted to exclude certain system decor elements that are always visible. 2. It may be scaled to provide compatibility with older applications that were originally designed for smaller displays. 3. It can be different depending on the WindowManager to which the display belongs. - If requested from non-Activity context (e.g. Application context via (WindowManager) getApplicationContext().getSystemService(Context.WINDOW_SERVICE)) it will report the size of the entire display based on current rotation and with subtracted system decoration areas. - If requested from activity (either using getWindowManager() or (WindowManager) getSystemService(Context.WINDOW_SERVICE)) resulting size will correspond to current app window size. In this case it can be smaller than physical size in multi-window mode. Typically for the purposes of layout apps should make a request from activity context to obtain size available for the app content. Params: outSize – A Point object to receive the size information." />
-      <item value="Gets the real size of the display without subtracting any window decor or applying any compatibility scale factors. The size is adjusted based on the current rotation of the display. The real size may be smaller than the physical size of the screen when the window manager is emulating a smaller display (using adb shell wm size). Params: outSize – Set to the real size of the display." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3107" />
-        <entry key="ENGLISH" value="3105" />
+        <entry key="ENGLISH" value="3106" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
