@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="perm" />
       <item value="推荐" />
       <item value="category" />
       <item value="Transient" />
@@ -53,12 +54,11 @@
       <item value="m Abort Init Visible" />
       <item value="grid Cell" />
       <item value="栅格单元" />
-      <item value="shan'ge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3111" />
-        <entry key="ENGLISH" value="3112" />
+        <entry key="CHINESE" value="3112" />
+        <entry key="ENGLISH" value="3113" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
