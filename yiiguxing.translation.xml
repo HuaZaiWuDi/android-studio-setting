@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="needPossible" />
       <item value="synthetic method" />
       <item value="perm" />
       <item value="推荐" />
@@ -53,11 +54,10 @@
       <item value="is Support Visible" />
       <item value="m Is First Visible" />
       <item value="m Abort Init Visible" />
-      <item value="grid Cell" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3113" />
+        <entry key="CHINESE" value="3114" />
         <entry key="ENGLISH" value="3114" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
