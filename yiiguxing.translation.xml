@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Primary constructor call expected" />
+      <item value="Secondary constructor should be converted to a primary one" />
       <item value="Instructs the Kotlin compiler to generate overloads for this function that substitute default parameter values. If a method has N parameters and M of which have default values, M overloads are generated: the first one takes N-1 parameters (all but the last one that takes a default value), the second takes N-2 parameters, and so on." />
       <item value="Calling non-final function getResLayoutId in constructor" />
       <item value="needPossible" />
@@ -52,12 +54,10 @@
       <item value="get Current User Auth Value" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
       <item value="You can choose one of the three unpopular units of pt, in, mm as the subunits, the subunits is used to avoid the adverse effects caused by modifying DisplayMetrics#density, after using the subunits, you can write the pixel size on the design, you don't need to convert it to dp" />
-      <item value="is Parent Invisible" />
-      <item value="is Support Visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3115" />
+        <entry key="CHINESE" value="3117" />
         <entry key="ENGLISH" value="3115" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
