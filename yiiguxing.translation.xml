@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Query if horizontal scrolling is currently supported. The default implementation returns false." />
+      <item value="Inverse the sign of the vertical scroll to align the scroll orientation" />
+      <item value="dispatch Touch Event" />
       <item value="A SeekBar which supports compatible features on older versions of the platform. This will automatically be used when you use SeekBar in your layouts and the top-level activity dialog is provided by appcompat. You should only need to manually use this class when writing custom views." />
       <item value="A callback that notifies clients when the progress level has been changed. This includes changes that were initiated by the user through a touch gesture or arrow keytrackball as well as changes that were initiated programmatically." />
       <item value="Notification that the progress level has changed. Clients can use the fromUser parameter to distinguish user-initiated changes from those that occurred programmatically. Params: seekBar – The SeekBar whose progress has changed progress – The current progress level. This will be in the range min..max where min and max were set by ProgressBar.setMin(int) and ProgressBar.setMax(int), respectively. (The default values for min is 0 and max is 100.) fromUser – True if the progress change was initiated by the user." />
@@ -51,14 +54,11 @@
       <item value="Conversion" />
       <item value="西班牙语" />
       <item value="意大利u'yi" />
-      <item value="yi'd" />
-      <item value="xi'ban'y" />
-      <item value="fayu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3124" />
-        <entry key="ENGLISH" value="3125" />
+        <entry key="CHINESE" value="3127" />
+        <entry key="ENGLISH" value="3128" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
