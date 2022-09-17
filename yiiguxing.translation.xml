@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="update Thumb And Track Pos" />
+      <item value="Updates the thumb drawable bounds." />
+      <item value="The max height does not incorporate padding, whereas the height" />
       <item value="direction – Negative to check scrolling left, positive to check scrolling right" />
       <item value="Check if this view can be scrolled horizontally in a certain direction." />
       <item value="Called when a child of RecyclerView does not want RecyclerView and its ancestors to intercept touch events with ViewGroup.onInterceptTouchEvent(MotionEvent). Params: disallowIntercept – True if the child does not want the parent to intercept touch events. See Also: ViewParent.requestDisallowInterceptTouchEvent(boolean)" />
@@ -51,14 +54,11 @@
       <item value="zhe's" />
       <item value="德语" />
       <item value="de" />
-      <item value="法语" />
-      <item value="西班牙" />
-      <item value="ss" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3135" />
-        <entry key="ENGLISH" value="3136" />
+        <entry key="CHINESE" value="3139" />
+        <entry key="ENGLISH" value="3140" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
