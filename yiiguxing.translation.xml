@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="你是我家的王" />
+      <item value="你是我家的wnag" />
+      <item value="你是我家z'h" />
       <item value="Could not locate call adapter" />
       <item value="Primary constructor call expected" />
       <item value="Secondary constructor should be converted to a primary one" />
@@ -51,14 +54,11 @@
       <item value="den" />
       <item value="Erneute Übereinstimmung" />
       <item value="No hay datos de configuración del hub sustituido en la Nube, o el hub no admite la sustitución." />
-      <item value="deng'yu" />
-      <item value="get Current User Auth Value" />
-      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3117" />
-        <entry key="ENGLISH" value="3116" />
+        <entry key="CHINESE" value="3122" />
+        <entry key="ENGLISH" value="3121" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
