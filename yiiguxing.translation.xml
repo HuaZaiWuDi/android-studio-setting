@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="A callback that notifies clients when the progress level has been changed. This includes changes that were initiated by the user through a touch gesture or arrow keytrackball as well as changes that were initiated programmatically." />
+      <item value="Notification that the progress level has changed. Clients can use the fromUser parameter to distinguish user-initiated changes from those that occurred programmatically. Params: seekBar – The SeekBar whose progress has changed progress – The current progress level. This will be in the range min..max where min and max were set by ProgressBar.setMin(int) and ProgressBar.setMax(int), respectively. (The default values for min is 0 and max is 100.) fromUser – True if the progress change was initiated by the user." />
+      <item value="Notification that the user has finished a touch gesture. Clients may want to use this to re-enable advancing the seekbar. Params: seekBar – The SeekBar in which the touch gesture began" />
       <item value="你是我家的王" />
       <item value="你是我家的wnag" />
       <item value="你是我家z'h" />
@@ -51,14 +54,11 @@
       <item value="xi'ban'y" />
       <item value="fayu" />
       <item value="de'yu" />
-      <item value="den" />
-      <item value="Erneute Übereinstimmung" />
-      <item value="No hay datos de configuración del hub sustituido en la Nube, o el hub no admite la sustitución." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3122" />
-        <entry key="ENGLISH" value="3121" />
+        <entry key="CHINESE" value="3123" />
+        <entry key="ENGLISH" value="3124" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
