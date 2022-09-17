@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The view whose visibility changed. May be this or an ancestor view" />
+      <item value="Called when the visibility of the view or an ancestor of the view has changed. Params: changedView – The view whose visibility changed. May be this or an ancestor view. visibility – The new visibility, one of VISIBLE, INVISIBLE or GONE." />
+      <item value="Interface definition for a callback to be invoked when the status bar changes visibility. This reports global changes to the system UI state, not what the application is requesting. See Also: setOnSystemUiVisibilityChangeListener(View.OnSystemUiVisibilityChangeListener)" />
+      <item value="Set a listener to receive callbacks when the visibility of the system bar changes." />
       <item value="update Thumb And Track Pos" />
       <item value="Updates the thumb drawable bounds." />
       <item value="The max height does not incorporate padding, whereas the height" />
@@ -50,15 +54,11 @@
       <item value="Dies ist ein deutscher Satz, überprüfen Sie das regelmäßig" />
       <item value="这是一句德语，验证正则" />
       <item value="这是一句德语，验证zheng'c" />
-      <item value="这是一句德语，" />
-      <item value="zhe's" />
-      <item value="德语" />
-      <item value="de" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3139" />
-        <entry key="ENGLISH" value="3140" />
+        <entry key="CHINESE" value="3143" />
+        <entry key="ENGLISH" value="3144" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
