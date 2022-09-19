@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Updates the thumb drawable bounds. Params: w – Width of the view, including padding thumb – Drawable used for the thumb scale – Current progress between 0 and 1 offset – Vertical offset for centering. If set to Integer.MIN_VALUE, the current offset will be used." />
       <item value="Called when any RTL property (layout direction or text direction or text alignment) has been changed. Subclasses need to override this method to take care of cached information that depends on the resolved layout direction, or to inform child views that inherit their layout direction. The default implementation does nothing. Params: layoutDirection – the direction of the layout" />
       <item value="set Visual Progress" />
       <item value="light child" />
@@ -53,12 +54,11 @@
       <item value="这句话是用来验证正则ssssdgsgdfhgsd" />
       <item value="这句话是用来验证曾真" />
       <item value="zhe'ju" />
-      <item value="这是一句" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3146" />
-        <entry key="ENGLISH" value="3147" />
+        <entry key="CHINESE" value="3147" />
+        <entry key="ENGLISH" value="3148" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
