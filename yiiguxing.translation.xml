@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="set Visual Progress" />
       <item value="light child" />
       <item value="The view whose visibility changed. May be this or an ancestor view" />
       <item value="Called when the visibility of the view or an ancestor of the view has changed. Params: changedView – The view whose visibility changed. May be this or an ancestor view. visibility – The new visibility, one of VISIBLE, INVISIBLE or GONE." />
@@ -53,12 +54,11 @@
       <item value="zhe'ju" />
       <item value="这是一句" />
       <item value="Dies ist ein deutscher Satz, überprüfen Sie das regelmäßig" />
-      <item value="这是一句德语，验证正则" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3144" />
-        <entry key="ENGLISH" value="3145" />
+        <entry key="CHINESE" value="3145" />
+        <entry key="ENGLISH" value="3146" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663035963930" />
+    <option name="lastTrimTime" value="1663574194066" />
   </component>
 </application>
