@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns the position in the group of the specified child view. Params: child – the view for which to get the position Returns: a positive integer representing the position of the view in the group, or -1 if the view does not exist in the group" />
       <item value="Used to indicate that the parent of this view should be invalidated. This functionality is used to force the parent to rebuild its display list (when hardware-accelerated), which is necessary when various parent-managed properties of the view change, such as alpha, translationXY, scrollXY, scaleXY, and rotationXY. This method will propagate an invalidation event to the parent." />
       <item value="Used to indicate that the parent of this view should clear its caches. This functionality is used to force the parent to rebuild its display list (when hardware-accelerated), which is necessary when various parent-managed properties of the view change, such as alpha, translationXY, scrollXY, scaleXY, and rotationXY. This method only clears the parent caches and does not causes an invalidate event." />
       <item value="Returns a subsequence of this char sequence containing the first characters that satisfy the given predicate." />
@@ -53,12 +54,11 @@
       <item value="dispatch Touch Event" />
       <item value="A SeekBar which supports compatible features on older versions of the platform. This will automatically be used when you use SeekBar in your layouts and the top-level activity dialog is provided by appcompat. You should only need to manually use this class when writing custom views." />
       <item value="A callback that notifies clients when the progress level has been changed. This includes changes that were initiated by the user through a touch gesture or arrow keytrackball as well as changes that were initiated programmatically." />
-      <item value="Notification that the progress level has changed. Clients can use the fromUser parameter to distinguish user-initiated changes from those that occurred programmatically. Params: seekBar – The SeekBar whose progress has changed progress – The current progress level. This will be in the range min..max where min and max were set by ProgressBar.setMin(int) and ProgressBar.setMax(int), respectively. (The default values for min is 0 and max is 100.) fromUser – True if the progress change was initiated by the user." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3181" />
-        <entry key="ENGLISH" value="3182" />
+        <entry key="CHINESE" value="3182" />
+        <entry key="ENGLISH" value="3183" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
