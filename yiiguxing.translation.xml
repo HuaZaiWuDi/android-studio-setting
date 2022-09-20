@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns a subsequence of this char sequence containing the first characters that satisfy the given predicate." />
+      <item value="is Digit" />
+      <item value="Returns true if this character is a letter or digit." />
+      <item value="Returns true if this character is a letter." />
+      <item value="is Letter" />
       <item value="This method is called to notify you that, somewhere within s, the text has been changed. It is legitimate to make further changes to s from this callback, but be careful not to get yourself into an infinite loop, because any changes you make will cause this method to be called again recursively. (You are not told where the change took place because other afterTextChanged() methods may already have made other changes and invalidated the offsets. But if you need to know here, you can use Spannable.setSpan in onTextChanged to mark your place and then look up from here where the span ended up." />
       <item value="This method is called to notify you that, within s, the count characters beginning at start have just replaced old text that had length before. It is an error to attempt to make changes to s from this callback." />
       <item value="his method is called to notify you that, within s, the count characters beginning at start have just replaced old text that had length before. It is an error to attempt to make changes to s from this callback." />
@@ -49,16 +54,11 @@
       <item value="Notification that the progress level has changed. Clients can use the fromUser parameter to distinguish user-initiated changes from those that occurred programmatically. Params: seekBar – The SeekBar whose progress has changed progress – The current progress level. This will be in the range min..max where min and max were set by ProgressBar.setMin(int) and ProgressBar.setMax(int), respectively. (The default values for min is 0 and max is 100.) fromUser – True if the progress change was initiated by the user." />
       <item value="Notification that the user has finished a touch gesture. Clients may want to use this to re-enable advancing the seekbar. Params: seekBar – The SeekBar in which the touch gesture began" />
       <item value="你是我家的王" />
-      <item value="你是我家的wnag" />
-      <item value="你是我家z'h" />
-      <item value="Could not locate call adapter" />
-      <item value="Primary constructor call expected" />
-      <item value="Secondary constructor should be converted to a primary one" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3174" />
-        <entry key="ENGLISH" value="3175" />
+        <entry key="CHINESE" value="3179" />
+        <entry key="ENGLISH" value="3180" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
