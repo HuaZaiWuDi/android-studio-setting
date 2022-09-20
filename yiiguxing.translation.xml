@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="This method is called to notify you that, somewhere within s, the text has been changed. It is legitimate to make further changes to s from this callback, but be careful not to get yourself into an infinite loop, because any changes you make will cause this method to be called again recursively. (You are not told where the change took place because other afterTextChanged() methods may already have made other changes and invalidated the offsets. But if you need to know here, you can use Spannable.setSpan in onTextChanged to mark your place and then look up from here where the span ended up." />
+      <item value="This method is called to notify you that, within s, the count characters beginning at start have just replaced old text that had length before. It is an error to attempt to make changes to s from this callback." />
+      <item value="his method is called to notify you that, within s, the count characters beginning at start have just replaced old text that had length before. It is an error to attempt to make changes to s from this callback." />
+      <item value="This method is called to notify you that, within s, the count characters beginning at start are about to be replaced by new text with length after. It is an error to attempt to make changes to s from this callback." />
+      <item value="When an object of this type is attached to an Editable, its methods will be called when the text is changed." />
+      <item value="Add an action which will be invoked before the text changed" />
+      <item value="intentionally empty, template pattern method can be overridden by subclasses" />
       <item value="marquee" />
       <item value="Returns the view at the specified position in the group. Params: index – the position at which to get the view from Returns: the view at the specified position or null if the position does not exist within the group" />
       <item value="This may be within the padding region." />
@@ -47,18 +54,11 @@
       <item value="Could not locate call adapter" />
       <item value="Primary constructor call expected" />
       <item value="Secondary constructor should be converted to a primary one" />
-      <item value="Instructs the Kotlin compiler to generate overloads for this function that substitute default parameter values. If a method has N parameters and M of which have default values, M overloads are generated: the first one takes N-1 parameters (all but the last one that takes a default value), the second takes N-2 parameters, and so on." />
-      <item value="Calling non-final function getResLayoutId in constructor" />
-      <item value="needPossible" />
-      <item value="synthetic method" />
-      <item value="perm" />
-      <item value="推荐" />
-      <item value="category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3166" />
-        <entry key="ENGLISH" value="3167" />
+        <entry key="CHINESE" value="3174" />
+        <entry key="ENGLISH" value="3175" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
