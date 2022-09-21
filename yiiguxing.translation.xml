@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="observer Data Notify" />
       <item value="空间" />
       <item value="控件" />
       <item value="device Info Ready" />
@@ -53,12 +54,11 @@
       <item value="Check if this view can be scrolled horizontally in a certain direction. Params: direction – Negative to check scrolling left, positive to check scrolling right. Returns: true if this view can be scrolled in the specified direction, false otherwise." />
       <item value="ass the touch screen motion event down to the target view, or this view if it is the target. Params: event – The motion event to be dispatched. Returns: True if the event was handled by the view, false otherwise." />
       <item value="Query if horizontal scrolling is currently supported. The default implementation returns false." />
-      <item value="Inverse the sign of the vertical scroll to align the scroll orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3204" />
-        <entry key="ENGLISH" value="3205" />
+        <entry key="CHINESE" value="3205" />
+        <entry key="ENGLISH" value="3206" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
