@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="空间" />
+      <item value="控件" />
       <item value="device Info Ready" />
       <item value="Returns the position in the group of the specified child view. Params: child – the view for which to get the position Returns: a positive integer representing the position of the view in the group, or -1 if the view does not exist in the group" />
       <item value="Used to indicate that the parent of this view should be invalidated. This functionality is used to force the parent to rebuild its display list (when hardware-accelerated), which is necessary when various parent-managed properties of the view change, such as alpha, translationXY, scrollXY, scaleXY, and rotationXY. This method will propagate an invalidation event to the parent." />
@@ -52,13 +54,11 @@
       <item value="ass the touch screen motion event down to the target view, or this view if it is the target. Params: event – The motion event to be dispatched. Returns: True if the event was handled by the view, false otherwise." />
       <item value="Query if horizontal scrolling is currently supported. The default implementation returns false." />
       <item value="Inverse the sign of the vertical scroll to align the scroll orientation" />
-      <item value="dispatch Touch Event" />
-      <item value="A SeekBar which supports compatible features on older versions of the platform. This will automatically be used when you use SeekBar in your layouts and the top-level activity dialog is provided by appcompat. You should only need to manually use this class when writing custom views." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3183" />
-        <entry key="ENGLISH" value="3184" />
+        <entry key="CHINESE" value="3204" />
+        <entry key="ENGLISH" value="3205" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
