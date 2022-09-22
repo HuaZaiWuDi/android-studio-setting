@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The new ViewHolder will be used to display items of the adapter using onBindViewHolder(RecyclerView.ViewHolder, int, List). Since it will be re-used to display different items in the data set, it is a good idea to cache references to sub views of the View to avoid unnecessary View.findViewById(int) calls." />
+      <item value="Called when RecyclerView needs a new RecyclerView.ViewHolder of the given type to represent an item. This new ViewHolder should be constructed with a new View that can represent the items of the given type. You can either create a new View manually or inflate it from an XML layout file. The new ViewHolder will be used to display items of the adapter using onBindViewHolder(RecyclerView.ViewHolder, int, List). Since it will be re-used to display different items in the data set, it is a good idea to cache references to sub views of the View to avoid unnecessary View.findViewById(int) calls." />
       <item value="is View Under" />
       <item value="Find the topmost child under the given point within the parent view's coordinate system." />
       <item value="X position to test in the parent's coordinate system" />
@@ -52,13 +54,11 @@
       <item value="his method is called to notify you that, within s, the count characters beginning at start have just replaced old text that had length before. It is an error to attempt to make changes to s from this callback." />
       <item value="This method is called to notify you that, within s, the count characters beginning at start are about to be replaced by new text with length after. It is an error to attempt to make changes to s from this callback." />
       <item value="When an object of this type is attached to an Editable, its methods will be called when the text is changed." />
-      <item value="Add an action which will be invoked before the text changed" />
-      <item value="intentionally empty, template pattern method can be overridden by subclasses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3239" />
-        <entry key="ENGLISH" value="3240" />
+        <entry key="CHINESE" value="3241" />
+        <entry key="ENGLISH" value="3242" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
