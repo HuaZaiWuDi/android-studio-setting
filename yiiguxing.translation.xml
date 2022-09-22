@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Called when a child of RecyclerView does not want RecyclerView and its ancestors to intercept touch events with ViewGroup.onInterceptTouchEvent(MotionEvent). Params: disallowIntercept – True if the child does not want the parent to intercept touch events. See Also: ViewParent.requestDisallowInterceptTouchEvent(boolean)" />
+      <item value="Process a touch event as part of a gesture that was claimed by returning true from a previous call to onInterceptTouchEvent. Params: e – MotionEvent describing the touch event. All coordinates are in the RecyclerView's coordinate system." />
+      <item value="Silently observe andor take over touch events sent to the RecyclerView before they are handled by either the RecyclerView itself or its child views. The onInterceptTouchEvent methods of each attached OnItemTouchListener will be run in the order in which each listener was added, before any other touch processing by the RecyclerView itself or child views occurs. Params: e – MotionEvent describing the touch event. All coordinates are in the RecyclerView's coordinate system. Returns: true if this OnItemTouchListener wishes to begin intercepting touch events, false to continue with the current behavior and continue observing future events in the gesture." />
+      <item value="Add an RecyclerView.OnItemTouchListener to intercept touch events before they are dispatched to child views or this view's standard scrolling behavior. Client code may use listeners to implement item manipulation behavior. Once a listener returns true from RecyclerView.OnItemTouchListener.onInterceptTouchEvent(RecyclerView, MotionEvent) its RecyclerView.OnItemTouchListener.onTouchEvent(RecyclerView, MotionEvent) method will be called for each incoming MotionEvent until the end of the gesture" />
+      <item value="Looks for an OnItemTouchListener that wants to intercept. Calls RecyclerView.OnItemTouchListener.onInterceptTouchEvent(RecyclerView, MotionEvent) on each of the registered RecyclerView.OnItemTouchListeners, passing in the MotionEvent. If one returns true and the action is not ACTION_CANCEL, saves the intercepting OnItemTouchListener to be called for future onTouchEvent(MotionEvent) and immediately returns true. If none want to intercept or the action is ACTION_CANCEL, returns false." />
+      <item value="&lt;ol&gt; &lt;li&gt; You will receive the down event here. &lt;li&gt; The down event will be handled either by a child of this view group, or given to your own onTouchEvent() method to handle; this means you should implement onTouchEvent() to return true, so you will continue to see the rest of the gesture (instead of looking for a parent view to handle it). Also, by returning true from onTouchEvent(), you will not receive any following events in onInterceptTouchEvent() and all touch processing must happen in onTouchEvent() like normal. &lt;li&gt; For as long as you return false from this function, each following event (up to and including the final up) will be delivered first here and then to the target's onTouchEvent(). &lt;li&gt; If you return true from here, you will not receive any following events: the target view will receive the same event but with the action {@link MotionEventACTION_CANCEL}, and all further events will be delivered to your onTouchEvent() method and no longer appear here. &lt;ol&gt;" />
+      <item value="p&gt;Using this function takes some care, as it has a fairly complicated interaction with {@link ViewonTouchEvent(MotionEvent) View.onTouchEvent(MotionEvent)}, and using it requires implementing that method as well as this one in the correct way. Events will be received in the following order:" />
+      <item value="Return true to steal motion events from the children and have them dispatched to this ViewGroup through onTouchEvent(). The current target will receive an ACTION_CANCEL event, and no further messages will be delivered here." />
+      <item value="&lt;p&gt;Using this function takes some care, as it has a fairly complicated interaction with {@link ViewonTouchEvent(MotionEvent) View.onTouchEvent(MotionEvent)}, and using it requires implementing that method as well as this one in the correct way. Events will be received in the following order:" />
+      <item value="Implement this method to intercept all touch screen motion events. This allows you to watch events as they are dispatched to your children, and take ownership of the current gesture at any point." />
+      <item value="Implement this method to intercept hover events before they are handled by child views. This method is called before dispatching a hover event to a child of the view group or to the view group's own onHoverEvent to allow the view group a chance to intercept the hover event. This method can also be used to watch all pointer motions that occur within the bounds of the view group even when the pointer is hovering over a child of the view group rather than over the view group itself." />
+      <item value="Pass the touch screen motion event down to the target view, or this view if it is the target." />
+      <item value="dispatch Touch Event" />
       <item value="Internal flags. This field should be made private, so it is hidden from the SDK." />
       <item value="Discouraged Private Api" />
       <item value="Change the z order of the child so it's on top of all other children. This ordering change may affect layout, if this container uses an order-dependent layout scheme (e.g., LinearLayout). Prior to android.os.Build.VERSION_CODES.KITKAT this method should be followed by calls to requestLayout() and View.invalidate() on this parent to force the parent to redraw with the new child ordering. Params: child – The child to bring to the top of the z order" />
@@ -41,24 +54,11 @@
       <item value="Returns the view at the specified position in the group. Params: index – the position at which to get the view from Returns: the view at the specified position or null if the position does not exist within the group" />
       <item value="This may be within the padding region." />
       <item value="Specify a bounding rectangle for the Drawable. This is where the drawable will draw when its draw() method is called." />
-      <item value="bitmap – The bitmap to be drawn left – The position of the left side of the bitmap being drawn top – The position of the top side of the bitmap being drawn paint – The paint used to draw the bitmap (may be null)" />
-      <item value="On touch, this offset plus the scaled value from the position of the touch will form the progress value. Usually 0." />
-      <item value="bitmap – The bitmap to be drawn src – May be null. The subset of the bitmap to be drawn dst – The rectangle that the bitmap will be scaledtranslated to fit into paint – May be null. The paint used to draw the bitmap" />
-      <item value="The rectangle that the bitmap will be scaledtranslated to fit int" />
-      <item value="May be null. The subset of the bitmap to be drawn" />
-      <item value="气泡" />
-      <item value="Updates the position and the dimension of the popup window." />
-      <item value="Updates the state of the popup window, if it is currently being displayed, from the currently set state." />
-      <item value="Updates the thumb drawable bounds. Params: w – Width of the view, including padding thumb – Drawable used for the thumb scale – Current progress between 0 and 1 offset – Vertical offset for centering. If set to Integer.MIN_VALUE, the current offset will be used." />
-      <item value="Called when any RTL property (layout direction or text direction or text alignment) has been changed. Subclasses need to override this method to take care of cached information that depends on the resolved layout direction, or to inform child views that inherit their layout direction. The default implementation does nothing. Params: layoutDirection – the direction of the layout" />
-      <item value="set Visual Progress" />
-      <item value="light child" />
-      <item value="The view whose visibility changed. May be this or an ancestor view" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3222" />
-        <entry key="ENGLISH" value="3223" />
+        <entry key="CHINESE" value="3235" />
+        <entry key="ENGLISH" value="3236" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
