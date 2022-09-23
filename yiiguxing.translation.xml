@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Alignment of the popup relative to the anchor" />
       <item value="Width and height can be set to -1 to update location only. Calling this function also updates the window with the current popup state as described for update()." />
       <item value="Updates the position and the dimension of the popup window." />
       <item value="remove View Immediate" />
@@ -53,12 +54,11 @@
       <item value="Used to indicate that the parent of this view should clear its caches. This functionality is used to force the parent to rebuild its display list (when hardware-accelerated), which is necessary when various parent-managed properties of the view change, such as alpha, translationXY, scrollXY, scaleXY, and rotationXY. This method only clears the parent caches and does not causes an invalidate event." />
       <item value="Returns a subsequence of this char sequence containing the first characters that satisfy the given predicate." />
       <item value="is Digit" />
-      <item value="Returns true if this character is a letter or digit." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3248" />
-        <entry key="ENGLISH" value="3249" />
+        <entry key="CHINESE" value="3249" />
+        <entry key="ENGLISH" value="3250" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
