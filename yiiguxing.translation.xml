@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="不可点击" />
+      <item value="bu" />
+      <item value="un Click" />
+      <item value="dis Click" />
+      <item value="v dis Click" />
       <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified selector function." />
       <item value="Sorts elements in the list in-place descending according to their natural sort order." />
       <item value="The sort is stable. It means that equal elements preserve their order relative to each other after sorting." />
@@ -49,16 +54,11 @@
       <item value="de'yu" />
       <item value="den" />
       <item value="Erneute Übereinstimmung" />
-      <item value="No hay datos de configuración del hub sustituido en la Nube, o el hub no admite la sustitución." />
-      <item value="deng'yu" />
-      <item value="get Current User Auth Value" />
-      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
-      <item value="You can choose one of the three unpopular units of pt, in, mm as the subunits, the subunits is used to avoid the adverse effects caused by modifying DisplayMetrics#density, after using the subunits, you can write the pixel size on the design, you don't need to convert it to dp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3115" />
-        <entry key="ENGLISH" value="3116" />
+        <entry key="CHINESE" value="3125" />
+        <entry key="ENGLISH" value="3125" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
@@ -70,7 +70,7 @@
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="SPANISH" value="8" />
+        <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="6" />
         <entry key="VIETNAMESE" value="1" />
       </map>
