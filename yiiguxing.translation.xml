@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="end Inclusive" />
+      <item value="Subtracts the other value from this value." />
+      <item value="hange the animation style resource for this popup. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods. Params: animationStyle – animation style to use when the popup appears and disappears. Set to -1 for the default animation, 0 for no animation, or a resource identifier for an explicit animation." />
+      <item value="Sets the enter transition to be used when the popup window is shown. Params: enterTransition – the enter transition, or null to clear See Also: getEnterTransition()" />
+      <item value="set Transitioning To Dismiss" />
       <item value="Alignment of the popup relative to the anchor" />
       <item value="Width and height can be set to -1 to update location only. Calling this function also updates the window with the current popup state as described for update()." />
       <item value="Updates the position and the dimension of the popup window." />
@@ -49,16 +54,11 @@
       <item value="空间" />
       <item value="控件" />
       <item value="device Info Ready" />
-      <item value="Returns the position in the group of the specified child view. Params: child – the view for which to get the position Returns: a positive integer representing the position of the view in the group, or -1 if the view does not exist in the group" />
-      <item value="Used to indicate that the parent of this view should be invalidated. This functionality is used to force the parent to rebuild its display list (when hardware-accelerated), which is necessary when various parent-managed properties of the view change, such as alpha, translationXY, scrollXY, scaleXY, and rotationXY. This method will propagate an invalidation event to the parent." />
-      <item value="Used to indicate that the parent of this view should clear its caches. This functionality is used to force the parent to rebuild its display list (when hardware-accelerated), which is necessary when various parent-managed properties of the view change, such as alpha, translationXY, scrollXY, scaleXY, and rotationXY. This method only clears the parent caches and does not causes an invalidate event." />
-      <item value="Returns a subsequence of this char sequence containing the first characters that satisfy the given predicate." />
-      <item value="is Digit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3249" />
-        <entry key="ENGLISH" value="3250" />
+        <entry key="CHINESE" value="3254" />
+        <entry key="ENGLISH" value="3255" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
