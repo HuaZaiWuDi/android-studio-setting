@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Start of window types that represent normal application windows." />
+      <item value="Window type: Application overlay windows are displayed above all activity windows (types between FIRST_APPLICATION_WINDOW and LAST_APPLICATION_WINDOW) but below critical system windows like the status bar or IME. The system may change the position, size, or visibility of these windows at anytime to reduce visual clutter to the user and also manage resources. Requires android.Manifest.permission.SYSTEM_ALERT_WINDOW permission. The system will adjust the importance of processes with this window type to reduce the chance of the low-memory-killer killing them. In multi-user systems shows only on the owning user's screen." />
       <item value="TRANSLUCENT" />
       <item value="Assign the passed LayoutParams to the passed View and add the view to the window. Throws WindowManager.BadTokenException for certain programming errors, such as adding a second view to a window without removing the first view. Throws WindowManager.InvalidDisplayException if the window is on a secondary Display and the specified display can't be found (see android.app.Presentation). Params: view – The view to be added to this window. params – The LayoutParams to assign to view." />
       <item value="The new ViewHolder will be used to display items of the adapter using onBindViewHolder(RecyclerView.ViewHolder, int, List). Since it will be re-used to display different items in the data set, it is a good idea to cache references to sub views of the View to avoid unnecessary View.findViewById(int) calls." />
@@ -52,13 +54,11 @@
       <item value="Returns true if this character is a letter." />
       <item value="is Letter" />
       <item value="This method is called to notify you that, somewhere within s, the text has been changed. It is legitimate to make further changes to s from this callback, but be careful not to get yourself into an infinite loop, because any changes you make will cause this method to be called again recursively. (You are not told where the change took place because other afterTextChanged() methods may already have made other changes and invalidated the offsets. But if you need to know here, you can use Spannable.setSpan in onTextChanged to mark your place and then look up from here where the span ended up." />
-      <item value="This method is called to notify you that, within s, the count characters beginning at start have just replaced old text that had length before. It is an error to attempt to make changes to s from this callback." />
-      <item value="his method is called to notify you that, within s, the count characters beginning at start have just replaced old text that had length before. It is an error to attempt to make changes to s from this callback." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3243" />
-        <entry key="ENGLISH" value="3244" />
+        <entry key="CHINESE" value="3245" />
+        <entry key="ENGLISH" value="3246" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
