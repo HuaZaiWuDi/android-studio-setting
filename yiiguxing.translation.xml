@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Canvas will be translated, so 0,0 is where we start drawing" />
+      <item value="Return the drawable's bounds Rect. Note: for efficiency, the returned object may be the same object stored in the drawable (though this is not guaranteed), so if a persistent copy of the bounds is needed, call copyBounds(rect) instead. You should also not change the object returned by this method as it may be the same object stored in the drawable. Returns: The bounds of the drawable (which may change later, so caller beware). DO NOT ALTER the returned object as it may change the stored bounds of this drawable." />
       <item value="end Inclusive" />
       <item value="Subtracts the other value from this value." />
       <item value="hange the animation style resource for this popup. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods. Params: animationStyle – animation style to use when the popup appears and disappears. Set to -1 for the default animation, 0 for no animation, or a resource identifier for an explicit animation." />
@@ -52,13 +54,11 @@
       <item value="wrap a view Params: view – the view to be wrapped Returns: the original wrapper or create a new wrapper to wrap the view and replace its place into parent" />
       <item value="observer Data Notify" />
       <item value="空间" />
-      <item value="控件" />
-      <item value="device Info Ready" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3254" />
-        <entry key="ENGLISH" value="3255" />
+        <entry key="CHINESE" value="3256" />
+        <entry key="ENGLISH" value="3257" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
