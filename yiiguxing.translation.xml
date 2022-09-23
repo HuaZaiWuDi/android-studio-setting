@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified selector function." />
+      <item value="Sorts elements in the list in-place descending according to their natural sort order." />
+      <item value="The sort is stable. It means that equal elements preserve their order relative to each other after sorting." />
+      <item value="sort By Descending" />
+      <item value="The sort is stable. It means that equal elements preserve their order relative to each other after sorting" />
+      <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified selector function. The sort is stable. It means that equal elements preserve their order relative to each other after sorting" />
+      <item value="sort By" />
       <item value="category" />
       <item value="Transient" />
       <item value="Pattern Run" />
@@ -47,18 +54,11 @@
       <item value="get Current User Auth Value" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
       <item value="You can choose one of the three unpopular units of pt, in, mm as the subunits, the subunits is used to avoid the adverse effects caused by modifying DisplayMetrics#density, after using the subunits, you can write the pixel size on the design, you don't need to convert it to dp" />
-      <item value="is Parent Invisible" />
-      <item value="is Support Visible" />
-      <item value="m Is First Visible" />
-      <item value="m Abort Init Visible" />
-      <item value="grid Cell" />
-      <item value="栅格单元" />
-      <item value="shan'ge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3107" />
-        <entry key="ENGLISH" value="3108" />
+        <entry key="CHINESE" value="3115" />
+        <entry key="ENGLISH" value="3116" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663035963930" />
+    <option name="lastTrimTime" value="1663917154782" />
   </component>
 </application>
