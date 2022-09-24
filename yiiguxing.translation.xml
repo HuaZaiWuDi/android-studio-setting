@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
-      <item value="渐隐" />
-      <item value="jian'yin" />
-      <item value="jian'y" />
-      <item value="Canvas will be translated, so 0,0 is where we start drawing" />
-      <item value="Return the drawable's bounds Rect. Note: for efficiency, the returned object may be the same object stored in the drawable (though this is not guaranteed), so if a persistent copy of the bounds is needed, call copyBounds(rect) instead. You should also not change the object returned by this method as it may be the same object stored in the drawable. Returns: The bounds of the drawable (which may change later, so caller beware). DO NOT ALTER the returned object as it may change the stored bounds of this drawable." />
-      <item value="end Inclusive" />
-      <item value="Subtracts the other value from this value." />
-      <item value="hange the animation style resource for this popup. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods. Params: animationStyle – animation style to use when the popup appears and disappears. Set to -1 for the default animation, 0 for no animation, or a resource identifier for an explicit animation." />
-      <item value="Sets the enter transition to be used when the popup window is shown. Params: enterTransition – the enter transition, or null to clear See Also: getEnterTransition()" />
-      <item value="set Transitioning To Dismiss" />
-      <item value="Alignment of the popup relative to the anchor" />
-      <item value="Width and height can be set to -1 to update location only. Calling this function also updates the window with the current popup state as described for update()." />
-      <item value="Updates the position and the dimension of the popup window." />
-      <item value="remove View Immediate" />
-      <item value="Start of window types that represent normal application windows." />
-      <item value="Window type: Application overlay windows are displayed above all activity windows (types between FIRST_APPLICATION_WINDOW and LAST_APPLICATION_WINDOW) but below critical system windows like the status bar or IME. The system may change the position, size, or visibility of these windows at anytime to reduce visual clutter to the user and also manage resources. Requires android.Manifest.permission.SYSTEM_ALERT_WINDOW permission. The system will adjust the importance of processes with this window type to reduce the chance of the low-memory-killer killing them. In multi-user systems shows only on the owning user's screen." />
-      <item value="TRANSLUCENT" />
-      <item value="Assign the passed LayoutParams to the passed View and add the view to the window. Throws WindowManager.BadTokenException for certain programming errors, such as adding a second view to a window without removing the first view. Throws WindowManager.InvalidDisplayException if the window is on a secondary Display and the specified display can't be found (see android.app.Presentation). Params: view – The view to be added to this window. params – The LayoutParams to assign to view." />
-      <item value="The new ViewHolder will be used to display items of the adapter using onBindViewHolder(RecyclerView.ViewHolder, int, List). Since it will be re-used to display different items in the data set, it is a good idea to cache references to sub views of the View to avoid unnecessary View.findViewById(int) calls." />
-      <item value="Called when RecyclerView needs a new RecyclerView.ViewHolder of the given type to represent an item. This new ViewHolder should be constructed with a new View that can represent the items of the given type. You can either create a new View manually or inflate it from an XML layout file. The new ViewHolder will be used to display items of the adapter using onBindViewHolder(RecyclerView.ViewHolder, int, List). Since it will be re-used to display different items in the data set, it is a good idea to cache references to sub views of the View to avoid unnecessary View.findViewById(int) calls." />
-      <item value="is View Under" />
-      <item value="Find the topmost child under the given point within the parent view's coordinate system." />
-      <item value="X position to test in the parent's coordinate system" />
-      <item value="Scrim View" />
-      <item value="Called when a child of RecyclerView does not want RecyclerView and its ancestors to intercept touch events with ViewGroup.onInterceptTouchEvent(MotionEvent). Params: disallowIntercept – True if the child does not want the parent to intercept touch events. See Also: ViewParent.requestDisallowInterceptTouchEvent(boolean)" />
-      <item value="Process a touch event as part of a gesture that was claimed by returning true from a previous call to onInterceptTouchEvent. Params: e – MotionEvent describing the touch event. All coordinates are in the RecyclerView's coordinate system." />
-      <item value="Silently observe andor take over touch events sent to the RecyclerView before they are handled by either the RecyclerView itself or its child views. The onInterceptTouchEvent methods of each attached OnItemTouchListener will be run in the order in which each listener was added, before any other touch processing by the RecyclerView itself or child views occurs. Params: e – MotionEvent describing the touch event. All coordinates are in the RecyclerView's coordinate system. Returns: true if this OnItemTouchListener wishes to begin intercepting touch events, false to continue with the current behavior and continue observing future events in the gesture." />
-      <item value="Add an RecyclerView.OnItemTouchListener to intercept touch events before they are dispatched to child views or this view's standard scrolling behavior. Client code may use listeners to implement item manipulation behavior. Once a listener returns true from RecyclerView.OnItemTouchListener.onInterceptTouchEvent(RecyclerView, MotionEvent) its RecyclerView.OnItemTouchListener.onTouchEvent(RecyclerView, MotionEvent) method will be called for each incoming MotionEvent until the end of the gesture" />
-      <item value="Looks for an OnItemTouchListener that wants to intercept. Calls RecyclerView.OnItemTouchListener.onInterceptTouchEvent(RecyclerView, MotionEvent) on each of the registered RecyclerView.OnItemTouchListeners, passing in the MotionEvent. If one returns true and the action is not ACTION_CANCEL, saves the intercepting OnItemTouchListener to be called for future onTouchEvent(MotionEvent) and immediately returns true. If none want to intercept or the action is ACTION_CANCEL, returns false." />
-      <item value="&lt;ol&gt; &lt;li&gt; You will receive the down event here. &lt;li&gt; The down event will be handled either by a child of this view group, or given to your own onTouchEvent() method to handle; this means you should implement onTouchEvent() to return true, so you will continue to see the rest of the gesture (instead of looking for a parent view to handle it). Also, by returning true from onTouchEvent(), you will not receive any following events in onInterceptTouchEvent() and all touch processing must happen in onTouchEvent() like normal. &lt;li&gt; For as long as you return false from this function, each following event (up to and including the final up) will be delivered first here and then to the target's onTouchEvent(). &lt;li&gt; If you return true from here, you will not receive any following events: the target view will receive the same event but with the action {@link MotionEventACTION_CANCEL}, and all further events will be delivered to your onTouchEvent() method and no longer appear here. &lt;ol&gt;" />
-      <item value="p&gt;Using this function takes some care, as it has a fairly complicated interaction with {@link ViewonTouchEvent(MotionEvent) View.onTouchEvent(MotionEvent)}, and using it requires implementing that method as well as this one in the correct way. Events will be received in the following order:" />
-      <item value="Return true to steal motion events from the children and have them dispatched to this ViewGroup through onTouchEvent(). The current target will receive an ACTION_CANCEL event, and no further messages will be delivered here." />
-      <item value="&lt;p&gt;Using this function takes some care, as it has a fairly complicated interaction with {@link ViewonTouchEvent(MotionEvent) View.onTouchEvent(MotionEvent)}, and using it requires implementing that method as well as this one in the correct way. Events will be received in the following order:" />
-      <item value="Implement this method to intercept all touch screen motion events. This allows you to watch events as they are dispatched to your children, and take ownership of the current gesture at any point." />
-      <item value="Implement this method to intercept hover events before they are handled by child views. This method is called before dispatching a hover event to a child of the view group or to the view group's own onHoverEvent to allow the view group a chance to intercept the hover event. This method can also be used to watch all pointer motions that occur within the bounds of the view group even when the pointer is hovering over a child of the view group rather than over the view group itself." />
-      <item value="Pass the touch screen motion event down to the target view, or this view if it is the target." />
-      <item value="dispatch Touch Event" />
-      <item value="Internal flags. This field should be made private, so it is hidden from the SDK." />
-      <item value="Discouraged Private Api" />
-      <item value="Change the z order of the child so it's on top of all other children. This ordering change may affect layout, if this container uses an order-dependent layout scheme (e.g., LinearLayout). Prior to android.os.Build.VERSION_CODES.KITKAT this method should be followed by calls to requestLayout() and View.invalidate() on this parent to force the parent to redraw with the new child ordering. Params: child – The child to bring to the top of the z order" />
-      <item value="Called when a child does not want this parent and its ancestors to intercept touch events with ViewGroup.onInterceptTouchEvent(MotionEvent). This parent should pass this call onto its parents. This parent must obey this request for the duration of the touch (that is, only clear the flag after this parent has received an up or a cancel. Params: disallowIntercept – True if the child does not want the parent to intercept touch events." />
-      <item value="Inflate Exception" />
-      <item value="ticket" />
-      <item value="get observable from eventType" />
-      <item value="A class that has an Android lifecycle. These events can be used by custom components to handle lifecycle changes without implementing any code inside the Activity or the Fragment. See Also: Lifecycle" />
-      <item value="照明" />
-      <item value="zhao'm" />
-      <item value="zha" />
-      <item value="zhaom" />
-      <item value="peek Wrapper For" />
+      <item value="不可点击" />
+      <item value="bu" />
+      <item value="un Click" />
+      <item value="dis Click" />
+      <item value="v dis Click" />
+      <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified selector function." />
+      <item value="Sorts elements in the list in-place descending according to their natural sort order." />
+      <item value="The sort is stable. It means that equal elements preserve their order relative to each other after sorting." />
+      <item value="sort By Descending" />
+      <item value="The sort is stable. It means that equal elements preserve their order relative to each other after sorting" />
+      <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified selector function. The sort is stable. It means that equal elements preserve their order relative to each other after sorting" />
+      <item value="sort By" />
+      <item value="category" />
+      <item value="Transient" />
+      <item value="Pattern Run" />
+      <item value="推荐" />
+      <item value="PatternRun" />
+      <item value="特殊字符（中文字符 仅需要 逗号、括号、顿号，英文字符：括号，双引号，逗号，句号（点），下划线、斜杠，短横杠，空格）" />
+      <item value="、特殊字符（中文字符 仅需要 逗号、括号、顿号，英文字符：括号，双引号，逗号，句号（点），下划线、斜杠，短横杠，空格）" />
+      <item value="Special characters (Chinese characters only require commas, brackets, commas, English characters: brackets, double quotation marks, commas, periods (dots), underscores, slashes, dashes, spaces)" />
+      <item value="这句话是用来验证正则,看看没有特殊符号" />
+      <item value="这句话是用来验证正则,看看没有" />
+      <item value="这句话是用来验证正则" />
+      <item value="这句话是用来验证正则ssssdgsgdfhgsd" />
+      <item value="这句话是用来验证曾真" />
+      <item value="zhe'ju" />
+      <item value="这是一句" />
+      <item value="Dies ist ein deutscher Satz, überprüfen Sie das regelmäßig" />
+      <item value="这是一句德语，验证正则" />
+      <item value="这是一句德语，验证zheng'c" />
+      <item value="这是一句德语，" />
+      <item value="zhe's" />
+      <item value="德语" />
+      <item value="de" />
+      <item value="法语" />
+      <item value="西班牙" />
+      <item value="ss" />
+      <item value="意大利语" />
+      <item value="意大利" />
+      <item value="yi'da" />
+      <item value="Opacity" />
+      <item value="Conversion" />
+      <item value="西班牙语" />
+      <item value="意大利u'yi" />
+      <item value="yi'd" />
+      <item value="xi'ban'y" />
+      <item value="fayu" />
+      <item value="de'yu" />
+      <item value="den" />
+      <item value="Erneute Übereinstimmung" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3263" />
-        <entry key="ENGLISH" value="3264" />
+        <entry key="CHINESE" value="3125" />
+        <entry key="ENGLISH" value="3125" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
@@ -70,13 +70,13 @@
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="SPANISH" value="8" />
+        <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="6" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663574194066" />
+    <option name="lastTrimTime" value="1663917154782" />
   </component>
 </application>
