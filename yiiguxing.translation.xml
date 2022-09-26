@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="强制跟新数据" />
+      <item value="强制g" />
+      <item value="强制g'w'n'g'z" />
+      <item value="qaing'z" />
+      <item value="&#9;i" />
+      <item value="&#9;NG" />
+      <item value="fouce" />
+      <item value="强制" />
       <item value="不可点击" />
       <item value="bu" />
       <item value="un Click" />
@@ -46,19 +54,11 @@
       <item value="yi'da" />
       <item value="Opacity" />
       <item value="Conversion" />
-      <item value="西班牙语" />
-      <item value="意大利u'yi" />
-      <item value="yi'd" />
-      <item value="xi'ban'y" />
-      <item value="fayu" />
-      <item value="de'yu" />
-      <item value="den" />
-      <item value="Erneute Übereinstimmung" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3125" />
-        <entry key="ENGLISH" value="3125" />
+        <entry key="CHINESE" value="3153" />
+        <entry key="ENGLISH" value="3153" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
@@ -67,6 +67,7 @@
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="KOREAN" value="13" />
         <entry key="DUTCH" value="1" />
+        <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
