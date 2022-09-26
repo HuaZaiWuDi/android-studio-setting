@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The adapter position of the first fully visible item or RecyclerView.NO_POSITION if there aren't any visible items." />
+      <item value="Returns the adapter position of the first fully visible view. This position does not include adapter changes that were dispatched after the last layout pass." />
+      <item value="Check if this view can be scrolled horizontally in a certain direction." />
       <item value="r – If true is returned, r holds the global coordinates of the visible portion of this view. globalOffset – If true is returned, globalOffset holds the dx,dy between this view and its root. globalOffet may be null." />
       <item value="true if r is non-empty (i.e. part of the view is visible at the root level." />
       <item value="If some part of this view is not clipped by any of its parents, then return that area in r in global (root) coordinates. To convert r to local coordinates (without taking possible View rotations into account), offset it by -globalOffset (e.g. r.offset(-globalOffset.x, -globalOffset.y)). If the view is completely clipped or translated out, return false. Params: r – If true is returned, r holds the global coordinates of the visible portion of this view. globalOffset – If true is returned, globalOffset holds the dx,dy between this view and its root. globalOffet may be null. Returns: true if r is non-empty (i.e. part of the view is visible at the root level." />
@@ -51,14 +54,11 @@
       <item value="de" />
       <item value="法语" />
       <item value="西班牙" />
-      <item value="ss" />
-      <item value="意大利语" />
-      <item value="意大利" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3155" />
-        <entry key="ENGLISH" value="3156" />
+        <entry key="CHINESE" value="3158" />
+        <entry key="ENGLISH" value="3159" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
