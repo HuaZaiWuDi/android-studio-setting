@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Negative to check scrolling left, positive to check scrolling right." />
+      <item value="Check if this view can be scrolled horizontally in a certain direction. Params: direction – Negative to check scrolling left, positive to check scrolling right." />
+      <item value="direction – Negative to check scrolling left, positive to check scrolling right." />
+      <item value="true if this view can be scrolled in the specified direction, false otherwise." />
       <item value="The adapter position of the first fully visible item or RecyclerView.NO_POSITION if there aren't any visible items." />
       <item value="Returns the adapter position of the first fully visible view. This position does not include adapter changes that were dispatched after the last layout pass." />
       <item value="Check if this view can be scrolled horizontally in a certain direction." />
@@ -50,15 +54,11 @@
       <item value="这是一句德语，验证zheng'c" />
       <item value="这是一句德语，" />
       <item value="zhe's" />
-      <item value="德语" />
-      <item value="de" />
-      <item value="法语" />
-      <item value="西班牙" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3158" />
-        <entry key="ENGLISH" value="3159" />
+        <entry key="CHINESE" value="3162" />
+        <entry key="ENGLISH" value="3163" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
