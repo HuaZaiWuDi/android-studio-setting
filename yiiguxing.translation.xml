@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="cell Width" />
       <item value="Use CustomViewTarget if loading the content into a view, the download API if in the background (http:bumptech.github.ioglidedocgetting-started.htmlbackground-threads), or a CustomTarget for any specialized use-cases. Using SimpleTarget or BaseTarget is unsafe if the user does not implement onLoadCleared, resulting in recycled bitmaps being referenced from the UI and hard to root-cause crashes." />
       <item value="Child cannot scroll, allow all parents to intercept" />
       <item value="Early return if child can't scroll in same direction as parent" />
@@ -53,12 +54,11 @@
       <item value="这句话是用来验证正则ssssdgsgdfhgsd" />
       <item value="这句话是用来验证曾真" />
       <item value="zhe'ju" />
-      <item value="这是一句" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3168" />
-        <entry key="ENGLISH" value="3169" />
+        <entry key="CHINESE" value="3169" />
+        <entry key="ENGLISH" value="3170" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
