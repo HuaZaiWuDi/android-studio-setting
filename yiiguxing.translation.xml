@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Sets the thumb offset that allows the thumb to extend out of the range of the track. Params: thumbOffset – The offset amount in pixels." />
       <item value="Project app_lumiapp_android_2 is using the following JDK location when running Gradle: UserseigenstoneeigenstoneLibraryJavaJavaVirtualMachinesazul-1.8.0_302ContentsHome Using different JDK locations on different processes might cause Gradle to spawn multiple daemons, for example, by executing Gradle tasks from a terminal while using Android Studio." />
       <item value="but no encoding declared" />
       <item value="Beta" />
@@ -53,7 +54,6 @@
       <item value="PatternRun" />
       <item value="特殊字符（中文字符 仅需要 逗号、括号、顿号，英文字符：括号，双引号，逗号，句号（点），下划线、斜杠，短横杠，空格）" />
       <item value="、特殊字符（中文字符 仅需要 逗号、括号、顿号，英文字符：括号，双引号，逗号，句号（点），下划线、斜杠，短横杠，空格）" />
-      <item value="Special characters (Chinese characters only require commas, brackets, commas, English characters: brackets, double quotation marks, commas, periods (dots), underscores, slashes, dashes, spaces)" />
     </histories>
     <option name="languageScores">
       <map>
