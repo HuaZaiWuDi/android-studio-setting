@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="When used on an editable text, the &lt;code&gt;inputType&lt;code&gt; attribute's value must be combined with the &lt;code&gt;textMultiLine&lt;code&gt; flag for the maxLines attribute to apply." />
       <item value="confirm Send Automation 2 Cloud" />
       <item value="Google Place Repository" />
       <item value="Sets the thumb that will be drawn at the end of the progress meter within the SeekBar. If the thumb is a valid drawable (i.e. not null), half its width will be used as the new thumb offset (@see setThumbOffset(int)). Params: thumb – Drawable representing the thumb" />
@@ -53,7 +54,6 @@
       <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified selector function. The sort is stable. It means that equal elements preserve their order relative to each other after sorting" />
       <item value="sort By" />
       <item value="category" />
-      <item value="Transient" />
     </histories>
     <option name="languageScores">
       <map>
