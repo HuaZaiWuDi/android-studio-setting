@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="See base URL for details of how the value will be resolved against a base URL to create the full endpoint URL." />
       <item value="Pretreatment service used for check if need navigation." />
       <item value="Returns the ViewModelStore associated with this activity Overriding this method is no longer supported and this method will be made final in a future version of ComponentActivity. Returns: a ViewModelStore Throws: IllegalStateException – if called before the Activity is attached to the Application instance i.e., before onCreate()" />
       <item value="When used on an editable text, the &lt;code&gt;inputType&lt;code&gt; attribute's value must be combined with the &lt;code&gt;textMultiLine&lt;code&gt; flag for the maxLines attribute to apply." />
@@ -53,7 +54,6 @@
       <item value="The sort is stable. It means that equal elements preserve their order relative to each other after sorting." />
       <item value="sort By Descending" />
       <item value="The sort is stable. It means that equal elements preserve their order relative to each other after sorting" />
-      <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified selector function. The sort is stable. It means that equal elements preserve their order relative to each other after sorting" />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,5 +79,12 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1664417969500" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
   </component>
 </application>
