@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Inside the padding and overlaid." />
       <item value="See base URL for details of how the value will be resolved against a base URL to create the full endpoint URL." />
       <item value="Pretreatment service used for check if need navigation." />
       <item value="Returns the ViewModelStore associated with this activity Overriding this method is no longer supported and this method will be made final in a future version of ComponentActivity. Returns: a ViewModelStore Throws: IllegalStateException – if called before the Activity is attached to the Application instance i.e., before onCreate()" />
@@ -53,7 +54,6 @@
       <item value="Sorts elements in the list in-place descending according to their natural sort order." />
       <item value="The sort is stable. It means that equal elements preserve their order relative to each other after sorting." />
       <item value="sort By Descending" />
-      <item value="The sort is stable. It means that equal elements preserve their order relative to each other after sorting" />
     </histories>
     <option name="languageScores">
       <map>
