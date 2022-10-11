@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The default value displayed in the prompt dialog." />
+      <item value="in Sample Size" />
       <item value="Hit Test Result" />
       <item value="do Upload" />
       <item value="VOICE ASSISTANT SKILL" />
@@ -52,8 +54,6 @@
       <item value="bu" />
       <item value="un Click" />
       <item value="dis Click" />
-      <item value="v dis Click" />
-      <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified selector function." />
     </histories>
     <option name="languageScores">
       <map>
