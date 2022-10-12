@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Community Web Fragment" />
       <item value="全局" />
       <item value="The default value displayed in the prompt dialog." />
       <item value="in Sample Size" />
@@ -53,7 +54,6 @@
       <item value="强制" />
       <item value="不可点击" />
       <item value="bu" />
-      <item value="un Click" />
     </histories>
     <option name="languageScores">
       <map>
