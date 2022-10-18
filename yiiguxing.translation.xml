@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="entire window" />
+      <item value="When FLAG_DIM_BEHIND is set, this is the amount of dimming to apply. Range is from 1.0 for completely opaque to 0.0 for no dim.&#10;" />
+      <item value="When FLAG_DIM_BEHIND is set, this is the amount of dimming to apply. Range is from 1.0 for completely opaque to 0.0 for no dim." />
+      <item value="dim Amount" />
       <item value="unite Card Data View Model" />
       <item value="全局" />
       <item value="Community Web Fragment" />
@@ -50,15 +54,11 @@
       <item value="强制g'w'n'g'z" />
       <item value="qaing'z" />
       <item value="&#9;i" />
-      <item value="&#9;NG" />
-      <item value="fouce" />
-      <item value="强制" />
-      <item value="不可点击" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3174" />
-        <entry key="ENGLISH" value="3187" />
+        <entry key="CHINESE" value="3175" />
+        <entry key="ENGLISH" value="3188" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
@@ -71,7 +71,7 @@
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ESPERANTO" value="12" />
+        <entry key="ESPERANTO" value="14" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="6" />
         <entry key="VIETNAMESE" value="1" />
@@ -87,5 +87,7 @@
         <option name="primaryLanguage" value="ESPERANTO" />
       </google-translate>
     </option>
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
   </component>
 </application>
