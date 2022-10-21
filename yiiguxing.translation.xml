@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Gesture is parallel, query child if movement in that direction is possible" />
       <item value="OFFSCREEN PAGE LIMIT DEFAULT" />
       <item value="entire window" />
       <item value="When FLAG_DIM_BEHIND is set, this is the amount of dimming to apply. Range is from 1.0 for completely opaque to 0.0 for no dim.&#10;" />
@@ -53,7 +54,6 @@
       <item value="强制跟新数据" />
       <item value="强制g" />
       <item value="强制g'w'n'g'z" />
-      <item value="qaing'z" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ESPERANTO" value="14" />
+        <entry key="ESPERANTO" value="15" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="6" />
         <entry key="VIETNAMESE" value="1" />
