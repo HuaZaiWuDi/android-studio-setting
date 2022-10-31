@@ -978,6 +978,10 @@
           <option name="url" value="https://git.aqara.com/aqara-app/sdk/android/module_multi_lan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://cs.android.com/android/platform/superproject/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
