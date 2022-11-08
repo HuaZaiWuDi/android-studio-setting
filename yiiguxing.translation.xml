@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="DROP" />
       <item value="Returns drawables for the start, top, end, and bottom borders." />
       <item value="icon gravity view" />
       <item value="m Icon GRAVITY" />
@@ -53,7 +54,6 @@
       <item value="Check if this view can be scrolled horizontally in a certain direction. Params: direction – Negative to check scrolling left, positive to check scrolling right." />
       <item value="direction – Negative to check scrolling left, positive to check scrolling right." />
       <item value="true if this view can be scrolled in the specified direction, false otherwise." />
-      <item value="The adapter position of the first fully visible item or RecyclerView.NO_POSITION if there aren't any visible items." />
     </histories>
     <option name="languageScores">
       <map>
