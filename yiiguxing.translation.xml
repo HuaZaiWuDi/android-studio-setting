@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="incrementing generation means any currently-running diffs are discarded when they finish" />
       <item value="Expected performance impact from inlining is insignificant. Inlining works best for functions with parameters of functional types" />
       <item value="Expected performance impact from inlining is insignificant. Inlining works best for functions with parameters of functional type" />
       <item value="marquee" />
@@ -53,7 +54,6 @@
       <item value="Child cannot scroll, allow all parents to intercept" />
       <item value="Early return if child can't scroll in same direction as parent" />
       <item value="assuming ViewPager2 touch-slop is 2x touch-slop of child" />
-      <item value="Layout to wrap a scrollable component inside a ViewPager2. Provided as a solution to the problem where pages of ViewPager2 have nested scrollable elements that scroll in the same direction as ViewPager2. The scrollable element needs to be the immediate and only child of this host layout. This solution has limitations when using multiple levels of nested scrollable elements (e.g. a horizontal RecyclerView in a vertical RecyclerView in a horizontal ViewPager2)." />
     </histories>
     <option name="languageScores">
       <map>
