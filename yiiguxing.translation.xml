@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="get Column Count For Accessibility" />
+      <item value="Row count is one more than the last item's row index." />
       <item value="Returns true if Glide should check the AndroidManifest for GlideModules. Implementations should return false after they and their dependencies have migrated to Glide's annotation processor. Returns true by default." />
       <item value="Defines a set of dependencies and options to use when initializing Glide within an application. There can be at most one AppGlideModule in an application. Only Applications can include a AppGlideModule. Libraries must use LibraryGlideModule. Classes that extend AppGlideModule must be annotated with com.bumptech.glide.annotation.GlideModule to be processed correctly. Classes that extend AppGlideModule can optionally be annotated with com.bumptech.glide.annotation.Excludes to optionally exclude one or more LibraryGlideModule andor GlideModule classes. Once an application has migrated itself and all libraries it depends on to use Glide's annotation processor, AppGlideModule implementations should override isManifestParsingEnabled() and return false." />
       <item value="incrementing generation means any currently-running diffs are discarded when they finish" />
@@ -52,13 +54,11 @@
       <item value="LayoutManagers should prefer working in sizes and coordinates that include item decoration insets whenever possible. This allows the LayoutManager to effectively ignore decoration insets within measurement and layout code. See the following methods:" />
       <item value="Lay out the given child view within the RecyclerView using coordinates that include any current ItemDecorations and margins." />
       <item value="cell Width" />
-      <item value="Use CustomViewTarget if loading the content into a view, the download API if in the background (http:bumptech.github.ioglidedocgetting-started.htmlbackground-threads), or a CustomTarget for any specialized use-cases. Using SimpleTarget or BaseTarget is unsafe if the user does not implement onLoadCleared, resulting in recycled bitmaps being referenced from the UI and hard to root-cause crashes." />
-      <item value="Child cannot scroll, allow all parents to intercept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3178" />
-        <entry key="ENGLISH" value="3191" />
+        <entry key="CHINESE" value="3180" />
+        <entry key="ENGLISH" value="3193" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
@@ -71,7 +71,7 @@
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ESPERANTO" value="20" />
+        <entry key="ESPERANTO" value="22" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="6" />
         <entry key="VIETNAMESE" value="1" />
