@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="DROP" />
       <item value="RecyclerView listens for Adapter's notify events and calculates the effects of adapter data changes on existing Views. These calculations are used to decide which animations should be run. To support predictive animations, RecyclerView may rewrite or reorder Adapter changes to present the correct state to LayoutManager in pre-layout pass. For example, a newly added item is not included in pre-layout item count because pre-layout reflects the contents of the adapter before the item is added. Behind the scenes, RecyclerView offsets RecyclerView.Recycler.getViewForPosition(int) calls such that LayoutManager does not know about the new item's existence in pre-layout. The item will be available in second layout pass and will be included in the item count. Similar adjustments are made for moved and removed items as well." />
       <item value="Returns the total number of items that can be laid out. Note that this number is not necessarily equal to the number of items in the adapter, so you should always use this number for your position calculations and never access the adapter directly." />
       <item value="get Column Count For Accessibility" />
@@ -15,7 +16,6 @@
       <item value="Expected performance impact from inlining is insignificant. Inlining works best for functions with parameters of functional type" />
       <item value="marquee" />
       <item value="Hide the dialog, but do not dismiss it." />
-      <item value="DROP" />
       <item value="Returns drawables for the start, top, end, and bottom borders." />
       <item value="icon gravity view" />
       <item value="m Icon GRAVITY" />
