@@ -4,13 +4,14 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Hint the Android System that this view is not important for autofill, but its children (if any) will be traversed.." />
+      <item value="Hint the Android System that this view is important for autofill, and its children (if any) will be traversed.." />
+      <item value="Let the Android System use its heuristics to determine if the view is important for autofill." />
+      <item value="Hints the Android System whether the view node associated with this View should be included in a view structure used for autofill purposes." />
       <item value="Declare AutofillService implementation; only needed for a small number of apps that will be implementing an AutofillService. Framework parses meta-data and sets the service's Settings Activity based on what the meta-data resource points to." />
       <item value="Called to indicate the current autofill context should be commited. This method is typically called by Views that manage virtual views; for example, when the view is rendering an HTML page with a form and virtual views that represent the HTML elements, it should call this method after the form is submitted and another page is rendered. Note: This method does not need to be called on regular application lifecycle methods such as android.app.Activity.finish()." />
       <item value="Hint the Android System that this view is important for autofill, but its children (if any) will not be traversed." />
       <item value="Hint the Android System that this view is not important for autofill, and its children (if any) will not be traversed." />
-      <item value="Hint the Android System that this view is not important for autofill, but its children (if any) will be traversed.." />
-      <item value="Hint the Android System that this view is important for autofill, and its children (if any) will be traversed.." />
-      <item value="Let the Android System use its heuristics to determine if the view is important for autofill." />
       <item value="DROP" />
       <item value="RecyclerView listens for Adapter's notify events and calculates the effects of adapter data changes on existing Views. These calculations are used to decide which animations should be run. To support predictive animations, RecyclerView may rewrite or reorder Adapter changes to present the correct state to LayoutManager in pre-layout pass. For example, a newly added item is not included in pre-layout item count because pre-layout reflects the contents of the adapter before the item is added. Behind the scenes, RecyclerView offsets RecyclerView.Recycler.getViewForPosition(int) calls such that LayoutManager does not know about the new item's existence in pre-layout. The item will be available in second layout pass and will be included in the item count. Similar adjustments are made for moved and removed items as well." />
       <item value="Returns the total number of items that can be laid out. Note that this number is not necessarily equal to the number of items in the adapter, so you should always use this number for your position calculations and never access the adapter directly." />
@@ -53,12 +54,11 @@
       <item value="confirm Send Automation 2 Cloud" />
       <item value="Google Place Repository" />
       <item value="Sets the thumb that will be drawn at the end of the progress meter within the SeekBar. If the thumb is a valid drawable (i.e. not null), half its width will be used as the new thumb offset (@see setThumbOffset(int)). Params: thumb – Drawable representing the thumb" />
-      <item value="Sets the thumb that will be drawn at the end of the progress meter within the SeekBar. If the thumb is a valid drawable (i.e. not null), half its width will be used as the new thumb offset (@see setThumbOffset(int))." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3191" />
-        <entry key="ENGLISH" value="3204" />
+        <entry key="CHINESE" value="3195" />
+        <entry key="ENGLISH" value="3208" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
