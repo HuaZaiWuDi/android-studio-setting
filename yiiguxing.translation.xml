@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Called to indicate the current autofill context should be cancelled. This method is typically called by Views that manage virtual views; for example, when the view is rendering an HTML page with a form and virtual views that represent the HTML elements, it should call this method if the user does not post the form but moves to another form in this page. Note: This method does not need to be called on regular application lifecycle methods such as android.app.Activity.finish()." />
+      <item value="If not explicitly specified, this view and its children don't support autofill. &lt;p&gt; This is done because autofill's means of uniquely identifying views doesn't work out of the box with View recycling." />
       <item value="Accessing hidden field LandroidappActivity;-&gt;mAutoFillResetNeeded:Z (greylist-max-o, reflection, denied)" />
       <item value="Sets the mode for determining whether this view is considered important for autofill. The platform determines the importance for autofill automatically but you can use this method to customize the behavior. For example: When the view contents is irrelevant for autofill (for example, a text field used in a &quot;Captcha&quot; challenge), it should be View.IMPORTANT_FOR_AUTOFILL_NO. When both the view and its children are irrelevant for autofill (for example, the root view of an activity containing a spreadhseet editor), it should be View.IMPORTANT_FOR_AUTOFILL_NO_EXCLUDE_DESCENDANTS. When the view content is relevant for autofill but its children aren't (for example, a credit card expiration date represented by a custom view that overrides the proper autofill methods and has 2 children representing the month and year), it should be View.IMPORTANT_FOR_AUTOFILL_YES_EXCLUDE_DESCENDANTS. NOTE: setting the mode as does View.IMPORTANT_FOR_AUTOFILL_NO or View.IMPORTANT_FOR_AUTOFILL_NO_EXCLUDE_DESCENDANTS does not guarantee the view (and its children) will be always be considered not important; for example, when the user explicitly makes an autofill request, all views are considered important. See isImportantForAutofill(View) for more details about how the View's importance for autofill is used." />
       <item value="Returns true if autofill is supported by the current device and is supported for this user. Autofill is typically supported, but it could be unsupported in cases like: Low-end devices. Device policy rules that forbid its usage." />
@@ -52,13 +54,11 @@
       <item value="in Sample Size" />
       <item value="Hit Test Result" />
       <item value="do Upload" />
-      <item value="VOICE ASSISTANT SKILL" />
-      <item value="Inside the padding and overlaid." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3202" />
-        <entry key="ENGLISH" value="3215" />
+        <entry key="CHINESE" value="3204" />
+        <entry key="ENGLISH" value="3217" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
