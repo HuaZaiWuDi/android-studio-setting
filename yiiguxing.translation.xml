@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns true if autofill is supported by the current device and is supported for this user. Autofill is typically supported, but it could be unsupported in cases like: Low-end devices. Device policy rules that forbid its usage." />
+      <item value="Called by android.app.Activity to commit or cancel the session on finish." />
+      <item value="Explicitly requests a new autofill context. Normally, the autofill context is automatically started if necessary when notifyViewEntered(View) is called, but this method should be used in the cases where it must be explicitly started. For example, when the view offers an AUTOFILL option on its contextual overflow menu, and the user selects it. Params: view – view requesting the new autofill context." />
       <item value="whether the view is considered important for autofill." />
       <item value="Sets the hints that help an android.service.autofill.AutofillService determine how to autofill the view with the user's data." />
       <item value="Hint the Android System that this view is not important for autofill, but its children (if any) will be traversed.." />
@@ -51,14 +54,11 @@
       <item value="Inside the padding and overlaid." />
       <item value="See base URL for details of how the value will be resolved against a base URL to create the full endpoint URL." />
       <item value="Pretreatment service used for check if need navigation." />
-      <item value="Returns the ViewModelStore associated with this activity Overriding this method is no longer supported and this method will be made final in a future version of ComponentActivity. Returns: a ViewModelStore Throws: IllegalStateException – if called before the Activity is attached to the Application instance i.e., before onCreate()" />
-      <item value="When used on an editable text, the &lt;code&gt;inputType&lt;code&gt; attribute's value must be combined with the &lt;code&gt;textMultiLine&lt;code&gt; flag for the maxLines attribute to apply." />
-      <item value="confirm Send Automation 2 Cloud" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3197" />
-        <entry key="ENGLISH" value="3210" />
+        <entry key="CHINESE" value="3201" />
+        <entry key="ENGLISH" value="3214" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
