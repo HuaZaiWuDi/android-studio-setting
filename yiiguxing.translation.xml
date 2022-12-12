@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Called to indicate the current autofill context should be commited. This method is typically called by Views that manage virtual views; for example, when the view is rendering an HTML page with a form and virtual views that represent the HTML elements, it should call this method after the form is submitted and another page is rendered. Note: This method does not need to be called on regular application lifecycle methods such as android.app.Activity.finish()." />
       <item value="Hint the Android System that this view is important for autofill, but its children (if any) will not be traversed." />
       <item value="Hint the Android System that this view is not important for autofill, and its children (if any) will not be traversed." />
       <item value="Hint the Android System that this view is not important for autofill, but its children (if any) will be traversed.." />
@@ -53,12 +54,11 @@
       <item value="Sets the thumb that will be drawn at the end of the progress meter within the SeekBar. If the thumb is a valid drawable (i.e. not null), half its width will be used as the new thumb offset (@see setThumbOffset(int)). Params: thumb – Drawable representing the thumb" />
       <item value="Sets the thumb that will be drawn at the end of the progress meter within the SeekBar. If the thumb is a valid drawable (i.e. not null), half its width will be used as the new thumb offset (@see setThumbOffset(int))." />
       <item value="Sets the thumb that will be drawn at the end of the progress meter within the SeekBar." />
-      <item value="Sets the thumb offset that allows the thumb to extend out of the range of the track. Params: thumbOffset – The offset amount in pixels." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3189" />
-        <entry key="ENGLISH" value="3202" />
+        <entry key="CHINESE" value="3190" />
+        <entry key="ENGLISH" value="3203" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="BASQUE" value="1" />
         <entry key="GERMAN" value="5" />
