@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Sets the mode for determining whether this view is considered important for autofill. The platform determines the importance for autofill automatically but you can use this method to customize the behavior. For example: When the view contents is irrelevant for autofill (for example, a text field used in a &quot;Captcha&quot; challenge), it should be View.IMPORTANT_FOR_AUTOFILL_NO. When both the view and its children are irrelevant for autofill (for example, the root view of an activity containing a spreadhseet editor), it should be View.IMPORTANT_FOR_AUTOFILL_NO_EXCLUDE_DESCENDANTS. When the view content is relevant for autofill but its children aren't (for example, a credit card expiration date represented by a custom view that overrides the proper autofill methods and has 2 children representing the month and year), it should be View.IMPORTANT_FOR_AUTOFILL_YES_EXCLUDE_DESCENDANTS. NOTE: setting the mode as does View.IMPORTANT_FOR_AUTOFILL_NO or View.IMPORTANT_FOR_AUTOFILL_NO_EXCLUDE_DESCENDANTS does not guarantee the view (and its children) will be always be considered not important; for example, when the user explicitly makes an autofill request, all views are considered important. See isImportantForAutofill(View) for more details about how the View's importance for autofill is used." />
       <item value="Returns true if autofill is supported by the current device and is supported for this user. Autofill is typically supported, but it could be unsupported in cases like: Low-end devices. Device policy rules that forbid its usage." />
       <item value="Called by android.app.Activity to commit or cancel the session on finish." />
       <item value="Explicitly requests a new autofill context. Normally, the autofill context is automatically started if necessary when notifyViewEntered(View) is called, but this method should be used in the cases where it must be explicitly started. For example, when the view offers an AUTOFILL option on its contextual overflow menu, and the user selects it. Params: view – view requesting the new autofill context." />
@@ -53,7 +54,6 @@
       <item value="VOICE ASSISTANT SKILL" />
       <item value="Inside the padding and overlaid." />
       <item value="See base URL for details of how the value will be resolved against a base URL to create the full endpoint URL." />
-      <item value="Pretreatment service used for check if need navigation." />
     </histories>
     <option name="languageScores">
       <map>
