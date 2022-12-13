@@ -8,7 +8,6 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
     <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
   </component>
   <component name="EditorSettings">
