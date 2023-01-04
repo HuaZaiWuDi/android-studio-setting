@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="captcha" />
       <item value="Register a listener that will be notified whenever a child view is attached to or detached from RecyclerView. This listener will be called when a LayoutManager or the RecyclerView decides that a child view is no longer needed. If an application associates expensive or heavyweight data with item views, this may be a good place to release or free those resources. Params: listener – Listener to register" />
       <item value="Pattern Run" />
       <item value="&lt;p&gt;The resulting {@link android.view.ViewStructure} is then passed to the autofill service, which parses it looking for views that can be autofilled. If the service finds such views, it returns a data structure to the Android System containing the following optional info: &lt;ul&gt; &lt;li&gt;Datasets used to autofill subsets of views in the activity. &lt;li&gt;Id of views that the service can save their values for future autofilling. &lt;ul&gt; &lt;p&gt;When the service returns datasets, the Android System displays an autofill dataset picker UI associated with the view, when the view is focused on and is part of a dataset. The application can be notified when the UI is shown by registering an {@link AutofillCallback} through {@link registerCallback(AutofillCallback)}. When the user selects a dataset from the UI, all views present in the dataset are autofilled, through calls to {@link Viewautofill(AutofillValue)} or {@link Viewautofill(SparseArray)}. &lt;p&gt;When the service returns ids of savable views, the Android System keeps track of changes made to these views, so they can be used to determine if the autofill save UI is shown later. &lt;p&gt;The context is then finished when one of the following occurs: &lt;ul&gt; &lt;li&gt;{@link commit()} is called or all savable views are gone. &lt;li&gt;{@link cancel()} is called. &lt;ul&gt; &lt;p&gt;Finally, after the autofill context is commited (i.e., not cancelled), the Android System shows an autofill save UI if the value of savable views have changed. If the user selects the option to Save, the current value of the views is then sent to the autofill service. &lt;h3 id=&quot;additional-notes&quot;&gt;Additional notes&lt;h3&gt; &lt;p&gt;It is safe to call &lt;code&gt;AutofillManager&lt;code&gt; methods from any thread." />
@@ -53,7 +54,6 @@
       <item value="When FLAG_DIM_BEHIND is set, this is the amount of dimming to apply. Range is from 1.0 for completely opaque to 0.0 for no dim.&#10;" />
       <item value="When FLAG_DIM_BEHIND is set, this is the amount of dimming to apply. Range is from 1.0 for completely opaque to 0.0 for no dim." />
       <item value="dim Amount" />
-      <item value="unite Card Data View Model" />
     </histories>
     <option name="languageScores">
       <map>
