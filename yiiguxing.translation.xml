@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Creates an Executor that uses a single worker thread operating off an unbounded queue. (Note however that if this single thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks.) Tasks are guaranteed to execute sequentially, and no more than one task will be active at any given time. Unlike the otherwise equivalent newFixedThreadPool(1) the returned executor is guaranteed not to be reconfigurable to use additional threads." />
       <item value="When set on a View, this listener method will be called instead of the view's own onApplyWindowInsets method." />
       <item value="Called when a new child is added to this ViewGroup. Overrides should always call super.onViewAdded." />
       <item value="Transforms a passed value to a LSB first byte array with the size of the specified capacity Params: capacity – size of the resulting byte array value – that should be represented as a byte array" />
@@ -53,7 +54,6 @@
       <item value="painter" />
       <item value="Set the number of pages that should be retained to either side of the currently visible page(s). Pages beyond this limit will be recreated from the adapter when needed. Set this to OFFSCREEN_PAGE_LIMIT_DEFAULT to use RecyclerView's caching strategy. The given value must either be larger than 0, or OFFSCREEN_PAGE_LIMIT_DEFAULT. Pages within limit pages away from the current page are created and added to the view hierarchy, even though they are not visible on the screen. Pages outside this limit will be removed from the view hierarchy, but the ViewHolders will be recycled as usual by RecyclerView. This is offered as an optimization. If you know in advance the number of pages you will need to support or have lazy-loading mechanisms in place on your pages, tweaking this setting can have benefits in perceived smoothness of paging animations and interaction. If you have a small number of pages (3-4) that you can keep active all at once, less time will be spent in layout for newly created view subtrees as the user pages back and forth. You should keep this limit low, especially if your pages have complex layouts. By default it is set to OFFSCREEN_PAGE_LIMIT_DEFAULT." />
       <item value="Gesture is parallel, query child if movement in that direction is possible" />
-      <item value="OFFSCREEN PAGE LIMIT DEFAULT" />
     </histories>
     <option name="languageScores">
       <map>
