@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="A set of requirements and priorities used to select a camera or return a filtered set of cameras." />
       <item value="RejectedExecutionException at discretion of {@code RejectedExecutionHandler}, if the task cannot be accepted for execution" />
       <item value="Creates an Executor that uses a single worker thread operating off an unbounded queue. (Note however that if this single thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks.) Tasks are guaranteed to execute sequentially, and no more than one task will be active at any given time. Unlike the otherwise equivalent newFixedThreadPool(1) the returned executor is guaranteed not to be reconfigurable to use additional threads." />
       <item value="When set on a View, this listener method will be called instead of the view's own onApplyWindowInsets method." />
@@ -53,7 +54,6 @@
       <item value="Check whether a particular package has been granted a particular permission. Params: permName – The name of the permission you are checking for. packageName – The name of the package you are checking against. Returns: If the package has the permission, PERMISSION_GRANTED is returned. If it does not have the permission, PERMISSION_DENIED is returned." />
       <item value="true to indicate adapter startup has begun, or false on immediate error" />
       <item value="painter" />
-      <item value="Set the number of pages that should be retained to either side of the currently visible page(s). Pages beyond this limit will be recreated from the adapter when needed. Set this to OFFSCREEN_PAGE_LIMIT_DEFAULT to use RecyclerView's caching strategy. The given value must either be larger than 0, or OFFSCREEN_PAGE_LIMIT_DEFAULT. Pages within limit pages away from the current page are created and added to the view hierarchy, even though they are not visible on the screen. Pages outside this limit will be removed from the view hierarchy, but the ViewHolders will be recycled as usual by RecyclerView. This is offered as an optimization. If you know in advance the number of pages you will need to support or have lazy-loading mechanisms in place on your pages, tweaking this setting can have benefits in perceived smoothness of paging animations and interaction. If you have a small number of pages (3-4) that you can keep active all at once, less time will be spent in layout for newly created view subtrees as the user pages back and forth. You should keep this limit low, especially if your pages have complex layouts. By default it is set to OFFSCREEN_PAGE_LIMIT_DEFAULT." />
     </histories>
     <option name="languageScores">
       <map>
