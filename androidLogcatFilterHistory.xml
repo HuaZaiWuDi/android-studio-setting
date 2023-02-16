@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.lumi.module.homeconfiguration " />
+        <option value="package:com.lumiunited.aqarahome " />
         <option value="package:com.lumi.module.homeconfiguration HomePanelFragment" />
         <option value="package:com.lumi.module.homeconfiguration mScrollOffsetY" />
-        <option value="package:com.lumiunited.aqarahome " />
         <option value="package:mine " />
       </list>
     </option>

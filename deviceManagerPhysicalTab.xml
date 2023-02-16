@@ -16,6 +16,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R52R901WYGZ" />
+          </Key>
+        </key>
+        <name value="samsung SM-T733" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="a909734e" />
           </Key>
         </key>
@@ -109,17 +120,6 @@
         </key>
         <name value="OPPO PEEM00" />
         <target value="Android API 33" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R52R901WYGZ" />
-          </Key>
-        </key>
-        <name value="samsung SM-T733" />
-        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
