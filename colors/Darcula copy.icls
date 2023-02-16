@@ -30,6 +30,21 @@
         <option name="FOREGROUND" value="99cc00" />
       </value>
     </option>
+    <option name="LOGCAT_V2_MESSAGE_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="facb10" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="4efa10" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_INFO">
+      <value>
+        <option name="FOREGROUND" value="2f3cf" />
+      </value>
+    </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
