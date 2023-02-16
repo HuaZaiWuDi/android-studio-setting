@@ -88,11 +88,22 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1676516302893" />
   </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="MICROSOFT" />
+  </component>
   <component name="Translation.States">
     <histories>
+      <item value="convert Payloads" />
       <item value="An ItemDecoration allows the application to add a special drawing and layout offset to specific item views from the adapter's data set. This can be useful for drawing dividers between items, highlights, visual grouping boundaries and more." />
       <item value="n ItemDecoration allows the application to add a special drawing and layout offset to specific item views from the adapter's data set. This can be useful for drawing dividers between items, highlights, visual grouping boundaries and more." />
       <item value="stack From End" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
