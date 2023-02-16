@@ -32,17 +32,27 @@
     </option>
     <option name="LOGCAT_V2_MESSAGE_ASSERT">
       <value>
-        <option name="FOREGROUND" value="facb10" />
+        <option name="FOREGROUND" value="f6a5a6" />
       </value>
     </option>
     <option name="LOGCAT_V2_MESSAGE_DEBUG">
       <value>
-        <option name="FOREGROUND" value="4efa10" />
+        <option name="FOREGROUND" value="43abf1" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ERROR">
+      <value>
+        <option name="FOREGROUND" value="f3272c" />
       </value>
     </option>
     <option name="LOGCAT_V2_MESSAGE_INFO">
       <value>
-        <option name="FOREGROUND" value="2f3cf" />
+        <option name="FOREGROUND" value="48bb31" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_WARNING">
+      <value>
+        <option name="FOREGROUND" value="bbbb23" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">

@@ -85,4 +85,14 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1676516302893" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="An ItemDecoration allows the application to add a special drawing and layout offset to specific item views from the adapter's data set. This can be useful for drawing dividers between items, highlights, visual grouping boundaries and more." />
+      <item value="n ItemDecoration allows the application to add a special drawing and layout offset to specific item views from the adapter's data set. This can be useful for drawing dividers between items, highlights, visual grouping boundaries and more." />
+      <item value="stack From End" />
+    </histories>
+  </component>
 </application>
