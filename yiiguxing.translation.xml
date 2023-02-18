@@ -93,7 +93,11 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogX" value="837" />
+    <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="代理" />
+      <item value="dai" />
       <item value="Create the PendingIntent object only if your app needs to be notified that the user allowed the shortcut to be pinned. Note that, if the pinning operation fails, your app isn't notified. We assume here that the app has implemented a method called createShortcutResultIntent() that returns a broadcast intent." />
       <item value="Sets if a shortcut would be valid even if it has been unpublishedinvisible by the app (as a dynamic or pinned shortcut). If it is long lived, it can be cached by various system services even after it has been unpublished as a dynamic shortcut." />
       <item value="Simple version of showDialog(int, Bundle) that does not take any arguments. Simply calls showDialog(int, Bundle) with null arguments. Deprecated Use the new DialogFragment class with FragmentManager instead; this is also available on older platforms through the Android compatibility package." />
@@ -108,8 +112,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
