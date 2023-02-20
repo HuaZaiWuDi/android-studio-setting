@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Checks if the specified app can modify system settings. As of API level 23, an app cannot modify system settings unless it declares the Manifest.permission.WRITE_SETTINGS permission in its manifest, and the user specifically grants the app this capability. To prompt the user to grant this approval, the app must send an intent with the action ACTION_MANAGE_WRITE_SETTINGS, which causes the system to display a permission management screen." />
+      <item value="Helper method to perform a general and comprehensive check of whether an operation that is protected by appops can be performed by a caller or not. e.g. OP_SYSTEM_ALERT_WINDOW and OP_WRITE_SETTINGS" />
       <item value="Apps that publish shortcuts should call this method whenever the user selects the shortcut containing the given ID or when the user completes an action in the app that is equivalent to selecting the shortcut. For more details, read about tracking shortcut usage. The information is accessible via android.app.usage.UsageStatsManager.queryEvents Typically, launcher apps use this information to build a prediction model so that they can promote the shortcuts that are likely to be used at the moment." />
       <item value="Shortcut to pin. If an app wants to pin an existing (either static or dynamic) shortcut, then it only needs to have an ID. Although other fields don't have to be set, the target shortcut must be enabled." />
       <item value="{@code TRUE} if the launcher supports this feature. Note the API will return without waiting for the user to respond, so getting {@code TRUE} from this API does not mean the shortcut was pinned successfully. {@code FALSE} if the launcher doesn't support this feature." />
@@ -122,8 +124,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
