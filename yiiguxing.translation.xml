@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Shortcut to pin. If an app wants to pin an existing (either static or dynamic) shortcut, then it only needs to have an ID. Although other fields don't have to be set, the target shortcut must be enabled." />
+      <item value="{@code TRUE} if the launcher supports this feature. Note the API will return without waiting for the user to respond, so getting {@code TRUE} from this API does not mean the shortcut was pinned successfully. {@code FALSE} if the launcher doesn't support this feature." />
       <item value="A blue ripple drawn atop a drawable resource." />
       <item value="If no child layers or mask is specified and the ripple is set as a View background, the ripple will be drawn atop the first available parent background within the View's hierarchy. In this case, the drawing region may extend outside of the Drawable bounds." />
       <item value="f no child layers or mask is specified and the ripple is set as a View background, the ripple will be drawn atop the first available parent background within the View's hierarchy. In this case, the drawing region may extend outside of the Drawable bounds." />
@@ -119,8 +121,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
