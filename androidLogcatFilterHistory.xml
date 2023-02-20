@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.lumiunited.aqarahome.play  " />
+    <option name="mostRecentlyUsed" value="package:com.lumi.module_device_join_config " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.lumiunited.aqarahome.play  " />
         <option value="package:com.lumiunited.aqarahome " />
+        <option value="package:com.lumi.module_device_join_config " />
+        <option value="package:" />
+        <option value="package:mine " />
+        <option value="package:com.lumiunited.aqarahome.play  " />
         <option value="package:com.lumi.module.homeconfiguration " />
         <option value="package:com.example.shortcutdemo " />
-        <option value="package:mine " />
         <option value="package:com.lumi.module.homeconfiguration HomePanelFragment" />
         <option value="package:com.lumi.module.homeconfiguration mScrollOffsetY" />
       </list>
