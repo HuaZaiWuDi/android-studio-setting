@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="a909734e" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 9" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-a909734e-YvJe7F._adb-tls-connect._tcp." />
           </Key>
@@ -22,17 +33,6 @@
         <name value="samsung SM-T733" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="a909734e" />
-          </Key>
-        </key>
-        <name value="Xiaomi MI 9" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -176,6 +176,27 @@
         <name value="HUAWEI HMA-AL00" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="(no serial number)" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="28201FDH300MS5" />
+          </Key>
+        </key>
+        <name value="Google Pixel 7 Pro" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
