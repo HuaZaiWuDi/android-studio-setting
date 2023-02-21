@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="is Calling Package Allowed To Perform App Ops Protected Operation" />
+      <item value="either of these permissions:" />
       <item value="People Space Widget Provider class." />
       <item value="Checks if the specified app can modify system settings. As of API level 23, an app cannot modify system settings unless it declares the Manifest.permission.WRITE_SETTINGS permission in its manifest, and the user specifically grants the app this capability. To prompt the user to grant this approval, the app must send an intent with the action ACTION_MANAGE_WRITE_SETTINGS, which causes the system to display a permission management screen." />
       <item value="Helper method to perform a general and comprehensive check of whether an operation that is protected by appops can be performed by a caller or not. e.g. OP_SYSTEM_ALERT_WINDOW and OP_WRITE_SETTINGS" />
@@ -125,8 +127,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
