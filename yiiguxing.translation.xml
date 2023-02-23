@@ -96,8 +96,9 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
-      <item value="Plays the ValueAnimator in reverse. If the animation is already running, it will stop itself and play backwards from the point reached when reverse was called. If the animation is not currently running, then it will start from the end and play backwards. This behavior is only set for the current animation; future playing of the animation will use the default behavior of playing forward" />
+      <item value="Sets the size of the shape drawn by this drawable." />
       <item value="Specify a bounding rectangle for the Drawable. This is where the drawable will draw when its draw() method is called." />
+      <item value="Plays the ValueAnimator in reverse. If the animation is already running, it will stop itself and play backwards from the point reached when reverse was called. If the animation is not currently running, then it will start from the end and play backwards. This behavior is only set for the current animation; future playing of the animation will use the default behavior of playing forward" />
       <item value="A Drawable that manages an array of other Drawables. These are drawn in array order, so the element with the largest index will be drawn on top. It can be defined in an XML file with the &lt;layer-list&gt; element. Each Drawable in the layer is defined in a nested &lt;item&gt;." />
       <item value="Allows us to get the optical insets for a Drawable. Since this is hidden we need to use reflection. Since the Insets class is hidden also, we return a Rect instead." />
       <item value="Multiple substitutions specified in non-positional format of string resource stringautomation_above_parm. Did you mean to add the formatted=&quot;false&quot; attribute?" />
@@ -133,8 +134,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
