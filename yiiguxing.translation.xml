@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="A Drawable that manages an array of other Drawables. These are drawn in array order, so the element with the largest index will be drawn on top. It can be defined in an XML file with the &lt;layer-list&gt; element. Each Drawable in the layer is defined in a nested &lt;item&gt;." />
+      <item value="Allows us to get the optical insets for a Drawable. Since this is hidden we need to use reflection. Since the Insets class is hidden also, we return a Rect instead." />
       <item value="Multiple substitutions specified in non-positional format of string resource stringautomation_above_parm. Did you mean to add the formatted=&quot;false&quot; attribute?" />
       <item value="verify" />
       <item value="is Calling Package Allowed To Perform App Ops Protected Operation" />
@@ -129,8 +131,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
