@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="A blue ripple drawn atop a drawable resource." />
+      <item value="forbidden" />
+      <item value="Invocation Target Exception" />
+      <item value="Reflective access to BACKGROUND_OPACITY_DURATION is forbidden when targeting API 33 and above" />
       <item value="Sets the size of the shape drawn by this drawable." />
       <item value="Specify a bounding rectangle for the Drawable. This is where the drawable will draw when its draw() method is called." />
       <item value="Plays the ValueAnimator in reverse. If the animation is already running, it will stop itself and play backwards from the point reached when reverse was called. If the animation is not currently running, then it will start from the end and play backwards. This behavior is only set for the current animation; future playing of the animation will use the default behavior of playing forward" />
@@ -111,7 +115,6 @@
       <item value="Apps that publish shortcuts should call this method whenever the user selects the shortcut containing the given ID or when the user completes an action in the app that is equivalent to selecting the shortcut. For more details, read about tracking shortcut usage. The information is accessible via android.app.usage.UsageStatsManager.queryEvents Typically, launcher apps use this information to build a prediction model so that they can promote the shortcuts that are likely to be used at the moment." />
       <item value="Shortcut to pin. If an app wants to pin an existing (either static or dynamic) shortcut, then it only needs to have an ID. Although other fields don't have to be set, the target shortcut must be enabled." />
       <item value="{@code TRUE} if the launcher supports this feature. Note the API will return without waiting for the user to respond, so getting {@code TRUE} from this API does not mean the shortcut was pinned successfully. {@code FALSE} if the launcher doesn't support this feature." />
-      <item value="A blue ripple drawn atop a drawable resource." />
       <item value="If no child layers or mask is specified and the ripple is set as a View background, the ripple will be drawn atop the first available parent background within the View's hierarchy. In this case, the drawing region may extend outside of the Drawable bounds." />
       <item value="f no child layers or mask is specified and the ripple is set as a View background, the ripple will be drawn atop the first available parent background within the View's hierarchy. In this case, the drawing region may extend outside of the Drawable bounds." />
       <item value="A touch feedback drawable may contain multiple child layers, including a special mask layer that is not drawn to the screen. A single layer may be set as the mask from XML by specifying its android:id value as android.R.id.mask. At run time, a single layer may be set as the mask using setId(..., android.R.id.mask) or an existing mask layer may be replaced using setDrawableByLayerId(android.R.id.mask, ...)." />
@@ -134,8 +137,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
