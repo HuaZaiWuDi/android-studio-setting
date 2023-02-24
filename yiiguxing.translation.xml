@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="The attribute android:allowBackup is deprecated from Android 12 and higher and may be removed in future versions. Consider adding the attribute android:dataExtractionRules specifying an @xml resource which configures cloud backups and device transfers on Android 12 and higher." />
       <item value="curve" />
       <item value="Displays an image subsampled as necessary to avoid loading too much image data into memory. After zooming in, a set of image tiles subsampled at higher resolution are loaded and displayed over the base layer. During pan and zoom, tiles off screen or higherlower resolution than required are discarded from memory. Tiles are no larger than the max supported bitmap size, so with large images tiling may be used even when zoomed out. v prefixes - coordinates, translations and distances measured in screen (view) pixels s prefixes - coordinates, translations and distances measured in rotated and cropped source image pixels (scaled) f prefixes - coordinates, translations and distances measured in original unrotated, uncropped source file pixels" />
       <item value="true if this view could ask the Handler to remove the Runnable, false otherwise. When the returned value is true, the Runnable may or may not have been actually removed from the message queue (for instance, if the Runnable was not in the queue already.)" />
@@ -148,7 +149,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
+        <entry key="CHINESE" value="56" />
         <entry key="ENGLISH" value="56" />
       </map>
     </option>
