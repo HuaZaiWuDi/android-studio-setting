@@ -96,6 +96,13 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="domain" />
+      <item value="domian" />
+      <item value="anonymous" />
+      <item value="anonym" />
+      <item value="a'non" />
+      <item value="anony" />
+      <item value="an" />
       <item value="auto Logout" />
       <item value="Using setJavaScriptEnabled can introduce XSS vulnerabilities into your application, review carefully" />
       <item value="Android Debug Database" />
@@ -139,18 +146,11 @@
       <item value="{@code TRUE} if the launcher supports this feature. Note the API will return without waiting for the user to respond, so getting {@code TRUE} from this API does not mean the shortcut was pinned successfully. {@code FALSE} if the launcher doesn't support this feature." />
       <item value="If no child layers or mask is specified and the ripple is set as a View background, the ripple will be drawn atop the first available parent background within the View's hierarchy. In this case, the drawing region may extend outside of the Drawable bounds." />
       <item value="f no child layers or mask is specified and the ripple is set as a View background, the ripple will be drawn atop the first available parent background within the View's hierarchy. In this case, the drawing region may extend outside of the Drawable bounds." />
-      <item value="A touch feedback drawable may contain multiple child layers, including a special mask layer that is not drawn to the screen. A single layer may be set as the mask from XML by specifying its android:id value as android.R.id.mask. At run time, a single layer may be set as the mask using setId(..., android.R.id.mask) or an existing mask layer may be replaced using setDrawableByLayerId(android.R.id.mask, ...)." />
-      <item value="Drawable that shows a ripple effect in response to state changes. The anchoring position of the ripple for a given state may be specified by calling setHotspot(float, float) with the corresponding state attribute identifier. A touch feedback drawable may contain multiple child layers, including a special mask layer that is not drawn to the screen. A single layer may be set as the mask from XML by specifying its android:id value as android.R.id.mask. At run time, a single layer may be set as the mask using setId(..., android.R.id.mask) or an existing mask layer may be replaced using setDrawableByLayerId(android.R.id.mask, ...). &lt;!-- A red ripple masked against an opaque rectangle. --&gt; &lt;ripple android:color=&quot;ffff0000&quot;&gt; &lt;item android:id=&quot;@android:idmask&quot; android:drawable=&quot;@android:colorwhite&quot; &gt; &lt;ripple&gt; If a mask layer is set, the ripple effect will be masked against that layer before it is drawn over the composite of the remaining child layers. If no mask layer is set, the ripple effect is masked against the composite of the child layers. &lt;!-- A green ripple drawn atop a black rectangle. --&gt; &lt;ripple android:color=&quot;ff00ff00&quot;&gt; &lt;item android:drawable=&quot;@android:colorblack&quot; &gt; &lt;ripple&gt; &lt;!-- A blue ripple drawn atop a drawable resource. --&gt; &lt;ripple android:color=&quot;ff0000ff&quot;&gt; &lt;item android:drawable=&quot;@drawablemy_drawable&quot; &gt; &lt;ripple&gt; If no child layers or mask is specified and the ripple is set as a View background, the ripple will be drawn atop the first available parent background within the View's hierarchy. In this case, the drawing region may extend outside of the Drawable bounds. &lt;!-- An unbounded red ripple. --&gt; &lt;ripple android:color=&quot;ffff0000&quot; &gt;" />
-      <item value="DURATION" />
-      <item value="osmdroid" />
-      <item value="代理" />
-      <item value="dai" />
-      <item value="Create the PendingIntent object only if your app needs to be notified that the user allowed the shortcut to be pinned. Note that, if the pinning operation fails, your app isn't notified. We assume here that the app has implemented a method called createShortcutResultIntent() that returns a broadcast intent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="92" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
