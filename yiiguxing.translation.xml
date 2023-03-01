@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="tencentSms" />
       <item value="Tells the WebView to enable JavaScript execution. The default is false." />
       <item value="Kernel" />
       <item value="domain" />
@@ -145,11 +146,10 @@
       <item value="Helper method to perform a general and comprehensive check of whether an operation that is protected by appops can be performed by a caller or not. e.g. OP_SYSTEM_ALERT_WINDOW and OP_WRITE_SETTINGS" />
       <item value="Apps that publish shortcuts should call this method whenever the user selects the shortcut containing the given ID or when the user completes an action in the app that is equivalent to selecting the shortcut. For more details, read about tracking shortcut usage. The information is accessible via android.app.usage.UsageStatsManager.queryEvents Typically, launcher apps use this information to build a prediction model so that they can promote the shortcuts that are likely to be used at the moment." />
       <item value="Shortcut to pin. If an app wants to pin an existing (either static or dynamic) shortcut, then it only needs to have an ID. Although other fields don't have to be set, the target shortcut must be enabled." />
-      <item value="{@code TRUE} if the launcher supports this feature. Note the API will return without waiting for the user to respond, so getting {@code TRUE} from this API does not mean the shortcut was pinned successfully. {@code FALSE} if the launcher doesn't support this feature." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
+        <entry key="CHINESE" value="94" />
         <entry key="ENGLISH" value="93" />
         <entry key="GERMAN" value="1" />
       </map>
