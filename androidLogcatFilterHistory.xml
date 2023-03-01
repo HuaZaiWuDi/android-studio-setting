@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:com.lumiunited.aqarahome " />
+        <option value="package:mine " />
         <option value="package:com.example.myapplication" />
         <option value="package:com.lumi.example.rm.ui" />
         <option value="package:com.lumi.module.homeconfiguration " />
