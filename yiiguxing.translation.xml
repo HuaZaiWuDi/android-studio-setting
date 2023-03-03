@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="get APK Expansion Files" />
+      <item value="Fence" />
       <item value="The traditional location for pictures and videos when mounting the device as a camera. Note that this is primarily a convention for the top-level public directory, as this convention makes no sense elsewhere." />
       <item value="Standard directory in which to place pictures that are available to the user. Note that this is primarily a convention for the top-level public directory, as the media scanner will find and collect pictures in any directory" />
       <item value="Standard directory in which to place any audio files that should be in the list of podcasts that the user can select (not as regular music). This may be combined with DIRECTORY_MUSIC, DIRECTORY_AUDIOBOOKS, DIRECTORY_NOTIFICATIONS, DIRECTORY_ALARMS, DIRECTORY_RINGTONES, and DIRECTORY_RECORDINGS as a series of directories to categorize a particular audio file as more than one type." />
@@ -144,13 +146,11 @@
       <item value="forbidden" />
       <item value="Invocation Target Exception" />
       <item value="Reflective access to BACKGROUND_OPACITY_DURATION is forbidden when targeting API 33 and above" />
-      <item value="Sets the size of the shape drawn by this drawable." />
-      <item value="Specify a bounding rectangle for the Drawable. This is where the drawable will draw when its draw() method is called." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
