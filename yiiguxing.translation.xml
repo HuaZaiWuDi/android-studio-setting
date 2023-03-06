@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677479950462" />
+    <option name="lastTrimTime" value="1678070288530" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="dependency" />
       <item value="get APK Expansion Files" />
       <item value="Fence" />
       <item value="The traditional location for pictures and videos when mounting the device as a camera. Note that this is primarily a convention for the top-level public directory, as this convention makes no sense elsewhere." />
@@ -145,11 +146,10 @@
       <item value="A blue ripple drawn atop a drawable resource." />
       <item value="forbidden" />
       <item value="Invocation Target Exception" />
-      <item value="Reflective access to BACKGROUND_OPACITY_DURATION is forbidden when targeting API 33 and above" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
+        <entry key="CHINESE" value="107" />
         <entry key="ENGLISH" value="107" />
         <entry key="GERMAN" value="1" />
       </map>
