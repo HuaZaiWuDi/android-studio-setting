@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="f the view later scrolls to move anchor to a different location, the popup will be moved correspondingly." />
+      <item value="Flip the location to align the right sides of the popup and anchor instead of left." />
+      <item value="max Available Height" />
       <item value="Called when the parent CoordinatorLayout is about to measure the given child view. This method can be used to perform custom or modified measurement of a child view in place of the default child measurement behavior. The Behavior's implementation can delegate to the standard CoordinatorLayout measurement behavior by calling parent.onMeasureChild." />
       <item value="Determine the current opacity of the scrim behind a given child view" />
       <item value="Supply a scrim color that will be painted behind the associated child view." />
@@ -143,14 +146,11 @@
       <item value="The attribute android:allowBackup is deprecated from Android 12 and higher and may be removed in future versions. Consider adding the attribute android:dataExtractionRules specifying an @xml resource which configures cloud backups and device transfers on Android 12 and higher." />
       <item value="curve" />
       <item value="Displays an image subsampled as necessary to avoid loading too much image data into memory. After zooming in, a set of image tiles subsampled at higher resolution are loaded and displayed over the base layer. During pan and zoom, tiles off screen or higherlower resolution than required are discarded from memory. Tiles are no larger than the max supported bitmap size, so with large images tiling may be used even when zoomed out. v prefixes - coordinates, translations and distances measured in screen (view) pixels s prefixes - coordinates, translations and distances measured in rotated and cropped source image pixels (scaled) f prefixes - coordinates, translations and distances measured in original unrotated, uncropped source file pixels" />
-      <item value="true if this view could ask the Handler to remove the Runnable, false otherwise. When the returned value is true, the Runnable may or may not have been actually removed from the message queue (for instance, if the Runnable was not in the queue already.)" />
-      <item value="true if the Runnable was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting. Note that a result of true does not mean the Runnable will be processed -- if the looper is quit before the delivery time of the message occurs then the message will be dropped." />
-      <item value="Causes the Runnable to execute on the next animation time step. The runnable will be run on the user interface thread." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
