@@ -96,6 +96,15 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Called when the parent CoordinatorLayout is about to measure the given child view. This method can be used to perform custom or modified measurement of a child view in place of the default child measurement behavior. The Behavior's implementation can delegate to the standard CoordinatorLayout measurement behavior by calling parent.onMeasureChild." />
+      <item value="Determine the current opacity of the scrim behind a given child view" />
+      <item value="Supply a scrim color that will be painted behind the associated child view." />
+      <item value="Check if a given point in the CoordinatorLayout's coordinates are within the view bounds of the given direct child view." />
+      <item value="eturn the kind of action being performed. Consider using getActionMasked and getActionIndex to retrieve the separate masked action and pointer index." />
+      <item value="Return the masked action being performed, without pointer index information. Use getActionIndex to return the index associated with pointer actions. Returns: The action, such as ACTION_DOWN or ACTION_POINTER_DOWN." />
+      <item value="Respond to CoordinatorLayout touch events before they are dispatched to child views. Behaviors can use this to monitor inbound touch events until one decides to intercept the rest of the event stream to take an action on its associated child view. This method will return false until it detects the proper intercept conditions, then return true once those conditions have occurred. Once a Behavior intercepts touch events, the rest of the event stream will be sent to the onTouchEvent method. This method will be called regardless of the visibility of the associated child of the behavior. If you only wish to handle touch events when the child is visible, you should add a check to View.isShown() on the given child." />
+      <item value="the proposed dependency of child" />
+      <item value="Determine whether the supplied child view has another specific sibling view as a layout dependency. This method will be called at least once in response to a layout request. If it returns true for a given child and dependency view pair, the parent CoordinatorLayout will: Always lay out this child after the dependent child is laid out, regardless of child order. Call onDependentViewChanged when the dependency view's layout or position changes. Params: parent – the parent view of the given child child – the child view to test dependency – the proposed dependency of child Returns: true if child's layout depends on the proposed dependency's layout, false otherwis" />
       <item value="dependency" />
       <item value="get APK Expansion Files" />
       <item value="Fence" />
@@ -137,20 +146,11 @@
       <item value="true if this view could ask the Handler to remove the Runnable, false otherwise. When the returned value is true, the Runnable may or may not have been actually removed from the message queue (for instance, if the Runnable was not in the queue already.)" />
       <item value="true if the Runnable was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting. Note that a result of true does not mean the Runnable will be processed -- if the looper is quit before the delivery time of the message occurs then the message will be dropped." />
       <item value="Causes the Runnable to execute on the next animation time step. The runnable will be run on the user interface thread." />
-      <item value="Causes the Runnable to be added to the message queue, to be run after the specified amount of time elapses. The runnable will be run on the user interface thread." />
-      <item value="完成" />
-      <item value="RECTANGLE" />
-      <item value="DOUBLE" />
-      <item value="SIMPLE" />
-      <item value="Send a click event if parent view is a Listview instance" />
-      <item value="A blue ripple drawn atop a drawable resource." />
-      <item value="forbidden" />
-      <item value="Invocation Target Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
