@@ -96,6 +96,14 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Specifying a gravity of Gravity.NO_GRAVITY is similar to specifying Gravity.LEFT | Gravity.TOP." />
+      <item value="Display the content view in a popup window at the specified location. If the popup window cannot fit on screen, it will be clipped. See WindowManager.LayoutParams for more information on how gravity and the x and y parameters are related. Specifying a gravity of Gravity.NO_GRAVITY is similar to specifying Gravity.LEFT | Gravity.TOP." />
+      <item value="the gravity which controls the placement of the popup window" />
+      <item value="a parent view to get the View.getWindowToken() token from" />
+      <item value="Clip this popup window to the screen, but not to the containing window. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods." />
+      <item value="This will attach the popup window to the decor frame of the parent window to avoid overlaping with screen decorations like the navigation bar. Overrides the default behavior of the flag WindowManager.LayoutParams.FLAG_LAYOUT_ATTACHED_IN_DECOR." />
+      <item value="Indicates whether the popup window will be forced into using absolute screen coordinates for positioning." />
+      <item value="Allows the popup window to force the flag WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN, overriding default behavior. This will cause the popup to be positioned in absolute screen coordinates." />
       <item value="f the view later scrolls to move anchor to a different location, the popup will be moved correspondingly." />
       <item value="Flip the location to align the right sides of the popup and anchor instead of left." />
       <item value="max Available Height" />
@@ -138,19 +146,11 @@
       <item value="Using setJavaScriptEnabled can introduce XSS vulnerabilities into your application, review carefully" />
       <item value="Android Debug Database" />
       <item value="get Canonical Path" />
-      <item value="Intent action for triggering FireOS connectivity checking." />
-      <item value="Broadcast the given intent to all interested BroadcastReceivers. This call is asynchronous; it returns immediately, and you will continue executing while the receivers are run. Params: intent – The Intent to broadcast; all receivers matching this Intent will receive the broadcast. Returns: Returns true if the intent has been scheduled for delivery to one or more broadcast receivers. (Note tha delivery may not ultimately take place if one of those receivers is unregistered before it is dispatched.)" />
-      <item value="register reload app broadcast receiver" />
-      <item value="Registers a BroadcastReceiver to listen to reboot broadcasts and trigger reboot. Should be called during boot after the ActivityManagerService is up and registered as a system service so it can handle registration of a BroadcastReceiver." />
-      <item value="enabled" />
-      <item value="The attribute android:allowBackup is deprecated from Android 12 and higher and may be removed in future versions. Consider adding the attribute android:dataExtractionRules specifying an @xml resource which configures cloud backups and device transfers on Android 12 and higher." />
-      <item value="curve" />
-      <item value="Displays an image subsampled as necessary to avoid loading too much image data into memory. After zooming in, a set of image tiles subsampled at higher resolution are loaded and displayed over the base layer. During pan and zoom, tiles off screen or higherlower resolution than required are discarded from memory. Tiles are no larger than the max supported bitmap size, so with large images tiling may be used even when zoomed out. v prefixes - coordinates, translations and distances measured in screen (view) pixels s prefixes - coordinates, translations and distances measured in rotated and cropped source image pixels (scaled) f prefixes - coordinates, translations and distances measured in original unrotated, uncropped source file pixels" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
