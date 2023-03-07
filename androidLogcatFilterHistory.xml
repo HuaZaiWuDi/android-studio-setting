@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:com.lumi.module.homeconfiguration " />
         <option value="package:com.example.shortcutdemo " />
         <option value="package:com.lumiunited.aqarahome " />
         <option value="package:com.lumiunited.aqarahome.aqara" />
@@ -11,7 +12,6 @@
         <option value="package:com.lumiunited.aqarahome.aqara " />
         <option value="package:com.example.myapplication" />
         <option value="package:com.lumi.example.rm.ui" />
-        <option value="package:com.lumi.module.homeconfiguration " />
         <option value="package:com.lumiunited.aqarahome level:error " />
         <option value="package:com.lumi.module_device_join_config " />
         <option value="package:" />
