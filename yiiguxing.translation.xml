@@ -96,6 +96,13 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Do you want to create values-wXXXdp folder or values-swXXXdp folder ? I suggest you create values-swXXXdp folder, because I had a problem when I was working on the horizontal screen adapter. values-swXXXdp folder can solve my problem. If you want create values-swXXXdp folder, set &quot;create_values_sw_folder=true&quot;, otherwise set &quot;create_values_sw_folder=true&quot;. Default values is true." />
+      <item value="Do you want to generate the default example dimens.xml file? In path of ...projectNamescreenMatch_example_dimens.xml, It does not affect your project code. You can give value true or false. Default value is false." />
+      <item value="They're not android module name. If has moreï¿½ï¿½split with , Symbol. If you set, it will not show in SelectDialog. If you have, write here and append value with &quot;,&quot; . For example: testLibrary,commonModule System default values is .gradle, gradle, .idea, build, .git" />
+      <item value="If you not wanna to match dp values above. Write some above values here, append value with &quot;,&quot; . For example: 811,961,1365" />
+      <item value="Also need to match the phone screen of [match_dp]. If you have another dp values. System default values is 240,320,384,392,400,410,411,480,533,592,600,640,662,720,768,800,811,820,960,961,1024,1280,1365" />
+      <item value="Base dp value for screen match. Cut the screen into [base_dp] parts. Data type is double. System default value is 360. I advise you not to modify the value, be careful !!!!!!!!! _^_ _" />
+      <item value="Start with '' is annotate. In front of '=' is key, cannot be modified. More information to visit: http:blog.csdn.netfesdgasdgasdgarticledetails52325590 http:download.csdn.netdetailfesdgasdgasdg9913744 https:github.commengzhinanPhoneScreenMatch You need to refresh or reopen the project every time you modify the configuration, or you can't get the latest configuration parameters. Base dp value for screen match. Cut the screen into [base_dp] parts. Data type is double. System default value is 360. I advise you not to modify the value, be careful !!!!!!!!! _^_ _ base_dp=360 Also need to match the phone screen of [match_dp]. If you have another dp values. System default values is 240,320,384,392,400,410,411,480,533,592,600,640,662,720,768,800,811,820,960,961,1024,1280,1365 match_dp= If you not wanna to match dp values above. Write some above values here, append value with &quot;,&quot; . For example: 811,961,1365 ignore_dp= They're not android module name. If has moreï¿½ï¿½split with , Symbol. If you set, it will not show in SelectDialog. If you have, write here and append value with &quot;,&quot; . For example: testLibrary,commonModule System default values is .gradle, gradle, .idea, build, .git ignore_module_name= Use which module under the valuesdimen.xml file to do the base file, and generated dimen.xml file store in this module? Default value is 'app'. match_module=app Don't show select dialog again when use this plugin. System screen match will use the last selected module name or default module name. You can give value true or false. Default value is false. not_show_dialog=false Do you want to generate the default example dimens.xml file? In path of ...projectNamescreenMatch_example_dimens.xml, It does not affect your project code. You can give value true or false. Default value is false. not_create_default_dimens=false Does the font scale the same size as the DP? May not be accuracy. You can give value true or false. Default value is true. Also need scaled. is_match_font_sp=true Do you want to create values-wXXXdp folder or values-swXXXdp folder ? I suggest you create values-swXXXdp folder, because I had a problem when I was working on the horizontal screen adapter. values-swXXXdp folder can solve my problem. If you want create values-swXXXdp folder, set &quot;create_values_sw_folder=true&quot;, otherwise set &quot;create_values_sw_folder=true&quot;. Default values is true. create_values_sw_folder=true" />
       <item value="Specifying a gravity of Gravity.NO_GRAVITY is similar to specifying Gravity.LEFT | Gravity.TOP." />
       <item value="Display the content view in a popup window at the specified location. If the popup window cannot fit on screen, it will be clipped. See WindowManager.LayoutParams for more information on how gravity and the x and y parameters are related. Specifying a gravity of Gravity.NO_GRAVITY is similar to specifying Gravity.LEFT | Gravity.TOP." />
       <item value="the gravity which controls the placement of the popup window" />
@@ -139,18 +146,11 @@
       <item value="domian" />
       <item value="anonymous" />
       <item value="anonym" />
-      <item value="a'non" />
-      <item value="anony" />
-      <item value="an" />
-      <item value="auto Logout" />
-      <item value="Using setJavaScriptEnabled can introduce XSS vulnerabilities into your application, review carefully" />
-      <item value="Android Debug Database" />
-      <item value="get Canonical Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
