@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="native Poll Once" />
+      <item value="Applications Memory Usage" />
       <item value="ECB encryption mode should not be used" />
       <item value="Wrong number of arguments; expected 2, got 1" />
       <item value="Do you want to create values-wXXXdp folder or values-swXXXdp folder ? I suggest you create values-swXXXdp folder, because I had a problem when I was working on the horizontal screen adapter. values-swXXXdp folder can solve my problem. If you want create values-swXXXdp folder, set &quot;create_values_sw_folder=true&quot;, otherwise set &quot;create_values_sw_folder=true&quot;. Default values is true." />
@@ -144,13 +146,11 @@
       <item value="tencentSms" />
       <item value="Tells the WebView to enable JavaScript execution. The default is false." />
       <item value="Kernel" />
-      <item value="domain" />
-      <item value="domian" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
