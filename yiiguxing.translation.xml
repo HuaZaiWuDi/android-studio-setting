@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="ECB encryption mode should not be used" />
+      <item value="Wrong number of arguments; expected 2, got 1" />
       <item value="Do you want to create values-wXXXdp folder or values-swXXXdp folder ? I suggest you create values-swXXXdp folder, because I had a problem when I was working on the horizontal screen adapter. values-swXXXdp folder can solve my problem. If you want create values-swXXXdp folder, set &quot;create_values_sw_folder=true&quot;, otherwise set &quot;create_values_sw_folder=true&quot;. Default values is true." />
       <item value="Do you want to generate the default example dimens.xml file? In path of ...projectNamescreenMatch_example_dimens.xml, It does not affect your project code. You can give value true or false. Default value is false." />
       <item value="They're not android module name. If has moreï¿½ï¿½split with , Symbol. If you set, it will not show in SelectDialog. If you have, write here and append value with &quot;,&quot; . For example: testLibrary,commonModule System default values is .gradle, gradle, .idea, build, .git" />
@@ -144,13 +146,11 @@
       <item value="Kernel" />
       <item value="domain" />
       <item value="domian" />
-      <item value="anonymous" />
-      <item value="anonym" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="135" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
