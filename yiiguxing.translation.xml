@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Base dp value for screen match. Cut the screen into [base_dp] parts. Data type is double. System default value is 360" />
+      <item value="Also need to match the phone screen of [match_dp]. If you have another dp values." />
       <item value="native Poll Once" />
       <item value="Applications Memory Usage" />
       <item value="ECB encryption mode should not be used" />
@@ -144,13 +146,11 @@
       <item value="Invalid user. The password service must be run by root" />
       <item value="AUTH CODE STATE" />
       <item value="tencentSms" />
-      <item value="Tells the WebView to enable JavaScript execution. The default is false." />
-      <item value="Kernel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
