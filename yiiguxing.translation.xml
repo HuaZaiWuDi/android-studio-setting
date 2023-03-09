@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="only works for userdebug builds" />
       <item value="Base dp value for screen match. Cut the screen into [base_dp] parts. Data type is double. System default value is 360" />
       <item value="Also need to match the phone screen of [match_dp]. If you have another dp values." />
       <item value="native Poll Once" />
@@ -145,11 +146,10 @@
       <item value="env: python: No such file or directory" />
       <item value="Invalid user. The password service must be run by root" />
       <item value="AUTH CODE STATE" />
-      <item value="tencentSms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
+        <entry key="CHINESE" value="138" />
         <entry key="ENGLISH" value="138" />
         <entry key="GERMAN" value="1" />
       </map>
