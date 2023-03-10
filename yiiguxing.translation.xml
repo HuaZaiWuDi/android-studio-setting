@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="强制" />
       <item value="assign Device Position" />
       <item value="only works for userdebug builds" />
       <item value="Base dp value for screen match. Cut the screen into [base_dp] parts. Data type is double. System default value is 360" />
@@ -145,12 +146,11 @@
       <item value="peek wrapper for the specific activity, return the origin SmartSwipeWrapper if exists, else return null" />
       <item value="Only classes are allowed on the left hand side of a class literal" />
       <item value="env: python: No such file or directory" />
-      <item value="Invalid user. The password service must be run by root" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
