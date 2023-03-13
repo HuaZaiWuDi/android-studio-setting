@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:com.lumiunited.aqarahome " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.lumi.module.homeconfiguration " />
         <option value="package:com.lumiunited.aqarahome " />
+        <option value="package:com.lumi.module.homeconfiguration " />
         <option value="package:mine " />
         <option value="package:" />
         <option value="package:com.aqara.smartdoor.launcher" />
