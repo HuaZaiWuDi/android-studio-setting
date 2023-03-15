@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="project Transfer Confirm" />
       <item value="When this animation should start. When the start time is set to START_ON_FIRST_FRAME, the animation will start the first time getTransformation(long, Transformation) is invoked. The time passed to this method should be obtained by calling AnimationUtils.currentAnimationTimeMillis() instead of System.currentTimeMillis()." />
       <item value="When this animation should start relative to the start time. This is most useful when composing complex animations using an AnimationSet where some of the animations components start at different times." />
       <item value="Sets the start time of this animation and all child animations" />
@@ -145,12 +146,11 @@
       <item value="Respond to CoordinatorLayout touch events before they are dispatched to child views. Behaviors can use this to monitor inbound touch events until one decides to intercept the rest of the event stream to take an action on its associated child view. This method will return false until it detects the proper intercept conditions, then return true once those conditions have occurred. Once a Behavior intercepts touch events, the rest of the event stream will be sent to the onTouchEvent method. This method will be called regardless of the visibility of the associated child of the behavior. If you only wish to handle touch events when the child is visible, you should add a check to View.isShown() on the given child." />
       <item value="the proposed dependency of child" />
       <item value="Determine whether the supplied child view has another specific sibling view as a layout dependency. This method will be called at least once in response to a layout request. If it returns true for a given child and dependency view pair, the parent CoordinatorLayout will: Always lay out this child after the dependent child is laid out, regardless of child order. Call onDependentViewChanged when the dependency view's layout or position changes. Params: parent – the parent view of the given child child – the child view to test dependency – the proposed dependency of child Returns: true if child's layout depends on the proposed dependency's layout, false otherwis" />
-      <item value="dependency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
