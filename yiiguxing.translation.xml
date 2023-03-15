@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="PROJECT TRANSFER" />
+      <item value="safety" />
       <item value="FAMILY PROJECT DELIVERY" />
       <item value="family Project Delivery" />
       <item value="project Transfer Confirm" />
@@ -144,13 +146,11 @@
       <item value="Supply a scrim color that will be painted behind the associated child view." />
       <item value="Check if a given point in the CoordinatorLayout's coordinates are within the view bounds of the given direct child view." />
       <item value="eturn the kind of action being performed. Consider using getActionMasked and getActionIndex to retrieve the separate masked action and pointer index." />
-      <item value="Return the masked action being performed, without pointer index information. Use getActionIndex to return the index associated with pointer actions. Returns: The action, such as ACTION_DOWN or ACTION_POINTER_DOWN." />
-      <item value="Respond to CoordinatorLayout touch events before they are dispatched to child views. Behaviors can use this to monitor inbound touch events until one decides to intercept the rest of the event stream to take an action on its associated child view. This method will return false until it detects the proper intercept conditions, then return true once those conditions have occurred. Once a Behavior intercepts touch events, the rest of the event stream will be sent to the onTouchEvent method. This method will be called regardless of the visibility of the associated child of the behavior. If you only wish to handle touch events when the child is visible, you should add a check to View.isShown() on the given child." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
