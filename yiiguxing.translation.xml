@@ -96,13 +96,16 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="When this animation should start relative to the start time. This is most useful when composing complex animations using an AnimationSet where some of the animations components start at different times." />
+      <item value="When this Animation should start, in milliseconds from the start time of the root AnimationSet." />
+      <item value="If fillAfter is true, the transformation that this animation performed will persist when it is finished. Defaults to false if not set. Note that this applies to individual animations and when using an AnimationSet to chain animations." />
+      <item value="true if the animation should apply its transformation after it ends" />
       <item value="PROJECT TRANSFER" />
       <item value="safety" />
       <item value="FAMILY PROJECT DELIVERY" />
       <item value="family Project Delivery" />
       <item value="project Transfer Confirm" />
       <item value="When this animation should start. When the start time is set to START_ON_FIRST_FRAME, the animation will start the first time getTransformation(long, Transformation) is invoked. The time passed to this method should be obtained by calling AnimationUtils.currentAnimationTimeMillis() instead of System.currentTimeMillis()." />
-      <item value="When this animation should start relative to the start time. This is most useful when composing complex animations using an AnimationSet where some of the animations components start at different times." />
       <item value="Sets the start time of this animation and all child animations" />
       <item value="A view containing controls for a MediaPlayer. Typically contains the buttons like &quot;PlayPause&quot;, &quot;Rewind&quot;, &quot;Fast Forward&quot; and a progress slider. It takes care of synchronizing the controls with the state of the MediaPlayer. The way to use this class is to instantiate it programmatically. The MediaController will create a default set of controls and put them in a window floating above your application. Specifically, the controls will float above the view specified with setAnchorView(). The window will disappear if left idle for three seconds and reappear when the user touches the anchor view. Functions like show() and hide() have no effect when MediaController is created in an xml layout. MediaController will hide and show the buttons according to these rules: The &quot;previous&quot; and &quot;next&quot; buttons are hidden until setPrevNextListeners() has been called The &quot;previous&quot; and &quot;next&quot; buttons are visible but disabled if setPrevNextListeners() was called with null listeners The &quot;rewind&quot; and &quot;fastforward&quot; buttons are shown unless requested otherwise by using the MediaController(Context, boolean) constructor with the boolean set to false" />
       <item value="Register a callback to be invoked when an informational event occurs during playback or setup." />
@@ -143,14 +146,11 @@
       <item value="max Available Height" />
       <item value="Called when the parent CoordinatorLayout is about to measure the given child view. This method can be used to perform custom or modified measurement of a child view in place of the default child measurement behavior. The Behavior's implementation can delegate to the standard CoordinatorLayout measurement behavior by calling parent.onMeasureChild." />
       <item value="Determine the current opacity of the scrim behind a given child view" />
-      <item value="Supply a scrim color that will be painted behind the associated child view." />
-      <item value="Check if a given point in the CoordinatorLayout's coordinates are within the view bounds of the given direct child view." />
-      <item value="eturn the kind of action being performed. Consider using getActionMasked and getActionIndex to retrieve the separate masked action and pointer index." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
