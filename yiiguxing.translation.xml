@@ -96,6 +96,13 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="suspend" />
+      <item value="can Seek Backward" />
+      <item value="Register a callback to be invoked when the media file is loaded and ready to go." />
+      <item value="is In Playback State" />
+      <item value="we shouldn't clear the target state, because somebody might have called start() previously" />
+      <item value="cleartargetstate" />
+      <item value="pause" />
       <item value="When this animation should start relative to the start time. This is most useful when composing complex animations using an AnimationSet where some of the animations components start at different times." />
       <item value="When this Animation should start, in milliseconds from the start time of the root AnimationSet." />
       <item value="If fillAfter is true, the transformation that this animation performed will persist when it is finished. Defaults to false if not set. Note that this applies to individual animations and when using an AnimationSet to chain animations." />
@@ -114,8 +121,6 @@
       <item value="Interface definition of a callback to be invoked to communicate some info andor warning about the media or its playback." />
       <item value="the MediaPlayer the info pertains to." />
       <item value="an extra code, specific to the info. Typically implementation dependent." />
-      <item value="Register a callback to be invoked when the media file is loaded and ready to go." />
-      <item value="suspend" />
       <item value="questionnaire push" />
       <item value="强制" />
       <item value="assign Device Position" />
@@ -141,16 +146,11 @@
       <item value="This will attach the popup window to the decor frame of the parent window to avoid overlaping with screen decorations like the navigation bar. Overrides the default behavior of the flag WindowManager.LayoutParams.FLAG_LAYOUT_ATTACHED_IN_DECOR." />
       <item value="Indicates whether the popup window will be forced into using absolute screen coordinates for positioning." />
       <item value="Allows the popup window to force the flag WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN, overriding default behavior. This will cause the popup to be positioned in absolute screen coordinates." />
-      <item value="f the view later scrolls to move anchor to a different location, the popup will be moved correspondingly." />
-      <item value="Flip the location to align the right sides of the popup and anchor instead of left." />
-      <item value="max Available Height" />
-      <item value="Called when the parent CoordinatorLayout is about to measure the given child view. This method can be used to perform custom or modified measurement of a child view in place of the default child measurement behavior. The Behavior's implementation can delegate to the standard CoordinatorLayout measurement behavior by calling parent.onMeasureChild." />
-      <item value="Determine the current opacity of the scrim behind a given child view" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
