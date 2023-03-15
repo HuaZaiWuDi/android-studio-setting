@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678070288530" />
+    <option name="lastTrimTime" value="1678852164814" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="questionnaire push" />
       <item value="强制" />
       <item value="assign Device Position" />
       <item value="only works for userdebug builds" />
@@ -145,7 +146,6 @@
       <item value="wrap an activity the content view is: android.R.id.content" />
       <item value="peek wrapper for the specific activity, return the origin SmartSwipeWrapper if exists, else return null" />
       <item value="Only classes are allowed on the left hand side of a class literal" />
-      <item value="env: python: No such file or directory" />
     </histories>
     <option name="languageScores">
       <map>
