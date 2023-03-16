@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="stop Playback" />
       <item value="suspend" />
       <item value="can Seek Backward" />
       <item value="Register a callback to be invoked when the media file is loaded and ready to go." />
@@ -145,12 +146,11 @@
       <item value="Clip this popup window to the screen, but not to the containing window. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods." />
       <item value="This will attach the popup window to the decor frame of the parent window to avoid overlaping with screen decorations like the navigation bar. Overrides the default behavior of the flag WindowManager.LayoutParams.FLAG_LAYOUT_ATTACHED_IN_DECOR." />
       <item value="Indicates whether the popup window will be forced into using absolute screen coordinates for positioning." />
-      <item value="Allows the popup window to force the flag WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN, overriding default behavior. This will cause the popup to be positioned in absolute screen coordinates." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
