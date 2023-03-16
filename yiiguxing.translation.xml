@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Make the surface a fixed size. It will never change from this size. When working with a SurfaceView, this must be called from the same thread running the SurfaceView's window." />
       <item value="for compatibility, we adjust size based on aspect ratio" />
       <item value="Returns: True if the method handled the info, false if it didn't. Returning false, or not having an OnInfoListener at all, will cause the info to be discarded." />
       <item value="Measure specification mode: The parent has not imposed any constraint on the child. It can be whatever size it wants." />
@@ -145,12 +146,11 @@
       <item value="Base dp value for screen match. Cut the screen into [base_dp] parts. Data type is double. System default value is 360" />
       <item value="Also need to match the phone screen of [match_dp]. If you have another dp values." />
       <item value="native Poll Once" />
-      <item value="Applications Memory Usage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="200" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
