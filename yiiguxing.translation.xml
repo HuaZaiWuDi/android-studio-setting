@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="no size yet, just adopt the given spec sizes" />
       <item value="Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="is Project Transfering" />
       <item value="stop Playback" />
@@ -145,12 +146,11 @@
       <item value="Display the content view in a popup window at the specified location. If the popup window cannot fit on screen, it will be clipped. See WindowManager.LayoutParams for more information on how gravity and the x and y parameters are related. Specifying a gravity of Gravity.NO_GRAVITY is similar to specifying Gravity.LEFT | Gravity.TOP." />
       <item value="the gravity which controls the placement of the popup window" />
       <item value="a parent view to get the View.getWindowToken() token from" />
-      <item value="Clip this popup window to the screen, but not to the containing window. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
