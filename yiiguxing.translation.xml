@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="is Project Transfering" />
       <item value="stop Playback" />
       <item value="suspend" />
@@ -145,12 +146,11 @@
       <item value="the gravity which controls the placement of the popup window" />
       <item value="a parent view to get the View.getWindowToken() token from" />
       <item value="Clip this popup window to the screen, but not to the containing window. If the popup is showing, calling this method will take effect only the next time the popup is shown or through a manual call to one of the update() methods." />
-      <item value="This will attach the popup window to the decor frame of the parent window to avoid overlaping with screen decorations like the navigation bar. Overrides the default behavior of the flag WindowManager.LayoutParams.FLAG_LAYOUT_ATTACHED_IN_DECOR." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
