@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.lumiunited.aqarahome.aqara " />
         <option value="package:com.lumi.module.homeconfiguration" />
         <option value="package:com.lumiunited.aqarahome " />
         <option value="package:com.lumiunited.aqarahome level:error " />
         <option value="package:com.lumiunited.aqarahome" />
         <option value="package:com.lumi.module.homeconfiguration " />
-        <option value="package:mine " />
         <option value="package:" />
         <option value="package:com.aqara.smartdoor.launcher" />
         <option value="package:com.lumiunited.aqarahome.aqara" />

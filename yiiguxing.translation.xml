@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="third Msg Keyword" />
       <item value="enabled" />
       <item value="exported" />
       <item value="Make the surface a fixed size. It will never change from this size. When working with a SurfaceView, this must be called from the same thread running the SurfaceView's window." />
@@ -145,12 +146,11 @@
       <item value="强制" />
       <item value="assign Device Position" />
       <item value="only works for userdebug builds" />
-      <item value="Base dp value for screen match. Cut the screen into [base_dp] parts. Data type is double. System default value is 360" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
