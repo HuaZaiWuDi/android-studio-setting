@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="  level:warn " />
+    <option name="mostRecentlyUsed" value="  level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="  level:error " />
         <option value="  level:warn " />
         <option value="package:com.lumiunited.aqarahome.play  level:warn " />
         <option value="package:com.lumiunited.aqarahome.aqara" />
@@ -22,7 +23,6 @@
         <option value="package:com.lumi.example.rm.ui" />
         <option value="package:com.lumiunited.aqarahome.play  " />
         <option value="package:com.lumi.module.homeconfiguration HomePanelFragment" />
-        <option value="package:com.lumi.module.homeconfiguration mScrollOffsetY" />
       </list>
     </option>
   </component>
