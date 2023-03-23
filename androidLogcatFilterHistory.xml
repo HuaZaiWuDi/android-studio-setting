@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.lumi.module.accessdmeo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lumi.module.accessdmeo" />
+        <option value="package:mine " />
         <option value="package:com.lumiunited.aqarahome.play " />
         <option value="package:com.lumiunited.aqarahome.aqara" />
         <option value="package:com.lumiunited.aqarahome " />
         <option value="  level:error " />
         <option value="  level:warn " />
         <option value="package:com.lumiunited.aqarahome.play  level:warn " />
-        <option value="package:mine " />
         <option value="package:com.lumi.module_device_join_config " />
         <option value="package:com.lumiunited.aqarahome.aqara " />
         <option value="package:com.lumi.module.homeconfiguration" />
@@ -21,7 +23,6 @@
         <option value="package:com.lumiunited.aqarahome.aqara tag:smartSwipeWrapper" />
         <option value="package:com.example.myapplication" />
         <option value="package:com.lumi.example.rm.ui" />
-        <option value="package:com.lumiunited.aqarahome.play  " />
       </list>
     </option>
   </component>
