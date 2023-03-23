@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.lumiunited.aqarahome.play " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lumiunited.aqarahome.play " />
         <option value="package:com.lumiunited.aqarahome.aqara" />
         <option value="package:com.lumiunited.aqarahome " />
         <option value="  level:error " />
-        <option value="package:com.lumiunited.aqarahome.play " />
         <option value="  level:warn " />
         <option value="package:com.lumiunited.aqarahome.play  level:warn " />
         <option value="package:mine " />
