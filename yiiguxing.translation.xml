@@ -93,9 +93,11 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="837" />
-    <option name="newTranslationDialogY" value="485" />
+    <option name="newTranslationDialogX" value="848" />
+    <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Received status code 400 from server: Repository does not allow updating assets: lumi-release&#10;" />
+      <item value="Received status code 401 from server: Unauthorized" />
       <item value="Unit Response Body Converter" />
       <item value="Wide exception range because factories are user code." />
       <item value="Invalid data found when processing input" />
@@ -144,12 +146,10 @@
       <item value="family Project Delivery" />
       <item value="project Transfer Confirm" />
       <item value="When this animation should start. When the start time is set to START_ON_FIRST_FRAME, the animation will start the first time getTransformation(long, Transformation) is invoked. The time passed to this method should be obtained by calling AnimationUtils.currentAnimationTimeMillis() instead of System.currentTimeMillis()." />
-      <item value="Sets the start time of this animation and all child animations" />
-      <item value="A view containing controls for a MediaPlayer. Typically contains the buttons like &quot;PlayPause&quot;, &quot;Rewind&quot;, &quot;Fast Forward&quot; and a progress slider. It takes care of synchronizing the controls with the state of the MediaPlayer. The way to use this class is to instantiate it programmatically. The MediaController will create a default set of controls and put them in a window floating above your application. Specifically, the controls will float above the view specified with setAnchorView(). The window will disappear if left idle for three seconds and reappear when the user touches the anchor view. Functions like show() and hide() have no effect when MediaController is created in an xml layout. MediaController will hide and show the buttons according to these rules: The &quot;previous&quot; and &quot;next&quot; buttons are hidden until setPrevNextListeners() has been called The &quot;previous&quot; and &quot;next&quot; buttons are visible but disabled if setPrevNextListeners() was called with null listeners The &quot;rewind&quot; and &quot;fastforward&quot; buttons are shown unless requested otherwise by using the MediaController(Context, boolean) constructor with the boolean set to false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
+        <entry key="CHINESE" value="215" />
         <entry key="ENGLISH" value="214" />
         <entry key="GERMAN" value="1" />
       </map>
