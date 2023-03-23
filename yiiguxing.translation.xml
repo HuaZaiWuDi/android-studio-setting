@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="MediaPlayer is temporarily pausing playback internally in order to buffer more data." />
+      <item value="The player was started because it was used as the next player for another player, which just completed playback." />
+      <item value="The player just pushed the very first video frame for rendering." />
+      <item value="MEDIA INFO VIDEO RENDERING START" />
       <item value="Received status code 400 from server: Repository does not allow updating assets: lumi-release&#10;" />
       <item value="Received status code 401 from server: Unauthorized" />
       <item value="Unit Response Body Converter" />
@@ -142,15 +146,11 @@
       <item value="true if the animation should apply its transformation after it ends" />
       <item value="PROJECT TRANSFER" />
       <item value="safety" />
-      <item value="FAMILY PROJECT DELIVERY" />
-      <item value="family Project Delivery" />
-      <item value="project Transfer Confirm" />
-      <item value="When this animation should start. When the start time is set to START_ON_FIRST_FRAME, the animation will start the first time getTransformation(long, Transformation) is invoked. The time passed to this method should be obtained by calling AnimationUtils.currentAnimationTimeMillis() instead of System.currentTimeMillis()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
