@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="837" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Invalid data found when processing input" />
       <item value="AdaptLaunch Invalid Async" />
       <item value="Dequeue Buffer" />
       <item value="A converter for strings and both primitives and their boxed types to textplain bodies." />
@@ -145,12 +146,11 @@
       <item value="A view containing controls for a MediaPlayer. Typically contains the buttons like &quot;PlayPause&quot;, &quot;Rewind&quot;, &quot;Fast Forward&quot; and a progress slider. It takes care of synchronizing the controls with the state of the MediaPlayer. The way to use this class is to instantiate it programmatically. The MediaController will create a default set of controls and put them in a window floating above your application. Specifically, the controls will float above the view specified with setAnchorView(). The window will disappear if left idle for three seconds and reappear when the user touches the anchor view. Functions like show() and hide() have no effect when MediaController is created in an xml layout. MediaController will hide and show the buttons according to these rules: The &quot;previous&quot; and &quot;next&quot; buttons are hidden until setPrevNextListeners() has been called The &quot;previous&quot; and &quot;next&quot; buttons are visible but disabled if setPrevNextListeners() was called with null listeners The &quot;rewind&quot; and &quot;fastforward&quot; buttons are shown unless requested otherwise by using the MediaController(Context, boolean) constructor with the boolean set to false" />
       <item value="Register a callback to be invoked when an informational event occurs during playback or setup." />
       <item value="Register a callback to be invoked when an error occurs during playback or setup. If no listener is specified, or if the listener returned false, VideoView will inform the user of any errors." />
-      <item value="True if the method handled the info, false if it didn't. Returning false, or not having an OnInfoListener at all, will cause the info to be discarded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
