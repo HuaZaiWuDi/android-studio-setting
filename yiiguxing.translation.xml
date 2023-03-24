@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="allow Insecure Protocol" />
+      <item value="Received status code 401 from server: Unauthorized" />
+      <item value="Unauthorized" />
       <item value="Defines a set of dependencies and options to use when initializing Glide within an application. There can be at most one AppGlideModule in an application. Only Applications can include a AppGlideModule. Libraries must use LibraryGlideModule. Classes that extend AppGlideModule must be annotated with com.bumptech.glide.annotation.GlideModule to be processed correctly. Classes that extend AppGlideModule can optionally be annotated with com.bumptech.glide.annotation.Excludes to optionally exclude one or more LibraryGlideModule andor GlideModule classes. Once an application has migrated itself and all libraries it depends on to use Glide's annotation processor, AppGlideModule implementations should override isManifestParsingEnabled() and return false." />
       <item value="Returns true if Glide should check the AndroidManifest for GlideModules. Implementations should return false after they and their dependencies have migrated to Glide's annotation processor." />
       <item value="MediaPlayer is temporarily pausing playback internally in order to buffer more data." />
@@ -103,7 +106,6 @@
       <item value="The player just pushed the very first video frame for rendering." />
       <item value="MEDIA INFO VIDEO RENDERING START" />
       <item value="Received status code 400 from server: Repository does not allow updating assets: lumi-release&#10;" />
-      <item value="Received status code 401 from server: Unauthorized" />
       <item value="Unit Response Body Converter" />
       <item value="Wide exception range because factories are user code." />
       <item value="Invalid data found when processing input" />
@@ -144,13 +146,11 @@
       <item value="pause" />
       <item value="When this animation should start relative to the start time. This is most useful when composing complex animations using an AnimationSet where some of the animations components start at different times." />
       <item value="When this Animation should start, in milliseconds from the start time of the root AnimationSet." />
-      <item value="If fillAfter is true, the transformation that this animation performed will persist when it is finished. Defaults to false if not set. Note that this applies to individual animations and when using an AnimationSet to chain animations." />
-      <item value="true if the animation should apply its transformation after it ends" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
