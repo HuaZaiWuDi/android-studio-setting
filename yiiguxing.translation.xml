@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="relateType" />
       <item value="Associate" />
       <item value="allow Insecure Protocol" />
       <item value="Received status code 401 from server: Unauthorized" />
@@ -145,11 +146,10 @@
       <item value="we shouldn't clear the target state, because somebody might have called start() previously" />
       <item value="cleartargetstate" />
       <item value="pause" />
-      <item value="When this animation should start relative to the start time. This is most useful when composing complex animations using an AnimationSet where some of the animations components start at different times." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
+        <entry key="CHINESE" value="225" />
         <entry key="ENGLISH" value="225" />
         <entry key="GERMAN" value="1" />
       </map>
