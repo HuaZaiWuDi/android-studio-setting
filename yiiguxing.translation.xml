@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="IdleHandler" />
+      <item value="dIdleHandler" />
+      <item value="addIdleHandler" />
+      <item value="Idle" />
       <item value="FOREIGN" />
       <item value="relateType" />
       <item value="Associate" />
@@ -142,14 +146,10 @@
       <item value="stop Playback" />
       <item value="suspend" />
       <item value="can Seek Backward" />
-      <item value="Register a callback to be invoked when the media file is loaded and ready to go." />
-      <item value="is In Playback State" />
-      <item value="we shouldn't clear the target state, because somebody might have called start() previously" />
-      <item value="cleartargetstate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
+        <entry key="CHINESE" value="227" />
         <entry key="ENGLISH" value="226" />
         <entry key="GERMAN" value="1" />
       </map>
