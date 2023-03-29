@@ -3,10 +3,12 @@
     <option name="mostRecentlyUsed" value="package:com.lumi.camera.demo " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lumi.module.homeconfiguration" />
+        <option value="package:com.lumiunited.aqarahome" />
+        <option value="package:mine " />
         <option value="package:com.lumi.camera.demo " />
         <option value="package:com.lumiunited.aqarahome.play positionId" />
         <option value="package:com.lumiunited.aqarahome.play posi" />
-        <option value="package:mine " />
         <option value="package:com.lumiunited.aqarahome.play " />
         <option value="level:error " />
         <option value="package:com.lumiunited.aqarahome.play level:error " />
@@ -19,9 +21,7 @@
         <option value="  level:warn " />
         <option value="package:com.lumiunited.aqarahome.play  level:warn " />
         <option value="package:com.lumiunited.aqarahome.aqara " />
-        <option value="package:com.lumi.module.homeconfiguration" />
         <option value="package:com.lumiunited.aqarahome level:error " />
-        <option value="package:com.lumiunited.aqarahome" />
         <option value="package:com.lumi.module.homeconfiguration " />
       </list>
     </option>
