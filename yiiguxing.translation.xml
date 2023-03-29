@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="If present, specifies a code fragment which should be used as a replacement for the deprecated API usage." />
       <item value="A @Path parameter must not come after a @Query." />
       <item value="wrap" />
       <item value="IdleHandler" />
@@ -145,12 +146,11 @@
       <item value="no size yet, just adopt the given spec sizes" />
       <item value="Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="is Project Transfering" />
-      <item value="stop Playback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
