@@ -1,9 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.lumi.camera.demo " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lumi.camera.demo " />
+        <option value="package:com.lumiunited.aqarahome.play positionId" />
+        <option value="package:com.lumiunited.aqarahome.play posi" />
         <option value="package:mine " />
         <option value="package:com.lumiunited.aqarahome.play " />
+        <option value="level:error " />
+        <option value="package:com.lumiunited.aqarahome.play level:error " />
         <option value="package:com.lumi.module_device_join_config " />
         <option value="package:mine level:warn " />
         <option value="package:com.lumi.module.accessdmeo" />
@@ -17,11 +23,6 @@
         <option value="package:com.lumiunited.aqarahome level:error " />
         <option value="package:com.lumiunited.aqarahome" />
         <option value="package:com.lumi.module.homeconfiguration " />
-        <option value="package:" />
-        <option value="package:com.aqara.smartdoor.launcher" />
-        <option value="package:com.example.shortcutdemo " />
-        <option value="package:com.lumiunited.aqarahome.aqara tag:smartSwipeWrapper" />
-        <option value="package:com.example.myapplication" />
       </list>
     </option>
   </component>

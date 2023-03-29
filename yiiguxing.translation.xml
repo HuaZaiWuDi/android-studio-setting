@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="FOREIGN" />
       <item value="relateType" />
       <item value="Associate" />
       <item value="allow Insecure Protocol" />
@@ -145,12 +146,11 @@
       <item value="is In Playback State" />
       <item value="we shouldn't clear the target state, because somebody might have called start() previously" />
       <item value="cleartargetstate" />
-      <item value="pause" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="ENGLISH" value="226" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
