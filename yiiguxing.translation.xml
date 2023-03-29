@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="wrap" />
       <item value="IdleHandler" />
       <item value="dIdleHandler" />
       <item value="addIdleHandler" />
@@ -145,12 +146,11 @@
       <item value="is Project Transfering" />
       <item value="stop Playback" />
       <item value="suspend" />
-      <item value="can Seek Backward" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
