@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679975086693" />
+    <option name="lastTrimTime" value="1680489781171" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="is Valid AC Action" />
       <item value="Unique Key T" />
       <item value="Find a Fragment associated with the given View. This method will locate the Fragment associated with this view. This is automatically populated for the View returned by Fragment.onCreateView and its children." />
       <item value="Recurse up the view hierarchy, looking for the Fragment" />
@@ -145,12 +146,11 @@
       <item value="neither the width nor the height are fixed, try to use actual video size" />
       <item value="too tall, decrease both width and height" />
       <item value="only the height is fixed, adjust the width to match aspect ratio if possible" />
-      <item value="couldn't match aspect ratio within the constraints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
