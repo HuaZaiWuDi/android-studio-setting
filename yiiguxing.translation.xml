@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="When exiting (scrolling off screen) the view will be scrolled until it is 'collapsed'. The collapsed height is defined by the view's minimum height." />
+      <item value="Disable scrolling on the view. This flag should not be combined with any of the other scroll flags." />
+      <item value="dependency" />
       <item value="Constraint Layout" />
       <item value="exit Until Collapsed" />
       <item value="Could not inflate Behavior subclass com.example.shortcutdemo.HeaderBehavior" />
@@ -143,14 +146,11 @@
       <item value="Measure specification mode: The parent has not imposed any constraint on the child. It can be whatever size it wants." />
       <item value="UNSPECIFIED" />
       <item value="AT MOST" />
-      <item value="EXACTLY" />
-      <item value="Measure specification mode: The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
-      <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
