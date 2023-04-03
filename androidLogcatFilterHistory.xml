@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.example.shortcutdemo " />
+        <option value="package:com.example.shortcutdemo onNestedPreScroll" />
         <option value="package:mine " />
         <option value=" level:warn " />
         <option value="package:" />
@@ -22,7 +23,6 @@
         <option value="package:com.lumi.module_device_join_config " />
         <option value="package:mine level:warn " />
         <option value="package:com.lumi.module.accessdmeo" />
-        <option value="package:com.lumiunited.aqarahome.aqara" />
       </list>
     </option>
   </component>
