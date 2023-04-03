@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="user Landscape" />
       <item value="Process Phoenix" />
       <item value="trigger Rebirth" />
       <item value="An additional flag to be used with 'snap'. If set, the view will be snapped to its top and bottom margins, as opposed to the edges of the view itself." />
@@ -145,12 +146,11 @@
       <item value="third Msg Keyword" />
       <item value="enabled" />
       <item value="exported" />
-      <item value="Make the surface a fixed size. It will never change from this size. When working with a SurfaceView, this must be called from the same thread running the SurfaceView's window." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
