@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Unique Key T" />
+      <item value="Find a Fragment associated with the given View. This method will locate the Fragment associated with this view. This is automatically populated for the View returned by Fragment.onCreateView and its children." />
+      <item value="Recurse up the view hierarchy, looking for the Fragment" />
       <item value="launch" />
       <item value="If present, specifies a code fragment which should be used as a replacement for the deprecated API usage." />
       <item value="A @Path parameter must not come after a @Query." />
@@ -143,14 +146,11 @@
       <item value="too tall, decrease both width and height" />
       <item value="only the height is fixed, adjust the width to match aspect ratio if possible" />
       <item value="couldn't match aspect ratio within the constraints" />
-      <item value="only the width is fixed, adjust the height to match aspect ratio if possible" />
-      <item value="no size yet, just adopt the given spec sizes" />
-      <item value="Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
