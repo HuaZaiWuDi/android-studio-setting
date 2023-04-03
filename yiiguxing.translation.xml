@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="The second is a completion signal that allows the driver to wait until all workers have completed." />
+      <item value="count Down" />
       <item value="user Landscape" />
       <item value="Process Phoenix" />
       <item value="trigger Rebirth" />
@@ -144,13 +146,11 @@
       <item value="transfer Project" />
       <item value="facilitator" />
       <item value="third Msg Keyword" />
-      <item value="enabled" />
-      <item value="exported" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
