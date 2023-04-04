@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Display the content view in a popup window anchored to the bottom-left corner of the anchor view offset by the specified x and y coordinates. If there is not enough room on screen to show the popup in its entirety, this method tries to find a parent scroll view to scroll. If no parent scroll view can be scrolled, the bottom-left corner of the popup is pinned at the top left corner of the anchor view." />
+      <item value="If the view later scrolls to move anchor to a different location, the popup will be moved correspondingly." />
       <item value="The second is a completion signal that allows the driver to wait until all workers have completed." />
       <item value="count Down" />
       <item value="user Landscape" />
@@ -144,13 +146,11 @@
       <item value="The currently running instance of activity B in the above example will either receive the new intent you are starting here in its onNewIntent() method, or be itself finished and restarted with the new intent. If it has declared its launch mode to be &quot;multiple&quot; (the default) and you have not set FLAG_ACTIVITY_SINGLE_TOP in the same intent, then it will be finished and re-created; for all other launch modes or if FLAG_ACTIVITY_SINGLE_TOP is set then this Intent will be delivered to the current instance's onNewIntent()." />
       <item value="is Remind" />
       <item value="transfer Project" />
-      <item value="facilitator" />
-      <item value="third Msg Keyword" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
