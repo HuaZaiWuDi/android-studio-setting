@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="packed" />
       <item value="Blur Radius" />
       <item value="Downsample Factor" />
       <item value="rotund" />
@@ -145,12 +146,11 @@
       <item value="Defines a set of dependencies and options to use when initializing Glide within an application. There can be at most one AppGlideModule in an application. Only Applications can include a AppGlideModule. Libraries must use LibraryGlideModule. Classes that extend AppGlideModule must be annotated with com.bumptech.glide.annotation.GlideModule to be processed correctly. Classes that extend AppGlideModule can optionally be annotated with com.bumptech.glide.annotation.Excludes to optionally exclude one or more LibraryGlideModule andor GlideModule classes. Once an application has migrated itself and all libraries it depends on to use Glide's annotation processor, AppGlideModule implementations should override isManifestParsingEnabled() and return false." />
       <item value="Returns true if Glide should check the AndroidManifest for GlideModules. Implementations should return false after they and their dependencies have migrated to Glide's annotation processor." />
       <item value="MediaPlayer is temporarily pausing playback internally in order to buffer more data." />
-      <item value="The player was started because it was used as the next player for another player, which just completed playback." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
