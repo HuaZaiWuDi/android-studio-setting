@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="编码" />
+      <item value="bian'ma" />
+      <item value="彪马" />
+      <item value="解析" />
       <item value="scheme" />
       <item value="RefreshHeader under the refreshable view and follow drag action" />
       <item value="RefreshHeader above of refreshable view" />
@@ -142,15 +146,11 @@
       <item value="A @Path parameter must not come after a @Query." />
       <item value="wrap" />
       <item value="IdleHandler" />
-      <item value="dIdleHandler" />
-      <item value="addIdleHandler" />
-      <item value="Idle" />
-      <item value="FOREIGN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="306" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
