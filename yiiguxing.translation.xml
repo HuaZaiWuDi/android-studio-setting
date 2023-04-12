@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Both dimensions must be greater than 0" />
       <item value="Returns whether the given CharSequence contains only digits." />
       <item value="Commissioned" />
       <item value="广播" />
@@ -145,12 +146,11 @@
       <item value="Process Phoenix" />
       <item value="trigger Rebirth" />
       <item value="An additional flag to be used with 'snap'. If set, the view will be snapped to its top and bottom margins, as opposed to the edges of the view itself." />
-      <item value="Upon a scroll ending, if the view is only partially visible then it will be snapped and scrolled to it's closest edge." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
