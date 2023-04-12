@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Commissioned" />
+      <item value="广播" />
+      <item value="播放" />
+      <item value="bo'f" />
       <item value="保留" />
       <item value="标准" />
       <item value="标准入网流程" />
@@ -142,15 +146,11 @@
       <item value="An additional flag to be used with 'snap'. If set, the view will be snapped to its top and bottom margins, as opposed to the edges of the view itself." />
       <item value="Upon a scroll ending, if the view is only partially visible then it will be snapped and scrolled to it's closest edge." />
       <item value="An additional flag for 'enterAlways' which modifies the returning view to only initially scroll back to it's collapsed height. Once the scrolling view has reached the end of it's scroll range, the remainder of this view will be scrolled into view." />
-      <item value="When exiting (scrolling off screen) the view will be scrolled until it is 'collapsed'. The collapsed height is defined by the view's minimum height." />
-      <item value="Disable scrolling on the view. This flag should not be combined with any of the other scroll flags." />
-      <item value="dependency" />
-      <item value="Constraint Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
