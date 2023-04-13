@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="本地" />
       <item value="Manufacturer Specific Data" />
       <item value="Both dimensions must be greater than 0" />
       <item value="Returns whether the given CharSequence contains only digits." />
@@ -145,12 +146,11 @@
       <item value="count Down" />
       <item value="user Landscape" />
       <item value="Process Phoenix" />
-      <item value="trigger Rebirth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="354" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
