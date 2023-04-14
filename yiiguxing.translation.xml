@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="An overriding function is not allowed to specify default values for its parameters" />
       <item value="manufacturer Data Mask" />
       <item value="Legacy" />
       <item value="Le" />
@@ -145,11 +146,10 @@
       <item value="rotund" />
       <item value="圆形" />
       <item value="yuan'xing" />
-      <item value="原型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
+        <entry key="CHINESE" value="376" />
         <entry key="ENGLISH" value="376" />
         <entry key="GERMAN" value="1" />
       </map>
