@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="地理围栏" />
+      <item value="di" />
       <item value="控制者" />
       <item value="控制" />
       <item value="k'z" />
@@ -144,13 +146,11 @@
       <item value="qiu" />
       <item value="园" />
       <item value="A Comparator that orders strings ignoring character case. Note that this Comparator does not take locale into account, and will result in an unsatisfactory ordering for certain locales" />
-      <item value="whether this layout should refresh its contents if the given ViewPager's content changes" />
-      <item value="his is the same as calling setupWithViewPager(ViewPager, boolean) with auto-refresh enabled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
