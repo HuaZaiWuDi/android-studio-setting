@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="ceil" />
       <item value="REASON DEVICE NOT SUPPORTED" />
       <item value="An overriding function is not allowed to specify default values for its parameters" />
       <item value="manufacturer Data Mask" />
@@ -145,12 +146,11 @@
       <item value="Blur Radius" />
       <item value="Downsample Factor" />
       <item value="rotund" />
-      <item value="圆形" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
