@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="capabilities" />
+      <item value="Utility method to convert WifiInfo.SecurityType to DevicePolicyManager.WifiSecurity Params: securityType – WifiInfo.SecurityType to convert Returns: DevicePolicyManager.WifiSecurity security level, or WifiInfo.DPM_SECURITY_TYPE_UNKNOWN for unknown security types" />
+      <item value="Returns the ScanResult with the best RSSI from a list of ScanResults." />
       <item value="Encryption" />
       <item value="Creates a Connect request that will try to connect to the given Bluetooth LE device. Call ConnectRequest.enqueue() or ConnectRequest.await() in order to execute the request. This method returns a ConnectRequest which can be used to set completion and failure callbacks. The completion callback (done) will be called after the initialization is complete, after BleManagerCallbacks.onDeviceReady(BluetoothDevice) has been called. Calling ConnectRequest.await() will make this request synchronous (the callbacks set will be ignored, instead the synchronous method will return or throw an exception). For asynchronous call usage, ConnectRequest.enqueue() must be called on the returned request. Params: device – a device to connect to. Returns: The connect request." />
       <item value="ceil" />
@@ -143,14 +146,11 @@
       <item value="MODE UNDER FOLLOW DRAG" />
       <item value="MODE_UNDER_FOLLOW_DRAG: RefreshHeader under the refreshable view and follow drag action" />
       <item value="is Refresh Component" />
-      <item value="Restricted Api" />
-      <item value="packed" />
-      <item value="Blur Radius" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
