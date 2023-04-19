@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="ms-bits" />
+      <item value="left- most" />
       <item value="响应" />
       <item value="xiang'y" />
       <item value="Represents a selectable Wifi Network for use in various wifi selection menus backed by WifiTracker. An AccessPoint, which would be more fittingly named &quot;WifiNetwork&quot;, is an aggregation of ScanResults along with pertinent metadata (e.g. current connection info, network scores) required to successfully render the network to the user. Deprecated WifiTrackerAccessPoint is no longer supported, and will be removed in a future release. Clients that need a dynamic list of available wifi networks should migrate to one of the newer tracker classes, com.android.wifitrackerlib.WifiPickerTracker, com.android.wifitrackerlib.SavedNetworkTracker, com.android.wifitrackerlib.NetworkDetailsTracker, in conjunction with com.android.wifitrackerlib.WifiEntry to represent each wifi network." />
@@ -144,12 +146,10 @@
       <item value="编码" />
       <item value="bian'ma" />
       <item value="彪马" />
-      <item value="解析" />
-      <item value="scheme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
+        <entry key="CHINESE" value="393" />
         <entry key="ENGLISH" value="392" />
         <entry key="GERMAN" value="1" />
       </map>
