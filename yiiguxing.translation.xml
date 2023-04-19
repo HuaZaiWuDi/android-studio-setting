@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Called when the visibility of the view or an ancestor of the view has changed." />
       <item value="odename nor servname provided, or not known" />
       <item value="54 EF 444 C 4 D 98" />
       <item value="ms-bits" />
@@ -145,12 +146,11 @@
       <item value="进制" />
       <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="Format Flags Conversion Mismatch Exception" />
-      <item value="编码" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
