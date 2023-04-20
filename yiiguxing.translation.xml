@@ -96,6 +96,13 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="certificates" />
+      <item value="certifica" />
+      <item value="certif" />
+      <item value="certi" />
+      <item value="cert" />
+      <item value="cer" />
+      <item value="c" />
       <item value="数据通道" />
       <item value="View Newly created view. Return null for the default behavior." />
       <item value="If the original context does not equal our themed context, then we need to manually inflate it using the name so that android:theme takes effect." />
@@ -139,17 +146,10 @@
       <item value="控制" />
       <item value="k'z" />
       <item value="Capacity" />
-      <item value="Passcode Required" />
-      <item value="Is Commissioned" />
-      <item value="本地" />
-      <item value="Manufacturer Specific Data" />
-      <item value="Both dimensions must be greater than 0" />
-      <item value="Returns whether the given CharSequence contains only digits." />
-      <item value="Commissioned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
+        <entry key="CHINESE" value="412" />
         <entry key="ENGLISH" value="412" />
         <entry key="GERMAN" value="1" />
       </map>
