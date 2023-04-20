@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="If the original context does not equal our themed context, then we need to manually inflate it using the name so that android:theme takes effect." />
       <item value="The fallback that allows extending class to take over view inflation for other tags. Note that we don't check that the result is not-null. That allows the custom inflater path to fall back on the default one later in this method." />
       <item value="An extension of AppCompatViewInflater that replaces some framework widgets with Material Components ones at inflation time, provided a Material Components theme is in use." />
       <item value="An implementation of OnClickListener that attempts to lazily load a named click handling method from a parent or ancestor context." />
@@ -145,12 +146,11 @@
       <item value="Commissioned" />
       <item value="广播" />
       <item value="播放" />
-      <item value="bo'f" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="406" />
+        <entry key="ENGLISH" value="407" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
