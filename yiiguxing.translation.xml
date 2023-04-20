@@ -96,6 +96,13 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="The fallback that allows extending class to take over view inflation for other tags. Note that we don't check that the result is not-null. That allows the custom inflater path to fall back on the default one later in this method." />
+      <item value="An extension of AppCompatViewInflater that replaces some framework widgets with Material Components ones at inflation time, provided a Material Components theme is in use." />
+      <item value="An implementation of OnClickListener that attempts to lazily load a named click handling method from a parent or ancestor context." />
+      <item value="If any developer has desire to change this value, they should instead use cloneInContext(Context) and set the new factory in thew newly-created LayoutInflater." />
+      <item value="Like setFactory, but allows you to set a LayoutInflater.Factory2 interface." />
+      <item value="A factory has already been set on this LayoutInflater" />
+      <item value="IS PRE LOLLIPOP" />
       <item value="packed" />
       <item value="Indicates that the ViewPager2 is in the process of settling to a final position." />
       <item value="fake" />
@@ -139,18 +146,11 @@
       <item value="广播" />
       <item value="播放" />
       <item value="bo'f" />
-      <item value="保留" />
-      <item value="标准" />
-      <item value="标准入网流程" />
-      <item value="biao'z" />
-      <item value="国家" />
-      <item value="Immutable arbitrary-precision integers. All operations behave as if BigIntegers were represented in two's-complement notation (like Java's primitive integer types). BigInteger provides analogues to all of Java's primitive integer operators, and all relevant methods from java.lang.Math. Additionally, BigInteger provides operations for modular arithmetic, GCD calculation, primality testing, prime generation, bit manipulation, and a few other miscellaneous operations. Semantics of arithmetic operations exactly mimic those of Java's integer arithmetic operators, as defined in The Java™ Language Specification. For example, division by zero throws an ArithmeticException, and division of a negative by a positive yields a negative (or zero) remainder. Semantics of shift operations extend those of Java's shift operators to allow for negative shift distances. A right-shift with a negative shift distance results in a left shift, and vice-versa. The unsigned right shift operator (&gt;&gt;&gt;) is omitted since this operation only makes sense for a fixed sized word and not for a representation conceptually having an infinite number of leading virtual sign bits. Semantics of bitwise logical operations exactly mimic those of Java's bitwise integer operators. The binary operators (and, or, xor) implicitly perform sign extension on the shorter of the two operands prior to performing the operation. Comparison operations perform signed integer comparisons, analogous to those performed by Java's relational and equality operators. Modular arithmetic operations are provided to compute residues, perform exponentiation, and compute multiplicative inverses. These methods always return a non-negative result, between 0 and (modulus - 1), inclusive. Bit operations operate on a single bit of the two's-complement representation of their operand. If necessary, the operand is sign- extended so that it contains the designated bit. None of the single-bit operations can produce a BigInteger with a different sign from the BigInteger being operated on, as they affect only a single bit, and the arbitrarily large abstraction provided by this class ensures that conceptually there are infinitely many &quot;virtual sign bits&quot; preceding each BigInteger. For the sake of brevity and clarity, pseudo-code is used throughout the descriptions of BigInteger methods. The pseudo-code expression (i + j) is shorthand for &quot;a BigInteger whose value is that of the BigInteger i plus that of the BigInteger j.&quot; The pseudo-code expression (i == j) is shorthand for &quot;true if and only if the BigInteger i represents the same value as the BigInteger j.&quot; Other pseudo-code expressions are interpreted similarly. All methods and constructors in this class throw NullPointerException when passed a null object reference for any input parameter. BigInteger must support values in the range -2Integer.MAX_VALUE (exclusive) to +2Integer.MAX_VALUE (exclusive) and may support values outside of that range. An ArithmeticException is thrown when a BigInteger constructor or method would generate a value outside of the supported range. The range of probable prime values is limited and may be less than the full supported positive range of BigInteger. The range must be at least 1 to 2500000000. Implementation Note: In the reference implementation, BigInteger constructors and operations throw ArithmeticException when the result is out of the supported range of -2Integer.MAX_VALUE (exclusive) to +2Integer.MAX_VALUE (exclusive)." />
-      <item value="Parses the string as a java.math.BigInteger number and returns the result or null if the string is not a valid representation of a number." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="397" />
-        <entry key="ENGLISH" value="398" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
