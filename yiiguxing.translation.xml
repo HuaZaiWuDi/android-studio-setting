@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Unterminated object at character" />
+      <item value="NONEMPTY" />
+      <item value="Unterminated object at line 1 column 532 path $.[0].messages.executeCode" />
+      <item value="Unterminated object at line 1 column 532 path .[0].messages.executeCode" />
       <item value="do Peek" />
       <item value="not match : - =" />
       <item value="Unterminated" />
@@ -142,14 +146,10 @@
       <item value="Utility method to convert WifiInfo.SecurityType to DevicePolicyManager.WifiSecurity Params: securityType – WifiInfo.SecurityType to convert Returns: DevicePolicyManager.WifiSecurity security level, or WifiInfo.DPM_SECURITY_TYPE_UNKNOWN for unknown security types" />
       <item value="Returns the ScanResult with the best RSSI from a list of ScanResults." />
       <item value="Encryption" />
-      <item value="Creates a Connect request that will try to connect to the given Bluetooth LE device. Call ConnectRequest.enqueue() or ConnectRequest.await() in order to execute the request. This method returns a ConnectRequest which can be used to set completion and failure callbacks. The completion callback (done) will be called after the initialization is complete, after BleManagerCallbacks.onDeviceReady(BluetoothDevice) has been called. Calling ConnectRequest.await() will make this request synchronous (the callbacks set will be ignored, instead the synchronous method will return or throw an exception). For asynchronous call usage, ConnectRequest.enqueue() must be called on the returned request. Params: device – a device to connect to. Returns: The connect request." />
-      <item value="ceil" />
-      <item value="REASON DEVICE NOT SUPPORTED" />
-      <item value="An overriding function is not allowed to specify default values for its parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
+        <entry key="CHINESE" value="419" />
         <entry key="ENGLISH" value="419" />
         <entry key="GERMAN" value="1" />
       </map>
