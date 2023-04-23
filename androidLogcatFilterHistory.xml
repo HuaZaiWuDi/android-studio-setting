@@ -1,13 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.lumiunited.aqarahome.play " />
+    <option name="mostRecentlyUsed" value="package:com.lumiunited.aqarahome.aqara " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lumiunited.aqarahome.aqara " />
+        <option value="package:com.lumiunited.aqarahome.aqara level:error " />
         <option value="package:com.lumiunited.aqarahome" />
+        <option value="package:com.lumiunited.aqarahome.aqara" />
         <option value="package:com.lumiunited.aqarahome.play " />
+        <option value="package:com.lumiunited.aqarahome.play  " />
+        <option value="level:error " />
         <option value="package:mine " />
         <option value="package:com.lumi.module_device_join_config " />
-        <option value="level:error " />
         <option value="package:com.lumi.module.homeconfiguration " />
         <option value="package:com.example.skindemo " />
         <option value="package: com.lumiunited.aqarahome " />
@@ -19,10 +23,6 @@
         <option value="package: " />
         <option value="package:com.lumi.camera.demo " />
         <option value="package:com.lumi.camera.demo level:warn " />
-        <option value="package:com.lumi.camera.demo level:error " />
-        <option value="package:com.lumi.module.homeconfiguration" />
-        <option value="package:com.lumiunited.aqarahome.play positionId" />
-        <option value="package:com.lumiunited.aqarahome.play posi" />
       </list>
     </option>
   </component>

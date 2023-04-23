@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="not match : - =" />
+      <item value="Unterminated" />
+      <item value="Unterminated object at line 1 column 532 path .result[0].messages.executeCode" />
       <item value="trigger Definition Name" />
       <item value="set Device Name Hint" />
       <item value="set Onboarding Payload" />
@@ -143,14 +146,11 @@
       <item value="REASON DEVICE NOT SUPPORTED" />
       <item value="An overriding function is not allowed to specify default values for its parameters" />
       <item value="manufacturer Data Mask" />
-      <item value="Legacy" />
-      <item value="Le" />
-      <item value="L" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="419" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
