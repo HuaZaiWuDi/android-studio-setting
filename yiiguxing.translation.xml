@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681702590910" />
+    <option name="lastTrimTime" value="1682220706579" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="set Device Name Hint" />
+      <item value="set Onboarding Payload" />
       <item value="get Data Network Type For Subscriber" />
       <item value="is Negative" />
       <item value="Any character of the string is not a digit of the specified radix, except that the first character may be a minus sign '-' ('\u002D') or plus sign '+' ('\u002B') provided that the string is longer than length 1." />
@@ -144,13 +146,11 @@
       <item value="Le" />
       <item value="L" />
       <item value="地理围栏" />
-      <item value="di" />
-      <item value="控制者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
