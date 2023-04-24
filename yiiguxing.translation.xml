@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="The X axis translation value of the display list, in pixels" />
       <item value="Query ipv6 address Returns: A FlowableTransformer that transform object without address to object with address." />
       <item value="ENOENT" />
       <item value="Unterminated object at character" />
@@ -145,12 +146,11 @@
       <item value="WPA2-Enterprise and WPA3-Enterprise (non 192-bit) advertise RSN-EAP-CCMP" />
       <item value="Wifi Network Suggestion" />
       <item value="capabilities" />
-      <item value="Utility method to convert WifiInfo.SecurityType to DevicePolicyManager.WifiSecurity Params: securityType – WifiInfo.SecurityType to convert Returns: DevicePolicyManager.WifiSecurity security level, or WifiInfo.DPM_SECURITY_TYPE_UNKNOWN for unknown security types" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
