@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.lumi.module.homeconfiguration  " />
+    <option name="mostRecentlyUsed" value="package:com.lumi.module.homeconfiguration  更新" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lumi.module.homeconfiguration  更新" />
         <option value="package:com.lumi.module.homeconfiguration  " />
         <option value="package:com.lumiunited.aqarahome" />
         <option value=" level:error " />
@@ -22,7 +23,6 @@
         <option value="package:com.example.shortcutdemo onNestedPreScroll" />
         <option value=" level:warn " />
         <option value="package:" />
-        <option value="package: " />
       </list>
     </option>
   </component>
