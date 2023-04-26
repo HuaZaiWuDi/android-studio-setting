@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Item at position 0 requires 4 spans but GridLayoutManager has only 2 spans." />
       <item value="Denotes that an integer parameter, field or method return value is expected to be a drawable resource reference (e.g. {@code android.R.attr.alertDialogIcon})." />
       <item value="Prefix Build" />
       <item value="Note: Applications should NOT use resolve() solely for txt record monitoring - use queryRecord() instead, as it is more efficient for this task." />
@@ -145,12 +146,11 @@
       <item value="ms-bits" />
       <item value="left- most" />
       <item value="响应" />
-      <item value="xiang'y" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
