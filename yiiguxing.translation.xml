@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Return a resource identifier for the given resource name. A fully qualified resource name is of the form &quot;package:typeentry&quot;. The first two components (package and type) are optional if defType and defPackage, respectively, are specified here. Note: use of this function is discouraged. It is much more efficient to retrieve resources by identifier than by name." />
       <item value="Item at position 0 requires 4 spans but GridLayoutManager has only 2 spans." />
       <item value="Denotes that an integer parameter, field or method return value is expected to be a drawable resource reference (e.g. {@code android.R.attr.alertDialogIcon})." />
       <item value="Prefix Build" />
@@ -145,12 +146,11 @@
       <item value="54 EF 444 C 4 D 98" />
       <item value="ms-bits" />
       <item value="left- most" />
-      <item value="响应" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
