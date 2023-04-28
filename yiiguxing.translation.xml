@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682220706579" />
+    <option name="lastTrimTime" value="1682662614856" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="tab Unbounded Ripple" />
+      <item value="Whether to display tab labels horizontally inline with icons, or underneath icons." />
       <item value="The Network Inspector shows all traffic data for the full timeline by default. You can select a range within the timeline to see only the traffic in that range. You can also create and manage rules that help test how your app behaves when encountering different responses such as status codes, response headers, and bodies. The rules determine what responses to intercept and how to modify these responses before they reach the app." />
       <item value="When onMeasure(int, int) is called, if the provided measure specs both have a mode of View.MeasureSpec.EXACTLY, RecyclerView will set its measured dimensions accordingly and return, allowing layout to continue as normal (Actually, RecyclerView will call onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int) for backwards compatibility reasons but it should not be overridden if AutoMeasure is being used). If one of the layout specs is not EXACT, the RecyclerView will start the layout process. It will first process all pending Adapter updates and then decide whether to run a predictive layout. If it decides to do so, it will first call onLayoutChildren(RecyclerView.Recycler, RecyclerView.State) with RecyclerView.State.isPreLayout() set to true. At this stage, getWidth() and getHeight() will still return the width and height of the RecyclerView as of the last layout calculation. After handling the predictive case, RecyclerView will call onLayoutChildren(RecyclerView.Recycler, RecyclerView.State) with RecyclerView.State.isMeasuring() set to true and RecyclerView.State.isPreLayout() set to false. The LayoutManager can access the measurement specs via getHeight(), getHeightMode(), getWidth() and getWidthMode(). After the layout calculation, RecyclerView sets the measured width &amp; height by calculating the bounding box for the children (+ RecyclerView's padding). The LayoutManagers can override setMeasuredDimension(Rect, int, int) to choose different values. For instance, GridLayoutManager overrides this value to handle the case where if it is vertical and has 3 columns but only 2 items, it should still measure its width to fit 3 items, not 2. Any following calls to onMeasure(int, int) will run onLayoutChildren(RecyclerView.Recycler, RecyclerView.State) with RecyclerView.State.isMeasuring() set to true and RecyclerView.State.isPreLayout() set to false. RecyclerView will take care of which views are actually added removed moved changed for animations so that the LayoutManager should not worry about them and handle each onLayoutChildren(RecyclerView.Recycler, RecyclerView.State) call as if it is the last one. When measure is complete and RecyclerView's onLayout(boolean, int, int, int, int) method is called, RecyclerView checks whether it already did layout calculations during the measure pass and if so, it re-uses that information. It may still decide to call onLayoutChildren(RecyclerView.Recycler, RecyclerView.State) if the last measure spec was different from the final dimensions or adapter contents have changed between the measure call and the layout call. Finally, animations are calculated and run as usual." />
       <item value="Returns whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int). This method returns false by default (it actually returns the value passed to the deprecated setAutoMeasureEnabled(boolean)) and should be overridden to return true if a LayoutManager wants to be auto measured by the RecyclerView. If this method is overridden to return true, onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int) should not be overridden. AutoMeasure is a RecyclerView mechanism that handles the measuring pass of layout in a simple and contract satisfying way, including the wrapping of children laid out by LayoutManager. Simply put, it handles wrapping children by calling onLayoutChildren(RecyclerView.Recycler, RecyclerView.State) during a call to onMeasure(int, int), and then calculating desired dimensions based on children's dimensions and positions. It does this while supporting all existing animation capabilities of the RecyclerView." />
@@ -144,13 +146,11 @@
       <item value="IS PRE LOLLIPOP" />
       <item value="packed" />
       <item value="Indicates that the ViewPager2 is in the process of settling to a final position." />
-      <item value="fake" />
-      <item value="Returns true if a fake drag is in progress." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="430" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="432" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
