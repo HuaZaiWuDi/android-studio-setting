@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="交互" />
+      <item value="ji'o'a'hu" />
+      <item value="及哦啊胡" />
       <item value="Does not do anything to hide gaps." />
       <item value="tab Unbounded Ripple" />
       <item value="Whether to display tab labels horizontally inline with icons, or underneath icons." />
@@ -143,14 +146,11 @@
       <item value="An implementation of OnClickListener that attempts to lazily load a named click handling method from a parent or ancestor context." />
       <item value="If any developer has desire to change this value, they should instead use cloneInContext(Context) and set the new factory in thew newly-created LayoutInflater." />
       <item value="Like setFactory, but allows you to set a LayoutInflater.Factory2 interface." />
-      <item value="A factory has already been set on this LayoutInflater" />
-      <item value="IS PRE LOLLIPOP" />
-      <item value="packed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="CHINESE" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
