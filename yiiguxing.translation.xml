@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Position in the Y axis from the starting edge that tabs should be positioned from." />
       <item value="交互" />
       <item value="ji'o'a'hu" />
       <item value="及哦啊胡" />
@@ -145,12 +146,11 @@
       <item value="An extension of AppCompatViewInflater that replaces some framework widgets with Material Components ones at inflation time, provided a Material Components theme is in use." />
       <item value="An implementation of OnClickListener that attempts to lazily load a named click handling method from a parent or ancestor context." />
       <item value="If any developer has desire to change this value, they should instead use cloneInContext(Context) and set the new factory in thew newly-created LayoutInflater." />
-      <item value="Like setFactory, but allows you to set a LayoutInflater.Factory2 interface." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="447" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
