@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682662614856" />
+    <option name="lastTrimTime" value="1683171239889" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Does not do anything to hide gaps." />
       <item value="tab Unbounded Ripple" />
       <item value="Whether to display tab labels horizontally inline with icons, or underneath icons." />
       <item value="The Network Inspector shows all traffic data for the full timeline by default. You can select a range within the timeline to see only the traffic in that range. You can also create and manage rules that help test how your app behaves when encountering different responses such as status codes, response headers, and bodies. The rules determine what responses to intercept and how to modify these responses before they reach the app." />
@@ -145,12 +146,11 @@
       <item value="A factory has already been set on this LayoutInflater" />
       <item value="IS PRE LOLLIPOP" />
       <item value="packed" />
-      <item value="Indicates that the ViewPager2 is in the process of settling to a final position." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
