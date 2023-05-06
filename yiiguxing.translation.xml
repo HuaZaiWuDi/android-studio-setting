@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Sets the one and ONLY color that should be used for this DataSet. Internally, this recreates the colors array and adds the specified color." />
       <item value="ndicates whether this View is currently in edit mode. A View is usually in edit mode when displayed within a developer tool. For instance, if this View is being drawn by a visual user interface builder, this method should return true. Subclasses should check the return value of this method to provide different behaviors if their normal behavior might interfere with the host environment. For instance: the class spawns a thread in its constructor, the drawing code relies on device-specific features, etc. This method is usually checked in the drawing code of custom widgets." />
       <item value="Position in the Y axis from the starting edge that tabs should be positioned from." />
       <item value="交互" />
@@ -145,7 +146,6 @@
       <item value="If the original context does not equal our themed context, then we need to manually inflate it using the name so that android:theme takes effect." />
       <item value="The fallback that allows extending class to take over view inflation for other tags. Note that we don't check that the result is not-null. That allows the custom inflater path to fall back on the default one later in this method." />
       <item value="An extension of AppCompatViewInflater that replaces some framework widgets with Material Components ones at inflation time, provided a Material Components theme is in use." />
-      <item value="An implementation of OnClickListener that attempts to lazily load a named click handling method from a parent or ancestor context." />
     </histories>
     <option name="languageScores">
       <map>
