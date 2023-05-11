@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="The horizontal extent of the scrollbar's thumb" />
+      <item value="Compute the horizontal extent of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track. The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollOffset(). Default implementation returns 0. If you want to support scroll bars, override RecyclerView.LayoutManager.computeHorizontalScrollExtent(RecyclerView.State) in your LayoutManager. Returns: The horizontal extent of the scrollbar's thumb See Also: RecyclerView.LayoutManager.computeHorizontalScrollExtent(RecyclerView.State)" />
+      <item value="Override this method if you want to support scroll bars." />
       <item value="View closest to start of the list. (top or left) endChild – View closest to end of the list (bottom or right)" />
       <item value="compute Scroll Offset" />
       <item value="Compute the horizontal offset of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the position of the thumb within the scrollbar's track. The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollExtent()." />
@@ -143,14 +146,11 @@
       <item value="get Data Network Type For Subscriber" />
       <item value="is Negative" />
       <item value="Any character of the string is not a digit of the specified radix, except that the first character may be a minus sign '-' ('\u002D') or plus sign '+' ('\u002B') provided that the string is longer than length 1." />
-      <item value="certificates" />
-      <item value="certifica" />
-      <item value="certif" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="456" />
-        <entry key="ENGLISH" value="457" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
