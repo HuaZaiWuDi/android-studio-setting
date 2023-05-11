@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Whether it is possible for the mTarget view of this layout to scroll up. Override this if the mTarget view is a custom view." />
       <item value="May be null. The subset of the bitmap to be drawn" />
       <item value="The rectangle that the bitmap will be scaledtranslated to fit into" />
       <item value="spread" />
@@ -145,12 +146,11 @@
       <item value="cer" />
       <item value="c" />
       <item value="数据通道" />
-      <item value="View Newly created view. Return null for the default behavior." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="450" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="CHINESE" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
