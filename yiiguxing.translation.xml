@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="split Track" />
       <item value="Clamps value to this range." />
       <item value="双开" />
       <item value="The horizontal extent of the scrollbar's thumb" />
@@ -145,12 +146,11 @@
       <item value="trigger Definition Name" />
       <item value="set Device Name Hint" />
       <item value="set Onboarding Payload" />
-      <item value="get Data Network Type For Subscriber" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="469" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
