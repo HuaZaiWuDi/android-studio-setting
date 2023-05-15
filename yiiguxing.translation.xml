@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Raises this value to the integer power n." />
       <item value="split Track" />
       <item value="Clamps value to this range." />
       <item value="双开" />
@@ -145,12 +146,11 @@
       <item value="Unterminated object at line 1 column 532 path .result[0].messages.executeCode" />
       <item value="trigger Definition Name" />
       <item value="set Device Name Hint" />
-      <item value="set Onboarding Payload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="471" />
+        <entry key="CHINESE" value="471" />
+        <entry key="ENGLISH" value="472" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
