@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.lumi.module_device_join_config " />
+    <option name="mostRecentlyUsed" value="package:com.lumiunited.aqarahome" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:com.lumi.module_device_join_config " />
+        <option value="package:com.lumi.module_device_join_config MainActivity设备名称" />
         <option value="package:mine 是否可以左滑" />
         <option value="package:com.lumiunited.aqarahome" />
         <option value="package:mine " />
@@ -12,7 +14,6 @@
         <option value="package:com.lumi.module.homeconfiguration  更新" />
         <option value="package:com.lumi.module.homeconfiguration  " />
         <option value=" level:error " />
-        <option value="package:com.lumi.module_device_join_config " />
         <option value="package:com.lumiunited.aqarahome.play  " />
         <option value="package:com.lumiunited.aqarahome.aqara " />
         <option value="package:com.lumiunited.aqarahome.play " />
@@ -22,7 +23,6 @@
         <option value="package:com.example.skindemo " />
         <option value="package: com.lumiunited.aqarahome " />
         <option value="package:com.lumi.module_device_join_config uri" />
-        <option value="package:com.example.shortcutdemo " />
       </list>
     </option>
   </component>
