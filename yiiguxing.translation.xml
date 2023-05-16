@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Open an asset using ACCESS_STREAMING mode. This provides access to files that have been bundled with an application as assets -- that is, files placed in to the &quot;assets&quot; directory." />
       <item value="A RequestManager for the top level application that can be used to start a load." />
       <item value="Any context, will not be retained." />
       <item value="This method is appropriate for resources that will be used outside of the normal fragment or activity lifecycle (For example in services, or for notification thumbnails)." />
@@ -145,12 +146,11 @@
       <item value="ji'o'a'hu" />
       <item value="及哦啊胡" />
       <item value="Does not do anything to hide gaps." />
-      <item value="tab Unbounded Ripple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="514" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
