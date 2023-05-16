@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Fetches an ParcelFileDescriptor for an asset path." />
       <item value="Failed to find any ModelLoaders registered for model class: class android.content.res.AssetManagerAssetInputStream" />
       <item value="setup Skin" />
       <item value="Open an asset using ACCESS_STREAMING mode. This provides access to files that have been bundled with an application as assets -- that is, files placed in to the &quot;assets&quot; directory." />
@@ -145,12 +146,11 @@
       <item value="ndicates whether this View is currently in edit mode. A View is usually in edit mode when displayed within a developer tool. For instance, if this View is being drawn by a visual user interface builder, this method should return true. Subclasses should check the return value of this method to provide different behaviors if their normal behavior might interfere with the host environment. For instance: the class spawns a thread in its constructor, the drawing code relies on device-specific features, etc. This method is usually checked in the drawing code of custom widgets." />
       <item value="Position in the Y axis from the starting edge that tabs should be positioned from." />
       <item value="交互" />
-      <item value="ji'o'a'hu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="516" />
-        <entry key="ENGLISH" value="517" />
+        <entry key="CHINESE" value="517" />
+        <entry key="ENGLISH" value="518" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
