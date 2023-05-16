@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Returns the minimum height of the view. Returns: the minimum height the view will try to be, in pixels See Also: setMinimumHeight(int)" />
+      <item value="Returns the suggested minimum height that the view should use. This returns the maximum of the view's minimum height and the background's minimum height (Drawable.getMinimumHeight())." />
+      <item value="get Suggested Minimum Height" />
       <item value="Version 1 Left-Most is 0" />
       <item value="calc check digit" />
       <item value="shift" />
@@ -143,14 +146,11 @@
       <item value="Denotes that an integer parameter, field or method return value is expected to be a drawable resource reference (e.g. {@code android.R.attr.alertDialogIcon})." />
       <item value="Prefix Build" />
       <item value="Note: Applications should NOT use resolve() solely for txt record monitoring - use queryRecord() instead, as it is more efficient for this task." />
-      <item value="re Query List" />
-      <item value="Returns a Flowable that emits each item emitted by the source Publisher, wrapped in a Timed object." />
-      <item value="The X axis translation value of the display list, in pixels" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="502" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
