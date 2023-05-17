@@ -96,6 +96,11 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Returns true if the given model is a of a recognized type that this loader can probably load. For example, you may want multiple Uri -&gt; InputStream loaders. One might handle media store Uris, another might handle asset Uris, and a third might handle file Uris etc. This method is generally expected to do no IO and complete quickly, so best effort results are acceptable. ModelLoaders that return true from this method may return null from buildLoadData(Object, int, int, Options)" />
+      <item value="Avoid parsing the Uri twice and simply return null from buildLoadData if we don't handle this particular Uri type." />
+      <item value="resource Class" />
+      <item value="transcode Class" />
+      <item value="Open an uncompressed asset by mmapping it and returning an AssetFileDescriptor. This provides access to files that have been bundled with an application as assets -- that is, files placed in to the &quot;assets&quot; directory. The asset must be uncompressed, or an exception will be thrown." />
       <item value="Fetches an ParcelFileDescriptor for an asset path." />
       <item value="Failed to find any ModelLoaders registered for model class: class android.content.res.AssetManagerAssetInputStream" />
       <item value="setup Skin" />
@@ -141,16 +146,11 @@
       <item value="Whether it is possible for the mTarget view of this layout to scroll up. Override this if the mTarget view is a custom view." />
       <item value="May be null. The subset of the bitmap to be drawn" />
       <item value="The rectangle that the bitmap will be scaledtranslated to fit into" />
-      <item value="spread" />
-      <item value="Sets the one and ONLY color that should be used for this DataSet. Internally, this recreates the colors array and adds the specified color." />
-      <item value="ndicates whether this View is currently in edit mode. A View is usually in edit mode when displayed within a developer tool. For instance, if this View is being drawn by a visual user interface builder, this method should return true. Subclasses should check the return value of this method to provide different behaviors if their normal behavior might interfere with the host environment. For instance: the class spawns a thread in its constructor, the drawing code relies on device-specific features, etc. This method is usually checked in the drawing code of custom widgets." />
-      <item value="Position in the Y axis from the starting edge that tabs should be positioned from." />
-      <item value="交互" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="523" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
