@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.lumi.module.homeconfiguration " />
+        <option value="package:com.lumi.module.homeconfiguration level:error " />
         <option value="package:com.lumiunited.aqarahome " />
         <option value="package:com.lumiunited.aqarahome level:error " />
         <option value="package:com.lumiunited.aqarahome" />
@@ -22,7 +23,6 @@
         <option value="package:com.lumiunited.aqarahome.aqara level:error " />
         <option value="package:com.lumiunited.aqarahome.aqara" />
         <option value="level:error " />
-        <option value="package:com.example.skindemo " />
       </list>
     </option>
   </component>
