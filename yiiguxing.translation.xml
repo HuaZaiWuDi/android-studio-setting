@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Type argument for a type parameter T can't be inferred because it has incompatible upper bounds: View, Unit (multiple incompatible classes). This will become an error in Kotlin 1.9" />
       <item value="Intercept this call and instead retrieve the Drawable via the image helper" />
       <item value="onScrolled while IDLE means RV has just been populated after an adapter has been set. Contract requires us to fire onPageSelected as well." />
       <item value="nScrolled while IDLE means RV has just been populated after an adapter has been set. Contract requires us to fire onPageSelected as well." />
@@ -145,11 +146,10 @@
       <item value="双开" />
       <item value="The horizontal extent of the scrollbar's thumb" />
       <item value="Compute the horizontal extent of the horizontal scrollbar's thumb within the horizontal range. This value is used to compute the length of the thumb within the scrollbar's track. The range is expressed in arbitrary units that must be the same as the units used by computeHorizontalScrollRange() and computeHorizontalScrollOffset(). Default implementation returns 0. If you want to support scroll bars, override RecyclerView.LayoutManager.computeHorizontalScrollExtent(RecyclerView.State) in your LayoutManager. Returns: The horizontal extent of the scrollbar's thumb See Also: RecyclerView.LayoutManager.computeHorizontalScrollExtent(RecyclerView.State)" />
-      <item value="Override this method if you want to support scroll bars." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="531" />
+        <entry key="CHINESE" value="532" />
         <entry key="ENGLISH" value="532" />
         <entry key="GERMAN" value="1" />
       </map>
