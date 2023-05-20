@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="xpression should use clarifying parentheses" />
       <item value="Returns the final span index of the provided position. If you have a faster way to calculate span index for your items, you should override this method. Otherwise, you should enable span index cache (setSpanIndexCacheEnabled(boolean)) for better performance. When caching is disabled, default implementation traverses all items from 0 to position. When caching is enabled, it calculates from the closest cached value before the position." />
       <item value="Measure the attached RecyclerView. Implementations must call setMeasuredDimension(int, int) before returning. It is strongly advised to use the AutoMeasure mechanism by overriding isAutoMeasureEnabled() to return true as AutoMeasure handles all the standard measure cases including when the RecyclerView's layout_width or layout_height have been set to wrap_content. If isAutoMeasureEnabled() is overridden to return true, this method should not be overridden. The default implementation will handle EXACTLY measurements and respect the minimum width and height properties of the host RecyclerView if measured as UNSPECIFIED. AT_MOST measurements will be treated as EXACTLY and the RecyclerView will consume all available space." />
       <item value="Returns whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int)." />
@@ -145,11 +146,10 @@
       <item value="juli" />
       <item value="dist" />
       <item value="di's't" />
-      <item value="Raises this value to the integer power n." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="537" />
+        <entry key="CHINESE" value="538" />
         <entry key="ENGLISH" value="538" />
         <entry key="GERMAN" value="1" />
       </map>
