@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.lumiunited.aqarahome " />
+    <option name="mostRecentlyUsed" value="package:com.lumi.module.homeconfiguration  level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.lumi.module.homeconfiguration " />
+        <option value="package:com.lumi.module.homeconfiguration  level:error " />
         <option value="package:com.lumiunited.aqarahome " />
+        <option value="package:com.lumi.module.homeconfiguration " />
         <option value="package:com.lumi.module.homeconfiguration level:warn " />
         <option value="package:com.lumiunited.aqarahome level:warn " />
         <option value="package:com.lumiunited.aqarahome.play  " />
@@ -22,7 +23,6 @@
         <option value=" level:error " />
         <option value="package:com.lumiunited.aqarahome.aqara " />
         <option value="package:com.lumiunited.aqarahome.play " />
-        <option value="package:com.lumiunited.aqarahome.aqara level:error " />
       </list>
     </option>
   </component>
