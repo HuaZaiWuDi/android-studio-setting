@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Implement this method to intercept all touch screen motion events. This allows you to watch events as they are dispatched to your children, and take ownership of the current gesture at any point. Using this function takes some care, as it has a fairly complicated interaction with View.onTouchEvent(MotionEvent), and using it requires implementing that method as well as this one in the correct way. Events will be received in the following order:" />
       <item value="Enables or disables long click events for this view. When a view is long clickable it reacts to the user holding down the button for a longer duration than a tap. This event can either launch the listener or a context menu." />
       <item value="Enables or disables click events for this view. When a view is clickable it will change its state to &quot;pressed&quot; on every click. Subclasses should set the view clickable to visually react to user's clicks." />
       <item value="dicates this view can display a tooltip on hover or long press." />
@@ -145,12 +146,11 @@
       <item value="Begin a load with Glide by passing in a context. Any requests started using a context will only have the application level options applied and will not be started or stopped based on lifecycle events. In general, loads should be started at the level the result will be used in. If the resource will be used in a view in a child fragment, the load should be started with with(android.app.Fragment)} using that child fragment. Similarly, if the resource will be used in a view in the parent fragment, the load should be started with with(android.app.Fragment) using the parent fragment. In the same vein, if the resource will be used in a view in an activity, the load should be started with with(Activity)}." />
       <item value="The Glide singleton that is in the process of being initialized" />
       <item value="An Registry to use to register components." />
-      <item value="An internal interface, to be removed when GlideModules are removed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="553" />
-        <entry key="ENGLISH" value="554" />
+        <entry key="CHINESE" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
