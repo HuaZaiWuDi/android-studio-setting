@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Enables or disables long click events for this view. When a view is long clickable it reacts to the user holding down the button for a longer duration than a tap. This event can either launch the listener or a context menu." />
+      <item value="Enables or disables click events for this view. When a view is clickable it will change its state to &quot;pressed&quot; on every click. Subclasses should set the view clickable to visually react to user's clicks." />
+      <item value="dicates this view can display a tooltip on hover or long press." />
       <item value="Was not working when tested. Use openCommissioningWindowUsingOpenPairingWindowWithPin" />
       <item value="ITERATION" />
       <item value="Pairing" />
@@ -143,14 +146,11 @@
       <item value="The Glide singleton that is in the process of being initialized" />
       <item value="An Registry to use to register components." />
       <item value="An internal interface, to be removed when GlideModules are removed." />
-      <item value="Returns the application's Resources." />
-      <item value="Retrieve the resources for an application. Throws NameNotFoundException if the package is no longer installed." />
-      <item value="Previously created AssetManager." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="CHINESE" value="553" />
+        <entry key="ENGLISH" value="554" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
