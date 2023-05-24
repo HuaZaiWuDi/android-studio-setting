@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="commission" />
       <item value="No such property" />
       <item value="maybe not an error because module has entative action to load resource." />
       <item value="illegal package for" />
@@ -145,12 +146,11 @@
       <item value="btn scan Near Device" />
       <item value="advertising" />
       <item value="Offloaded" />
-      <item value="距离" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="540" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="541" />
+        <entry key="ENGLISH" value="542" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
