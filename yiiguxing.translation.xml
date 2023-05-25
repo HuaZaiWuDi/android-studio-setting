@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684575077110" />
+    <option name="lastTrimTime" value="1685014608281" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="The data field holds an attribute resource identifier (referencing an attribute in the current theme style, not a resource entry)." />
+      <item value="Identifies the start of plain integer values. Any type value from this to TYPE_LAST_INT means the data field holds a generic integer value." />
+      <item value="This should be accessed via ImageViewCompat.setImageTintList(ImageView, ColorStateList)" />
       <item value="Weak Reference" />
       <item value="Fail fast if we're not in a state where a swipe is possible" />
       <item value="Whether it is possible for the child view of this layout to scroll up. Override this if the child view is a custom view." />
@@ -143,14 +146,11 @@
       <item value="Returns true if the given model is a of a recognized type that this loader can probably load. For example, you may want multiple Uri -&gt; InputStream loaders. One might handle media store Uris, another might handle asset Uris, and a third might handle file Uris etc. This method is generally expected to do no IO and complete quickly, so best effort results are acceptable. ModelLoaders that return true from this method may return null from buildLoadData(Object, int, int, Options)" />
       <item value="Avoid parsing the Uri twice and simply return null from buildLoadData if we don't handle this particular Uri type." />
       <item value="resource Class" />
-      <item value="transcode Class" />
-      <item value="Open an uncompressed asset by mmapping it and returning an AssetFileDescriptor. This provides access to files that have been bundled with an application as assets -- that is, files placed in to the &quot;assets&quot; directory. The asset must be uncompressed, or an exception will be thrown." />
-      <item value="Fetches an ParcelFileDescriptor for an asset path." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="565" />
-        <entry key="ENGLISH" value="566" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="567" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
