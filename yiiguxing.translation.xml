@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Fail fast if we're not in a state where a swipe is possible" />
+      <item value="Whether it is possible for the child view of this layout to scroll up. Override this if the child view is a custom view." />
+      <item value="Callback that will be called when canChildScrollUp() method is called to allow the implementer to override its behavior. Params: parent – SwipeRefreshLayout that this callback is overriding. child – The child view of SwipeRefreshLayout." />
       <item value="STATUS ROOT ANIM ENABLE" />
       <item value="STATUS ROOT ANIM DISABLE" />
       <item value="TRANSIT FRAGMENT CLOSE" />
@@ -143,14 +146,11 @@
       <item value="Open an uncompressed asset by mmapping it and returning an AssetFileDescriptor. This provides access to files that have been bundled with an application as assets -- that is, files placed in to the &quot;assets&quot; directory. The asset must be uncompressed, or an exception will be thrown." />
       <item value="Fetches an ParcelFileDescriptor for an asset path." />
       <item value="Failed to find any ModelLoaders registered for model class: class android.content.res.AssetManagerAssetInputStream" />
-      <item value="setup Skin" />
-      <item value="Open an asset using ACCESS_STREAMING mode. This provides access to files that have been bundled with an application as assets -- that is, files placed in to the &quot;assets&quot; directory." />
-      <item value="A RequestManager for the top level application that can be used to start a load." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="564" />
+        <entry key="ENGLISH" value="565" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
