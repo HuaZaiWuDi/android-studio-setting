@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.lumi.module.homeconfiguration ResourceName" />
+    <option name="mostRecentlyUsed" value="package:com.lumi.module.homeconfiguration" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lumi.module.homeconfiguration" />
         <option value="package:com.lumi.module.homeconfiguration ResourceName" />
         <option value="package:com.lumi.module.homeconfiguration level:error " />
         <option value="package:com.lumi.module.homeconfiguration " />
@@ -22,7 +23,6 @@
         <option value="package:com.lumi.module.homeconfiguration  刷新" />
         <option value="package:com.lumi.module.homeconfiguration  更新" />
         <option value="package:com.lumi.module.homeconfiguration  " />
-        <option value=" level:error " />
       </list>
     </option>
   </component>
