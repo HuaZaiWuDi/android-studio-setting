@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="发现" />
+      <item value="fa'xian'b" />
+      <item value="fa'xia" />
       <item value="This extends Resources but delegates the calls to another Resources object. This enables any customization done by some subclass of Resources to be also picked up." />
       <item value="Cannot access 'ResourcesWrapper': it is package-private in 'com.lumi.module.homeconfiguration.utils.skin'" />
       <item value="The data field holds an attribute resource identifier (referencing an attribute in the current theme style, not a resource entry)." />
@@ -143,14 +146,11 @@
       <item value="Registers a set of components to use when initializing Glide within an app when Glide's annotation processor is used. Any number of LibraryGlideModules can be contained within any library or application. LibraryGlideModules are called in no defined order. If LibraryGlideModules within an application conflict, AppGlideModules can use the com.bumptech.glide.annotation.Excludes annotation to selectively remove one or more of the conflicting modules." />
       <item value="Cannot resolve method" />
       <item value="The AssetFileDescriptor contains its own ParcelFileDescriptor, which in addition to the normal FileDescriptor object also allows you to close the descriptor when you are done with it." />
-      <item value="Open a raw file descriptor to access data under a URI. This interacts with the underlying ContentProvider.openAssetFile method of the provider associated with the given URI, to retrieve any file stored there. Accepts the following URI schemes:" />
-      <item value="asset" />
-      <item value="Returns true if the given model is a of a recognized type that this loader can probably load. For example, you may want multiple Uri -&gt; InputStream loaders. One might handle media store Uris, another might handle asset Uris, and a third might handle file Uris etc. This method is generally expected to do no IO and complete quickly, so best effort results are acceptable. ModelLoaders that return true from this method may return null from buildLoadData(Object, int, int, Options)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="567" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="576" />
+        <entry key="ENGLISH" value="577" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
