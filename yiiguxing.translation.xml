@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Note: resolve() behaves correctly for typical services that have a single SRV record and a single TXT record (the TXT record may be empty.) To resolve non-standard services with multiple SRV or TXT records, use queryRecord()." />
+      <item value="Resolve a Flowable to a target host name, port number, and txt record. Note: Applications should NOT use resolve() solely for txt record monitoring - use queryRecord() instead, as it is more efficient for this task. Note: resolve() behaves correctly for typical services that have a single SRV record and a single TXT record (the TXT record may be empty.) To resolve non-standard services with multiple SRV or TXT records, use queryRecord()." />
+      <item value="Resolve a Flowable to a target host name, port number, and txt record." />
       <item value="NOOP" />
       <item value="WARNING" />
       <item value="SPREAD" />
@@ -143,14 +146,11 @@
       <item value="illegal package for" />
       <item value="xpression should use clarifying parentheses" />
       <item value="Returns the final span index of the provided position. If you have a faster way to calculate span index for your items, you should override this method. Otherwise, you should enable span index cache (setSpanIndexCacheEnabled(boolean)) for better performance. When caching is disabled, default implementation traverses all items from 0 to position. When caching is enabled, it calculates from the closest cached value before the position." />
-      <item value="Measure the attached RecyclerView. Implementations must call setMeasuredDimension(int, int) before returning. It is strongly advised to use the AutoMeasure mechanism by overriding isAutoMeasureEnabled() to return true as AutoMeasure handles all the standard measure cases including when the RecyclerView's layout_width or layout_height have been set to wrap_content. If isAutoMeasureEnabled() is overridden to return true, this method should not be overridden. The default implementation will handle EXACTLY measurements and respect the minimum width and height properties of the host RecyclerView if measured as UNSPECIFIED. AT_MOST measurements will be treated as EXACTLY and the RecyclerView will consume all available space." />
-      <item value="Returns whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int)." />
-      <item value="Returns whether the measuring pass of layout should use the AutoMeasure mechanism of RecyclerView or if it should be done by the LayoutManager's implementation of onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int). This method returns false by default (it actually returns the value passed to the deprecated setAutoMeasureEnabled(boolean)) and should be overridden to return true if a LayoutManager wants to be auto measured by the RecyclerView. If this method is overridden to return true, onMeasure(RecyclerView.Recycler, RecyclerView.State, int, int) should not be overridden. AutoMeasure is a RecyclerView mechanism that handles the measuring pass of layout in a simple and contract satisfying way, including the wrapping of children laid out by LayoutManager. Simply put, it handles wrapping children by calling onLayoutChildren(RecyclerView.Recycler, RecyclerView.State) during a call to onMeasure(int, int), and then calculating desired dimensions based on children's dimensions and positions. It does this while supporting all existing animation capabilities of the RecyclerView." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="592" />
-        <entry key="ENGLISH" value="593" />
+        <entry key="CHINESE" value="593" />
+        <entry key="ENGLISH" value="594" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
