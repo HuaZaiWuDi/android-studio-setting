@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="figures" />
       <item value="间隔" />
       <item value="jian'ge" />
       <item value="相册" />
@@ -145,12 +146,11 @@
       <item value="Matter Beacon" />
       <item value="set Duration Seconds" />
       <item value="set Onboarding Payload" />
-      <item value="Unable to get connected device with nodeId" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="607" />
-        <entry key="ENGLISH" value="608" />
+        <entry key="CHINESE" value="608" />
+        <entry key="ENGLISH" value="609" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
