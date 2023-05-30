@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="相册" />
+      <item value="xiang'c" />
       <item value="set Enable Footer Follow When No More Data" />
       <item value="exit Until Collapsed" />
       <item value="Note: resolve() behaves correctly for typical services that have a single SRV record and a single TXT record (the TXT record may be empty.) To resolve non-standard services with multiple SRV or TXT records, use queryRecord()." />
@@ -144,13 +146,11 @@
       <item value="Unable to get connected device with nodeId" />
       <item value="commission" />
       <item value="No such property" />
-      <item value="maybe not an error because module has entative action to load resource." />
-      <item value="illegal package for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="595" />
-        <entry key="ENGLISH" value="596" />
+        <entry key="CHINESE" value="601" />
+        <entry key="ENGLISH" value="602" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
