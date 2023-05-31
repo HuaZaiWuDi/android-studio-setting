@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="is Valid By Pair Code" />
       <item value="generate" />
       <item value="Gets a digit from D matrix." />
       <item value="figures" />
@@ -145,12 +146,11 @@
       <item value="chip" />
       <item value="chip Client" />
       <item value="Beacon" />
-      <item value="Matter Beacon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
