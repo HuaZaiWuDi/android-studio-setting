@@ -96,6 +96,15 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="环境因子" />
+      <item value="huan'j" />
+      <item value="一米的信号值" />
+      <item value="一米的" />
+      <item value="yi'mi" />
+      <item value="最小发现距离" />
+      <item value="zui" />
+      <item value="zui'ixo'a" />
+      <item value="xiao'mi" />
       <item value="is Valid By Pair Code" />
       <item value="generate" />
       <item value="Gets a digit from D matrix." />
@@ -137,20 +146,11 @@
       <item value="True if the event was handled by the view, false otherwise." />
       <item value="Implement this method to intercept all touch screen motion events. This allows you to watch events as they are dispatched to your children, and take ownership of the current gesture at any point. Using this function takes some care, as it has a fairly complicated interaction with View.onTouchEvent(MotionEvent), and using it requires implementing that method as well as this one in the correct way. Events will be received in the following order:" />
       <item value="Enables or disables long click events for this view. When a view is long clickable it reacts to the user holding down the button for a longer duration than a tap. This event can either launch the listener or a context menu." />
-      <item value="Enables or disables click events for this view. When a view is clickable it will change its state to &quot;pressed&quot; on every click. Subclasses should set the view clickable to visually react to user's clicks." />
-      <item value="dicates this view can display a tooltip on hover or long press." />
-      <item value="Was not working when tested. Use openCommissioningWindowUsingOpenPairingWindowWithPin" />
-      <item value="ITERATION" />
-      <item value="Pairing" />
-      <item value="Administrator" />
-      <item value="chip" />
-      <item value="chip Client" />
-      <item value="Beacon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
