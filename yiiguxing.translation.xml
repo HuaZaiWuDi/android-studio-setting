@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="CASCADE" />
       <item value="foreign Keys" />
       <item value="Cannot figure out how to save this field into database. You can consider adding a type converter for it." />
       <item value="Cannot find setter for field." />
@@ -145,12 +146,11 @@
       <item value="Whether it is possible for the child view of this layout to scroll up. Override this if the child view is a custom view." />
       <item value="Callback that will be called when canChildScrollUp() method is called to allow the implementer to override its behavior. Params: parent – SwipeRefreshLayout that this callback is overriding. child – The child view of SwipeRefreshLayout." />
       <item value="STATUS ROOT ANIM ENABLE" />
-      <item value="STATUS ROOT ANIM DISABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="CHINESE" value="651" />
+        <entry key="ENGLISH" value="652" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
