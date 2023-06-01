@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Depository" />
       <item value="Not a JSON Array: &quot;[]&quot;" />
       <item value="Specifies additional type converters that Room can use. The TypeConverter is added to the scope of the element so if you put it on a class interface, all methods fields in that class will be able to use the converters." />
       <item value="auto Migrations" />
@@ -145,7 +146,6 @@
       <item value="This extends Resources but delegates the calls to another Resources object. This enables any customization done by some subclass of Resources to be also picked up." />
       <item value="Cannot access 'ResourcesWrapper': it is package-private in 'com.lumi.module.homeconfiguration.utils.skin'" />
       <item value="The data field holds an attribute resource identifier (referencing an attribute in the current theme style, not a resource entry)." />
-      <item value="Identifies the start of plain integer values. Any type value from this to TYPE_LAST_INT means the data field holds a generic integer value." />
     </histories>
     <option name="languageScores">
       <map>
