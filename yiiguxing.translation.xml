@@ -96,6 +96,11 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Flag indicates to a BrowseListener that another result is queued. Applications should not update their UI to display browse results if the MORE_COMING flag is set; they will be called at least once more with the flag clear." />
+      <item value="If flag is set, a name conflict will trigger an exception when registering non-shared records. A name must be explicitly specified when registering a service if this bit is set (i.e. the default name may not not be used)." />
+      <item value="Set flag when calling enumerateDomains() to restrict results to domains recommended for registration." />
+      <item value="Maximum length, in bytes, of a domain name represented as an escaped C-String." />
+      <item value="Currently ignored, reserved for future use." />
       <item value="LiveData subclass which may observe other LiveData objects and react on OnChanged events from them. This class correctly propagates its activeinactive states down to source LiveData objects. Consider the following scenario: we have 2 instances of LiveData, let's name them liveData1 and liveData2, and we want to merge their emissions in one object: liveDataMerger. Then, liveData1 and liveData2 will become sources for the MediatorLiveData liveDataMerger and every time onChanged callback is called for either of them, we set a new value in liveDataMerger." />
       <item value="If true, the fragment will be displayed in a Dialog. If false, no Dialog will be created and the fragment's view hierarchy left undisturbed." />
       <item value="Return the current value of setShowsDialog(boolean)." />
@@ -141,16 +146,11 @@
       <item value="Note: resolve() behaves correctly for typical services that have a single SRV record and a single TXT record (the TXT record may be empty.) To resolve non-standard services with multiple SRV or TXT records, use queryRecord()." />
       <item value="Resolve a Flowable to a target host name, port number, and txt record. Note: Applications should NOT use resolve() solely for txt record monitoring - use queryRecord() instead, as it is more efficient for this task. Note: resolve() behaves correctly for typical services that have a single SRV record and a single TXT record (the TXT record may be empty.) To resolve non-standard services with multiple SRV or TXT records, use queryRecord()." />
       <item value="Resolve a Flowable to a target host name, port number, and txt record." />
-      <item value="NOOP" />
-      <item value="WARNING" />
-      <item value="SPREAD" />
-      <item value="排列" />
-      <item value="chain Style" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="664" />
-        <entry key="ENGLISH" value="665" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="669" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
