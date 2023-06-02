@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Method addObserver must be called on the main thread" />
       <item value="is Single Line" />
       <item value="Depository" />
       <item value="Not a JSON Array: &quot;[]&quot;" />
@@ -145,12 +146,11 @@
       <item value="fa'xian'b" />
       <item value="fa'xia" />
       <item value="This extends Resources but delegates the calls to another Resources object. This enables any customization done by some subclass of Resources to be also picked up." />
-      <item value="Cannot access 'ResourcesWrapper': it is package-private in 'com.lumi.module.homeconfiguration.utils.skin'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="657" />
-        <entry key="ENGLISH" value="658" />
+        <entry key="CHINESE" value="658" />
+        <entry key="ENGLISH" value="659" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
