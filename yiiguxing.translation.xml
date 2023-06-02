@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="null out the listener and call onDismiss() manually to ensure that the callback happens before onDestroy()" />
+      <item value="Instead of waiting for a posted onDismiss()" />
+      <item value="Instead of waiting for a posted onDismiss(), null out the listener and call onDismiss() manually to ensure that the callback happens before onDestroy()" />
       <item value="特殊" />
       <item value="te's" />
       <item value="Method addObserver must be called on the main thread" />
@@ -143,14 +146,11 @@
       <item value="平均分布" />
       <item value="平均fen'b" />
       <item value="平均" />
-      <item value="ping'j" />
-      <item value="发现" />
-      <item value="fa'xian'b" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="661" />
-        <entry key="ENGLISH" value="662" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="665" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
