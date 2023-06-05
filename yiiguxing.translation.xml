@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Occupied" />
       <item value="Flag indicates to a BrowseListener that another result is queued. Applications should not update their UI to display browse results if the MORE_COMING flag is set; they will be called at least once more with the flag clear." />
       <item value="If flag is set, a name conflict will trigger an exception when registering non-shared records. A name must be explicitly specified when registering a service if this bit is set (i.e. the default name may not not be used)." />
       <item value="Set flag when calling enumerateDomains() to restrict results to domains recommended for registration." />
@@ -145,7 +146,6 @@
       <item value="exit Until Collapsed" />
       <item value="Note: resolve() behaves correctly for typical services that have a single SRV record and a single TXT record (the TXT record may be empty.) To resolve non-standard services with multiple SRV or TXT records, use queryRecord()." />
       <item value="Resolve a Flowable to a target host name, port number, and txt record. Note: Applications should NOT use resolve() solely for txt record monitoring - use queryRecord() instead, as it is more efficient for this task. Note: resolve() behaves correctly for typical services that have a single SRV record and a single TXT record (the TXT record may be empty.) To resolve non-standard services with multiple SRV or TXT records, use queryRecord()." />
-      <item value="Resolve a Flowable to a target host name, port number, and txt record." />
     </histories>
     <option name="languageScores">
       <map>
