@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Flattens a Publisher that emits Publishers into a single Publisher that emits the items emitted by those Publishers, without any transformation." />
       <item value="鉴权" />
       <item value="Specify a maximum height size for the widget. It will only apply if the size of the widget is set to MATCH_CONSTRAINT. Don't apply if the widget is part of a vertical chain." />
       <item value="Occupied" />
@@ -145,7 +146,6 @@
       <item value="相册" />
       <item value="xiang'c" />
       <item value="set Enable Footer Follow When No More Data" />
-      <item value="exit Until Collapsed" />
     </histories>
     <option name="languageScores">
       <map>
