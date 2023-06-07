@@ -96,6 +96,13 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Returns a new Publisher by applying a function that you supply to each item emitted by the source Publisher that returns a Publisher, and then emitting the items emitted by the most recently emitted of these Publishers. The resulting Publisher completes if both the upstream Publisher and the last inner Publisher, if any, complete. If the upstream Publisher signals an onError, the inner Publisher is canceled and the error delivered in-sequence." />
+      <item value="delay errors signaled by any of the source Publisher until all Publishers terminate" />
+      <item value="delay errors from any of the source Publishers till the other terminates" />
+      <item value="zip does not operate by default on a particular Scheduler." />
+      <item value="zip applies this function in strict sequence, so the first item emitted by the new Publisher will be the result of the function applied to the first item emitted by o1 and the first item emitted by o2; the second item emitted by the new Publisher will be the result of the function applied to the second item emitted by o1 and the second item emitted by o2; and so forth. The resulting Publisher&lt;R&gt; returned from zip will invoke onNext as many times as the number of onNext invocations of the source Publisher that emits the fewest items. The operator subscribes to its sources in the order they are specified and completes eagerly if one of the sources is shorter than the rest while canceling the other sources. Therefore, it is possible those other sources will never be able to run to completion (and thus not calling doOnComplete()). This can also happen if the sources are exactly the same length; if source A completes and B has been consumed and is about to complete, the operator detects A won't be sending further values and it will cancel B immediately. For example: zip(range(1, 5).doOnComplete(action1), range(6, 5).doOnComplete(action2), (a, b) -&gt; a + b) action1 will be called but action2 won't. To work around this termination property, use doOnCancel(Action) as well or use using() to do cleanup in case of completion or cancellation." />
+      <item value="This behaves like merge(Publisher, Publisher) except that if any of the merged Publishers notify of an error via onError, mergeDelayError will refrain from propagating that error notification until all of the merged Publishers have finished emitting items." />
+      <item value="If any of the source Publishers signal a Throwable via onError, the resulting Flowable terminates with that Throwable and all other source Publishers are canceled. If more than one Publisher signals an error, the resulting Flowable may terminate with the first one's error or, depending on the concurrency of the sources, may terminate with a CompositeException containing two or more of the various error signals. Throwables that didn't make into the composite will be sent (individually) to the global error handler via RxJavaPlugins.onError(Throwable) method as UndeliverableException errors. Similarly, Throwables signaled by source(s) after the returned Flowable has been canceled or terminated with a (composite) error will be sent to the same global error handler. Use mergeDelayError(Publisher, Publisher) to merge sources and terminate only when all source Publishers have completed or failed with an error." />
       <item value="批量" />
       <item value="The source did not signal an event for 15 seconds and has been terminated." />
       <item value="a Flowable that emits only the first count items emitted by the source Publisher, or all of the items from the source Publisher if that Publisher emits fewer than count items" />
@@ -139,18 +146,11 @@
       <item value="yi'mi" />
       <item value="最小发现距离" />
       <item value="zui" />
-      <item value="zui'ixo'a" />
-      <item value="xiao'mi" />
-      <item value="is Valid By Pair Code" />
-      <item value="generate" />
-      <item value="Gets a digit from D matrix." />
-      <item value="figures" />
-      <item value="间隔" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="684" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="692" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
