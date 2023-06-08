@@ -96,6 +96,12 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Causes the Runnable r to be added to the message queue. The runnable will be run on the thread to which this handler is attached." />
+      <item value="This method should return true if the packet matches the filter and should be processed by the request." />
+      <item value="Method called when packet has been sent and confirmed (when Write With Response was used), or added to local outgoing buffer (when Write Without Response was used)." />
+      <item value="if the data received are equal to data sent." />
+      <item value="rue, if the data received are equal to data sent." />
+      <item value="Callback received each time the value was written to a characteristic or descriptor, or was read from the server characteristic or descriptor." />
       <item value="a Flowable that emits the items from the source Publisher so long as each item satisfies the condition defined by predicate, then completes" />
       <item value="Returns a Flowable that emits items emitted by the source Publisher, checks the specified predicate for each item, and then completes when the condition is satisfied." />
       <item value="a Flowable that first emits items emitted by the source Publisher, checks the specified condition after each item, and then completes when the condition is satisfied." />
@@ -140,17 +146,11 @@
       <item value="Depository" />
       <item value="Not a JSON Array: &quot;[]&quot;" />
       <item value="Specifies additional type converters that Room can use. The TypeConverter is added to the scope of the element so if you put it on a class interface, all methods fields in that class will be able to use the converters." />
-      <item value="auto Migrations" />
-      <item value="@androidx.room.Database does not define an element autoMigrations()" />
-      <item value="List of columns in an index cannot be empty" />
-      <item value="Cannot find a column in the entity com.lumi.moudle.access.model.database.entitys.AccessCategoryEntity that matches with this partial entity field. If you don't wish to use the field then you can annotate it with @Ignore." />
-      <item value="Cannot find setter for field." />
-      <item value="Cannot figure out how to save this field into database. You can consider adding a type converter for it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="703" />
-        <entry key="ENGLISH" value="704" />
+        <entry key="CHINESE" value="708" />
+        <entry key="ENGLISH" value="709" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
