@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="鉴权" />
+      <item value="认证" />
       <item value="0000 FCB 9" />
       <item value="If there is a security manager, and the socket is not currently connected to a remote address, this method first performs some security checks. First, if p.getAddress().isMulticastAddress() is true, this method calls the security manager's checkMulticast method with p.getAddress() as its argument. If the evaluation of that expression is false, this method instead calls the security manager's checkConnect method with arguments p.getAddress().getHostAddress() and p.getPort(). Each call to a security manager method could result in a SecurityException if the operation is not allowed." />
       <item value="Sends a datagram packet from this socket. The DatagramPacket includes information indicating the data to be sent, its length, the IP address of the remote host, and the port number on the remote host." />
@@ -129,7 +131,6 @@
       <item value="a Flowable that emits only the first count items emitted by the source Publisher, or all of the items from the source Publisher if that Publisher emits fewer than count items" />
       <item value="Returns a Flowable that emits only the first count items emitted by the source Publisher. If the source emits fewer than count items then all of its items are emitted." />
       <item value="Flattens a Publisher that emits Publishers into a single Publisher that emits the items emitted by those Publishers, without any transformation." />
-      <item value="鉴权" />
       <item value="Specify a maximum height size for the widget. It will only apply if the size of the widget is set to MATCH_CONSTRAINT. Don't apply if the widget is part of a vertical chain." />
       <item value="Occupied" />
       <item value="Flag indicates to a BrowseListener that another result is queued. Applications should not update their UI to display browse results if the MORE_COMING flag is set; they will be called at least once more with the flag clear." />
@@ -145,12 +146,11 @@
       <item value="Instead of waiting for a posted onDismiss(), null out the listener and call onDismiss() manually to ensure that the callback happens before onDestroy()" />
       <item value="特殊" />
       <item value="te's" />
-      <item value="Method addObserver must be called on the main thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="710" />
-        <entry key="ENGLISH" value="711" />
+        <entry key="CHINESE" value="725" />
+        <entry key="ENGLISH" value="726" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
