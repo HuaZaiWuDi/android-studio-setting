@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="TRAIT_SUPPORTED_NETWORK = FUNCTION_NETWORK_ TRAIT_WiFi_Diagnostics = FUNCTION_NETWORK_C TRAIT_Thread_Diagnostics = FUNCTION_NETWORK TRAIT_Zigbee_Diagnostics = FUNCTION_NETWORK TRAIT_Ethernet_Diagnostics = FUNCTION_NETWO COmmand_AddOrUpdate_WiFi_Network=FUNCTION_N COmmand_AddOrUpdate_WiFi_Network_Response=F COmmand_AddOrUpdate_Thread_Network=FUNCTION COmmand_AddOrUpdate_Thread_Network_Response COmmand_AddOrUpdate_Zigbee_Network=FUNCTION COmmand_AddOrUpdate_Zigbee_Network_Response" />
+      <item value="Function Network Commissioning" />
       <item value="Called when the initialization queue is complete." />
       <item value="Are we done with initializing?" />
       <item value="This method is not final, as some Managers may be created with BluetoothDevice in a constructor. Those can return the device object even without calling connect(device)." />
@@ -144,8 +146,6 @@
       <item value="Set flag when calling enumerateDomains() to restrict results to domains recommended for registration." />
       <item value="Maximum length, in bytes, of a domain name represented as an escaped C-String." />
       <item value="Currently ignored, reserved for future use." />
-      <item value="LiveData subclass which may observe other LiveData objects and react on OnChanged events from them. This class correctly propagates its activeinactive states down to source LiveData objects. Consider the following scenario: we have 2 instances of LiveData, let's name them liveData1 and liveData2, and we want to merge their emissions in one object: liveDataMerger. Then, liveData1 and liveData2 will become sources for the MediatorLiveData liveDataMerger and every time onChanged callback is called for either of them, we set a new value in liveDataMerger." />
-      <item value="If true, the fragment will be displayed in a Dialog. If false, no Dialog will be created and the fragment's view hierarchy left undisturbed." />
     </histories>
     <option name="languageScores">
       <map>
