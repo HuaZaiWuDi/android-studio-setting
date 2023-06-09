@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="nonce must have length from 7 to 13 octets" />
+      <item value="ust be at least of size 1 and not null" />
       <item value="SCAN FAILED ALREADY STARTED" />
       <item value="Interrupted wait at init" />
       <item value="destination Offset" />
@@ -144,8 +146,6 @@
       <item value="Flattens a Publisher that emits Publishers into a single Publisher that emits the items emitted by those Publishers, without any transformation." />
       <item value="Specify a maximum height size for the widget. It will only apply if the size of the widget is set to MATCH_CONSTRAINT. Don't apply if the widget is part of a vertical chain." />
       <item value="Occupied" />
-      <item value="Flag indicates to a BrowseListener that another result is queued. Applications should not update their UI to display browse results if the MORE_COMING flag is set; they will be called at least once more with the flag clear." />
-      <item value="If flag is set, a name conflict will trigger an exception when registering non-shared records. A name must be explicitly specified when registering a service if this bit is set (i.e. the default name may not not be used)." />
     </histories>
     <option name="languageScores">
       <map>
