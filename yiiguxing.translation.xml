@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Interrupted wait at init" />
       <item value="destination Offset" />
       <item value="TRAIT_SUPPORTED_NETWORK = FUNCTION_NETWORK_ TRAIT_WiFi_Diagnostics = FUNCTION_NETWORK_C TRAIT_Thread_Diagnostics = FUNCTION_NETWORK TRAIT_Zigbee_Diagnostics = FUNCTION_NETWORK TRAIT_Ethernet_Diagnostics = FUNCTION_NETWO COmmand_AddOrUpdate_WiFi_Network=FUNCTION_N COmmand_AddOrUpdate_WiFi_Network_Response=F COmmand_AddOrUpdate_Thread_Network=FUNCTION COmmand_AddOrUpdate_Thread_Network_Response COmmand_AddOrUpdate_Zigbee_Network=FUNCTION COmmand_AddOrUpdate_Zigbee_Network_Response" />
       <item value="Function Network Commissioning" />
@@ -145,7 +146,6 @@
       <item value="Flag indicates to a BrowseListener that another result is queued. Applications should not update their UI to display browse results if the MORE_COMING flag is set; they will be called at least once more with the flag clear." />
       <item value="If flag is set, a name conflict will trigger an exception when registering non-shared records. A name must be explicitly specified when registering a service if this bit is set (i.e. the default name may not not be used)." />
       <item value="Set flag when calling enumerateDomains() to restrict results to domains recommended for registration." />
-      <item value="Maximum length, in bytes, of a domain name represented as an escaped C-String." />
     </histories>
     <option name="languageScores">
       <map>
