@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Must use app:tint instead of android:tint" />
       <item value="特殊" />
       <item value="鉴权" />
       <item value="校验" />
@@ -145,11 +146,10 @@
       <item value="The source did not signal an event for 15 seconds and has been terminated." />
       <item value="a Flowable that emits only the first count items emitted by the source Publisher, or all of the items from the source Publisher if that Publisher emits fewer than count items" />
       <item value="Returns a Flowable that emits only the first count items emitted by the source Publisher. If the source emits fewer than count items then all of its items are emitted." />
-      <item value="Flattens a Publisher that emits Publishers into a single Publisher that emits the items emitted by those Publishers, without any transformation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="780" />
+        <entry key="CHINESE" value="781" />
         <entry key="ENGLISH" value="781" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
