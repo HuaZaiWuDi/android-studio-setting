@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="特殊" />
       <item value="鉴权" />
       <item value="校验" />
       <item value="nonce must have length from 7 to 13 octets" />
@@ -145,12 +146,11 @@
       <item value="a Flowable that emits only the first count items emitted by the source Publisher, or all of the items from the source Publisher if that Publisher emits fewer than count items" />
       <item value="Returns a Flowable that emits only the first count items emitted by the source Publisher. If the source emits fewer than count items then all of its items are emitted." />
       <item value="Flattens a Publisher that emits Publishers into a single Publisher that emits the items emitted by those Publishers, without any transformation." />
-      <item value="Specify a maximum height size for the widget. It will only apply if the size of the widget is set to MATCH_CONSTRAINT. Don't apply if the widget is part of a vertical chain." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="775" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="780" />
+        <entry key="ENGLISH" value="781" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
