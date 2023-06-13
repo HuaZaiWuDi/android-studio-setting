@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Deivce identify" />
+      <item value="包头" />
       <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
       <item value="Must use app:tint instead of android:tint" />
       <item value="特殊" />
@@ -144,13 +146,11 @@
       <item value="This behaves like merge(Publisher, Publisher) except that if any of the merged Publishers notify of an error via onError, mergeDelayError will refrain from propagating that error notification until all of the merged Publishers have finished emitting items." />
       <item value="If any of the source Publishers signal a Throwable via onError, the resulting Flowable terminates with that Throwable and all other source Publishers are canceled. If more than one Publisher signals an error, the resulting Flowable may terminate with the first one's error or, depending on the concurrency of the sources, may terminate with a CompositeException containing two or more of the various error signals. Throwables that didn't make into the composite will be sent (individually) to the global error handler via RxJavaPlugins.onError(Throwable) method as UndeliverableException errors. Similarly, Throwables signaled by source(s) after the returned Flowable has been canceled or terminated with a (composite) error will be sent to the same global error handler. Use mergeDelayError(Publisher, Publisher) to merge sources and terminate only when all source Publishers have completed or failed with an error." />
       <item value="批量" />
-      <item value="The source did not signal an event for 15 seconds and has been terminated." />
-      <item value="a Flowable that emits only the first count items emitted by the source Publisher, or all of the items from the source Publisher if that Publisher emits fewer than count items" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="783" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="787" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
