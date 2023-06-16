@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="SPAN EXCLUSIVE EXCLUSIVE" />
+      <item value="Mark the specified range of text with the specified object. The flags determine how the span will behave when text is inserted at the start or end of the span's range." />
       <item value="Creates a datagram socket, bound to the specified local socket address. If, if the address is null, creates an unbound socket. If there is a security manager, its checkListen method is first called with the port from the socket address as its argument to ensure the operation is allowed. This could result in a SecurityException." />
       <item value="This class represents a socket for sending and receiving datagram packets. A datagram socket is the sending or receiving point for a packet delivery service. Each packet sent or received on a datagram socket is individually addressed and routed. Multiple packets sent from one machine to another may be routed differently, and may arrive in any order. Where possible, a newly constructed DatagramSocket has the SO_BROADCAST socket option enabled so as to allow the transmission of broadcast datagrams. In order to receive broadcast packets a DatagramSocket should be bound to the wildcard address. In some implementations, broadcast packets may also be received when a DatagramSocket is bound to a more specific address. Example: DatagramSocket s = new DatagramSocket(null); s.bind(new InetSocketAddress(8888)); Which is equivalent to: DatagramSocket s = new DatagramSocket(8888); Both cases will create a DatagramSocket able to receive broadcasts on UDP port 8888." />
       <item value="handle Error Code" />
@@ -144,8 +146,6 @@
       <item value="Returns a Flowable that emits items emitted by the source Publisher so long as each item satisfied a specified condition, and then completes as soon as this condition is not satisfied." />
       <item value="true if this set did not already contain the specified element" />
       <item value="A generic unordered collection of elements that does not support duplicate elements, and supports adding and removing elements." />
-      <item value="return bleScanResult?.rssi?.compareTo(other.bleScanResult?.rssi?:0)?:0" />
-      <item value="Compares this object with the specified object for order. Returns zero if this object is equal to the specified other object, a negative number if it's less than other, or a positive number if it's greater than other." />
     </histories>
     <option name="languageScores">
       <map>
