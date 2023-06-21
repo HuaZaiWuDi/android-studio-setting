@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Could not emit buffer due to lack of requests" />
       <item value="Disconnects the socket. If the socket is closed or not connected, then this method has no effec" />
       <item value="Checks if RecyclerView is in the middle of a layout or scroll and throws an {@link IllegalStateException} if it &lt;b&gt;is not&lt;b&gt;." />
       <item value="Returns whether RecyclerView is currently computing a layout." />
@@ -145,12 +146,11 @@
       <item value="This method should return true if the packet matches the filter and should be processed by the request." />
       <item value="Method called when packet has been sent and confirmed (when Write With Response was used), or added to local outgoing buffer (when Write Without Response was used)." />
       <item value="if the data received are equal to data sent." />
-      <item value="rue, if the data received are equal to data sent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="792" />
+        <entry key="CHINESE" value="792" />
+        <entry key="ENGLISH" value="793" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
