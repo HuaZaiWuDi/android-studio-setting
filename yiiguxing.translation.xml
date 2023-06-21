@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Disconnects the socket. If the socket is closed or not connected, then this method has no effec" />
       <item value="Checks if RecyclerView is in the middle of a layout or scroll and throws an {@link IllegalStateException} if it &lt;b&gt;is not&lt;b&gt;." />
       <item value="Returns whether RecyclerView is currently computing a layout." />
       <item value="radial" />
@@ -145,12 +146,11 @@
       <item value="Method called when packet has been sent and confirmed (when Write With Response was used), or added to local outgoing buffer (when Write Without Response was used)." />
       <item value="if the data received are equal to data sent." />
       <item value="rue, if the data received are equal to data sent." />
-      <item value="Callback received each time the value was written to a characteristic or descriptor, or was read from the server characteristic or descriptor." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="790" />
-        <entry key="ENGLISH" value="791" />
+        <entry key="CHINESE" value="791" />
+        <entry key="ENGLISH" value="792" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
