@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687228987859" />
+    <option name="lastTrimTime" value="1687749777572" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,7 +96,33 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="OnNext events are written without any buffering or dropping. Downstream has to deal with any overflow." />
+      <item value="Returns a Flowable that emits buffers of items it collects from the source Publisher. The resulting Publisher emits connected, non-overlapping buffers, each of a fixed duration specified by the timespan argument. When the source Publisher completes, the resulting Publisher emits the current buffer and propagates the notification from the source Publisher. Note that if the source Publisher issues an onError notification the event is passed on immediately without first emitting the buffer it is in the process of assembling." />
+      <item value="Can't deliver value 128 due to lack of requests" />
+      <item value="an't deliver value 128 due to lack of requests" />
       <item value="Could not emit buffer due to lack of requests" />
+      <item value="MIN FOUND DIST" />
+      <item value="on Arrival" />
+      <item value="if the data received are equal to data sent." />
+      <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by the downstream. In case of a race between a terminal event and a cancellation, the provided onFinally action is executed once per subscription. Note that the onFinally action is shared between subscriptions and as such should be thread-safe." />
+      <item value="Terminate" />
+      <item value="Calls the cancel Action if the downstream cancels the sequence. The action is shared between subscriptions and thus may be called concurrently from multiple threads; the action must be thread-safe. If the action throws a runtime exception, that exception is rethrown by the onCancel() call, sometimes as a CompositeException if there were multiple exceptions along the way. Note that terminal events trigger the action unless the Publisher is subscribed to via unsafeSubscribe()." />
+      <item value="Modifies the source Publisher so that it invokes the given action when it is subscribed from its subscribers. Each subscription will result in an invocation of the given action except when the source Publisher is reference counted, in which case the source Publisher will invoke the given action for the first subscription." />
+      <item value="CALLBACK TYPE ALL MATCHES" />
+      <item value="report Delay Millis" />
+      <item value="Pass for ifIndex to specify all available interfaces." />
+      <item value="Resolve a Flowable to a target host name, port number, and txt record. Note: Applications should NOT use resolve() solely for txt record monitoring - use queryRecord() instead, as it is more efficient for this task. Note: resolve() behaves correctly for typical services that have a single SRV record and a single TXT record (the TXT record may be empty.) To resolve non-standard services with multiple SRV or TXT records, use queryRecord()." />
+      <item value="Outgoing" />
+      <item value="Incoming" />
+      <item value="Talk" />
+      <item value="on Tunnel Write" />
+      <item value="on Tunnel Read" />
+      <item value="the data is a valid packet and can be used to convert it to json or string!!!" />
+      <item value="did not contain a valid NDK and and couldn't be used" />
+      <item value="Location specified by ndk.dir" />
+      <item value="after Descendants" />
+      <item value="Set the descendant focusability of this view group. This defines the relationship between this view group and its descendants when looking for a view to take focus in requestFocus(int, Rect)." />
+      <item value="align Bottom" />
       <item value="Disconnects the socket. If the socket is closed or not connected, then this method has no effec" />
       <item value="Checks if RecyclerView is in the middle of a layout or scroll and throws an {@link IllegalStateException} if it &lt;b&gt;is not&lt;b&gt;." />
       <item value="Returns whether RecyclerView is currently computing a layout." />
@@ -120,37 +146,11 @@
       <item value="Deivce identify" />
       <item value="包头" />
       <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
-      <item value="Must use app:tint instead of android:tint" />
-      <item value="特殊" />
-      <item value="鉴权" />
-      <item value="校验" />
-      <item value="nonce must have length from 7 to 13 octets" />
-      <item value="ust be at least of size 1 and not null" />
-      <item value="SCAN FAILED ALREADY STARTED" />
-      <item value="Interrupted wait at init" />
-      <item value="destination Offset" />
-      <item value="TRAIT_SUPPORTED_NETWORK = FUNCTION_NETWORK_ TRAIT_WiFi_Diagnostics = FUNCTION_NETWORK_C TRAIT_Thread_Diagnostics = FUNCTION_NETWORK TRAIT_Zigbee_Diagnostics = FUNCTION_NETWORK TRAIT_Ethernet_Diagnostics = FUNCTION_NETWO COmmand_AddOrUpdate_WiFi_Network=FUNCTION_N COmmand_AddOrUpdate_WiFi_Network_Response=F COmmand_AddOrUpdate_Thread_Network=FUNCTION COmmand_AddOrUpdate_Thread_Network_Response COmmand_AddOrUpdate_Zigbee_Network=FUNCTION COmmand_AddOrUpdate_Zigbee_Network_Response" />
-      <item value="Function Network Commissioning" />
-      <item value="Called when the initialization queue is complete." />
-      <item value="Are we done with initializing?" />
-      <item value="This method is not final, as some Managers may be created with BluetoothDevice in a constructor. Those can return the device object even without calling connect(device)." />
-      <item value="Returns the Bluetooth device object used in connect(BluetoothDevice). Returns: The Bluetooth device or null, if connect(BluetoothDevice) wasn't called." />
-      <item value="positive" />
-      <item value="negative Txt" />
-      <item value="认证" />
-      <item value="0000 FCB 9" />
-      <item value="If there is a security manager, and the socket is not currently connected to a remote address, this method first performs some security checks. First, if p.getAddress().isMulticastAddress() is true, this method calls the security manager's checkMulticast method with p.getAddress() as its argument. If the evaluation of that expression is false, this method instead calls the security manager's checkConnect method with arguments p.getAddress().getHostAddress() and p.getPort(). Each call to a security manager method could result in a SecurityException if the operation is not allowed." />
-      <item value="Sends a datagram packet from this socket. The DatagramPacket includes information indicating the data to be sent, its length, the IP address of the remote host, and the port number on the remote host." />
-      <item value="Keep a reference to the value callback, as it may change during execution" />
-      <item value="Causes the Runnable r to be added to the message queue. The runnable will be run on the thread to which this handler is attached." />
-      <item value="This method should return true if the packet matches the filter and should be processed by the request." />
-      <item value="Method called when packet has been sent and confirmed (when Write With Response was used), or added to local outgoing buffer (when Write Without Response was used)." />
-      <item value="if the data received are equal to data sent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="792" />
-        <entry key="ENGLISH" value="793" />
+        <entry key="CHINESE" value="812" />
+        <entry key="ENGLISH" value="813" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
