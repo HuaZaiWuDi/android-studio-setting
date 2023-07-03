@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687749777572" />
+    <option name="lastTrimTime" value="1688386824395" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="add Y Region Points" />
+      <item value="add Y Centered Region" />
+      <item value="Create drawable from raw nine-patch data, setting initial target density based on the display metrics of the resources." />
       <item value="OnNext events are written without any buffering or dropping. Downstream has to deal with any overflow." />
       <item value="Returns a Flowable that emits buffers of items it collects from the source Publisher. The resulting Publisher emits connected, non-overlapping buffers, each of a fixed duration specified by the timespan argument. When the source Publisher completes, the resulting Publisher emits the current buffer and propagates the notification from the source Publisher. Note that if the source Publisher issues an onError notification the event is passed on immediately without first emitting the buffer it is in the process of assembling." />
       <item value="Can't deliver value 128 due to lack of requests" />
@@ -143,14 +146,11 @@
       <item value="on Invalid Data Received" />
       <item value="The resource name must start with a letter" />
       <item value="Missing argument" />
-      <item value="Deivce identify" />
-      <item value="包头" />
-      <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="812" />
-        <entry key="ENGLISH" value="813" />
+        <entry key="CHINESE" value="815" />
+        <entry key="ENGLISH" value="816" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
