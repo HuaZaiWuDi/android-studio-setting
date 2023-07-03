@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:com.lumi.module.homeconfiguration" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.lumiunited.aqarahome " />
         <option value="package:com.lumi.module.homeconfiguration" />
+        <option value="package:com.lumiunited.aqarahome " />
         <option value="package:com.lumi.module_device_join_config " />
         <option value="package:com.aqara.cipher " />
         <option value="package:com.a" />
