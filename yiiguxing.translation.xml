@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Your account has been banned for the reason of violations, please delete the illegal objects." />
       <item value="add Y Region Points" />
       <item value="add Y Centered Region" />
       <item value="Create drawable from raw nine-patch data, setting initial target density based on the display metrics of the resources." />
@@ -145,11 +146,10 @@
       <item value="re Authentication" />
       <item value="on Invalid Data Received" />
       <item value="The resource name must start with a letter" />
-      <item value="Missing argument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
+        <entry key="CHINESE" value="816" />
         <entry key="ENGLISH" value="816" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
