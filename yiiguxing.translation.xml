@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="TUNNEL is READY" />
       <item value="非法" />
       <item value="Region" />
       <item value="Set the fraction that the user should move the View to be considered as it is dragged. After a view is moved this amount, ItemTouchHelper starts checking for Views below it for a possible drop. Params: moveThreshold – A float value that denotes the fraction of the View size. Default value is .1f ." />
@@ -145,7 +146,6 @@
       <item value="radial" />
       <item value="if a security manager exists and its checkMulticast or checkConnect method doesn't allow the send." />
       <item value="if an IO error occurs." />
-      <item value="interrupted" />
     </histories>
     <option name="languageScores">
       <map>
