@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="非法" />
       <item value="Region" />
       <item value="Set the fraction that the user should move the View to be considered as it is dragged. After a view is moved this amount, ItemTouchHelper starts checking for Views below it for a possible drop. Params: moveThreshold – A float value that denotes the fraction of the View size. Default value is .1f ." />
       <item value="Set the fraction that the user should move the View to be considered as it is dragged. After a view is moved this amount, ItemTouchHelper starts checking for Views below it for a possible drop. Params: moveThreshold – A float value that denotes the fraction of the View size. Default value" />
@@ -145,12 +146,11 @@
       <item value="if a security manager exists and its checkMulticast or checkConnect method doesn't allow the send." />
       <item value="if an IO error occurs." />
       <item value="interrupted" />
-      <item value="Constructs a datagram socket and binds it to the specified port on the local host machine. The socket will be bound to the wildcard address, an IP address chosen by the kernel. If there is a security manager, its checkListen method is first called with the port argument as its argument to ensure the operation is allowed. This could result in a SecurityException." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="833" />
-        <entry key="ENGLISH" value="834" />
+        <entry key="CHINESE" value="838" />
+        <entry key="ENGLISH" value="839" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
