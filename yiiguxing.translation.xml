@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Region" />
       <item value="Set the fraction that the user should move the View to be considered as it is dragged. After a view is moved this amount, ItemTouchHelper starts checking for Views below it for a possible drop. Params: moveThreshold – A float value that denotes the fraction of the View size. Default value is .1f ." />
       <item value="Set the fraction that the user should move the View to be considered as it is dragged. After a view is moved this amount, ItemTouchHelper starts checking for Views below it for a possible drop. Params: moveThreshold – A float value that denotes the fraction of the View size. Default value" />
       <item value="Called as the last step of the Activity being created. This is always called after Activity.onCreate." />
@@ -106,7 +107,6 @@
       <item value="KEY DEVICE ID" />
       <item value="is incompatible with attribute bottomLineNormalColor (attr) reference [weak]." />
       <item value="A resizeable bitmap, with stretchable areas that you define. This type of image is defined in a .png file with a special format. Developer Guides For more information about how to use a NinePatchDrawable, read the Canvas and Drawables developer guide. For information about creating a NinePatch image file using the draw9patch tool, see the Draw 9-patch tool guide." />
-      <item value="Region" />
       <item value="Your account has been banned for the reason of violations, please delete the illegal objects." />
       <item value="add Y Region Points" />
       <item value="add Y Centered Region" />
@@ -149,8 +149,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="832" />
-        <entry key="ENGLISH" value="833" />
+        <entry key="CHINESE" value="833" />
+        <entry key="ENGLISH" value="834" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
