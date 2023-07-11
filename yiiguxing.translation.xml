@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="A movement method that interprets movement keys by scrolling the text buffer." />
       <item value="True if no further handling is desired" />
       <item value="接收" />
       <item value="接shou" />
@@ -145,7 +146,6 @@
       <item value="Location specified by ndk.dir" />
       <item value="after Descendants" />
       <item value="Set the descendant focusability of this view group. This defines the relationship between this view group and its descendants when looking for a view to take focus in requestFocus(int, Rect)." />
-      <item value="align Bottom" />
     </histories>
     <option name="languageScores">
       <map>
