@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="接收" />
+      <item value="接shou" />
+      <item value="接受" />
+      <item value="jie'hsou" />
       <item value="tunnel fault" />
       <item value="the data is a valid packet and can be used to convert it to json or string!!!" />
       <item value="TUNNEL is READY" />
@@ -142,15 +146,11 @@
       <item value="Set the descendant focusability of this view group. This defines the relationship between this view group and its descendants when looking for a view to take focus in requestFocus(int, Rect)." />
       <item value="align Bottom" />
       <item value="Disconnects the socket. If the socket is closed or not connected, then this method has no effec" />
-      <item value="Checks if RecyclerView is in the middle of a layout or scroll and throws an {@link IllegalStateException} if it &lt;b&gt;is not&lt;b&gt;." />
-      <item value="Returns whether RecyclerView is currently computing a layout." />
-      <item value="radial" />
-      <item value="if a security manager exists and its checkMulticast or checkConnect method doesn't allow the send." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="840" />
-        <entry key="ENGLISH" value="841" />
+        <entry key="CHINESE" value="848" />
+        <entry key="ENGLISH" value="849" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
