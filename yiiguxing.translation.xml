@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="tunnel fault" />
+      <item value="the data is a valid packet and can be used to convert it to json or string!!!" />
       <item value="TUNNEL is READY" />
       <item value="非法" />
       <item value="Region" />
@@ -134,7 +136,6 @@
       <item value="Talk" />
       <item value="on Tunnel Write" />
       <item value="on Tunnel Read" />
-      <item value="the data is a valid packet and can be used to convert it to json or string!!!" />
       <item value="did not contain a valid NDK and and couldn't be used" />
       <item value="Location specified by ndk.dir" />
       <item value="after Descendants" />
@@ -145,12 +146,11 @@
       <item value="Returns whether RecyclerView is currently computing a layout." />
       <item value="radial" />
       <item value="if a security manager exists and its checkMulticast or checkConnect method doesn't allow the send." />
-      <item value="if an IO error occurs." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="838" />
-        <entry key="ENGLISH" value="839" />
+        <entry key="CHINESE" value="840" />
+        <entry key="ENGLISH" value="841" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
