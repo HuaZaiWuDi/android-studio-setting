@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="EADDRINUSE (Address already in use)" />
       <item value="Places the input stream for this socket at &quot;end of stream&quot;. Any data sent to the input stream side of the socket is acknowledged and then silently discarded. If you read from a socket input stream after invoking this method on the socket, the stream's available method will return 0, and its read methods will return -1 (end of stream)." />
       <item value="Disables the output stream for this socket. For a TCP socket, any previously written data will be sent followed by TCP's normal connection termination sequence. If you write to a socket output stream after invoking shutdownOutput() on the socket, the stream will throw an IOException." />
       <item value="Returns the current value of synchronization state. This operation has memory semantics of a volatile read." />
@@ -145,12 +146,11 @@
       <item value="Talk" />
       <item value="on Tunnel Write" />
       <item value="on Tunnel Read" />
-      <item value="did not contain a valid NDK and and couldn't be used" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="851" />
-        <entry key="ENGLISH" value="852" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="853" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
