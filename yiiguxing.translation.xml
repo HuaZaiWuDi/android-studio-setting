@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="New Global Ref" />
       <item value="error: too few arguments to function call, expected 2, have 1" />
       <item value="Class 'Object' has no method named 'onTunnelWrite'." />
       <item value="JNI DETECTED ERROR IN APPLICATION: use of invalid jobject 0x7fefad9be8" />
@@ -145,12 +146,11 @@
       <item value="report Delay Millis" />
       <item value="Pass for ifIndex to specify all available interfaces." />
       <item value="Resolve a Flowable to a target host name, port number, and txt record. Note: Applications should NOT use resolve() solely for txt record monitoring - use queryRecord() instead, as it is more efficient for this task. Note: resolve() behaves correctly for typical services that have a single SRV record and a single TXT record (the TXT record may be empty.) To resolve non-standard services with multiple SRV or TXT records, use queryRecord()." />
-      <item value="Outgoing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="855" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
