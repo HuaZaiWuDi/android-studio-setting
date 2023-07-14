@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="requires a placeholder substitution but no value for &lt;alipush_app_key&gt; is provided." />
       <item value="TYPE PROXIMITY" />
       <item value="A constant describing a proximity sensor type. This is a wake up sensor. See SensorEvent.values for more details." />
@@ -145,11 +146,10 @@
       <item value="Calls the specified action after this Flowable signals onError or onCompleted or gets canceled by the downstream. In case of a race between a terminal event and a cancellation, the provided onFinally action is executed once per subscription. Note that the onFinally action is shared between subscriptions and as such should be thread-safe." />
       <item value="Terminate" />
       <item value="Calls the cancel Action if the downstream cancels the sequence. The action is shared between subscriptions and thus may be called concurrently from multiple threads; the action must be thread-safe. If the action throws a runtime exception, that exception is rethrown by the onCancel() call, sometimes as a CompositeException if there were multiple exceptions along the way. Note that terminal events trigger the action unless the Publisher is subscribed to via unsafeSubscribe()." />
-      <item value="Modifies the source Publisher so that it invokes the given action when it is subscribed from its subscribers. Each subscription will result in an invocation of the given action except when the source Publisher is reference counted, in which case the source Publisher will invoke the given action for the first subscription." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="860" />
+        <entry key="CHINESE" value="862" />
         <entry key="ENGLISH" value="861" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
