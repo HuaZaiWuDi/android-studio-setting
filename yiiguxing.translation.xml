@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Segment" />
+      <item value="Represents a direct connection, or the absence of a proxy." />
       <item value="This is the last interceptor in the chain. It makes a network call to the server." />
       <item value="Policy on when async requests are executed. Each dispatcher uses an ExecutorService to run calls internally. If you supply your own executor, it should be able to run the configured maximum number of calls concurrently." />
       <item value="enqueue" />
@@ -144,8 +146,6 @@
       <item value="Returns a Flowable that emits buffers of items it collects from the source Publisher. The resulting Publisher emits connected, non-overlapping buffers, each of a fixed duration specified by the timespan argument. When the source Publisher completes, the resulting Publisher emits the current buffer and propagates the notification from the source Publisher. Note that if the source Publisher issues an onError notification the event is passed on immediately without first emitting the buffer it is in the process of assembling." />
       <item value="Can't deliver value 128 due to lack of requests" />
       <item value="an't deliver value 128 due to lack of requests" />
-      <item value="Could not emit buffer due to lack of requests" />
-      <item value="MIN FOUND DIST" />
     </histories>
     <option name="languageScores">
       <map>
