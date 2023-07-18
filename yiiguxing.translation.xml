@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="中枢" />
       <item value="Bridges from application code to network code. First it builds a network request from a user request. Then it proceeds to call the network. Finally it builds a user response from the network response." />
       <item value="proceed" />
       <item value="Opens a connection to the target server and proceeds to the next interceptor. The network might be used for the returned response, or to validate a cached response with a conditional GET." />
@@ -145,12 +146,11 @@
       <item value="Region" />
       <item value="Set the fraction that the user should move the View to be considered as it is dragged. After a view is moved this amount, ItemTouchHelper starts checking for Views below it for a possible drop. Params: moveThreshold – A float value that denotes the fraction of the View size. Default value is .1f ." />
       <item value="Set the fraction that the user should move the View to be considered as it is dragged. After a view is moved this amount, ItemTouchHelper starts checking for Views below it for a possible drop. Params: moveThreshold – A float value that denotes the fraction of the View size. Default value" />
-      <item value="Called as the last step of the Activity being created. This is always called after Activity.onCreate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="877" />
-        <entry key="ENGLISH" value="878" />
+        <entry key="CHINESE" value="885" />
+        <entry key="ENGLISH" value="886" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
