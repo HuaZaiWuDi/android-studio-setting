@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="自增id" />
+      <item value="自增" />
+      <item value="zi'zeng" />
+      <item value="the Java object to convert. May be null." />
       <item value="Returns a representation of this data item as JSON text. The result is guaranteed to be syntactically-valid RFC8259 JSON text. In the event that there is no JSON text representation for the underlying data item, its value will be replaced with a placeholder JSON value (usually &quot;null&quot;). This condition can be detected beforehand using isValidJson(). Note that, in some pre-RFC8259 contexts, this method could be described as returning a &quot;JSON fragment&quot; unless the data item was of the types CborMap (for a JSON object) or CborArray (for a JSON array)." />
       <item value="Parses the given CBOR byte array into a CborMap object. If the data in the byte array is corrupted or if the type of object represented in the byte array isn't a CBOR Map, CborParseException is thrown. This method is similar to CborObject.createFromCborByteArray(byte[], int, int), except that it is CborMap-specific." />
       <item value="中枢" />
@@ -142,15 +146,11 @@
       <item value="接受" />
       <item value="jie'hsou" />
       <item value="tunnel fault" />
-      <item value="the data is a valid packet and can be used to convert it to json or string!!!" />
-      <item value="TUNNEL is READY" />
-      <item value="非法" />
-      <item value="Region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="887" />
-        <entry key="ENGLISH" value="888" />
+        <entry key="CHINESE" value="894" />
+        <entry key="ENGLISH" value="895" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
