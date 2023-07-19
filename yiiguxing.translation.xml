@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Invocation Target Exception" />
       <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
       <item value="自增id" />
       <item value="自增" />
@@ -145,12 +146,11 @@
       <item value="接收" />
       <item value="接shou" />
       <item value="接受" />
-      <item value="jie'hsou" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="CHINESE" value="896" />
+        <entry key="ENGLISH" value="897" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
