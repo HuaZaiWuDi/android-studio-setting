@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
       <item value="自增id" />
       <item value="自增" />
       <item value="zi'zeng" />
@@ -145,12 +146,11 @@
       <item value="接shou" />
       <item value="接受" />
       <item value="jie'hsou" />
-      <item value="tunnel fault" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="894" />
-        <entry key="ENGLISH" value="895" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="896" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
