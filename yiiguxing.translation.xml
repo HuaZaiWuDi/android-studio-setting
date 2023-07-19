@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Finishes an activity after a period of inactivity if the device is on battery power." />
+      <item value="Manages beeps and vibrations for Activity." />
       <item value="Invocation Target Exception" />
       <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
       <item value="自增id" />
@@ -144,13 +146,11 @@
       <item value="A movement method that interprets movement keys by scrolling the text buffer." />
       <item value="True if no further handling is desired" />
       <item value="接收" />
-      <item value="接shou" />
-      <item value="接受" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="896" />
-        <entry key="ENGLISH" value="897" />
+        <entry key="CHINESE" value="898" />
+        <entry key="ENGLISH" value="899" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
