@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="is 24 G Hz Band Supported" />
       <item value="Thrown when an application tries to call an abstract method. Normally, this error is caught by the compiler; this error can only occur at run time if the definition of some class has incompatibly changed since the currently executing method was last compiled." />
       <item value="Crop rectangle does not fit within image data." />
       <item value="popular" />
@@ -145,12 +146,11 @@
       <item value="JNI DETECTED ERROR IN APPLICATION: use of invalid jobject 0x7fefad9be8" />
       <item value="use of invalid jobject 0x7fefad9be8" />
       <item value="EADDRINUSE (Address already in use)" />
-      <item value="Places the input stream for this socket at &quot;end of stream&quot;. Any data sent to the input stream side of the socket is acknowledged and then silently discarded. If you read from a socket input stream after invoking this method on the socket, the stream's available method will return 0, and its read methods will return -1 (end of stream)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="903" />
-        <entry key="ENGLISH" value="904" />
+        <entry key="CHINESE" value="904" />
+        <entry key="ENGLISH" value="905" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
