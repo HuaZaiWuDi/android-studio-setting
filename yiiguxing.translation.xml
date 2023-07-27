@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689667567979" />
+    <option name="lastTrimTime" value="1690422754339" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="If the task was moved (or it was already at the back) true is returned, else false." />
+      <item value="If false then this only works if the activity is the root of a task; if true it will work for any activity in a task." />
+      <item value="Move the task containing this activity to the back of the activity stack. The activity's order within the task is unchanged." />
+      <item value="Return whether this activity is the root of a task. The root is the first activity in a task. Returns: True if this is the root activity, else false." />
       <item value="Pretreatment service used for check if need navigation." />
       <item value="masking" />
       <item value="Can not perform this action after onSaveInstanceState" />
@@ -142,15 +146,11 @@
       <item value="Specify a custom call factory for creating {@link Call} instances." />
       <item value="The HTTP client used for requests." />
       <item value="Method breakpoints may dramatically slow down debugging" />
-      <item value="requires a placeholder substitution but no value for &lt;alipush_app_key&gt; is provided." />
-      <item value="TYPE PROXIMITY" />
-      <item value="A constant describing a proximity sensor type. This is a wake up sensor. See SensorEvent.values for more details." />
-      <item value="memcmp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="905" />
+        <entry key="CHINESE" value="908" />
+        <entry key="ENGLISH" value="909" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
