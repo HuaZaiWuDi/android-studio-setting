@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Can't deliver value 128 due to lack of requests" />
       <item value="a Flowable that emits the result of applying the transformation function to each item emitted by the source Publisher and merging the results of the Publishers obtained from this transformation" />
       <item value="if true, exceptions from the current Flowable and all inner Publishers are delayed until all of them terminate if false, the first one signaling an exception will terminate the whole sequence immediately" />
       <item value="If the task was moved (or it was already at the back) true is returned, else false." />
@@ -145,7 +146,6 @@
       <item value="This is the last interceptor in the chain. It makes a network call to the server." />
       <item value="Policy on when async requests are executed. Each dispatcher uses an ExecutorService to run calls internally. If you supply your own executor, it should be able to run the configured maximum number of calls concurrently." />
       <item value="enqueue" />
-      <item value="Specify a custom call factory for creating {@link Call} instances." />
     </histories>
     <option name="languageScores">
       <map>
