@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="KEY Device ID" />
       <item value="Returns the Bluetooth device object used in connect(BluetoothDevice). Returns: The Bluetooth device or null, if connect(BluetoothDevice) wasn't called." />
       <item value="The exception was not handled due to missing onError handler in the subscribe() method call." />
       <item value="2886 fcb 9-7930-4 ACD-95 EF-C 9646 CD 7 A 2 A 3" />
@@ -145,7 +146,6 @@
       <item value="expect Continue" />
       <item value="Bridge between OkHttp's application and network layers. This class exposes high-level application layer primitives: connections, requests, responses, and streams. This class supports asynchronous canceling. This is intended to have the smallest blast radius possible. If an HTTP2 stream is active, canceling will cancel that stream but not the other streams sharing its connection. But if the TLS handshake is still in progress then canceling may break the entire connection." />
       <item value="Transmits a single HTTP request and a response pair. This layers connection management and events on ExchangeCodec, which handles the actual IO." />
-      <item value="Chain" />
     </histories>
     <option name="languageScores">
       <map>
