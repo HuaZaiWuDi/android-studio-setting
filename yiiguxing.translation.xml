@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Merges an Iterable sequence of SingleSource instances into a single Flowable sequence, running all SingleSources at once and delaying any error(s) until all sources succeed or fail." />
+      <item value="Maps the success value of the upstream Single into an Iterable and emits its items as a Flowable sequence." />
       <item value="COMMISSIONED" />
       <item value="The exception was not handled due to missing onError handler in the subscribe() method call." />
       <item value="resolve" />
@@ -144,8 +146,6 @@
       <item value="Returns true if this call has been either executed or enqueued. It is an error to execute a call more than once." />
       <item value="eturns true if this call has been either executed or enqueued. It is an error to execute a call more than once." />
       <item value="Exchange" />
-      <item value="Exchange Codec" />
-      <item value="expect Continue" />
     </histories>
     <option name="languageScores">
       <map>
