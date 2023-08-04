@@ -96,6 +96,17 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Instructs a Publisher that is emitting items faster than its Subscriber can consume them to buffer up to a given amount of items until they can be emitted. The resulting Publisher will signal a BufferOverflowException via onError as soon as the buffer's capacity is exceeded, dropping all undelivered items, and canceling the source." />
+      <item value="Could not emit buffer due to lack of requests" />
+      <item value="the maximum size of each buffer before it is emitted" />
+      <item value="the period of time each buffer collects items before it is emitted and replaced with a new buffer" />
+      <item value="Buffers all onNext values until the downstream consumes it." />
+      <item value="Signals a MissingBackpressureException in case the downstream can't keep up." />
+      <item value="OnNext events are written without any buffering or dropping. Downstream has to deal with any overflow. Useful when one applies one of the custom-parameter onBackpressureXXX operators." />
+      <item value="Drops the most recent onNext value if the downstream can't keep up." />
+      <item value="Indicates that an operator attempted to emit a value but the downstream wasn't ready for it." />
+      <item value="Constructs a MissingBackpressureException with the given message but no cause. Params: message – the error message" />
+      <item value="Missing Backpressure Exception" />
       <item value="电量" />
       <item value="点了" />
       <item value="dai" />
@@ -135,22 +146,11 @@
       <item value="is 24 G Hz Band Supported" />
       <item value="Thrown when an application tries to call an abstract method. Normally, this error is caught by the compiler; this error can only occur at run time if the definition of some class has incompatibly changed since the currently executing method was last compiled." />
       <item value="Crop rectangle does not fit within image data." />
-      <item value="popular" />
-      <item value="is Re Decode" />
-      <item value="get RGB Luminance Source" />
-      <item value="Finishes an activity after a period of inactivity if the device is on battery power." />
-      <item value="Manages beeps and vibrations for Activity." />
-      <item value="Invocation Target Exception" />
-      <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
-      <item value="自增id" />
-      <item value="自增" />
-      <item value="zi'zeng" />
-      <item value="the Java object to convert. May be null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="940" />
+        <entry key="CHINESE" value="954" />
+        <entry key="ENGLISH" value="955" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
