@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Set a list of items to be displayed in the dialog as the content, you will be notified of the selected item via the supplied listener." />
       <item value="fast Path Emit Max" />
       <item value="The operator honors backpressure from downstream." />
       <item value="Instructs a Publisher that is emitting items faster than its Subscriber can consume them to buffer up to a given amount of items until they can be emitted. The resulting Publisher will signal a BufferOverflowException via onError as soon as the buffer's capacity is exceeded, dropping all undelivered items, and canceling the source." />
@@ -145,12 +146,11 @@
       <item value="filter" />
       <item value="Rotating" />
       <item value="KEY SUPPORTED GATEWAY" />
-      <item value="is 24 G Hz Band Supported" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="956" />
+        <entry key="ENGLISH" value="957" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
