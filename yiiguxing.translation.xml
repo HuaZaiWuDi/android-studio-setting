@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="distinct By" />
       <item value="Set a list of items to be displayed in the dialog as the content, you will be notified of the selected item via the supplied listener." />
       <item value="fast Path Emit Max" />
       <item value="The operator honors backpressure from downstream." />
@@ -145,12 +146,11 @@
       <item value="Can not perform this action after onSaveInstanceState" />
       <item value="filter" />
       <item value="Rotating" />
-      <item value="KEY SUPPORTED GATEWAY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="956" />
-        <entry key="ENGLISH" value="957" />
+        <entry key="CHINESE" value="957" />
+        <entry key="ENGLISH" value="958" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
