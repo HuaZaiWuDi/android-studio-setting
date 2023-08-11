@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Token is absence" />
+      <item value="A relative or absolute path, or full URL of the endpoint. This value is optional if the first parameter of the method is annotated with @Url. See base URL for details of how this is resolved against a base URL to create the full endpoint URL." />
       <item value="Returns the URL that would be retrieved by following link from this URL, or null if the resulting URL is not well-formed." />
       <item value="The specified endpoint values (such as with @GET) are resolved against this value using HttpUrl.resolve(String). The behavior of this matches that of an &lt;a href=&quot;&quot;&gt; link on a website resolving on the current URL." />
       <item value="See base URL for details of how the value will be resolved against a base URL to create the full endpoint URL." />
@@ -144,13 +146,11 @@
       <item value="a Flowable that emits the result of applying the transformation function to each item emitted by the source Publisher and merging the results of the Publishers obtained from this transformation" />
       <item value="if true, exceptions from the current Flowable and all inner Publishers are delayed until all of them terminate if false, the first one signaling an exception will terminate the whole sequence immediately" />
       <item value="If the task was moved (or it was already at the back) true is returned, else false." />
-      <item value="If false then this only works if the activity is the root of a task; if true it will work for any activity in a task." />
-      <item value="Move the task containing this activity to the back of the activity stack. The activity's order within the task is unchanged." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
-        <entry key="ENGLISH" value="963" />
+        <entry key="CHINESE" value="964" />
+        <entry key="ENGLISH" value="965" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
