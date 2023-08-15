@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="has not been attached yet." />
       <item value="Variable expected" />
       <item value="Token is absence" />
       <item value="A relative or absolute path, or full URL of the endpoint. This value is optional if the first parameter of the method is annotated with @Url. See base URL for details of how this is resolved against a base URL to create the full endpoint URL." />
@@ -146,7 +147,6 @@
       <item value="Static factory to retrieve a type 3 (name based) UUID based on the specified byte array. Params: name – A byte array to be used to construct a UUID Returns: A UUID generated from the specified array" />
       <item value="Can't deliver value 128 due to lack of requests" />
       <item value="a Flowable that emits the result of applying the transformation function to each item emitted by the source Publisher and merging the results of the Publishers obtained from this transformation" />
-      <item value="if true, exceptions from the current Flowable and all inner Publishers are delayed until all of them terminate if false, the first one signaling an exception will terminate the whole sequence immediately" />
     </histories>
     <option name="languageScores">
       <map>
