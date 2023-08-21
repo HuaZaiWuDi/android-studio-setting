@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="lumi 1.54 EF 44100035891 F" />
       <item value="has not been attached yet." />
       <item value="Variable expected" />
       <item value="Token is absence" />
@@ -146,7 +147,6 @@
       <item value="Constructs a new UUID using the specified data. mostSigBits is used for the most significant 64 bits of the UUID and leastSigBits becomes the least significant 64 bits of the UUID." />
       <item value="Static factory to retrieve a type 3 (name based) UUID based on the specified byte array. Params: name – A byte array to be used to construct a UUID Returns: A UUID generated from the specified array" />
       <item value="Can't deliver value 128 due to lack of requests" />
-      <item value="a Flowable that emits the result of applying the transformation function to each item emitted by the source Publisher and merging the results of the Publishers obtained from this transformation" />
     </histories>
     <option name="languageScores">
       <map>
