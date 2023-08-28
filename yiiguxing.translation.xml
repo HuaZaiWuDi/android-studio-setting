@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Español" />
       <item value="Present the text in ALL CAPS. This may use a small-caps form when available." />
       <item value="Overload for resolving lifecycle providers allows configuration of checking &quot;end&quot; boundaries of lifecycles. That is, they will ensure that the lifecycle has both started and not ended, and otherwise will throw one of LifecycleNotStartedException (if peekLifecycle returns null) or LifecycleEndedException if the lifecycle is ended. To configure the runtime behavior of these exceptions, see AutoDisposePlugins. Note: This resolves the scope immediately, so consider deferring execution as needed, such as using defer." />
       <item value="Calls the cancel Action if the downstream cancels the sequence. The action is shared between subscriptions and thus may be called concurrently from multiple threads; the action must be thread-safe. If the action throws a runtime exception, that exception is rethrown by the onCancel() call, sometimes as a CompositeException if there were multiple exceptions along the way. Note that terminal events trigger the action unless the Publisher is subscribed to via unsafeSubscribe()." />
@@ -146,7 +147,6 @@
       <item value="resolve" />
       <item value="KEY Device ID" />
       <item value="Returns the Bluetooth device object used in connect(BluetoothDevice). Returns: The Bluetooth device or null, if connect(BluetoothDevice) wasn't called." />
-      <item value="2886 fcb 9-7930-4 ACD-95 EF-C 9646 CD 7 A 2 A 3" />
     </histories>
     <option name="languageScores">
       <map>
