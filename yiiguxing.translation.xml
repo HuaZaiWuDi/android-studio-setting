@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692759573500" />
+    <option name="lastTrimTime" value="1693454667576" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Change the view's z order in the tree, so it's on top of other sibling views. This ordering change may affect layout," />
       <item value="Español" />
       <item value="Present the text in ALL CAPS. This may use a small-caps form when available." />
       <item value="Overload for resolving lifecycle providers allows configuration of checking &quot;end&quot; boundaries of lifecycles. That is, they will ensure that the lifecycle has both started and not ended, and otherwise will throw one of LifecycleNotStartedException (if peekLifecycle returns null) or LifecycleEndedException if the lifecycle is ended. To configure the runtime behavior of these exceptions, see AutoDisposePlugins. Note: This resolves the scope immediately, so consider deferring execution as needed, such as using defer." />
@@ -146,12 +147,11 @@
       <item value="The exception was not handled due to missing onError handler in the subscribe() method call." />
       <item value="resolve" />
       <item value="KEY Device ID" />
-      <item value="Returns the Bluetooth device object used in connect(BluetoothDevice). Returns: The Bluetooth device or null, if connect(BluetoothDevice) wasn't called." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="969" />
-        <entry key="ENGLISH" value="970" />
+        <entry key="CHINESE" value="970" />
+        <entry key="ENGLISH" value="971" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
