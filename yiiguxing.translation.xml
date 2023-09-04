@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Resumed state for a LifecycleOwner. For an android.app.Activity, this state is reached after onResume is called." />
       <item value="Change the view's z order in the tree, so it's on top of other sibling views. This ordering change may affect layout," />
       <item value="Español" />
       <item value="Present the text in ALL CAPS. This may use a small-caps form when available." />
@@ -146,7 +147,6 @@
       <item value="COMMISSIONED" />
       <item value="The exception was not handled due to missing onError handler in the subscribe() method call." />
       <item value="resolve" />
-      <item value="KEY Device ID" />
     </histories>
     <option name="languageScores">
       <map>
