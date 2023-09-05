@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693454667576" />
+    <option name="lastTrimTime" value="1693900867351" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Returns the adapter position of the last visible view. This position does not include adapter changes that were dispatched after the last layout pass. Note that, this value is not affected by layout orientation or item order traversal. (setReverseLayout(boolean)). Views are sorted by their positions in the adapter, not in the layout. If RecyclerView has item decorators, they will be considered in calculations as well. LayoutManager may pre-cache some views that are not necessarily visible. Those views are ignored in this method." />
+      <item value="The amount of vertical scroll." />
       <item value="Resumed state for a LifecycleOwner. For an android.app.Activity, this state is reached after onResume is called." />
       <item value="Change the view's z order in the tree, so it's on top of other sibling views. This ordering change may affect layout," />
       <item value="Español" />
@@ -145,13 +147,11 @@
       <item value="Merges an Iterable sequence of SingleSource instances into a single Flowable sequence, running all SingleSources at once and delaying any error(s) until all sources succeed or fail." />
       <item value="Maps the success value of the upstream Single into an Iterable and emits its items as a Flowable sequence." />
       <item value="COMMISSIONED" />
-      <item value="The exception was not handled due to missing onError handler in the subscribe() method call." />
-      <item value="resolve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="970" />
-        <entry key="ENGLISH" value="971" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="973" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
