@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Processing" />
       <item value="使用教程" />
       <item value="使用jioa'c" />
       <item value="stack corruption detected" />
@@ -146,12 +147,11 @@
       <item value="AGGRESSIVE" />
       <item value="MATCH MODE AGGRESSIVE" />
       <item value="MATCH MODE STICKY" />
-      <item value="match Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="981" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="982" />
+        <entry key="ENGLISH" value="983" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
