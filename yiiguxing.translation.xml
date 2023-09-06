@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="使用教程" />
+      <item value="使用jioa'c" />
       <item value="stack corruption detected" />
       <item value="One of the TOUCH_SLOP_ constants representing the intended usage of this RecyclerView" />
       <item value="Slop" />
@@ -145,13 +147,11 @@
       <item value="MATCH MODE AGGRESSIVE" />
       <item value="MATCH MODE STICKY" />
       <item value="match Mode" />
-      <item value="_LOW POWER" />
-      <item value="_LOW LATENCY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="978" />
+        <entry key="CHINESE" value="981" />
+        <entry key="ENGLISH" value="982" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
