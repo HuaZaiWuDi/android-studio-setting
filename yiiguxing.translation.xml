@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="handle" />
       <item value="guide Complete" />
       <item value="Returns a Single that emits only the last item emitted by this Flowable or signals a NoSuchElementException if this Flowable is empty." />
       <item value="Processing" />
@@ -146,12 +147,11 @@
       <item value="电量" />
       <item value="点了" />
       <item value="dai" />
-      <item value="AGGRESSIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="984" />
-        <entry key="ENGLISH" value="985" />
+        <entry key="CHINESE" value="985" />
+        <entry key="ENGLISH" value="986" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
