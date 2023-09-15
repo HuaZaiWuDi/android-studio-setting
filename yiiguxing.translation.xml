@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Called attach on a child which is not detached" />
+      <item value="tmpDetached no parent" />
+      <item value="Inconsistency detected" />
       <item value="handle" />
       <item value="guide Complete" />
       <item value="Returns a Single that emits only the last item emitted by this Flowable or signals a NoSuchElementException if this Flowable is empty." />
@@ -144,14 +147,11 @@
       <item value="Indicates that an operator attempted to emit a value but the downstream wasn't ready for it." />
       <item value="Constructs a MissingBackpressureException with the given message but no cause. Params: message – the error message" />
       <item value="Missing Backpressure Exception" />
-      <item value="电量" />
-      <item value="点了" />
-      <item value="dai" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="985" />
-        <entry key="ENGLISH" value="986" />
+        <entry key="CHINESE" value="989" />
+        <entry key="ENGLISH" value="990" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
