@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="This method is called to notify you that, within s, the count characters beginning at start have just replaced old text that had length before. It is an error to attempt to make changes to s from this callback." />
       <item value="Called attach on a child which is not detached" />
       <item value="tmpDetached no parent" />
       <item value="Inconsistency detected" />
@@ -146,12 +147,11 @@
       <item value="Drops the most recent onNext value if the downstream can't keep up." />
       <item value="Indicates that an operator attempted to emit a value but the downstream wasn't ready for it." />
       <item value="Constructs a MissingBackpressureException with the given message but no cause. Params: message – the error message" />
-      <item value="Missing Backpressure Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="989" />
-        <entry key="ENGLISH" value="990" />
+        <entry key="CHINESE" value="991" />
+        <entry key="ENGLISH" value="992" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
