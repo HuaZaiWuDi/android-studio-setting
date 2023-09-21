@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Provide original WindowInsetsCompat that are dispatched to the view hierarchy. The insets are only available if the view is attached. On devices running API 20 and below, this method always returns null. Returns: WindowInsetsCompat from the top of the view hierarchy or null if View is detached" />
+      <item value="Provide original WindowInsetsCompat that are dispatched to the view hierarchy. The insets are only available if the view is attached." />
       <item value="Set normal transition anim" />
       <item value="This method is called to notify you that, within s, the count characters beginning at start have just replaced old text that had length before. It is an error to attempt to make changes to s from this callback." />
       <item value="Called attach on a child which is not detached" />
@@ -145,13 +147,11 @@
       <item value="Buffers all onNext values until the downstream consumes it." />
       <item value="Signals a MissingBackpressureException in case the downstream can't keep up." />
       <item value="OnNext events are written without any buffering or dropping. Downstream has to deal with any overflow. Useful when one applies one of the custom-parameter onBackpressureXXX operators." />
-      <item value="Drops the most recent onNext value if the downstream can't keep up." />
-      <item value="Indicates that an operator attempted to emit a value but the downstream wasn't ready for it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="993" />
+        <entry key="CHINESE" value="993" />
+        <entry key="ENGLISH" value="994" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
