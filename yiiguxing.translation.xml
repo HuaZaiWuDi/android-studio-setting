@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695179326733" />
+    <option name="lastTrimTime" value="1695627934099" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Begins the Reliable Write sub-procedure. Requests that need to be performed reliably should be enqueued with ReliableWriteRequest.add(Operation) instead of using Request.enqueue(). The library will verify all Write operations and will automatically abort the Reliable Write procedure when the returned data mismatch with the data sent. When all requests enqueued in the ReliableWriteRequest were completed, the Reliable Write will be automatically executed. Long Write will not work when Reliable Write is in progress. The library will make sure that WriteRequest.split() was called for all WriteRequest packets, had they not been assigned other splitter. At least one Write operation must be executed before executing or aborting, otherwise the GattError.GATT_INVALID_OFFSET error will be reported. Because of that, enqueueing a ReliableWriteRequest without any operations does nothing." />
       <item value="This flag is set to false only when the ConnectRequest.shouldAutoConnect() method returns true and the device got disconnected without calling BleManager.disconnect() method. If ConnectRequest.shouldAutoConnect() returns false (default) this is always set to true." />
       <item value="ctivity Action: Show settings to manage installed applications. In some cases, a matching Activity may not exist, so ensure you safeguard against this." />
       <item value="Provide original WindowInsetsCompat that are dispatched to the view hierarchy. The insets are only available if the view is attached. On devices running API 20 and below, this method always returns null. Returns: WindowInsetsCompat from the top of the view hierarchy or null if View is detached" />
@@ -146,12 +147,11 @@
       <item value="Could not emit buffer due to lack of requests" />
       <item value="the maximum size of each buffer before it is emitted" />
       <item value="the period of time each buffer collects items before it is emitted and replaced with a new buffer" />
-      <item value="Buffers all onNext values until the downstream consumes it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="994" />
-        <entry key="ENGLISH" value="995" />
+        <entry key="CHINESE" value="995" />
+        <entry key="ENGLISH" value="996" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
