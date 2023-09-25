@@ -97,6 +97,16 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Sets a one-time callback that will be notified when the value of the given characteristic changes. This is a blocking request, so the next request will be executed after the notification was received. If WaitForValueChangedRequest.merge(DataMerger) was used, the whole message will be completed before the callback is notified." />
+      <item value="Sets a one-time callback that will be notified when the value of the given descriptor changes. This is a blocking request, so the next request will be executed after the write command or write request was received." />
+      <item value="The condition to examine. If it's not satisfied, the manager will wait." />
+      <item value="Creates a conditional wait request that will wait until the given condition is not satisfied. The condition is checked when the request is executed and each time a new BLE operation is complet" />
+      <item value="the data to be sent as read response." />
+      <item value="The returned request must be either enqueued using Request.enqueue() for asynchronous use, or awaited using await() in synchronous execution." />
+      <item value="Sets the given data to the readable server characteristic and waits until they are read by the remote device." />
+      <item value="Sets the given data to the readable server descriptor and waits until they are read by the remote device. The returned request must be either enqueued using Request.enqueue() for asynchronous use, or awaited using await() in synchronous execution." />
+      <item value="and you want some of them to be executed together." />
+      <item value="Creates an atomic request queue. The requests from the queue will be executed in order. This is useful when more then one thread may add requests and you want some of them to be executed together." />
       <item value="Begins the Reliable Write sub-procedure. Requests that need to be performed reliably should be enqueued with ReliableWriteRequest.add(Operation) instead of using Request.enqueue(). The library will verify all Write operations and will automatically abort the Reliable Write procedure when the returned data mismatch with the data sent. When all requests enqueued in the ReliableWriteRequest were completed, the Reliable Write will be automatically executed. Long Write will not work when Reliable Write is in progress. The library will make sure that WriteRequest.split() was called for all WriteRequest packets, had they not been assigned other splitter. At least one Write operation must be executed before executing or aborting, otherwise the GattError.GATT_INVALID_OFFSET error will be reported. Because of that, enqueueing a ReliableWriteRequest without any operations does nothing." />
       <item value="This flag is set to false only when the ConnectRequest.shouldAutoConnect() method returns true and the device got disconnected without calling BleManager.disconnect() method. If ConnectRequest.shouldAutoConnect() returns false (default) this is always set to true." />
       <item value="ctivity Action: Show settings to manage installed applications. In some cases, a matching Activity may not exist, so ensure you safeguard against this." />
@@ -137,21 +147,11 @@
       <item value="The specified endpoint values (such as with @GET) are resolved against this value using HttpUrl.resolve(String). The behavior of this matches that of an &lt;a href=&quot;&quot;&gt; link on a website resolving on the current URL." />
       <item value="See base URL for details of how the value will be resolved against a base URL to create the full endpoint URL." />
       <item value="A @Url parameter must not come after a @QueryMap" />
-      <item value="Replaces the last element returned by next or previous with the specified element element." />
-      <item value="Removes from the underlying collection the last element returned by this iterator." />
-      <item value="distinct By" />
-      <item value="Set a list of items to be displayed in the dialog as the content, you will be notified of the selected item via the supplied listener." />
-      <item value="fast Path Emit Max" />
-      <item value="The operator honors backpressure from downstream." />
-      <item value="Instructs a Publisher that is emitting items faster than its Subscriber can consume them to buffer up to a given amount of items until they can be emitted. The resulting Publisher will signal a BufferOverflowException via onError as soon as the buffer's capacity is exceeded, dropping all undelivered items, and canceling the source." />
-      <item value="Could not emit buffer due to lack of requests" />
-      <item value="the maximum size of each buffer before it is emitted" />
-      <item value="the period of time each buffer collects items before it is emitted and replaced with a new buffer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="995" />
-        <entry key="ENGLISH" value="996" />
+        <entry key="CHINESE" value="1005" />
+        <entry key="ENGLISH" value="1006" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
