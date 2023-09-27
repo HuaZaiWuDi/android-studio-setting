@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="if param foregroundServiceType is not subset of manifest attribute android.R.attr.foregroundServiceType." />
+      <item value="Similar to startService(Intent), but with an implicit promise that the Service will call startForeground(int, android.app.Notification) once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically crash the process, in which case an internal exception" />
+      <item value="Similar to startService(Intent), but with an implicit promise that the Service will call startForeground(int, android.app.Notification) once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically crash the process, in which case an internal exception ForegroundServiceDidNotStartInTimeException is logged on logcat on devices running SDK Version Build.VERSION_CODES.S or later. On older Android versions, an internal exception RemoteServiceException is logged instead, with a corresponding message. Unlike the ordinary startService(Intent), this method can be used at any time, regardless of whether the app hosting the service is in a foreground state. Note: Beginning with SDK Version Build.VERSION_CODES.S, apps targeting SDK Version Build.VERSION_CODES.S or higher are not allowed to start foreground services from the background. See Behavior changes: Apps targeting Android 12 for more details. Params: service – Identifies the service to be started. The Intent must be fully explicit (supplying a component name). Additional values may be included in the Intent extras to supply arguments along with this specific start call. Returns: If the service is being started or is already running, the ComponentName of the actual service that was started is returned; else if the service does not exist null is returned. Throws: SecurityException – If the caller does not have permission to access the service or the service can not be found. ForegroundServiceStartNotAllowedException – If the caller app's targeting API is Build.VERSION_CODES.S or later, and the foreground service is restricted from start due to background restriction. See Also: stopService, android.app.Service.startForeground(int, android.app.Notification)" />
       <item value="Sets a one-time callback that will be notified when the value of the given characteristic changes. This is a blocking request, so the next request will be executed after the notification was received. If WaitForValueChangedRequest.merge(DataMerger) was used, the whole message will be completed before the callback is notified." />
       <item value="Sets a one-time callback that will be notified when the value of the given descriptor changes. This is a blocking request, so the next request will be executed after the write command or write request was received." />
       <item value="The condition to examine. If it's not satisfied, the manager will wait." />
@@ -144,14 +147,11 @@
       <item value="Token is absence" />
       <item value="A relative or absolute path, or full URL of the endpoint. This value is optional if the first parameter of the method is annotated with @Url. See base URL for details of how this is resolved against a base URL to create the full endpoint URL." />
       <item value="Returns the URL that would be retrieved by following link from this URL, or null if the resulting URL is not well-formed." />
-      <item value="The specified endpoint values (such as with @GET) are resolved against this value using HttpUrl.resolve(String). The behavior of this matches that of an &lt;a href=&quot;&quot;&gt; link on a website resolving on the current URL." />
-      <item value="See base URL for details of how the value will be resolved against a base URL to create the full endpoint URL." />
-      <item value="A @Url parameter must not come after a @QueryMap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1005" />
-        <entry key="ENGLISH" value="1006" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
