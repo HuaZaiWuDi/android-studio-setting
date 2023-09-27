@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="SecurityException – If the caller does not have permission to access the service or the service can not be found. ForegroundServiceStartNotAllowedException – If the caller app's targeting API is Build.VERSION_CODES.S or later, and the foreground service is restricted from start due to background restriction." />
+      <item value="Similar to startService(Intent), but with an implicit promise that the Service will call startForeground(int, android.app.Notification) once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically crash the process, in which case an internal exception ForegroundServiceDidNotStartInTimeException is logged on logcat on devices running SDK Version Build.VERSION_CODES.S or later. On older Android versions, an internal exception RemoteServiceException is logged instead, with a corresponding message. Unlike the ordinary startService(Intent), this method can be used at any time, regardless of whether the app hosting the service is in a foreground state. Note: Beginning with SDK Version Build.VERSION_CODES.S, apps targeting SDK Version Build.VERSION_CODES.S or higher are not allowed to start foreground services from the background. See Behavior changes: Apps targeting Android 12 for more details. Params: service – Identifies the service to be started. The Intent must be fully explicit (supplying a component name). Additional values may be included in the Intent extras to supply arguments along with this specific start call. Returns: If the service is being started or is already running, the ComponentName of the actual service that was started is returned; else if the service does not exist null is returned. Throws: SecurityException – If the caller does not have permission to access the service or the service can not be found. ForegroundServiceStartNotAllowedException – If the caller app's targeting API is Build.VERSION_CODES.S or later, and the foreground service is restricted from start due to background restriction." />
       <item value="TransferService is limited to the following functionality: Registers a listener with Android OS for network connectivity changes. When network goes offline, the active transfers are paused. When network come back online, the paused transfers are resumed. This works both in foreground as well as background." />
       <item value="if param foregroundServiceType is not subset of manifest attribute android.R.attr.foregroundServiceType." />
       <item value="Similar to startService(Intent), but with an implicit promise that the Service will call startForeground(int, android.app.Notification) once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically crash the process, in which case an internal exception" />
@@ -145,13 +147,11 @@
       <item value="lumi 1.54 EF 44100035891 F" />
       <item value="has not been attached yet." />
       <item value="Variable expected" />
-      <item value="Token is absence" />
-      <item value="A relative or absolute path, or full URL of the endpoint. This value is optional if the first parameter of the method is annotated with @Url. See base URL for details of how this is resolved against a base URL to create the full endpoint URL." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1009" />
-        <entry key="ENGLISH" value="1010" />
+        <entry key="CHINESE" value="1011" />
+        <entry key="ENGLISH" value="1012" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
