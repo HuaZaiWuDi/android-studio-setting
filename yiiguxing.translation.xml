@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Exception In Initializer Error" />
       <item value="None of the following functions can be called with the arguments supplied:" />
       <item value="auto Size Preset Sizes" />
       <item value="SecurityException – If the caller does not have permission to access the service or the service can not be found. ForegroundServiceStartNotAllowedException – If the caller app's targeting API is Build.VERSION_CODES.S or later, and the foreground service is restricted from start due to background restriction." />
@@ -146,12 +147,11 @@
       <item value="Calls the cancel Action if the downstream cancels the sequence. The action is shared between subscriptions and thus may be called concurrently from multiple threads; the action must be thread-safe. If the action throws a runtime exception, that exception is rethrown by the onCancel() call, sometimes as a CompositeException if there were multiple exceptions along the way. Note that terminal events trigger the action unless the Publisher is subscribed to via unsafeSubscribe()." />
       <item value="If an object of this type is attached to the text of a TextView with a movement method of LinkMovementMethod, the affected spans of text can be selected. If selected and clicked, the onClick method will be called. The text with a ClickableSpan attached will be underlined and the link color will be used as a text color. The default link color is the theme's accent color or android:textColorLink if this attribute is defined in the theme. For example, considering that we have a CustomClickableSpan that extends ClickableSpan, it can be used like this:" />
       <item value="use Real Size" />
-      <item value="lumi 1.54 EF 44100035891 F" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1013" />
-        <entry key="ENGLISH" value="1014" />
+        <entry key="CHINESE" value="1015" />
+        <entry key="ENGLISH" value="1016" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
