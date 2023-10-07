@@ -86,7 +86,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695627934099" />
+    <option name="lastTrimTime" value="1696660683688" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="848" />
     <option name="newTranslationDialogY" value="216" />
     <histories>
+      <item value="Validate if the given service can start a foreground service with given type. Returns: A pair, where the first parameter is the result code and second is the exception object if it fails to start a foreground service with given type." />
+      <item value="Validate if the given service can start a foreground service with given type." />
       <item value="Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
       <item value="Exception In Initializer Error" />
       <item value="None of the following functions can be called with the arguments supplied:" />
@@ -145,13 +147,11 @@
       <item value="Español" />
       <item value="Present the text in ALL CAPS. This may use a small-caps form when available." />
       <item value="Overload for resolving lifecycle providers allows configuration of checking &quot;end&quot; boundaries of lifecycles. That is, they will ensure that the lifecycle has both started and not ended, and otherwise will throw one of LifecycleNotStartedException (if peekLifecycle returns null) or LifecycleEndedException if the lifecycle is ended. To configure the runtime behavior of these exceptions, see AutoDisposePlugins. Note: This resolves the scope immediately, so consider deferring execution as needed, such as using defer." />
-      <item value="Calls the cancel Action if the downstream cancels the sequence. The action is shared between subscriptions and thus may be called concurrently from multiple threads; the action must be thread-safe. If the action throws a runtime exception, that exception is rethrown by the onCancel() call, sometimes as a CompositeException if there were multiple exceptions along the way. Note that terminal events trigger the action unless the Publisher is subscribed to via unsafeSubscribe()." />
-      <item value="If an object of this type is attached to the text of a TextView with a movement method of LinkMovementMethod, the affected spans of text can be selected. If selected and clicked, the onClick method will be called. The text with a ClickableSpan attached will be underlined and the link color will be used as a text color. The default link color is the theme's accent color or android:textColorLink if this attribute is defined in the theme. For example, considering that we have a CustomClickableSpan that extends ClickableSpan, it can be used like this:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1015" />
-        <entry key="ENGLISH" value="1016" />
+        <entry key="CHINESE" value="1016" />
+        <entry key="ENGLISH" value="1017" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
       </map>
