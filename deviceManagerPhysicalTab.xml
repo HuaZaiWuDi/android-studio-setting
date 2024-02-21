@@ -15,13 +15,13 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-a909734e-YvJe7F._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="R3CR70MV92D" />
           </Key>
         </key>
-        <name value="Xiaomi MI 9" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="samsung SM-F926N" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -38,12 +38,34 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="66J0219401000468" />
+          </Key>
+        </key>
+        <name value="HUAWEI HMA-AL00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-a909734e-YvJe7F._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 9" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="26211JEGR19737" />
           </Key>
         </key>
         <name value="Google Pixel 6a" />
-        <target value="Android API 33" />
-        <api value="androidversion:33:null:null:true" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -165,17 +187,6 @@
         <name value="OnePlus KB2000" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="66J0219401000468" />
-          </Key>
-        </key>
-        <name value="HUAWEI HMA-AL00" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>

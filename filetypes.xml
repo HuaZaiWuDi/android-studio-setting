@@ -9,6 +9,7 @@
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping pattern="test.py" type="PLAIN_TEXT" />
       <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
+      <mapping ext="apk" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="ecg" type="PLAIN_TEXT" />
       <mapping ext="spl" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping pattern="progress_bg_blue" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="APK" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
