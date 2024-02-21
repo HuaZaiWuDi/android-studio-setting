@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:com.lumiunited.aqarahome " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lumiunited.aqarahome.aqara " />
         <option value="package:com.lumiunited.aqarahome " />
         <option value="package:com.lumiunited.aqarahome level:error " />
         <option value="package:com.lumiunited.aqarahome" />
@@ -20,7 +21,6 @@
         <option value="package:com.aqara.cipher " />
         <option value="package:com.a" />
         <option value="package:com.lumiunited.aqarahome onjs" />
-        <option value="package:com.lumiunited.aqarahome.aqara " />
         <option value="package:com.lumi.module.homeconfiguration ResourceName" />
         <option value="package:com.google.homesampleapp.targetcommissioner " />
       </list>
