@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="a909734e" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 9" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R3CR70MV92D" />
           </Key>
         </key>
@@ -37,17 +48,6 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="a909734e" />
-          </Key>
-        </key>
-        <name value="Xiaomi MI 9" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-a909734e-YvJe7F._adb-tls-connect._tcp." />
           </Key>
@@ -64,8 +64,8 @@
           </Key>
         </key>
         <name value="Google Pixel 6a" />
-        <target value="Android API 33" />
-        <api value="androidversion:33:null:null:true" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
